@@ -229,6 +229,7 @@ pre {
 .site-brand {
   display: inline-flex;
   min-width: 0;
+  min-height: 44px;
   align-items: center;
   gap: 12px;
   color: var(--hanji-050);
@@ -429,7 +430,7 @@ pre {
 .nav-home,
 .nav-link {
   display: flex;
-  min-height: 42px;
+  min-height: 44px;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
@@ -527,12 +528,18 @@ pre {
   ol {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     gap: 6px;
     padding: 0;
     margin: 0;
     color: var(--mist-400);
     font-size: 12px;
     list-style: none;
+  }
+
+  li {
+    display: inline-flex;
+    align-items: center;
   }
 
   li:not(:last-child)::after {
@@ -542,6 +549,10 @@ pre {
   }
 
   a {
+    display: inline-flex;
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
     color: var(--celadon-300);
   }
 }
@@ -1367,6 +1378,10 @@ pre {
   }
 
   a {
+    display: inline-flex;
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
     color: var(--celadon-300);
   }
 }
@@ -2222,6 +2237,10 @@ pre {
   display: inline-flex;
   align-items: center;
   min-height: 44px;
+}
+
+.leaf-sources a {
+  min-width: 44px;
 }
 
 .leaf-sources em {

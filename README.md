@@ -12,7 +12,7 @@
 index.md                         위키 홈
 docs/                            장비·도감·음식·지도·확률 안내
 docs/data/tables/                자동 생성 원본 테이블 탐색 페이지
-docs/무공/ docs/아이템/ docs/몬스터/   자동 생성 개체 낱장 페이지
+docs/무공/ docs/아이템/ docs/몬스터/ docs/지역/   자동 생성 개체 낱장 페이지
 assets/data/raw/                 FlatBuffer를 변환한 원본 JSON
 assets/data/derived/             확률·도감·강화 파생 JSON
 assets/images/game/              공식 배포본에서 추출한 무공·아이템 아이콘
@@ -42,7 +42,7 @@ node tools/verify-media.mjs
 ```
 
 데이터를 다시 추출하면 개체 낱장도 다시 만들어야 합니다. 낱장 생성기는 파생 데이터에서
-무공·아이템·몬스터 페이지와 검색 색인(`assets/entity-index.json`)을 새로 씁니다.
+무공·아이템·몬스터·지역 페이지와 검색 색인(`assets/entity-index.json`)을 새로 씁니다.
 
 데이터를 갱신한 뒤에는 아이콘도 다시 추출해야 합니다. 이미지 추출기는 원본 데이터와
 현재 배포본의 앱 버전·패치가 일치할 때만 결과를 게시합니다.

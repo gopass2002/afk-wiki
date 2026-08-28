@@ -3,6 +3,7 @@
     - { name: 무공, url: /docs/무공/, status: open }
     - { name: 아이템, url: /docs/아이템/, status: open }
     - { name: 몬스터, url: /docs/몬스터/, status: open }
+    - { name: 지역, url: /docs/지역/, status: open }
 - title: 장비
   items:
     - { name: 장비 도감, url: /docs/equipment/, status: open }

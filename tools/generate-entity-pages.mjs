@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // 개체별 낱장 페이지 생성기.
-// 파생 데이터에서 무공·아이템·몬스터 한 개체마다 한 장을 만든다.
+// 파생 데이터에서 무공·아이템·몬스터·지역 한 개체마다 한 장을 만든다.
 // 내부 식별자(고유번호, 스키마명, seedGroup, 내부 키)는 페이지에 내보내지 않는다.
 
 import { mkdir, rm, writeFile } from "node:fs/promises";
@@ -17,6 +17,7 @@ const SECTIONS = {
   skill: { dir: "무공", title: "무공", eyebrow: "무공 낱장" },
   item: { dir: "아이템", title: "아이템", eyebrow: "아이템 낱장" },
   monster: { dir: "몬스터", title: "몬스터", eyebrow: "몬스터 낱장" },
+  zone: { dir: "지역", title: "지역", eyebrow: "지역 낱장" },
 };
 
 const GRADE_KEYS = ["Normal", "Rare", "Epic", "Unique", "Legendary"];
@@ -62,6 +63,21 @@ const slugify = (value) => String(value)
   .replace(/^-|-$/g, "");
 
 const number = (value) => Number(value).toLocaleString("ko-KR");
+
+const levelBand = (level) => Math.floor(Math.max(0, level - 1) / 10) * 10;
+const bandLabel = (level) => `${levelBand(level) + 1}~${levelBand(level) + 10}레벨`;
+const levelRangeLabel = (minimum, maximum) => {
+  if (minimum === null || minimum === undefined || maximum === null || maximum === undefined) return "몬스터 미기록";
+  return minimum === maximum ? `${number(minimum)}레벨` : `${number(minimum)}~${number(maximum)}레벨`;
+};
+const respawnLabel = (minimum, maximum) => {
+  if (!(maximum > 0)) return "";
+  const seconds = (value) => Number((value / 1000).toFixed(1)).toLocaleString("ko-KR");
+  return minimum === maximum
+    ? `${seconds(maximum)}초 뒤 다시 나타남`
+    : `${seconds(minimum)}~${seconds(maximum)}초 뒤 다시 나타남`;
+};
+const isCutsceneZone = (zone) => zone.name.startsWith("연출_") || zone.name === "마지막 연출";
 
 // 배포본이 쓰는 표시 나눗값을 그대로 적용한다.
 const makeValueFormatter = (attributeList) => {
@@ -206,13 +222,14 @@ function pageFile({ kind, slug, title, description, body, extra = {} }) {
 async function main() {
   const { root } = parseArgs(process.argv.slice(2));
   const [
-    manifest, skills, items, monsters, dropSeeds, dropWeights, acquisitions,
+    manifest, skills, items, monsters, zones, dropSeeds, dropWeights, acquisitions,
     collections, cookingLevels, skillEnhancements, attributeList, itemStrings, shopProducts, itemUses, skillStrings,
   ] = await Promise.all([
     readJson(path.join(root, "assets", "data", "manifest.json")),
     derived(root, "skill-codex"),
     derived(root, "item-codex"),
     derived(root, "monster-codex"),
+    derived(root, "zone-atlas"),
     derived(root, "monster-drop-seeds"),
     derived(root, "item-drop-weights"),
     derived(root, "item-acquisition-probabilities"),
@@ -256,7 +273,7 @@ async function main() {
     strings.get(`ItemSubType_${value}`) ?? SUB_TYPE_FALLBACK[value] ?? "";
 
   const outputRoot = path.join(root, "docs");
-  const registry = { skill: [], item: [], monster: [] };
+  const registry = { skill: [], item: [], monster: [], zone: [] };
 
   /* ── 무공 ──────────────────────────────────────────────── */
   const factionStrings = new Map(skillStrings.map((entry) => [entry.key, entry.value]));
@@ -392,12 +409,16 @@ async function main() {
   for (const page of itemPages) for (const item of page.group) itemSlugById.set(item.id, page.slug);
 
   const dropWeightsByItem = new Map();
+  const dropWeightsBySeed = new Map();
   for (const row of dropWeights) {
     dropWeightsByItem.set(row.itemId, [...(dropWeightsByItem.get(row.itemId) ?? []), row]);
+    dropWeightsBySeed.set(row.seedGroup, [...(dropWeightsBySeed.get(row.seedGroup) ?? []), row]);
   }
   const monstersBySeed = new Map();
+  const dropSeedsByMonster = new Map();
   for (const row of dropSeeds) {
     monstersBySeed.set(row.seedGroup, [...(monstersBySeed.get(row.seedGroup) ?? []), row]);
+    dropSeedsByMonster.set(row.monsterId, [...(dropSeedsByMonster.get(row.monsterId) ?? []), row]);
   }
   const acquisitionsByItem = new Map();
   for (const row of acquisitions) {
@@ -422,6 +443,35 @@ async function main() {
     shopByItem.set(product.itemId, [...(shopByItem.get(product.itemId) ?? []), product]);
   }
   const useByItem = new Map(itemUses.map((entry) => [entry.itemId, entry]));
+
+  // 몬스터나 NPC가 기록된 곳만 낱장으로 내고, 연출용 지역은 일반 사냥터와 구분한다.
+  const pageZones = zones.filter((zone) => zone.monsterCount > 0 || zone.npcCount > 0);
+  const zoneNameCounts = new Map();
+  for (const zone of pageZones) zoneNameCounts.set(zone.name, (zoneNameCounts.get(zone.name) ?? 0) + 1);
+
+  const usedZoneSlugs = new Map();
+  const zonePages = pageZones.map((zone) => {
+    const duplicated = (zoneNameCounts.get(zone.name) ?? 0) > 1;
+    const levelSuffix = zone.monsterLevelMin === zone.monsterLevelMax
+      ? `${zone.monsterLevelMin}레벨`
+      : `${zone.monsterLevelMin}-${zone.monsterLevelMax}레벨`;
+    const disambiguator = duplicated && zone.monsterLevelMin !== null
+      ? ` ${levelSuffix}`
+      : duplicated && zone.regionName
+        ? ` ${zone.regionName}`
+        : "";
+    const base = slugify(`${zone.name}${disambiguator}`);
+    const count = (usedZoneSlugs.get(base) ?? 0) + 1;
+    usedZoneSlugs.set(base, count);
+    return { zone, slug: count === 1 ? base : `${base}-${count}` };
+  });
+  const zoneSlugById = new Map(zonePages.map(({ zone, slug }) => [zone.id, slug]));
+  const zonePagesByMonster = new Map();
+  for (const page of zonePages) {
+    for (const monster of page.zone.monsters) {
+      zonePagesByMonster.set(monster.id, [...(zonePagesByMonster.get(monster.id) ?? []), page]);
+    }
+  }
 
   // 능력치 막대는 같은 부위 안에서 견준다.
   const attributeCohort = new Map();
@@ -473,8 +523,8 @@ async function main() {
     }
     const dropByMonster = new Map();
     for (const drop of drops) {
-      const current = dropByMonster.get(drop.monster.monsterName);
-      if (!current || (drop.share ?? 0) > (current.share ?? 0)) dropByMonster.set(drop.monster.monsterName, drop);
+      const current = dropByMonster.get(drop.monster.monsterId);
+      if (!current || (drop.share ?? 0) > (current.share ?? 0)) dropByMonster.set(drop.monster.monsterId, drop);
     }
     const dropEntries = [...dropByMonster.values()]
       .sort((left, right) => (right.share ?? 0) - (left.share ?? 0) || left.monster.monsterLevel - right.monster.monsterLevel)
@@ -483,6 +533,26 @@ async function main() {
         url: `/docs/몬스터/${monsterSlug(drop.monster.monsterName, drop.monster.monsterLevel)}/`,
         title: `${drop.monster.monsterName} · ${drop.monster.monsterLevel}레벨`,
         detail: `${drop.monster.zoneName || "출현 지역 미기록"} · 후보 안에서 ${percentText(drop.share)}`,
+      }));
+
+    const zonePagesForItem = new Map();
+    for (const drop of drops) {
+      for (const page of zonePagesByMonster.get(drop.monster.monsterId) ?? []) {
+        zonePagesForItem.set(page.slug, page);
+      }
+    }
+    const zoneEntries = [...zonePagesForItem.values()]
+      .sort((left, right) => (left.zone.monsterLevelMin ?? Number.MAX_SAFE_INTEGER) - (right.zone.monsterLevelMin ?? Number.MAX_SAFE_INTEGER)
+        || left.zone.name.localeCompare(right.zone.name, "ko")
+        || left.slug.localeCompare(right.slug, "ko"))
+      .map(({ zone, slug: zoneSlug }) => ({
+        url: `/docs/지역/${zoneSlug}/`,
+        title: zone.name,
+        detail: [
+          levelRangeLabel(zone.monsterLevelMin, zone.monsterLevelMax),
+          zone.regionName || "권역 미기록",
+          "이 지역 몬스터의 드롭 후보",
+        ].join(" · "),
       }));
 
     const rewardEntries = ids.flatMap((id) => acquisitionsByItem.get(id) ?? [])
@@ -504,7 +574,7 @@ async function main() {
       detail: `${itemById.get(product.costItemId)?.name ?? "재화"} ${number(product.costAmount)}에 ${number(product.amount)}개`,
     }));
 
-    const sources = [...dropEntries, ...rewardEntries, ...cookEntries, ...shopEntries];
+    const sources = [...zoneEntries, ...dropEntries, ...rewardEntries, ...cookEntries, ...shopEntries];
     const sourceBody = sources.length > 0
       ? sourceList(sources)
       : emptyState("이 배포본에는 이 아이템의 획득 경로가 기록돼 있지 않습니다.");
@@ -563,6 +633,109 @@ async function main() {
     }));
   }
 
+  /* ── 지역 ──────────────────────────────────────────────── */
+  for (const { zone, slug } of zonePages) {
+    const levelText = levelRangeLabel(zone.monsterLevelMin, zone.monsterLevelMax);
+    const regionText = zone.regionName || "권역 미기록";
+    const monsterEntries = [...zone.monsters]
+      .sort((left, right) => left.level - right.level || left.name.localeCompare(right.name, "ko"))
+      .map((monster) => ({
+        url: `/docs/몬스터/${monsterSlug(monster.name, monster.level)}/`,
+        title: monster.name,
+        detail: [
+          `${number(monster.level)}레벨`,
+          monster.boss ? "우두머리" : null,
+          `동시에 ${number(monster.count)}마리`,
+          respawnLabel(monster.respawnMin, monster.respawnMax),
+        ].filter(Boolean).join(" · "),
+      }));
+
+    const npcEntries = [...zone.npcs]
+      .sort((left, right) => left.name.localeCompare(right.name, "ko"))
+      .map((npc) => ({
+        title: npc.name,
+        detail: npc.shopId > 0 ? "상점 이용 가능" : "등장 인물",
+      }));
+
+    // 한 지역에 등장하는 모든 몬스터의 드롭 후보를 합치되, 서로 다른 확률을 곱하거나 합치지 않는다.
+    const itemPagesInZone = new Map();
+    for (const monster of zone.monsters) {
+      for (const seed of dropSeedsByMonster.get(monster.id) ?? []) {
+        for (const weight of dropWeightsBySeed.get(seed.seedGroup) ?? []) {
+          const item = itemById.get(weight.itemId);
+          const itemSlug = itemSlugById.get(weight.itemId);
+          if (!item || !itemSlug || itemPagesInZone.has(itemSlug)) continue;
+          itemPagesInZone.set(itemSlug, { item, slug: itemSlug });
+        }
+      }
+    }
+    const zoneItems = [...itemPagesInZone.values()]
+      .sort((left, right) => {
+        const leftGrade = GRADE_KEYS.indexOf(left.item.grade);
+        const rightGrade = GRADE_KEYS.indexOf(right.item.grade);
+        return leftGrade - rightGrade || left.item.name.localeCompare(right.item.name, "ko");
+      })
+      .map(({ item, slug: itemSlug }) => ({
+        url: `/docs/아이템/${itemSlug}/`,
+        image: item.image || "",
+        name: item.name,
+        meta: [gradeLabel(item.grade), subTypeLabel(item.subType)].filter(Boolean).join(" · "),
+        gradeKey: gradeKey(item.grade),
+        sealCharacter: gradeLabel(item.grade) || "품",
+      }));
+
+    const eyebrow = [
+      zone.regionAct,
+      regionText,
+      zone.monsterCount > 0 ? "몬스터 출현" : isCutsceneZone(zone) ? "연출용 지역" : "NPC만 기록",
+    ].filter(Boolean);
+    const badges = [
+      levelText,
+      `몬스터 ${number(zone.monsterCount)}종`,
+      zone.bossCount > 0 ? `우두머리 ${number(zone.bossCount)}종` : null,
+      zone.npcCount > 0 ? `NPC ${number(zone.npcCount)}명` : null,
+      isCutsceneZone(zone) ? "플레이어 이동 지역 아님" : null,
+    ].filter(Boolean);
+    const body = [
+      leafHeader({
+        sealCharacter: zone.monsterLevelMin === null ? "인" : String(zone.monsterLevelMin),
+        gradeKey: zone.bossCount > 0 ? "unique" : "none",
+        eyebrow: eyebrow.length > 0 ? eyebrow : ["지역"],
+        name: zone.name,
+        image: "",
+        alt: "",
+        description: "",
+        badges,
+      }),
+      statStrip([
+        { label: "레벨대", value: levelText },
+        { label: "몬스터", value: number(zone.monsterCount), unit: "종" },
+        { label: "우두머리", value: number(zone.bossCount), unit: "종" },
+        { label: "등장 인물", value: number(zone.npcCount), unit: "명" },
+      ]),
+      section("등장 몬스터", monsterEntries.length > 0
+        ? sourceList(monsterEntries)
+        : emptyState("이 배포본에는 이 지역에 등장하는 몬스터가 기록돼 있지 않습니다.")),
+      section("만날 수 있는 인물", npcEntries.length > 0
+        ? sourceList(npcEntries)
+        : emptyState("이 배포본에는 이 지역에서 만날 수 있는 인물이 기록돼 있지 않습니다.")),
+      section("이 지역에서 나오는 아이템", zoneItems.length > 0
+        ? linkCards(zoneItems)
+        : emptyState("이 지역에는 몬스터가 기록돼 있지 않아 아이템 후보를 묶지 않았습니다."),
+      zoneItems.length > 0 ? "등장 몬스터별 드롭 후보를 합친 목록입니다. 처치 한 번의 드롭 확률을 뜻하지 않습니다." : ""),
+    ].join("\n");
+
+    registry.zone.push({ slug, zone });
+    await queueWrite(outputRoot, "지역", slug, pageFile({
+      kind: "zone",
+      slug,
+      title: zone.name,
+      description: [regionText, levelText, "등장 몬스터와 인물, 아이템 후보"].join(" · "),
+      // 지역 낱장은 이미지·설명이 비는 경우가 많아 템플릿 자리의 들여쓰기만 남지 않게 한다.
+      body: body.replace(/[ \t]+$/gm, ""),
+    }));
+  }
+
   /* ── 몬스터 ────────────────────────────────────────────── */
   function monsterSlug(name, level) {
     const base = slugify(name);
@@ -571,8 +744,6 @@ async function main() {
   }
 
   // 1레벨과 100레벨을 같은 자로 재면 막대가 전부 바닥에 눕는다. 또래끼리 견준다.
-  const levelBand = (level) => Math.floor(Math.max(0, level - 1) / 10) * 10;
-  const bandLabel = (level) => `${levelBand(level) + 1}~${levelBand(level) + 10}레벨`;
   const monsterCohorts = new Map();
   for (const monster of monsters) {
     for (const attribute of monster.attributes) {
@@ -586,7 +757,7 @@ async function main() {
   const monstersByZone = new Map();
   for (const monster of monsters) {
     for (const zone of monster.zones) {
-      monstersByZone.set(zone.zoneName, [...(monstersByZone.get(zone.zoneName) ?? []), monster]);
+      monstersByZone.set(zone.zoneId, [...(monstersByZone.get(zone.zoneId) ?? []), monster]);
     }
   }
 
@@ -614,6 +785,7 @@ async function main() {
 
     const zones = monster.zones.length > 0
       ? sourceList(monster.zones.map((entry) => ({
+        url: zoneSlugById.has(entry.zoneId) ? `/docs/지역/${zoneSlugById.get(entry.zoneId)}/` : "",
         title: entry.zoneName,
         detail: [
           entry.regionName,
@@ -623,10 +795,10 @@ async function main() {
       })))
       : emptyState("이 배포본에는 출현 지역이 기록돼 있지 않습니다.");
 
-    const dropRows = dropSeeds.filter((row) => row.monsterId === monster.id);
+    const dropRows = dropSeedsByMonster.get(monster.id) ?? [];
     const dropItems = new Map();
     for (const row of dropRows) {
-      for (const weight of dropWeights.filter((entry) => entry.seedGroup === row.seedGroup)) {
+      for (const weight of dropWeightsBySeed.get(row.seedGroup) ?? []) {
         const current = dropItems.get(weight.itemId);
         if (!current || (weight.normalizedWeightSharePercent ?? 0) > (current.share ?? 0)) {
           dropItems.set(weight.itemId, { weight, share: weight.normalizedWeightSharePercent });
@@ -645,7 +817,7 @@ async function main() {
       }))
       .filter((entry) => entry.url !== "/docs/아이템//");
 
-    const neighbours = (monstersByZone.get(zone?.zoneName ?? "") ?? [])
+    const neighbours = (monstersByZone.get(zone?.zoneId) ?? [])
       .filter((entry) => entry.id !== monster.id)
       .slice(0, 8)
       .map((entry) => ({
@@ -686,8 +858,8 @@ async function main() {
 
   await flushWrites();
   await writeSearchIndex({ root, registry, gradeLabel, subTypeLabel, factionLabel, mainTypeLabel });
-  await writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabel, subTypeLabel, factionLabel, manifest });
-  console.log(`개체 낱장 생성: 무공 ${registry.skill.length}장, 아이템 ${registry.item.length}장, 몬스터 ${registry.monster.length}장`);
+  await writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabel, subTypeLabel, factionLabel, zoneTotal: zones.length });
+  console.log(`개체 낱장 생성: 무공 ${registry.skill.length}장, 아이템 ${registry.item.length}장, 몬스터 ${registry.monster.length}장, 지역 ${registry.zone.length}장`);
 }
 
 
@@ -728,7 +900,7 @@ ${groups.map((group) => `<section class="leaf-index__group">
   return `${front}${body.trim()}\n`;
 }
 
-async function writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabel, subTypeLabel, factionLabel }) {
+async function writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabel, subTypeLabel, factionLabel, zoneTotal }) {
   const docs = path.join(root, "docs");
 
   // 무공 — 문파로 묶는다. 문파는 플레이어가 무공을 찾는 첫 기준이다.
@@ -835,9 +1007,65 @@ async function writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabe
     count: registry.monster.length,
     unit: "종",
   }));
+
+  // 지역 — 사냥터를 고르기 쉽도록 가장 낮은 몬스터 레벨의 10레벨 구간으로 묶는다.
+  const byLevelBand = new Map();
+  for (const entry of registry.zone) {
+    const key = isCutsceneZone(entry.zone)
+      ? "cutscene"
+      : entry.zone.monsterLevelMin === null
+        ? "npc"
+        : String(levelBand(entry.zone.monsterLevelMin));
+    byLevelBand.set(key, [...(byLevelBand.get(key) ?? []), entry]);
+  }
+  const zoneGroups = [...byLevelBand.entries()]
+    .sort((left, right) => {
+      const trailingOrder = { npc: 1, cutscene: 2 };
+      if (left[0] in trailingOrder || right[0] in trailingOrder) {
+        return (trailingOrder[left[0]] ?? 0) - (trailingOrder[right[0]] ?? 0);
+      }
+      return Number(left[0]) - Number(right[0]);
+    })
+    .map(([band, entries]) => ({
+      title: band === "npc"
+        ? "NPC만 기록된 지역"
+        : band === "cutscene"
+          ? "연출용 지역"
+          : `${Number(band) + 1}~${Number(band) + 10}레벨 사냥터`,
+      meta: `${entries.length}곳`,
+      cards: entries
+        .sort((left, right) => (left.zone.monsterLevelMin ?? Number.MAX_SAFE_INTEGER) - (right.zone.monsterLevelMin ?? Number.MAX_SAFE_INTEGER)
+          || (left.zone.monsterLevelMax ?? Number.MAX_SAFE_INTEGER) - (right.zone.monsterLevelMax ?? Number.MAX_SAFE_INTEGER)
+          || left.zone.name.localeCompare(right.zone.name, "ko"))
+        .map((entry) => indexCard({
+          url: `/docs/지역/${entry.slug}/`,
+          image: "",
+          sealCharacter: entry.zone.monsterLevelMin === null ? "인" : String(entry.zone.monsterLevelMin),
+          gradeKey: entry.zone.bossCount > 0 ? "unique" : "none",
+          name: entry.zone.name,
+          meta: [
+            levelRangeLabel(entry.zone.monsterLevelMin, entry.zone.monsterLevelMax),
+            `몬스터 ${entry.zone.monsterCount}종`,
+            `우두머리 ${entry.zone.bossCount}종`,
+            entry.zone.regionName || "권역 미기록",
+            isCutsceneZone(entry.zone) ? "플레이어 이동 지역 아님" : null,
+          ].filter(Boolean).join(" · "),
+        })),
+    }));
+  const huntingZoneCount = registry.zone.filter((entry) => entry.zone.monsterCount > 0).length;
+  const cutsceneZoneCount = registry.zone.filter((entry) => isCutsceneZone(entry.zone)).length;
+  const npcOnlyZoneCount = registry.zone.length - huntingZoneCount - cutsceneZoneCount;
+  await writeFile(path.join(docs, "지역", "index.md"), indexPage({
+    title: "지역",
+    permalink: "/docs/지역/",
+    lede: `몬스터가 기록된 ${huntingZoneCount}곳은 레벨 구간별로, NPC만 기록된 ${npcOnlyZoneCount}곳과 연출용 ${cutsceneZoneCount}곳은 별도로 묶었습니다. 몬스터와 NPC가 모두 기록되지 않은 ${zoneTotal - registry.zone.length}곳은 목록에서 제외했습니다.`,
+    groups: zoneGroups,
+    count: registry.zone.length,
+    unit: "곳",
+  }));
 }
 
-// 낱장은 이름으로 찾을 수 있어야 한다. 741장을 모든 페이지에 심으면 무거우니
+// 낱장은 이름으로 찾을 수 있어야 한다. 모든 페이지에 심으면 무거우니
 // 검색창을 열 때 한 번 내려받도록 별도 색인으로 낸다.
 async function writeSearchIndex({ root, registry, gradeLabel, subTypeLabel, factionLabel, mainTypeLabel }) {
   const entries = [
@@ -858,6 +1086,18 @@ async function writeSearchIndex({ root, registry, gradeLabel, subTypeLabel, fact
       url: `/docs/몬스터/${slug}/`,
       kind: "몬스터",
       meta: [`${monster.level}레벨`, monster.boss ? "우두머리" : null, monster.zones[0]?.zoneName].filter(Boolean).join(" · "),
+    })),
+    ...registry.zone.map(({ slug, zone }) => ({
+      name: zone.name,
+      url: `/docs/지역/${slug}/`,
+      kind: "지역",
+      meta: [
+        levelRangeLabel(zone.monsterLevelMin, zone.monsterLevelMax),
+        zone.regionName || "권역 미기록",
+        `몬스터 ${zone.monsterCount}종`,
+        zone.npcCount > 0 ? `NPC ${zone.npcCount}명` : null,
+        isCutsceneZone(zone) ? "연출용 지역" : null,
+      ].filter(Boolean).join(" · "),
     })),
   ].sort((left, right) => left.kind.localeCompare(right.kind, "ko") || left.name.localeCompare(right.name, "ko"));
 

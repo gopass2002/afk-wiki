@@ -13,6 +13,7 @@ repository: gopass2002/afk-wiki
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 markdown: kramdown
 kramdown:
