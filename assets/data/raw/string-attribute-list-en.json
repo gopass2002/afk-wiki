@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 24,
+    "schema": "FBDataStringAttributeList",
+    "sourceAsset": "FBDataStringAttributeList_en",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "Attribute_STR",
+      "value": "Strength"
+    },
+    {
+      "id": 2,
+      "key": "Attribute_VIT",
+      "value": "Vitality"
+    },
+    {
+      "id": 3,
+      "key": "Attribute_AGI",
+      "value": "Agility"
+    },
+    {
+      "id": 4,
+      "key": "Attribute_SPI",
+      "value": "Inner Power"
+    },
+    {
+      "id": 101,
+      "key": "Attribute_ATK",
+      "value": "Attack Power"
+    },
+    {
+      "id": 102,
+      "key": "Attribute_DEF",
+      "value": "Defense"
+    },
+    {
+      "id": 103,
+      "key": "Attribute_CRIT_RATE",
+      "value": "Critical Chance"
+    },
+    {
+      "id": 104,
+      "key": "Attribute_CRIT_DMG",
+      "value": "Critical Damage"
+    },
+    {
+      "id": 105,
+      "key": "Attribute_MAX_HP",
+      "value": "Max Health"
+    },
+    {
+      "id": 106,
+      "key": "Attribute_PEN",
+      "value": "Defense Penetration"
+    },
+    {
+      "id": 107,
+      "key": "Attribute_HP_REGEN",
+      "value": "Health Recovery"
+    },
+    {
+      "id": 108,
+      "key": "Attribute_MAX_SP",
+      "value": "Max Inner Power"
+    },
+    {
+      "id": 109,
+      "key": "Attribute_SP_REGEN",
+      "value": "Inner Power Recovery"
+    },
+    {
+      "id": 110,
+      "key": "Attribute_SKILL_AMP",
+      "value": "Martial Art Power"
+    },
+    {
+      "id": 201,
+      "key": "Attribute_HIT",
+      "value": "Accuarcy"
+    },
+    {
+      "id": 202,
+      "key": "Attribute_EVA",
+      "value": "Evasion"
+    },
+    {
+      "id": 203,
+      "key": "Attribute_ATK_SPD",
+      "value": "Attack Speed Increase"
+    },
+    {
+      "id": 204,
+      "key": "Attribute_FINAL_DMG_BONUS",
+      "value": "Final Damage Increase%"
+    },
+    {
+      "id": 205,
+      "key": "Attribute_BOSS_DMG_BONUS",
+      "value": "Boss Damage Increase%"
+    },
+    {
+      "id": 206,
+      "key": "Attribute_PVP_DMG_BONUS",
+      "value": "PvP Damage Increase%"
+    },
+    {
+      "id": 207,
+      "key": "Attribute_EXP_BONUS",
+      "value": "EXP Gain Increase%"
+    },
+    {
+      "id": 208,
+      "key": "Attribute_GOLD_BONUS",
+      "value": "Gold Gain Increase%"
+    },
+    {
+      "id": 209,
+      "key": "Attribute_COOLDOWN_REDUCE",
+      "value": "Martial Art Cooldown Reduction%"
+    },
+    {
+      "id": 210,
+      "key": "Attribute_POTION_BONUS",
+      "value": "Potion Recovery Increase%"
+    }
+  ]
+}

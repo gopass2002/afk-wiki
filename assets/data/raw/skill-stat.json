@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 69,
+    "schema": "FBDataSkillStat",
+    "sourceAsset": "FBDataSkillStat",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "skillId": 11110101,
+      "statKey": "ATK%",
+      "minValue": 25000,
+      "maxValue": 35000
+    },
+    {
+      "id": 2,
+      "skillId": 11130101,
+      "statKey": "ATK%",
+      "minValue": 12500,
+      "maxValue": 22500
+    },
+    {
+      "id": 3,
+      "skillId": 11210101,
+      "statKey": "STR",
+      "minValue": 3,
+      "maxValue": 15
+    },
+    {
+      "id": 4,
+      "skillId": 11210201,
+      "statKey": "VIT",
+      "minValue": 3,
+      "maxValue": 15
+    },
+    {
+      "id": 5,
+      "skillId": 11210301,
+      "statKey": "AGI",
+      "minValue": 3,
+      "maxValue": 15
+    },
+    {
+      "id": 6,
+      "skillId": 11210401,
+      "statKey": "SPI",
+      "minValue": 3,
+      "maxValue": 15
+    },
+    {
+      "id": 7,
+      "skillId": 11220101,
+      "statKey": "ATK",
+      "minValue": 5,
+      "maxValue": 50
+    },
+    {
+      "id": 8,
+      "skillId": 11220201,
+      "statKey": "DEF",
+      "minValue": 5,
+      "maxValue": 50
+    },
+    {
+      "id": 9,
+      "skillId": 11220301,
+      "statKey": "PEN",
+      "minValue": 5,
+      "maxValue": 50
+    },
+    {
+      "id": 10,
+      "skillId": 11220401,
+      "statKey": "MAX_HP",
+      "minValue": 50,
+      "maxValue": 500
+    },
+    {
+      "id": 11,
+      "skillId": 11220501,
+      "statKey": "MAX_SP",
+      "minValue": 50,
+      "maxValue": 500
+    },
+    {
+      "id": 12,
+      "skillId": 11220601,
+      "statKey": "HP_REGEN%",
+      "minValue": 1000,
+      "maxValue": 10000
+    },
+    {
+      "id": 13,
+      "skillId": 11220701,
+      "statKey": "SP_REGEN%",
+      "minValue": 1000,
+      "maxValue": 10000
+    },
+    {
+      "id": 14,
+      "skillId": 11220801,
+      "statKey": "BOSSDMGBONUS%",
+      "minValue": 300,
+      "maxValue": 3000
+    },
+    {
+      "id": 15,
+      "skillId": 11220901,
+      "statKey": "PVPDMGBONUS%",
+      "minValue": 200,
+      "maxValue": 2000
+    },
+    {
+      "id": 16,
+      "skillId": 11230101,
+      "statKey": "HIT",
+      "minValue": 3,
+      "maxValue": 45
+    },
+    {
+      "id": 17,
+      "skillId": 11230201,
+      "statKey": "EVA",
+      "minValue": 3,
+      "maxValue": 45
+    },
+    {
+      "id": 18,
+      "skillId": 11230301,
+      "statKey": "CRIT_RATE%",
+      "minValue": 100,
+      "maxValue": 1500
+    },
+    {
+      "id": 19,
+      "skillId": 11230401,
+      "statKey": "DEF%",
+      "minValue": 200,
+      "maxValue": 3000
+    },
+    {
+      "id": 20,
+      "skillId": 11230501,
+      "statKey": "MAX_HP%",
+      "minValue": 200,
+      "maxValue": 3000
+    },
+    {
+      "id": 21,
+      "skillId": 11240101,
+      "statKey": "ATK%",
+      "minValue": 100,
+      "maxValue": 2000
+    },
+    {
+      "id": 22,
+      "skillId": 11240201,
+      "statKey": "CRIT_DMG%",
+      "minValue": 300,
+      "maxValue": 6000
+    },
+    {
+      "id": 23,
+      "skillId": 11240301,
+      "statKey": "ATK_SPD%",
+      "minValue": 100,
+      "maxValue": 2000
+    },
+    {
+      "id": 24,
+      "skillId": 11240401,
+      "statKey": "COOLDOWN_REDUCE%",
+      "minValue": 100,
+      "maxValue": 2000
+    },
+    {
+      "id": 25,
+      "skillId": 11240501,
+      "statKey": "ATK_SPD%",
+      "minValue": 50,
+      "maxValue": 1000
+    },
+    {
+      "id": 26,
+      "skillId": 11240501,
+      "statKey": "CRIT_DMG%",
+      "minValue": 300,
+      "maxValue": 6000
+    },
+    {
+      "id": 27,
+      "skillId": 11240601,
+      "statKey": "DEF%",
+      "minValue": 100,
+      "maxValue": 2000
+    },
+    {
+      "id": 28,
+      "skillId": 11240601,
+      "statKey": "MAX_HP%",
+      "minValue": 500,
+      "maxValue": 10000
+    },
+    {
+      "id": 29,
+      "skillId": 11250101,
+      "statKey": "SKILL_AMP%",
+      "minValue": 200,
+      "maxValue": 5000
+    },
+    {
+      "id": 30,
+      "skillId": 11250201,
+      "statKey": "FINALDMGBONUS%",
+      "minValue": 200,
+      "maxValue": 5000
+    },
+    {
+      "id": 31,
+      "skillId": 11250301,
+      "statKey": "STR",
+      "minValue": 1,
+      "maxValue": 25
+    },
+    {
+      "id": 32,
+      "skillId": 11250301,
+      "statKey": "VIT",
+      "minValue": 1,
+      "maxValue": 25
+    },
+    {
+      "id": 33,
+      "skillId": 11250301,
+      "statKey": "AGI",
+      "minValue": 1,
+      "maxValue": 25
+    },
+    {
+      "id": 34,
+      "skillId": 11250301,
+      "statKey": "SPI",
+      "minValue": 1,
+      "maxValue": 25
+    },
+    {
+      "id": 35,
+      "skillId": 20210101,
+      "statKey": "SKILL_AMP%",
+      "minValue": 400,
+      "maxValue": 1000
+    },
+    {
+      "id": 36,
+      "skillId": 20220101,
+      "statKey": "ATK%",
+      "minValue": 500,
+      "maxValue": 5000
+    },
+    {
+      "id": 37,
+      "skillId": 20230101,
+      "statKey": "SKILL_AMP%",
+      "minValue": 600,
+      "maxValue": 1500
+    },
+    {
+      "id": 38,
+      "skillId": 20240101,
+      "statKey": "ATK_SPD%",
+      "minValue": 150,
+      "maxValue": 3000
+    },
+    {
+      "id": 39,
+      "skillId": 20250101,
+      "statKey": "SKILL_AMP%",
+      "minValue": 900,
+      "maxValue": 2200
+    },
+    {
+      "id": 40,
+      "skillId": 21110101,
+      "statKey": "ATK%",
+      "minValue": 11900,
+      "maxValue": 16600
+    },
+    {
+      "id": 41,
+      "skillId": 21130101,
+      "statKey": "ATK%",
+      "minValue": 9500,
+      "maxValue": 17100
+    },
+    {
+      "id": 42,
+      "skillId": 30210101,
+      "statKey": "VIT",
+      "minValue": 5,
+      "maxValue": 25
+    },
+    {
+      "id": 43,
+      "skillId": 30220101,
+      "statKey": "MAX_HP",
+      "minValue": 500,
+      "maxValue": 5000
+    },
+    {
+      "id": 44,
+      "skillId": 30230101,
+      "statKey": "DEF%",
+      "minValue": 300,
+      "maxValue": 4500
+    },
+    {
+      "id": 45,
+      "skillId": 30240101,
+      "statKey": "MAX_HP%",
+      "minValue": 300,
+      "maxValue": 6000
+    },
+    {
+      "id": 46,
+      "skillId": 30250101,
+      "statKey": "ATK%",
+      "minValue": 600,
+      "maxValue": 15000
+    },
+    {
+      "id": 47,
+      "skillId": 31110101,
+      "statKey": "ATK%",
+      "minValue": 27500,
+      "maxValue": 38500
+    },
+    {
+      "id": 48,
+      "skillId": 31130101,
+      "statKey": "ATK%",
+      "minValue": 27500,
+      "maxValue": 49500
+    },
+    {
+      "id": 49,
+      "skillId": 40210101,
+      "statKey": "HIT",
+      "minValue": 5,
+      "maxValue": 25
+    },
+    {
+      "id": 50,
+      "skillId": 40220101,
+      "statKey": "ATK%",
+      "minValue": 500,
+      "maxValue": 5000
+    },
+    {
+      "id": 51,
+      "skillId": 40230101,
+      "statKey": "ATK_SPD%",
+      "minValue": 150,
+      "maxValue": 2250
+    },
+    {
+      "id": 52,
+      "skillId": 40240101,
+      "statKey": "ATK%",
+      "minValue": 400,
+      "maxValue": 8000
+    },
+    {
+      "id": 53,
+      "skillId": 40250101,
+      "statKey": "SKILL_AMP%",
+      "minValue": 400,
+      "maxValue": 10000
+    },
+    {
+      "id": 54,
+      "skillId": 41110101,
+      "statKey": "ATK%",
+      "minValue": 21200,
+      "maxValue": 29800
+    },
+    {
+      "id": 55,
+      "skillId": 41130101,
+      "statKey": "ATK%",
+      "minValue": 42500,
+      "maxValue": 76500
+    },
+    {
+      "id": 56,
+      "skillId": 50210101,
+      "statKey": "VIT",
+      "minValue": 5,
+      "maxValue": 25
+    },
+    {
+      "id": 57,
+      "skillId": 50220101,
+      "statKey": "HP_REGEN%",
+      "minValue": 1000,
+      "maxValue": 10000
+    },
+    {
+      "id": 58,
+      "skillId": 50230101,
+      "statKey": "COOLDOWN_REDUCE%",
+      "minValue": 150,
+      "maxValue": 2250
+    },
+    {
+      "id": 59,
+      "skillId": 50240101,
+      "statKey": "MAX_HP%",
+      "minValue": 300,
+      "maxValue": 6000
+    },
+    {
+      "id": 60,
+      "skillId": 50250101,
+      "statKey": "COOLDOWN_REDUCE%",
+      "minValue": 300,
+      "maxValue": 7500
+    },
+    {
+      "id": 61,
+      "skillId": 51110101,
+      "statKey": "ATK%",
+      "minValue": 9400,
+      "maxValue": 13100
+    },
+    {
+      "id": 62,
+      "skillId": 51130101,
+      "statKey": "ATK%",
+      "minValue": 12500,
+      "maxValue": 22500
+    },
+    {
+      "id": 63,
+      "skillId": 60210101,
+      "statKey": "AGI",
+      "minValue": 5,
+      "maxValue": 25
+    },
+    {
+      "id": 64,
+      "skillId": 60220101,
+      "statKey": "ATK%",
+      "minValue": 500,
+      "maxValue": 5000
+    },
+    {
+      "id": 65,
+      "skillId": 60230101,
+      "statKey": "CRIT_RATE%",
+      "minValue": 150,
+      "maxValue": 2250
+    },
+    {
+      "id": 66,
+      "skillId": 60240101,
+      "statKey": "CRIT_RATE%",
+      "minValue": 600,
+      "maxValue": 1400
+    },
+    {
+      "id": 67,
+      "skillId": 60250101,
+      "statKey": "CRIT_DMG%",
+      "minValue": 3600,
+      "maxValue": 9000
+    },
+    {
+      "id": 68,
+      "skillId": 61110101,
+      "statKey": "ATK%",
+      "minValue": 11200,
+      "maxValue": 15800
+    },
+    {
+      "id": 69,
+      "skillId": 61130101,
+      "statKey": "ATK%",
+      "minValue": 7500,
+      "maxValue": 13500
+    }
+  ]
+}

@@ -1,0 +1,2063 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 410,
+    "schema": "FBDataAbsorbText",
+    "sourceAsset": "FBDataAbsorbText",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "멧돼지",
+      "textKey": "츄릅! 항정살 +_+"
+    },
+    {
+      "id": 2,
+      "groupKey": "멧돼지",
+      "textKey": "오겹으로 떠~"
+    },
+    {
+      "id": 3,
+      "groupKey": "멧돼지",
+      "textKey": "목살은 수육!"
+    },
+    {
+      "id": 4,
+      "groupKey": "멧돼지",
+      "textKey": "겉은 바싹~"
+    },
+    {
+      "id": 5,
+      "groupKey": "멧돼지",
+      "textKey": "등심 통구이!"
+    },
+    {
+      "id": 6,
+      "groupKey": "멧돼지",
+      "textKey": "갈비는 육수로!"
+    },
+    {
+      "id": 7,
+      "groupKey": "멧돼지",
+      "textKey": "가브리살… 츄릅."
+    },
+    {
+      "id": 8,
+      "groupKey": "멧돼지",
+      "textKey": "뒷다리 말려서!"
+    },
+    {
+      "id": 9,
+      "groupKey": "멧돼지",
+      "textKey": "이 지방층 봐 >.<"
+    },
+    {
+      "id": 10,
+      "groupKey": "멧돼지",
+      "textKey": "넌 나의 항정살~♥"
+    },
+    {
+      "id": 11,
+      "groupKey": "야생 여우",
+      "textKey": "하아… 이 냄새 +_+"
+    },
+    {
+      "id": 12,
+      "groupKey": "야생 여우",
+      "textKey": "킹받네."
+    },
+    {
+      "id": 13,
+      "groupKey": "야생 여우",
+      "textKey": "잡내는 죽엽청에!"
+    },
+    {
+      "id": 14,
+      "groupKey": "야생 여우",
+      "textKey": "잘게 썰어 볶아~"
+    },
+    {
+      "id": 15,
+      "groupKey": "야생 여우",
+      "textKey": "영리했지, 존중."
+    },
+    {
+      "id": 16,
+      "groupKey": "야생 여우",
+      "textKey": "살이 단단해 >.<"
+    },
+    {
+      "id": 17,
+      "groupKey": "야생 여우",
+      "textKey": "꼬리까지 쓴다!"
+    },
+    {
+      "id": 18,
+      "groupKey": "야생 여우",
+      "textKey": "사파의 맛~"
+    },
+    {
+      "id": 19,
+      "groupKey": "야생 여우",
+      "textKey": "한 점도 안 남겨."
+    },
+    {
+      "id": 20,
+      "groupKey": "야생 여우",
+      "textKey": "목도리 말고 먹어~"
+    },
+    {
+      "id": 21,
+      "groupKey": "야생 너구리",
+      "textKey": "오오! 오동통 +_+"
+    },
+    {
+      "id": 22,
+      "groupKey": "야생 너구리",
+      "textKey": "혜자다."
+    },
+    {
+      "id": 23,
+      "groupKey": "야생 너구리",
+      "textKey": "채소부터 볶아~"
+    },
+    {
+      "id": 24,
+      "groupKey": "야생 너구리",
+      "textKey": "한 마리 몰고 왔네!"
+    },
+    {
+      "id": 25,
+      "groupKey": "야생 너구리",
+      "textKey": "다시마도 넣고~"
+    },
+    {
+      "id": 26,
+      "groupKey": "야생 너구리",
+      "textKey": "뭉근히 끓인다!"
+    },
+    {
+      "id": 27,
+      "groupKey": "야생 너구리",
+      "textKey": "겨울 잘 났구나, 고마워."
+    },
+    {
+      "id": 28,
+      "groupKey": "야생 너구리",
+      "textKey": "면은 나중에."
+    },
+    {
+      "id": 29,
+      "groupKey": "야생 너구리",
+      "textKey": "소문나겠어 >.<"
+    },
+    {
+      "id": 30,
+      "groupKey": "야생 너구리",
+      "textKey": "몰고 온 보람~"
+    },
+    {
+      "id": 31,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "뒷다리! 뒷다리 +_+"
+    },
+    {
+      "id": 32,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "이게 되네."
+    },
+    {
+      "id": 33,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "버터에 지진다~"
+    },
+    {
+      "id": 34,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "잘게 깍둑!"
+    },
+    {
+      "id": 35,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "복어보다 쉽지."
+    },
+    {
+      "id": 36,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "닭맛이지 >.<"
+    },
+    {
+      "id": 37,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "독샘 삼 초 컷!"
+    },
+    {
+      "id": 38,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "손질이 무공보다 어렵네."
+    },
+    {
+      "id": 39,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "두꺼비탕 각!"
+    },
+    {
+      "id": 40,
+      "groupKey": "독두꺼비·독개구리",
+      "textKey": "울음주머니는 정중히~"
+    },
+    {
+      "id": 41,
+      "groupKey": "심산 흑곰",
+      "textKey": "크으~ 저 지방 +_+"
+    },
+    {
+      "id": 42,
+      "groupKey": "심산 흑곰",
+      "textKey": "마블링 미쳤다."
+    },
+    {
+      "id": 43,
+      "groupKey": "심산 흑곰",
+      "textKey": "곰이 왜 누웠지?"
+    },
+    {
+      "id": 44,
+      "groupKey": "심산 흑곰",
+      "textKey": "지방은 따로 녹여~"
+    },
+    {
+      "id": 45,
+      "groupKey": "심산 흑곰",
+      "textKey": "앞발은 곰발바닥탕!"
+    },
+    {
+      "id": 46,
+      "groupKey": "심산 흑곰",
+      "textKey": "겨우내 잘 컸네, 고마워."
+    },
+    {
+      "id": 47,
+      "groupKey": "심산 흑곰",
+      "textKey": "한 점도 안 남겨."
+    },
+    {
+      "id": 48,
+      "groupKey": "심산 흑곰",
+      "textKey": "해체 두 시진, 정성껏."
+    },
+    {
+      "id": 49,
+      "groupKey": "심산 흑곰",
+      "textKey": "교주님 진상 각 >.<"
+    },
+    {
+      "id": 50,
+      "groupKey": "심산 흑곰",
+      "textKey": "몸에 좋은 건 내 몫~"
+    },
+    {
+      "id": 51,
+      "groupKey": "심산 맹호",
+      "textKey": "캬~ 맑은 육수 +_+"
+    },
+    {
+      "id": 52,
+      "groupKey": "심산 맹호",
+      "textKey": "별이 다섯 개!"
+    },
+    {
+      "id": 53,
+      "groupKey": "심산 맹호",
+      "textKey": "이걸 내가 잡았나…?"
+    },
+    {
+      "id": 54,
+      "groupKey": "심산 맹호",
+      "textKey": "국물 곱게 걸러~"
+    },
+    {
+      "id": 55,
+      "groupKey": "심산 맹호",
+      "textKey": "산군님, 감사히!"
+    },
+    {
+      "id": 56,
+      "groupKey": "심산 맹호",
+      "textKey": "기운이 솟는다 >.<"
+    },
+    {
+      "id": 57,
+      "groupKey": "심산 맹호",
+      "textKey": "줄무늬는 구이 자국~"
+    },
+    {
+      "id": 58,
+      "groupKey": "심산 맹호",
+      "textKey": "가죽은 깔개, 살은 솥!"
+    },
+    {
+      "id": 59,
+      "groupKey": "심산 맹호",
+      "textKey": "우주가 보일 맛~"
+    },
+    {
+      "id": 60,
+      "groupKey": "심산 맹호",
+      "textKey": "어흥은 익어도 어흥."
+    },
+    {
+      "id": 61,
+      "groupKey": "독충",
+      "textKey": "바삭! 소리 들려 +_+"
+    },
+    {
+      "id": 62,
+      "groupKey": "독충",
+      "textKey": "존맛탱."
+    },
+    {
+      "id": 63,
+      "groupKey": "독충",
+      "textKey": "튀김옷 준비~"
+    },
+    {
+      "id": 64,
+      "groupKey": "독충",
+      "textKey": "튀기면 새우맛!"
+    },
+    {
+      "id": 65,
+      "groupKey": "독충",
+      "textKey": "단백질 폭탄 >.<"
+    },
+    {
+      "id": 66,
+      "groupKey": "독충",
+      "textKey": "등딱지는 그릇으로~"
+    },
+    {
+      "id": 67,
+      "groupKey": "독충",
+      "textKey": "독선 제거… 귀찮네."
+    },
+    {
+      "id": 68,
+      "groupKey": "독충",
+      "textKey": "한 줌이 한 끼!"
+    },
+    {
+      "id": 69,
+      "groupKey": "독충",
+      "textKey": "강호 최초 곤충식~"
+    },
+    {
+      "id": 70,
+      "groupKey": "독충",
+      "textKey": "작아도 예우는 같다."
+    },
+    {
+      "id": 71,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "손 떨린다… 뱀요리 +_+"
+    },
+    {
+      "id": 72,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "킥이네."
+    },
+    {
+      "id": 73,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "뼈 발라 속 채워~"
+    },
+    {
+      "id": 74,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "마늘기름에 뭉근히!"
+    },
+    {
+      "id": 75,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "독니는 이쑤시개로~"
+    },
+    {
+      "id": 76,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "껍질째 스르륵 >.<"
+    },
+    {
+      "id": 77,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "사천식 맵게!"
+    },
+    {
+      "id": 78,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "길어서 손질 편해~"
+    },
+    {
+      "id": 79,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "이 독, 비급감이네."
+    },
+    {
+      "id": 80,
+      "groupKey": "사천 독사·독사왕",
+      "textKey": "또아리째 통째로!"
+    },
+    {
+      "id": 81,
+      "groupKey": "늪지 악어",
+      "textKey": "꼬리! 꼬리부터 +_+"
+    },
+    {
+      "id": 82,
+      "groupKey": "늪지 악어",
+      "textKey": "겉바속촉."
+    },
+    {
+      "id": 83,
+      "groupKey": "늪지 악어",
+      "textKey": "기름에 세 시진 졸여~"
+    },
+    {
+      "id": 84,
+      "groupKey": "늪지 악어",
+      "textKey": "닭맛… 은 아니고."
+    },
+    {
+      "id": 85,
+      "groupKey": "늪지 악어",
+      "textKey": "늪내는 우유에!"
+    },
+    {
+      "id": 86,
+      "groupKey": "늪지 악어",
+      "textKey": "등가죽은 도마로 >.<"
+    },
+    {
+      "id": 87,
+      "groupKey": "늪지 악어",
+      "textKey": "입 큰 놈이 살도 많아~"
+    },
+    {
+      "id": 88,
+      "groupKey": "늪지 악어",
+      "textKey": "이런 맛이 있었나!"
+    },
+    {
+      "id": 89,
+      "groupKey": "늪지 악어",
+      "textKey": "이빨까지 쓴다."
+    },
+    {
+      "id": 90,
+      "groupKey": "늪지 악어",
+      "textKey": "눈물? 육즙이지~"
+    },
+    {
+      "id": 91,
+      "groupKey": "장강 거대 게",
+      "textKey": "츄릅… 밥부터 +_+"
+    },
+    {
+      "id": 92,
+      "groupKey": "장강 거대 게",
+      "textKey": "밥도둑."
+    },
+    {
+      "id": 93,
+      "groupKey": "장강 거대 게",
+      "textKey": "껍질 볶아 갈면 육수!"
+    },
+    {
+      "id": 94,
+      "groupKey": "장강 거대 게",
+      "textKey": "두 번 곱게 걸러~"
+    },
+    {
+      "id": 95,
+      "groupKey": "장강 거대 게",
+      "textKey": "게딱지에 밥 비벼 >.<"
+    },
+    {
+      "id": 96,
+      "groupKey": "장강 거대 게",
+      "textKey": "집게살부터 정성껏~"
+    },
+    {
+      "id": 97,
+      "groupKey": "장강 거대 게",
+      "textKey": "내장은 바다의 별미!"
+    },
+    {
+      "id": 98,
+      "groupKey": "장강 거대 게",
+      "textKey": "게는 클수록 정의다."
+    },
+    {
+      "id": 99,
+      "groupKey": "장강 거대 게",
+      "textKey": "밥솥을 지켜라!"
+    },
+    {
+      "id": 100,
+      "groupKey": "장강 거대 게",
+      "textKey": "십대고수급 집게~"
+    },
+    {
+      "id": 101,
+      "groupKey": "장강 물뱀",
+      "textKey": "쩝… 기름 보여 +_+"
+    },
+    {
+      "id": 102,
+      "groupKey": "장강 물뱀",
+      "textKey": "나야, 들기름."
+    },
+    {
+      "id": 103,
+      "groupKey": "장강 물뱀",
+      "textKey": "양념 발라 세 번 굽기!"
+    },
+    {
+      "id": 104,
+      "groupKey": "장강 물뱀",
+      "textKey": "비린내는 생강으로~"
+    },
+    {
+      "id": 105,
+      "groupKey": "장강 물뱀",
+      "textKey": "기력 회복 메뉴 확보!"
+    },
+    {
+      "id": 106,
+      "groupKey": "장강 물뱀",
+      "textKey": "장어… 아니 물뱀덮밥 >.<"
+    },
+    {
+      "id": 107,
+      "groupKey": "장강 물뱀",
+      "textKey": "미끌거려도 맛은 진실~"
+    },
+    {
+      "id": 108,
+      "groupKey": "장강 물뱀",
+      "textKey": "강물이 키운 순살!"
+    },
+    {
+      "id": 109,
+      "groupKey": "장강 물뱀",
+      "textKey": "내공 실린 몸통~"
+    },
+    {
+      "id": 110,
+      "groupKey": "장강 물뱀",
+      "textKey": "뼈는 튀겨 과자로!"
+    },
+    {
+      "id": 111,
+      "groupKey": "원숭이",
+      "textKey": "…원숭이는 좀."
+    },
+    {
+      "id": 112,
+      "groupKey": "원숭이",
+      "textKey": "오히려 좋아."
+    },
+    {
+      "id": 113,
+      "groupKey": "원숭이",
+      "textKey": "아니, 이미 들어갔네."
+    },
+    {
+      "id": 114,
+      "groupKey": "원숭이",
+      "textKey": "이건 기록에서 빼자."
+    },
+    {
+      "id": 115,
+      "groupKey": "원숭이",
+      "textKey": "…본 사람 없지? >.<"
+    },
+    {
+      "id": 116,
+      "groupKey": "원숭이",
+      "textKey": "솥이 한 짓이다."
+    },
+    {
+      "id": 117,
+      "groupKey": "원숭이",
+      "textKey": "오늘 메뉴는 비밀!"
+    },
+    {
+      "id": 118,
+      "groupKey": "원숭이",
+      "textKey": "양심은 있다, 조금."
+    },
+    {
+      "id": 119,
+      "groupKey": "원숭이",
+      "textKey": "채식파라 살은 깨끗해~"
+    },
+    {
+      "id": 120,
+      "groupKey": "원숭이",
+      "textKey": "…미안. 정성껏 할게."
+    },
+    {
+      "id": 121,
+      "groupKey": "야생 산양",
+      "textKey": "즈란! 즈란 어딨어 +_+"
+    },
+    {
+      "id": 122,
+      "groupKey": "야생 산양",
+      "textKey": "소금은 팔꿈치로."
+    },
+    {
+      "id": 123,
+      "groupKey": "야생 산양",
+      "textKey": "향신료 두 시진 재워~"
+    },
+    {
+      "id": 124,
+      "groupKey": "야생 산양",
+      "textKey": "양꼬치 백 개… 하아 >.<"
+    },
+    {
+      "id": 125,
+      "groupKey": "야생 산양",
+      "textKey": "특유의 향은 개성이지~"
+    },
+    {
+      "id": 126,
+      "groupKey": "야생 산양",
+      "textKey": "뒷다리 통구이 각!"
+    },
+    {
+      "id": 127,
+      "groupKey": "야생 산양",
+      "textKey": "절벽 누벼 쫄깃해~"
+    },
+    {
+      "id": 128,
+      "groupKey": "야생 산양",
+      "textKey": "양꼬치엔 죽엽청!"
+    },
+    {
+      "id": 129,
+      "groupKey": "야생 산양",
+      "textKey": "경공보다 빨랐지."
+    },
+    {
+      "id": 130,
+      "groupKey": "야생 산양",
+      "textKey": "회전구이 준비~"
+    },
+    {
+      "id": 131,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "훗, 훈연향 +_+"
+    },
+    {
+      "id": 132,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "폼 미쳤다."
+    },
+    {
+      "id": 133,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "소금물에 하룻밤~"
+    },
+    {
+      "id": 134,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "나무 향으로 훈제!"
+    },
+    {
+      "id": 135,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "날개살 바삭하게~"
+    },
+    {
+      "id": 136,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "하늘의 왕도 오늘은 훈제 >.<"
+    },
+    {
+      "id": 137,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "가슴살 두툼해, 츄릅."
+    },
+    {
+      "id": 138,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "비행 근육 = 쫄깃함~"
+    },
+    {
+      "id": 139,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "공양간에 소문나겠어~"
+    },
+    {
+      "id": 140,
+      "groupKey": "숭산 금안독수리",
+      "textKey": "독수리 요리는 강호 최초!"
+    },
+    {
+      "id": 141,
+      "groupKey": "설원 늑대",
+      "textKey": "하아… 저 근육 +_+"
+    },
+    {
+      "id": 142,
+      "groupKey": "설원 늑대",
+      "textKey": "익힘이 완벽해."
+    },
+    {
+      "id": 143,
+      "groupKey": "설원 늑대",
+      "textKey": "삼 주 매달아 숙성~"
+    },
+    {
+      "id": 144,
+      "groupKey": "설원 늑대",
+      "textKey": "저지방은 저온이 답 >.<"
+    },
+    {
+      "id": 145,
+      "groupKey": "설원 늑대",
+      "textKey": "설원이 곧 숙성고였네~"
+    },
+    {
+      "id": 146,
+      "groupKey": "설원 늑대",
+      "textKey": "염장해서 말린다!"
+    },
+    {
+      "id": 147,
+      "groupKey": "설원 늑대",
+      "textKey": "하울링은 육질과 무관~"
+    },
+    {
+      "id": 148,
+      "groupKey": "설원 늑대",
+      "textKey": "이빨은 꼬치 꽂이로!"
+    },
+    {
+      "id": 149,
+      "groupKey": "설원 늑대",
+      "textKey": "십년 내공보다 한 점~"
+    },
+    {
+      "id": 150,
+      "groupKey": "설원 늑대",
+      "textKey": "고맙다, 헛되지 않게."
+    },
+    {
+      "id": 151,
+      "groupKey": "얼음 전갈",
+      "textKey": "튀김! 튀김이다 +_+"
+    },
+    {
+      "id": 152,
+      "groupKey": "얼음 전갈",
+      "textKey": "단짠단짠."
+    },
+    {
+      "id": 153,
+      "groupKey": "얼음 전갈",
+      "textKey": "반죽은 얼음물로 차갑게~"
+    },
+    {
+      "id": 154,
+      "groupKey": "얼음 전갈",
+      "textKey": "바삭하게 튀긴다!"
+    },
+    {
+      "id": 155,
+      "groupKey": "얼음 전갈",
+      "textKey": "독침 빼고 튀겨~"
+    },
+    {
+      "id": 156,
+      "groupKey": "얼음 전갈",
+      "textKey": "새우 사촌이라 새우맛 >.<"
+    },
+    {
+      "id": 157,
+      "groupKey": "얼음 전갈",
+      "textKey": "집게는 게맛~"
+    },
+    {
+      "id": 158,
+      "groupKey": "얼음 전갈",
+      "textKey": "얼음 출신이라 신선해!"
+    },
+    {
+      "id": 159,
+      "groupKey": "얼음 전갈",
+      "textKey": "일격필살… 튀김 말야~"
+    },
+    {
+      "id": 160,
+      "groupKey": "얼음 전갈",
+      "textKey": "길거리 간식 확보!"
+    },
+    {
+      "id": 161,
+      "groupKey": "눈표범",
+      "textKey": "…군침 도네 +_+"
+    },
+    {
+      "id": 162,
+      "groupKey": "눈표범",
+      "textKey": "이븐하지 않아."
+    },
+    {
+      "id": 163,
+      "groupKey": "눈표범",
+      "textKey": "틀에 눌러 사흘 굳혀~"
+    },
+    {
+      "id": 164,
+      "groupKey": "눈표범",
+      "textKey": "고양이과는 질기지."
+    },
+    {
+      "id": 165,
+      "groupKey": "눈표범",
+      "textKey": "점박이는 개성이다~"
+    },
+    {
+      "id": 166,
+      "groupKey": "눈표범",
+      "textKey": "산악 근육 풀세트 >.<"
+    },
+    {
+      "id": 167,
+      "groupKey": "눈표범",
+      "textKey": "은신의 대가, 솥으로~"
+    },
+    {
+      "id": 168,
+      "groupKey": "눈표범",
+      "textKey": "발바닥 젤리는 패스."
+    },
+    {
+      "id": 169,
+      "groupKey": "눈표범",
+      "textKey": "경공 실력은 인정~"
+    },
+    {
+      "id": 170,
+      "groupKey": "눈표범",
+      "textKey": "표범 구이는 살짝만 익혀!"
+    },
+    {
+      "id": 171,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "여덟 개! 여덟 개 +_+"
+    },
+    {
+      "id": 172,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "먹방 각."
+    },
+    {
+      "id": 173,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "바삭하게 튀겨~"
+    },
+    {
+      "id": 174,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "게맛 나면 인정!"
+    },
+    {
+      "id": 175,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "털은 그을리면 돼 >.<"
+    },
+    {
+      "id": 176,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "여덟 개면 8인분~"
+    },
+    {
+      "id": 177,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "배 부분은 패스!"
+    },
+    {
+      "id": 178,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "남만식으로 간다~"
+    },
+    {
+      "id": 179,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "거미줄은 면이 아냐."
+    },
+    {
+      "id": 180,
+      "groupKey": "거미 (얼음·밀림)",
+      "textKey": "바삭바삭 예약!"
+    },
+    {
+      "id": 181,
+      "groupKey": "설인",
+      "textKey": "미, 미치겠네 +_+"
+    },
+    {
+      "id": 182,
+      "groupKey": "설인",
+      "textKey": "별 셋…!"
+    },
+    {
+      "id": 183,
+      "groupKey": "설인",
+      "textKey": "내가 이걸 잡았다고?"
+    },
+    {
+      "id": 184,
+      "groupKey": "설인",
+      "textKey": "한 달 절여 숙성~"
+    },
+    {
+      "id": 185,
+      "groupKey": "설인",
+      "textKey": "털만 밀면 곰이지 >.<"
+    },
+    {
+      "id": 186,
+      "groupKey": "설인",
+      "textKey": "해체 한나절, 정성껏~"
+    },
+    {
+      "id": 187,
+      "groupKey": "설인",
+      "textKey": "발바닥도 팔진미인가?"
+    },
+    {
+      "id": 188,
+      "groupKey": "설인",
+      "textKey": "목격담은 내가 끝낸다!"
+    },
+    {
+      "id": 189,
+      "groupKey": "설인",
+      "textKey": "강호 비사에 남는다~"
+    },
+    {
+      "id": 190,
+      "groupKey": "설인",
+      "textKey": "대우주급 식재료다!"
+    },
+    {
+      "id": 191,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "우와… 저 길이 +_+"
+    },
+    {
+      "id": 192,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "핵꿀맛."
+    },
+    {
+      "id": 193,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "자작하게 여섯 시진~"
+    },
+    {
+      "id": 194,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "곱게 갈아 마무리!"
+    },
+    {
+      "id": 195,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "허물은 포장지로 >.<"
+    },
+    {
+      "id": 196,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "길이가 곧 인분 수~"
+    },
+    {
+      "id": 197,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "통조림 백 개 각!"
+    },
+    {
+      "id": 198,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "감아 오길래 받아줬지~"
+    },
+    {
+      "id": 199,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "혀에서 용이 승천!"
+    },
+    {
+      "id": 200,
+      "groupKey": "밀림 대왕뱀",
+      "textKey": "한 점도 안 남겨~"
+    },
+    {
+      "id": 201,
+      "groupKey": "야생 꿩",
+      "textKey": "만두! 만두소다 +_+"
+    },
+    {
+      "id": 202,
+      "groupKey": "야생 꿩",
+      "textKey": "국룰이지."
+    },
+    {
+      "id": 203,
+      "groupKey": "야생 꿩",
+      "textKey": "곱게 다져 만두피에~"
+    },
+    {
+      "id": 204,
+      "groupKey": "야생 꿩",
+      "textKey": "꿩이 본체다!"
+    },
+    {
+      "id": 205,
+      "groupKey": "야생 꿩",
+      "textKey": "장끼면 더 좋고 >.<"
+    },
+    {
+      "id": 206,
+      "groupKey": "야생 꿩",
+      "textKey": "냉면 육수의 정점~"
+    },
+    {
+      "id": 207,
+      "groupKey": "야생 꿩",
+      "textKey": "야생이라 쫄깃해!"
+    },
+    {
+      "id": 208,
+      "groupKey": "야생 꿩",
+      "textKey": "알까지 있으면 완벽~"
+    },
+    {
+      "id": 209,
+      "groupKey": "야생 꿩",
+      "textKey": "푸드덕댄 만큼 가슴살~"
+    },
+    {
+      "id": 210,
+      "groupKey": "야생 꿩",
+      "textKey": "일석이조… 한 마리네."
+    },
+    {
+      "id": 211,
+      "groupKey": "들소",
+      "textKey": "이야~ 부위 봐 +_+"
+    },
+    {
+      "id": 212,
+      "groupKey": "들소",
+      "textKey": "보섭살까지 확인."
+    },
+    {
+      "id": 213,
+      "groupKey": "들소",
+      "textKey": "진한 육수 사흘 졸여~"
+    },
+    {
+      "id": 214,
+      "groupKey": "들소",
+      "textKey": "사십오 일 숙성 각!"
+    },
+    {
+      "id": 215,
+      "groupKey": "들소",
+      "textKey": "갈빗대가 실하다 >.<"
+    },
+    {
+      "id": 216,
+      "groupKey": "들소",
+      "textKey": "등심 안심 채끝 갈비~"
+    },
+    {
+      "id": 217,
+      "groupKey": "들소",
+      "textKey": "우족은 곰탕 예약!"
+    },
+    {
+      "id": 218,
+      "groupKey": "들소",
+      "textKey": "특급 요리사 눈은 못 속여~"
+    },
+    {
+      "id": 219,
+      "groupKey": "들소",
+      "textKey": "만년하수오급이네~"
+    },
+    {
+      "id": 220,
+      "groupKey": "들소",
+      "textKey": "소는 야생이 키웠지."
+    },
+    {
+      "id": 221,
+      "groupKey": "야생 사슴",
+      "textKey": "육포… 육포… +_+"
+    },
+    {
+      "id": 222,
+      "groupKey": "야생 사슴",
+      "textKey": "완전 럭키비키잖앙!"
+    },
+    {
+      "id": 223,
+      "groupKey": "야생 사슴",
+      "textKey": "절여서 저온 건조~"
+    },
+    {
+      "id": 224,
+      "groupKey": "야생 사슴",
+      "textKey": "지방 적어 담백해!"
+    },
+    {
+      "id": 225,
+      "groupKey": "야생 사슴",
+      "textKey": "녹용은 내 몫 >.<"
+    },
+    {
+      "id": 226,
+      "groupKey": "야생 사슴",
+      "textKey": "뿔은 내가 직행~"
+    },
+    {
+      "id": 227,
+      "groupKey": "야생 사슴",
+      "textKey": "눈망울은 반칙이지~"
+    },
+    {
+      "id": 228,
+      "groupKey": "야생 사슴",
+      "textKey": "뒷다리 육포 각!"
+    },
+    {
+      "id": 229,
+      "groupKey": "야생 사슴",
+      "textKey": "영약은 먼저 본 놈 임자~"
+    },
+    {
+      "id": 230,
+      "groupKey": "야생 사슴",
+      "textKey": "숲의 신사, 솥의 신사."
+    },
+    {
+      "id": 231,
+      "groupKey": "산적 전체",
+      "textKey": "비켜~"
+    },
+    {
+      "id": 232,
+      "groupKey": "산적 전체",
+      "textKey": "밥이나 먹어."
+    },
+    {
+      "id": 233,
+      "groupKey": "산적 전체",
+      "textKey": "흑풍채? 풉."
+    },
+    {
+      "id": 234,
+      "groupKey": "산적 전체",
+      "textKey": "육수도 안 나."
+    },
+    {
+      "id": 235,
+      "groupKey": "산적 전체",
+      "textKey": "넌 안 먹어."
+    },
+    {
+      "id": 236,
+      "groupKey": "산적 전체",
+      "textKey": "탈락."
+    },
+    {
+      "id": 237,
+      "groupKey": "산적 전체",
+      "textKey": "질겨, 됐어."
+    },
+    {
+      "id": 238,
+      "groupKey": "산적 전체",
+      "textKey": "하산해."
+    },
+    {
+      "id": 239,
+      "groupKey": "산적 전체",
+      "textKey": "양파나 썰걸."
+    },
+    {
+      "id": 240,
+      "groupKey": "산적 전체",
+      "textKey": "뒤에 멧돼지!"
+    },
+    {
+      "id": 241,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "됐고, 도시락."
+    },
+    {
+      "id": 242,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "슴슴하네유."
+    },
+    {
+      "id": 243,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "간이 하나도 없어."
+    },
+    {
+      "id": 244,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "검도 안 뽑았는데?"
+    },
+    {
+      "id": 245,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "정파는 싱거워."
+    },
+    {
+      "id": 246,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "요리도 배워 와."
+    },
+    {
+      "id": 247,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "검보다 칼질부터."
+    },
+    {
+      "id": 248,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "매화는 차로나 우려."
+    },
+    {
+      "id": 249,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "공양간 비법이나 내놔."
+    },
+    {
+      "id": 250,
+      "groupKey": "정파 제자 (종남·화산·소림)",
+      "textKey": "입맛도 굳었네."
+    },
+    {
+      "id": 251,
+      "groupKey": "당가 독인형",
+      "textKey": "독 냄새… 별로."
+    },
+    {
+      "id": 252,
+      "groupKey": "당가 독인형",
+      "textKey": "먹으라고?"
+    },
+    {
+      "id": 253,
+      "groupKey": "당가 독인형",
+      "textKey": "방부제 덩어리."
+    },
+    {
+      "id": 254,
+      "groupKey": "당가 독인형",
+      "textKey": "기준 미달!"
+    },
+    {
+      "id": 255,
+      "groupKey": "당가 독인형",
+      "textKey": "리콜 대상이야."
+    },
+    {
+      "id": 256,
+      "groupKey": "당가 독인형",
+      "textKey": "독극물 주의."
+    },
+    {
+      "id": 257,
+      "groupKey": "당가 독인형",
+      "textKey": "장식장에나 있어."
+    },
+    {
+      "id": 258,
+      "groupKey": "당가 독인형",
+      "textKey": "불합격."
+    },
+    {
+      "id": 259,
+      "groupKey": "당가 독인형",
+      "textKey": "암흑요리 출신?"
+    },
+    {
+      "id": 260,
+      "groupKey": "당가 독인형",
+      "textKey": "반품, 사천으로."
+    },
+    {
+      "id": 261,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "생선 어딨어."
+    },
+    {
+      "id": 262,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "물… 물고기?"
+    },
+    {
+      "id": 263,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "물비린내 확정."
+    },
+    {
+      "id": 264,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "그물값이나 내놔."
+    },
+    {
+      "id": 265,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "도둑이 회를 알아?"
+    },
+    {
+      "id": 266,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "어획량 신고부터."
+    },
+    {
+      "id": 267,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "배는 두고 가."
+    },
+    {
+      "id": 268,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "물고기가 아깝다."
+    },
+    {
+      "id": 269,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "수산시장 출입 금지!"
+    },
+    {
+      "id": 270,
+      "groupKey": "수상 도적·수로채",
+      "textKey": "헤엄쳐 돌아가~"
+    },
+    {
+      "id": 271,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "곡차 냄새는 좋네."
+    },
+    {
+      "id": 272,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "갓생."
+    },
+    {
+      "id": 273,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "기름기는 죄다."
+    },
+    {
+      "id": 274,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "절밥이나 배워 와."
+    },
+    {
+      "id": 275,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "공양간 파문."
+    },
+    {
+      "id": 276,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "육식 들킨 얼굴."
+    },
+    {
+      "id": 277,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "목탁 말고 도마나."
+    },
+    {
+      "id": 278,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "절밥 그리울 거다."
+    },
+    {
+      "id": 279,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "반야탕이냐."
+    },
+    {
+      "id": 280,
+      "groupKey": "타락 무승·도적승",
+      "textKey": "성불해라, 멀리서."
+    },
+    {
+      "id": 281,
+      "groupKey": "남만 전사·족장",
+      "textKey": "향신료 내놔!"
+    },
+    {
+      "id": 282,
+      "groupKey": "남만 전사·족장",
+      "textKey": "이리 와봐유."
+    },
+    {
+      "id": 283,
+      "groupKey": "남만 전사·족장",
+      "textKey": "향신료 눈은 있네."
+    },
+    {
+      "id": 284,
+      "groupKey": "남만 전사·족장",
+      "textKey": "비법 교환은 거절."
+    },
+    {
+      "id": 285,
+      "groupKey": "남만 전사·족장",
+      "textKey": "밀림 후추 내놔."
+    },
+    {
+      "id": 286,
+      "groupKey": "남만 전사·족장",
+      "textKey": "화살에 바른 게 고추장?"
+    },
+    {
+      "id": 287,
+      "groupKey": "남만 전사·족장",
+      "textKey": "통구이는 인정~"
+    },
+    {
+      "id": 288,
+      "groupKey": "남만 전사·족장",
+      "textKey": "춤은 됐고 조리법."
+    },
+    {
+      "id": 289,
+      "groupKey": "남만 전사·족장",
+      "textKey": "밀림 망고나 가져와."
+    },
+    {
+      "id": 290,
+      "groupKey": "남만 전사·족장",
+      "textKey": "족장한테 전해, 거래하자고."
+    },
+    {
+      "id": 291,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "얼음만 주고 가."
+    },
+    {
+      "id": 292,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "얼죽아."
+    },
+    {
+      "id": 293,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "식은 놈은 됐어."
+    },
+    {
+      "id": 294,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "냉동은 취급 안 해."
+    },
+    {
+      "id": 295,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "해동도 귀찮다."
+    },
+    {
+      "id": 296,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "얼음 배달로는 인정~"
+    },
+    {
+      "id": 297,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "얼음이나 배달해."
+    },
+    {
+      "id": 298,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "차가운 놈치고 맛있는 놈 없어."
+    },
+    {
+      "id": 299,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "동상 걸리겠다, 가."
+    },
+    {
+      "id": 300,
+      "groupKey": "빙궁 순찰 무사",
+      "textKey": "냉장고 지기나 해."
+    },
+    {
+      "id": 301,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "…볼 것도 없네."
+    },
+    {
+      "id": 302,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "별 영 개!"
+    },
+    {
+      "id": 303,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "영양가 없는 놈."
+    },
+    {
+      "id": 304,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "시장 물 흐리지 마."
+    },
+    {
+      "id": 305,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "암거래 식재료 압수!"
+    },
+    {
+      "id": 306,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "저울 눈금 속인 죄, 크다."
+    },
+    {
+      "id": 307,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "원산지 속인 놈?"
+    },
+    {
+      "id": 308,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "상인 자격 박탈."
+    },
+    {
+      "id": 309,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "훔친 건 소화도 안 돼."
+    },
+    {
+      "id": 310,
+      "groupKey": "시장 잡배 (좀도둑·건달·암시장)",
+      "textKey": "자율 정화 완료."
+    },
+    {
+      "id": 311,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "내 재료 내놔!!"
+    },
+    {
+      "id": 312,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "순살됐네."
+    },
+    {
+      "id": 313,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "훔친 건 다 내 거!"
+    },
+    {
+      "id": 314,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "장물 회수!"
+    },
+    {
+      "id": 315,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "약탈은 중죄다!"
+    },
+    {
+      "id": 316,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "감히 식량에 손을?"
+    },
+    {
+      "id": 317,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "신선도 떨어졌으면 두 배!"
+    },
+    {
+      "id": 318,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "식량 도둑엔 자비 없어."
+    },
+    {
+      "id": 319,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "오늘부터 넌 배달부."
+    },
+    {
+      "id": 320,
+      "groupKey": "식재료 약탈 도적",
+      "textKey": "창고를 노려? 강호 공적."
+    },
+    {
+      "id": 321,
+      "groupKey": "반란군 전체",
+      "textKey": "군량 어딨어."
+    },
+    {
+      "id": 322,
+      "groupKey": "반란군 전체",
+      "textKey": "생존입니다."
+    },
+    {
+      "id": 323,
+      "groupKey": "반란군 전체",
+      "textKey": "반찬이나 걱정해."
+    },
+    {
+      "id": 324,
+      "groupKey": "반란군 전체",
+      "textKey": "국자로 이겼네."
+    },
+    {
+      "id": 325,
+      "groupKey": "반란군 전체",
+      "textKey": "배식 끊겼냐, 말랐군."
+    },
+    {
+      "id": 326,
+      "groupKey": "반란군 전체",
+      "textKey": "혁명은 밥심이다."
+    },
+    {
+      "id": 327,
+      "groupKey": "반란군 전체",
+      "textKey": "보급선부터 다시."
+    },
+    {
+      "id": 328,
+      "groupKey": "반란군 전체",
+      "textKey": "굶은 군대는 진다."
+    },
+    {
+      "id": 329,
+      "groupKey": "반란군 전체",
+      "textKey": "대의? 식사부터."
+    },
+    {
+      "id": 330,
+      "groupKey": "반란군 전체",
+      "textKey": "항복하면 밥은 준다."
+    },
+    {
+      "id": 331,
+      "groupKey": "독버섯 정령",
+      "textKey": "코가 먼저 알았다 +_+"
+    },
+    {
+      "id": 332,
+      "groupKey": "독버섯 정령",
+      "textKey": "채소 익힘이 딱이야."
+    },
+    {
+      "id": 333,
+      "groupKey": "독버섯 정령",
+      "textKey": "곱게 다져 볶으면~"
+    },
+    {
+      "id": 334,
+      "groupKey": "독버섯 정령",
+      "textKey": "말리면 향신료지."
+    },
+    {
+      "id": 335,
+      "groupKey": "독버섯 정령",
+      "textKey": "갓이 탱글해, 츄릅."
+    },
+    {
+      "id": 336,
+      "groupKey": "독버섯 정령",
+      "textKey": "굽는 순간 완성 >.<"
+    },
+    {
+      "id": 337,
+      "groupKey": "독버섯 정령",
+      "textKey": "천년영지 사촌쯤?"
+    },
+    {
+      "id": 338,
+      "groupKey": "독버섯 정령",
+      "textKey": "채수의 왕이 왔군~"
+    },
+    {
+      "id": 339,
+      "groupKey": "독버섯 정령",
+      "textKey": "영기가 감칠맛으로~"
+    },
+    {
+      "id": 340,
+      "groupKey": "독버섯 정령",
+      "textKey": "황금 볶음밥에 쓴다!"
+    },
+    {
+      "id": 341,
+      "groupKey": "독늪 골렘",
+      "textKey": "…감흥이 없네 -_-"
+    },
+    {
+      "id": 342,
+      "groupKey": "독늪 골렘",
+      "textKey": "묻고 더블로 가."
+    },
+    {
+      "id": 343,
+      "groupKey": "독늪 골렘",
+      "textKey": "육수도 안 나와."
+    },
+    {
+      "id": 344,
+      "groupKey": "독늪 골렘",
+      "textKey": "미네랄은 많겠군."
+    },
+    {
+      "id": 345,
+      "groupKey": "독늪 골렘",
+      "textKey": "솥받침 행."
+    },
+    {
+      "id": 346,
+      "groupKey": "독늪 골렘",
+      "textKey": "돌솥 재료 확보."
+    },
+    {
+      "id": 347,
+      "groupKey": "독늪 골렘",
+      "textKey": "씹으면 이가 진다."
+    },
+    {
+      "id": 348,
+      "groupKey": "독늪 골렘",
+      "textKey": "맷돌로 재취업시켜주지."
+    },
+    {
+      "id": 349,
+      "groupKey": "독늪 골렘",
+      "textKey": "무공으로도 못 씹어."
+    },
+    {
+      "id": 350,
+      "groupKey": "독늪 골렘",
+      "textKey": "칼갈이 당첨."
+    },
+    {
+      "id": 351,
+      "groupKey": "수중 해골병",
+      "textKey": "육수가 걸어오네? +_+"
+    },
+    {
+      "id": 352,
+      "groupKey": "수중 해골병",
+      "textKey": "엄마가 해준 그 느낌."
+    },
+    {
+      "id": 353,
+      "groupKey": "수중 해골병",
+      "textKey": "뼈 육수… 아니 해골 육수!"
+    },
+    {
+      "id": 354,
+      "groupKey": "수중 해골병",
+      "textKey": "골수가 통째로 왔군~"
+    },
+    {
+      "id": 355,
+      "groupKey": "수중 해골병",
+      "textKey": "열두 시진 우린다!"
+    },
+    {
+      "id": 356,
+      "groupKey": "수중 해골병",
+      "textKey": "잡내 없는 깔끔한 뼈 >.<"
+    },
+    {
+      "id": 357,
+      "groupKey": "수중 해골병",
+      "textKey": "골수까지 우려내~"
+    },
+    {
+      "id": 358,
+      "groupKey": "수중 해골병",
+      "textKey": "관절은 도가니 대용!"
+    },
+    {
+      "id": 359,
+      "groupKey": "수중 해골병",
+      "textKey": "걸어 다니는 육수팩~"
+    },
+    {
+      "id": 360,
+      "groupKey": "수중 해골병",
+      "textKey": "십년 묵은 뼈, 십년 맛."
+    },
+    {
+      "id": 361,
+      "groupKey": "물귀신",
+      "textKey": "…침도 안 고여 -_-"
+    },
+    {
+      "id": 362,
+      "groupKey": "물귀신",
+      "textKey": "맛있으면 0칼로리."
+    },
+    {
+      "id": 363,
+      "groupKey": "물귀신",
+      "textKey": "졸이면 뭐가 남지?"
+    },
+    {
+      "id": 364,
+      "groupKey": "물귀신",
+      "textKey": "수분 백 퍼센트."
+    },
+    {
+      "id": 365,
+      "groupKey": "물귀신",
+      "textKey": "건조부터 한다."
+    },
+    {
+      "id": 366,
+      "groupKey": "물귀신",
+      "textKey": "탈수 먼저, 조리 나중."
+    },
+    {
+      "id": 367,
+      "groupKey": "물귀신",
+      "textKey": "육수가 아니라 그냥 물."
+    },
+    {
+      "id": 368,
+      "groupKey": "물귀신",
+      "textKey": "원한은 잡내의 근원."
+    },
+    {
+      "id": 369,
+      "groupKey": "물귀신",
+      "textKey": "염분은 충분하겠어."
+    },
+    {
+      "id": 370,
+      "groupKey": "물귀신",
+      "textKey": "그냥… 물이네."
+    },
+    {
+      "id": 371,
+      "groupKey": "석상 계열",
+      "textKey": "…돌이잖아 -_-"
+    },
+    {
+      "id": 372,
+      "groupKey": "석상 계열",
+      "textKey": "창렬이군."
+    },
+    {
+      "id": 373,
+      "groupKey": "석상 계열",
+      "textKey": "맷돌 재활용 각."
+    },
+    {
+      "id": 374,
+      "groupKey": "석상 계열",
+      "textKey": "천 년 묵은 돌맛."
+    },
+    {
+      "id": 375,
+      "groupKey": "석상 계열",
+      "textKey": "부수면 자갈, 모으면 화덕."
+    },
+    {
+      "id": 376,
+      "groupKey": "석상 계열",
+      "textKey": "식용 불가, 건자재 행."
+    },
+    {
+      "id": 377,
+      "groupKey": "석상 계열",
+      "textKey": "돌솥의 미래가 보여."
+    },
+    {
+      "id": 378,
+      "groupKey": "석상 계열",
+      "textKey": "씹다 이 나간다."
+    },
+    {
+      "id": 379,
+      "groupKey": "석상 계열",
+      "textKey": "솜씨는 인정하지."
+    },
+    {
+      "id": 380,
+      "groupKey": "석상 계열",
+      "textKey": "정파가 세워 딱딱하군."
+    },
+    {
+      "id": 381,
+      "groupKey": "빙정령",
+      "textKey": "아싸! 여름 메뉴 +_+"
+    },
+    {
+      "id": 382,
+      "groupKey": "빙정령",
+      "textKey": "그저 빛."
+    },
+    {
+      "id": 383,
+      "groupKey": "빙정령",
+      "textKey": "긁어서 결을 살려~"
+    },
+    {
+      "id": 384,
+      "groupKey": "빙정령",
+      "textKey": "얼음과자로 가도 되겠어."
+    },
+    {
+      "id": 385,
+      "groupKey": "빙정령",
+      "textKey": "빙수 확정!"
+    },
+    {
+      "id": 386,
+      "groupKey": "빙정령",
+      "textKey": "팥만 있으면 완성~"
+    },
+    {
+      "id": 387,
+      "groupKey": "빙정령",
+      "textKey": "녹기 전에 먹는다 >.<"
+    },
+    {
+      "id": 388,
+      "groupKey": "빙정령",
+      "textKey": "연유 어디 갔지~"
+    },
+    {
+      "id": 389,
+      "groupKey": "빙정령",
+      "textKey": "만년빙정보다 시원해!"
+    },
+    {
+      "id": 390,
+      "groupKey": "빙정령",
+      "textKey": "냉면 육수 확보!"
+    },
+    {
+      "id": 391,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "…쇠 맛만 나겠어 -_-"
+    },
+    {
+      "id": 392,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "완성이 아니야."
+    },
+    {
+      "id": 393,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "기름칠은 됐군."
+    },
+    {
+      "id": 394,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "부품은 냄비 수리에."
+    },
+    {
+      "id": 395,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "못 먹어, 이건."
+    },
+    {
+      "id": 396,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "톱니는 칼갈이로."
+    },
+    {
+      "id": 397,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "분해가 곧 손질."
+    },
+    {
+      "id": 398,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "화덕 부품 획득!"
+    },
+    {
+      "id": 399,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "윤활유는 식용유가 아냐."
+    },
+    {
+      "id": 400,
+      "groupKey": "기관인·함정 인형",
+      "textKey": "기관술도 요리는 못 하지."
+    },
+    {
+      "id": 401,
+      "groupKey": "유적 수호자",
+      "textKey": "…먼지 맛? -_-"
+    },
+    {
+      "id": 402,
+      "groupKey": "유적 수호자",
+      "textKey": "실화냐?"
+    },
+    {
+      "id": 403,
+      "groupKey": "유적 수호자",
+      "textKey": "골동품은 감정부터."
+    },
+    {
+      "id": 404,
+      "groupKey": "유적 수호자",
+      "textKey": "천 년 묵은… 잡내."
+    },
+    {
+      "id": 405,
+      "groupKey": "유적 수호자",
+      "textKey": "유통기한 천 년 초과."
+    },
+    {
+      "id": 406,
+      "groupKey": "유적 수호자",
+      "textKey": "먼지 털면 뭐가 남지?"
+    },
+    {
+      "id": 407,
+      "groupKey": "유적 수호자",
+      "textKey": "유물은… 솥으로."
+    },
+    {
+      "id": 408,
+      "groupKey": "유적 수호자",
+      "textKey": "수호할 유적도 없는데 수고했다."
+    },
+    {
+      "id": 409,
+      "groupKey": "유적 수호자",
+      "textKey": "감정가: 국물 반 그릇."
+    },
+    {
+      "id": 410,
+      "groupKey": "유적 수호자",
+      "textKey": "비사보다 오래된 놈."
+    }
+  ]
+}

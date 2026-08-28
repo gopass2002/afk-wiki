@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+.omc/
+.bundle/
+vendor/
+.extract-stage-*/
+assets/images/.game-stage-*/
+assets/images/.game-stage-*.backup/

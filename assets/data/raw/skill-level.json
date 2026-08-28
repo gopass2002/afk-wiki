@@ -1,0 +1,5701 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 711,
+    "schema": "FBDataSkillLevel",
+    "sourceAsset": "FBDataSkillLevel",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "BasicAttack",
+      "level": 1,
+      "atkMultiplier": 10000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110101,
+      "groupKey": "CheonmaSu",
+      "level": 1,
+      "atkMultiplier": 15500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110102,
+      "groupKey": "CheonmaSu",
+      "level": 2,
+      "atkMultiplier": 19900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110103,
+      "groupKey": "CheonmaSu",
+      "level": 3,
+      "atkMultiplier": 24300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110104,
+      "groupKey": "CheonmaSu",
+      "level": 4,
+      "atkMultiplier": 28600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110105,
+      "groupKey": "CheonmaSu",
+      "level": 5,
+      "atkMultiplier": 33000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130101,
+      "groupKey": "CheonmaJang",
+      "level": 1,
+      "atkMultiplier": 8200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130102,
+      "groupKey": "CheonmaJang",
+      "level": 2,
+      "atkMultiplier": 12200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130103,
+      "groupKey": "CheonmaJang",
+      "level": 3,
+      "atkMultiplier": 16100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130104,
+      "groupKey": "CheonmaJang",
+      "level": 4,
+      "atkMultiplier": 20100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130105,
+      "groupKey": "CheonmaJang",
+      "level": 5,
+      "atkMultiplier": 24000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210101,
+      "groupKey": "CheonmaSingong",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210102,
+      "groupKey": "CheonmaSingong",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210103,
+      "groupKey": "CheonmaSingong",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210104,
+      "groupKey": "CheonmaSingong",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210105,
+      "groupKey": "CheonmaSingong",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210201,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210201",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210202,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210202",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210203,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210203",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210204,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210204",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210205,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210205",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210301,
+      "groupKey": "HeukPungBo",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210301",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210302,
+      "groupKey": "HeukPungBo",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210302",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210303,
+      "groupKey": "HeukPungBo",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210303",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210304,
+      "groupKey": "HeukPungBo",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210304",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210305,
+      "groupKey": "HeukPungBo",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210305",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210401,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210401",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210402,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210402",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210403,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210403",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210404,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210404",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210405,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210405",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220101,
+      "groupKey": "CheonmaGigong",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220102,
+      "groupKey": "CheonmaGigong",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220103,
+      "groupKey": "CheonmaGigong",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220104,
+      "groupKey": "CheonmaGigong",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220105,
+      "groupKey": "CheonmaGigong",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220201,
+      "groupKey": "OegongSuryeon",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220201",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220202,
+      "groupKey": "OegongSuryeon",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220202",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220203,
+      "groupKey": "OegongSuryeon",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220203",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220204,
+      "groupKey": "OegongSuryeon",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220204",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220205,
+      "groupKey": "OegongSuryeon",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220205",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220301,
+      "groupKey": "Heuksalgap",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220301",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220302,
+      "groupKey": "Heuksalgap",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220302",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220303,
+      "groupKey": "Heuksalgap",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220303",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220304,
+      "groupKey": "Heuksalgap",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220304",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220305,
+      "groupKey": "Heuksalgap",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220305",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220401,
+      "groupKey": "CheonmaNapto",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220401",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220402,
+      "groupKey": "CheonmaNapto",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220402",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220403,
+      "groupKey": "CheonmaNapto",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220403",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220404,
+      "groupKey": "CheonmaNapto",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220404",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220405,
+      "groupKey": "CheonmaNapto",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220405",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220501,
+      "groupKey": "CheonmaUngi",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220501",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220502,
+      "groupKey": "CheonmaUngi",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220502",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220503,
+      "groupKey": "CheonmaUngi",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220503",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220504,
+      "groupKey": "CheonmaUngi",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220504",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220505,
+      "groupKey": "CheonmaUngi",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220505",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220601,
+      "groupKey": "SahyeolJasaeng",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220601",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220602,
+      "groupKey": "SahyeolJasaeng",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220602",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220603,
+      "groupKey": "SahyeolJasaeng",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220603",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220604,
+      "groupKey": "SahyeolJasaeng",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220604",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220605,
+      "groupKey": "SahyeolJasaeng",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220605",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220701,
+      "groupKey": "CheonmaTonap",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220701",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220702,
+      "groupKey": "CheonmaTonap",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220702",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220703,
+      "groupKey": "CheonmaTonap",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220703",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220704,
+      "groupKey": "CheonmaTonap",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220704",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220705,
+      "groupKey": "CheonmaTonap",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220705",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220801,
+      "groupKey": "HeuksalCham",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220801",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220802,
+      "groupKey": "HeuksalCham",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220802",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220803,
+      "groupKey": "HeuksalCham",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220803",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220804,
+      "groupKey": "HeuksalCham",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220804",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220805,
+      "groupKey": "HeuksalCham",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220805",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220901,
+      "groupKey": "Masalgyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220901",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220902,
+      "groupKey": "Masalgyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220902",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220903,
+      "groupKey": "Masalgyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220903",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220904,
+      "groupKey": "Masalgyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220904",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220905,
+      "groupKey": "Masalgyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220905",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230101,
+      "groupKey": "Maan",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230102,
+      "groupKey": "Maan",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230103,
+      "groupKey": "Maan",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230104,
+      "groupKey": "Maan",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230105,
+      "groupKey": "Maan",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230201,
+      "groupKey": "CheonmaJanyeong",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230201",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230202,
+      "groupKey": "CheonmaJanyeong",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230202",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230203,
+      "groupKey": "CheonmaJanyeong",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230203",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230204,
+      "groupKey": "CheonmaJanyeong",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230204",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230205,
+      "groupKey": "CheonmaJanyeong",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230205",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230301,
+      "groupKey": "MaanGeupso",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230301",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230302,
+      "groupKey": "MaanGeupso",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230302",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230303,
+      "groupKey": "MaanGeupso",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230303",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230304,
+      "groupKey": "MaanGeupso",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230304",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230305,
+      "groupKey": "MaanGeupso",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230305",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230401,
+      "groupKey": "CheonmaHosinsul",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230401",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230402,
+      "groupKey": "CheonmaHosinsul",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230402",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230403,
+      "groupKey": "CheonmaHosinsul",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230403",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230404,
+      "groupKey": "CheonmaHosinsul",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230404",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230405,
+      "groupKey": "CheonmaHosinsul",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230405",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230501,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230501",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230502,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230502",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230503,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230503",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230504,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230504",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230505,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230505",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240101,
+      "groupKey": "CheonmaGanggi",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240102,
+      "groupKey": "CheonmaGanggi",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240103,
+      "groupKey": "CheonmaGanggi",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240104,
+      "groupKey": "CheonmaGanggi",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240105,
+      "groupKey": "CheonmaGanggi",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240201,
+      "groupKey": "CheonmaHoesim",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240201",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240202,
+      "groupKey": "CheonmaHoesim",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240202",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240203,
+      "groupKey": "CheonmaHoesim",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240203",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240204,
+      "groupKey": "CheonmaHoesim",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240204",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240205,
+      "groupKey": "CheonmaHoesim",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240205",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240301,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240302,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240303,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240304,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240305,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240401,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240401",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240402,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240402",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240403,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240403",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240404,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240404",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240405,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240405",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240501,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240501",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240502,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240502",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240503,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240503",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240504,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240504",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240505,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240505",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240601,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240601",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240602,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240602",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240603,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240603",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240604,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240604",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240605,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240605",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250101,
+      "groupKey": "CheonmaMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250102,
+      "groupKey": "CheonmaMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250103,
+      "groupKey": "CheonmaMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250104,
+      "groupKey": "CheonmaMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250105,
+      "groupKey": "CheonmaMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250201,
+      "groupKey": "CheonmaSalsu",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250202,
+      "groupKey": "CheonmaSalsu",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250203,
+      "groupKey": "CheonmaSalsu",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250204,
+      "groupKey": "CheonmaSalsu",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250205,
+      "groupKey": "CheonmaSalsu",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250301,
+      "groupKey": "CheonmaSuryeom",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250301",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250302,
+      "groupKey": "CheonmaSuryeom",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250302",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250303,
+      "groupKey": "CheonmaSuryeom",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250303",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250304,
+      "groupKey": "CheonmaSuryeom",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250304",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250305,
+      "groupKey": "CheonmaSuryeom",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250305",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110101,
+      "groupKey": "MaehwaSo",
+      "level": 1,
+      "atkMultiplier": 7800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110102,
+      "groupKey": "MaehwaSo",
+      "level": 2,
+      "atkMultiplier": 11200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110103,
+      "groupKey": "MaehwaSo",
+      "level": 3,
+      "atkMultiplier": 14700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110104,
+      "groupKey": "MaehwaSo",
+      "level": 4,
+      "atkMultiplier": 18100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110105,
+      "groupKey": "MaehwaSo",
+      "level": 5,
+      "atkMultiplier": 21500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130101,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 1,
+      "atkMultiplier": 10300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130102,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 2,
+      "atkMultiplier": 14500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130103,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 3,
+      "atkMultiplier": 18700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130104,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 4,
+      "atkMultiplier": 22800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130105,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 5,
+      "atkMultiplier": 27000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110101,
+      "groupKey": "PaenggaDando",
+      "level": 1,
+      "atkMultiplier": 23800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110102,
+      "groupKey": "PaenggaDando",
+      "level": 2,
+      "atkMultiplier": 34100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110103,
+      "groupKey": "PaenggaDando",
+      "level": 3,
+      "atkMultiplier": 44400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110104,
+      "groupKey": "PaenggaDando",
+      "level": 4,
+      "atkMultiplier": 54700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110105,
+      "groupKey": "PaenggaDando",
+      "level": 5,
+      "atkMultiplier": 65000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130101,
+      "groupKey": "OhoDobeop",
+      "level": 1,
+      "atkMultiplier": 13500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130102,
+      "groupKey": "OhoDobeop",
+      "level": 2,
+      "atkMultiplier": 19500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130103,
+      "groupKey": "OhoDobeop",
+      "level": 3,
+      "atkMultiplier": 25500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130104,
+      "groupKey": "OhoDobeop",
+      "level": 4,
+      "atkMultiplier": 31500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130105,
+      "groupKey": "OhoDobeop",
+      "level": 5,
+      "atkMultiplier": 37500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110101,
+      "groupKey": "Yanggachanggyeol",
+      "level": 1,
+      "atkMultiplier": 18000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110102,
+      "groupKey": "Yanggachanggyeol",
+      "level": 2,
+      "atkMultiplier": 24000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110103,
+      "groupKey": "Yanggachanggyeol",
+      "level": 3,
+      "atkMultiplier": 30000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110104,
+      "groupKey": "Yanggachanggyeol",
+      "level": 4,
+      "atkMultiplier": 36000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110105,
+      "groupKey": "Yanggachanggyeol",
+      "level": 5,
+      "atkMultiplier": 42000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130101,
+      "groupKey": "IlChangCheon",
+      "level": 1,
+      "atkMultiplier": 28800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130102,
+      "groupKey": "IlChangCheon",
+      "level": 2,
+      "atkMultiplier": 41600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130103,
+      "groupKey": "IlChangCheon",
+      "level": 3,
+      "atkMultiplier": 54400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130104,
+      "groupKey": "IlChangCheon",
+      "level": 4,
+      "atkMultiplier": 67200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130105,
+      "groupKey": "IlChangCheon",
+      "level": 5,
+      "atkMultiplier": 80000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110101,
+      "groupKey": "SorimGon",
+      "level": 1,
+      "atkMultiplier": 8800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110102,
+      "groupKey": "SorimGon",
+      "level": 2,
+      "atkMultiplier": 11000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110103,
+      "groupKey": "SorimGon",
+      "level": 3,
+      "atkMultiplier": 13200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110104,
+      "groupKey": "SorimGon",
+      "level": 4,
+      "atkMultiplier": 15300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110105,
+      "groupKey": "SorimGon",
+      "level": 5,
+      "atkMultiplier": 17500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130101,
+      "groupKey": "SorimGonbeop",
+      "level": 1,
+      "atkMultiplier": 10300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130102,
+      "groupKey": "SorimGonbeop",
+      "level": 2,
+      "atkMultiplier": 14600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130103,
+      "groupKey": "SorimGonbeop",
+      "level": 3,
+      "atkMultiplier": 18900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130104,
+      "groupKey": "SorimGonbeop",
+      "level": 4,
+      "atkMultiplier": 23200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130105,
+      "groupKey": "SorimGonbeop",
+      "level": 5,
+      "atkMultiplier": 27500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110101,
+      "groupKey": "DangmunBido",
+      "level": 1,
+      "atkMultiplier": 4700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110102,
+      "groupKey": "DangmunBido",
+      "level": 2,
+      "atkMultiplier": 6400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110103,
+      "groupKey": "DangmunBido",
+      "level": 3,
+      "atkMultiplier": 8100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110104,
+      "groupKey": "DangmunBido",
+      "level": 4,
+      "atkMultiplier": 9800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110105,
+      "groupKey": "DangmunBido",
+      "level": 5,
+      "atkMultiplier": 11500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130101,
+      "groupKey": "Gwisalgyeol",
+      "level": 1,
+      "atkMultiplier": 3200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130102,
+      "groupKey": "Gwisalgyeol",
+      "level": 2,
+      "atkMultiplier": 4700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130103,
+      "groupKey": "Gwisalgyeol",
+      "level": 3,
+      "atkMultiplier": 6100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130104,
+      "groupKey": "Gwisalgyeol",
+      "level": 4,
+      "atkMultiplier": 7600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130105,
+      "groupKey": "Gwisalgyeol",
+      "level": 5,
+      "atkMultiplier": 9000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210101,
+      "groupKey": "GeomgyeolChosik",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210102,
+      "groupKey": "GeomgyeolChosik",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210103,
+      "groupKey": "GeomgyeolChosik",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210104,
+      "groupKey": "GeomgyeolChosik",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210105,
+      "groupKey": "GeomgyeolChosik",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220101,
+      "groupKey": "GeomgiEungchuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220102,
+      "groupKey": "GeomgiEungchuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220103,
+      "groupKey": "GeomgiEungchuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220104,
+      "groupKey": "GeomgiEungchuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220105,
+      "groupKey": "GeomgiEungchuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230101,
+      "groupKey": "MaehwaAnsik",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230102,
+      "groupKey": "MaehwaAnsik",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230103,
+      "groupKey": "MaehwaAnsik",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230104,
+      "groupKey": "MaehwaAnsik",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230105,
+      "groupKey": "MaehwaAnsik",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240101,
+      "groupKey": "GeomsinGaho",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240102,
+      "groupKey": "GeomsinGaho",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240103,
+      "groupKey": "GeomsinGaho",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240104,
+      "groupKey": "GeomsinGaho",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240105,
+      "groupKey": "GeomsinGaho",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240201,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240201"
+    },
+    {
+      "id": 20240202,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240202"
+    },
+    {
+      "id": 20240203,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240203"
+    },
+    {
+      "id": 20240204,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240204"
+    },
+    {
+      "id": 20240205,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240205"
+    },
+    {
+      "id": 20250101,
+      "groupKey": "GeomsinMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250102,
+      "groupKey": "GeomsinMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250103,
+      "groupKey": "GeomsinMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250104,
+      "groupKey": "GeomsinMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250105,
+      "groupKey": "GeomsinMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210101,
+      "groupKey": "DogyeolIpmun",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210102,
+      "groupKey": "DogyeolIpmun",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210103,
+      "groupKey": "DogyeolIpmun",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210104,
+      "groupKey": "DogyeolIpmun",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210105,
+      "groupKey": "DogyeolIpmun",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220101,
+      "groupKey": "DobeopSuryeon",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220102,
+      "groupKey": "DobeopSuryeon",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220103,
+      "groupKey": "DobeopSuryeon",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220104,
+      "groupKey": "DobeopSuryeon",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220105,
+      "groupKey": "DobeopSuryeon",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230101,
+      "groupKey": "HoanIldo",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230102,
+      "groupKey": "HoanIldo",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230103,
+      "groupKey": "HoanIldo",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230104,
+      "groupKey": "HoanIldo",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230105,
+      "groupKey": "HoanIldo",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240101,
+      "groupKey": "PaedoJigyeong",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240102,
+      "groupKey": "PaedoJigyeong",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240103,
+      "groupKey": "PaedoJigyeong",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240104,
+      "groupKey": "PaedoJigyeong",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240105,
+      "groupKey": "PaedoJigyeong",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240201,
+      "groupKey": "UnghonDoche",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240201"
+    },
+    {
+      "id": 30240202,
+      "groupKey": "UnghonDoche",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240202"
+    },
+    {
+      "id": 30240203,
+      "groupKey": "UnghonDoche",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240203"
+    },
+    {
+      "id": 30240204,
+      "groupKey": "UnghonDoche",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240204"
+    },
+    {
+      "id": 30240205,
+      "groupKey": "UnghonDoche",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240205"
+    },
+    {
+      "id": 30250101,
+      "groupKey": "DohwangMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250102,
+      "groupKey": "DohwangMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250103,
+      "groupKey": "DohwangMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250104,
+      "groupKey": "DohwangMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250105,
+      "groupKey": "DohwangMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210101,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210102,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210103,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210104,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210105,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220101,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220102,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220103,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220104,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220105,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230101,
+      "groupKey": "JikchangJeongmil",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230102,
+      "groupKey": "JikchangJeongmil",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230103,
+      "groupKey": "JikchangJeongmil",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230104,
+      "groupKey": "JikchangJeongmil",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230105,
+      "groupKey": "JikchangJeongmil",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240101,
+      "groupKey": "YanggaBeopdo",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240102,
+      "groupKey": "YanggaBeopdo",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240103,
+      "groupKey": "YanggaBeopdo",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240104,
+      "groupKey": "YanggaBeopdo",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240105,
+      "groupKey": "YanggaBeopdo",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240201,
+      "groupKey": "GwangiChanggyeol",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240201"
+    },
+    {
+      "id": 40240202,
+      "groupKey": "GwangiChanggyeol",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240202"
+    },
+    {
+      "id": 40240203,
+      "groupKey": "GwangiChanggyeol",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240203"
+    },
+    {
+      "id": 40240204,
+      "groupKey": "GwangiChanggyeol",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240204"
+    },
+    {
+      "id": 40240205,
+      "groupKey": "GwangiChanggyeol",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240205"
+    },
+    {
+      "id": 40250101,
+      "groupKey": "ChangjeMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250102,
+      "groupKey": "ChangjeMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250103,
+      "groupKey": "ChangjeMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250104,
+      "groupKey": "ChangjeMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250105,
+      "groupKey": "ChangjeMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210101,
+      "groupKey": "GongyeolIpmun",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210102,
+      "groupKey": "GongyeolIpmun",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210103,
+      "groupKey": "GongyeolIpmun",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210104,
+      "groupKey": "GongyeolIpmun",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210105,
+      "groupKey": "GongyeolIpmun",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220101,
+      "groupKey": "GonbeopSuryeon",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220102,
+      "groupKey": "GonbeopSuryeon",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220103,
+      "groupKey": "GonbeopSuryeon",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220104,
+      "groupKey": "GonbeopSuryeon",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220105,
+      "groupKey": "GonbeopSuryeon",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230101,
+      "groupKey": "GanggonJiryeok",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230102,
+      "groupKey": "GanggonJiryeok",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230103,
+      "groupKey": "GanggonJiryeok",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230104,
+      "groupKey": "GanggonJiryeok",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230105,
+      "groupKey": "GanggonJiryeok",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240101,
+      "groupKey": "GonsinGaho",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240102,
+      "groupKey": "GonsinGaho",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240103,
+      "groupKey": "GonsinGaho",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240104,
+      "groupKey": "GonsinGaho",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240105,
+      "groupKey": "GonsinGaho",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240201,
+      "groupKey": "NaegaGongi",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240201"
+    },
+    {
+      "id": 50240202,
+      "groupKey": "NaegaGongi",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240202"
+    },
+    {
+      "id": 50240203,
+      "groupKey": "NaegaGongi",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240203"
+    },
+    {
+      "id": 50240204,
+      "groupKey": "NaegaGongi",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240204"
+    },
+    {
+      "id": 50240205,
+      "groupKey": "NaegaGongi",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240205"
+    },
+    {
+      "id": 50250101,
+      "groupKey": "GonjeMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250102,
+      "groupKey": "GonjeMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250103,
+      "groupKey": "GonjeMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250104,
+      "groupKey": "GonjeMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250105,
+      "groupKey": "GonjeMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210101,
+      "groupKey": "PyogyeolIpmun",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210101",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210102,
+      "groupKey": "PyogyeolIpmun",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210102",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210103,
+      "groupKey": "PyogyeolIpmun",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210103",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210104,
+      "groupKey": "PyogyeolIpmun",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210104",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210105,
+      "groupKey": "PyogyeolIpmun",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210105",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220101,
+      "groupKey": "AmgiSuryeon",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220101",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220102,
+      "groupKey": "AmgiSuryeon",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220102",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220103,
+      "groupKey": "AmgiSuryeon",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220103",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220104,
+      "groupKey": "AmgiSuryeon",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220104",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220105,
+      "groupKey": "AmgiSuryeon",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220105",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230101,
+      "groupKey": "JeonghwakTucheok",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230101",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230102,
+      "groupKey": "JeonghwakTucheok",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230102",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230103,
+      "groupKey": "JeonghwakTucheok",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230103",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230104,
+      "groupKey": "JeonghwakTucheok",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230104",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230105,
+      "groupKey": "JeonghwakTucheok",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230105",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240101,
+      "groupKey": "BidoJijil",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240101",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240102,
+      "groupKey": "BidoJijil",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240102",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240103,
+      "groupKey": "BidoJijil",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240103",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240104,
+      "groupKey": "BidoJijil",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240104",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240105,
+      "groupKey": "BidoJijil",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240105",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240201,
+      "groupKey": "GyeongsinBisu",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240201"
+    },
+    {
+      "id": 60240202,
+      "groupKey": "GyeongsinBisu",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240202"
+    },
+    {
+      "id": 60240203,
+      "groupKey": "GyeongsinBisu",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240203"
+    },
+    {
+      "id": 60240204,
+      "groupKey": "GyeongsinBisu",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240204"
+    },
+    {
+      "id": 60240205,
+      "groupKey": "GyeongsinBisu",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240205"
+    },
+    {
+      "id": 60250101,
+      "groupKey": "MandokMugeuk",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250101",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250102,
+      "groupKey": "MandokMugeuk",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250102",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250103,
+      "groupKey": "MandokMugeuk",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250103",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250104,
+      "groupKey": "MandokMugeuk",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250104",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250105,
+      "groupKey": "MandokMugeuk",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250105",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110201,
+      "groupKey": "CheonmaSeonwa",
+      "level": 1,
+      "atkMultiplier": 6700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110202,
+      "groupKey": "CheonmaSeonwa",
+      "level": 2,
+      "atkMultiplier": 9500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110203,
+      "groupKey": "CheonmaSeonwa",
+      "level": 3,
+      "atkMultiplier": 12400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110204,
+      "groupKey": "CheonmaSeonwa",
+      "level": 4,
+      "atkMultiplier": 15200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110205,
+      "groupKey": "CheonmaSeonwa",
+      "level": 5,
+      "atkMultiplier": 18000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120101,
+      "groupKey": "CheonmaNoejeon",
+      "level": 1,
+      "atkMultiplier": 7800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120102,
+      "groupKey": "CheonmaNoejeon",
+      "level": 2,
+      "atkMultiplier": 11100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120103,
+      "groupKey": "CheonmaNoejeon",
+      "level": 3,
+      "atkMultiplier": 14400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120104,
+      "groupKey": "CheonmaNoejeon",
+      "level": 4,
+      "atkMultiplier": 17700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120105,
+      "groupKey": "CheonmaNoejeon",
+      "level": 5,
+      "atkMultiplier": 21000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110106,
+      "groupKey": "CheonmaSu",
+      "level": 6,
+      "atkMultiplier": 37400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110107,
+      "groupKey": "CheonmaSu",
+      "level": 7,
+      "atkMultiplier": 41800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110108,
+      "groupKey": "CheonmaSu",
+      "level": 8,
+      "atkMultiplier": 46100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110109,
+      "groupKey": "CheonmaSu",
+      "level": 9,
+      "atkMultiplier": 50500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110110,
+      "groupKey": "CheonmaSu",
+      "level": 10,
+      "atkMultiplier": 54900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130106,
+      "groupKey": "CheonmaJang",
+      "level": 6,
+      "atkMultiplier": 28000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130107,
+      "groupKey": "CheonmaJang",
+      "level": 7,
+      "atkMultiplier": 31900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130108,
+      "groupKey": "CheonmaJang",
+      "level": 8,
+      "atkMultiplier": 35900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130109,
+      "groupKey": "CheonmaJang",
+      "level": 9,
+      "atkMultiplier": 39800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11130110,
+      "groupKey": "CheonmaJang",
+      "level": 10,
+      "atkMultiplier": 43800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210106,
+      "groupKey": "CheonmaSingong",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210107,
+      "groupKey": "CheonmaSingong",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210108,
+      "groupKey": "CheonmaSingong",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210109,
+      "groupKey": "CheonmaSingong",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210110,
+      "groupKey": "CheonmaSingong",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210206,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210206",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210207,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210207",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210208,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210208",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210209,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210209",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210210,
+      "groupKey": "CheonmaHochegyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210210",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210306,
+      "groupKey": "HeukPungBo",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210306",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210307,
+      "groupKey": "HeukPungBo",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210307",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210308,
+      "groupKey": "HeukPungBo",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210308",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210309,
+      "groupKey": "HeukPungBo",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210309",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210310,
+      "groupKey": "HeukPungBo",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210310",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210406,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210406",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210407,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210407",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210408,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210408",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210409,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210409",
+      "derivationKey": ""
+    },
+    {
+      "id": 11210410,
+      "groupKey": "CheonmaJeongsimgyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11210410",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220106,
+      "groupKey": "CheonmaGigong",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220107,
+      "groupKey": "CheonmaGigong",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220108,
+      "groupKey": "CheonmaGigong",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220109,
+      "groupKey": "CheonmaGigong",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220110,
+      "groupKey": "CheonmaGigong",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220206,
+      "groupKey": "OegongSuryeon",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220206",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220207,
+      "groupKey": "OegongSuryeon",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220207",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220208,
+      "groupKey": "OegongSuryeon",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220208",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220209,
+      "groupKey": "OegongSuryeon",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220209",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220210,
+      "groupKey": "OegongSuryeon",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220210",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220306,
+      "groupKey": "Heuksalgap",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220306",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220307,
+      "groupKey": "Heuksalgap",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220307",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220308,
+      "groupKey": "Heuksalgap",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220308",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220309,
+      "groupKey": "Heuksalgap",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220309",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220310,
+      "groupKey": "Heuksalgap",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220310",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220406,
+      "groupKey": "CheonmaNapto",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220406",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220407,
+      "groupKey": "CheonmaNapto",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220407",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220408,
+      "groupKey": "CheonmaNapto",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220408",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220409,
+      "groupKey": "CheonmaNapto",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220409",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220410,
+      "groupKey": "CheonmaNapto",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220410",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220506,
+      "groupKey": "CheonmaUngi",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220506",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220507,
+      "groupKey": "CheonmaUngi",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220507",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220508,
+      "groupKey": "CheonmaUngi",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220508",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220509,
+      "groupKey": "CheonmaUngi",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220509",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220510,
+      "groupKey": "CheonmaUngi",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220510",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220606,
+      "groupKey": "SahyeolJasaeng",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220606",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220607,
+      "groupKey": "SahyeolJasaeng",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220607",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220608,
+      "groupKey": "SahyeolJasaeng",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220608",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220609,
+      "groupKey": "SahyeolJasaeng",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220609",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220610,
+      "groupKey": "SahyeolJasaeng",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220610",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220706,
+      "groupKey": "CheonmaTonap",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220706",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220707,
+      "groupKey": "CheonmaTonap",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220707",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220708,
+      "groupKey": "CheonmaTonap",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220708",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220709,
+      "groupKey": "CheonmaTonap",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220709",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220710,
+      "groupKey": "CheonmaTonap",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220710",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220806,
+      "groupKey": "HeuksalCham",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220806",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220807,
+      "groupKey": "HeuksalCham",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220807",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220808,
+      "groupKey": "HeuksalCham",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220808",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220809,
+      "groupKey": "HeuksalCham",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220809",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220810,
+      "groupKey": "HeuksalCham",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220810",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220906,
+      "groupKey": "Masalgyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220906",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220907,
+      "groupKey": "Masalgyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220907",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220908,
+      "groupKey": "Masalgyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220908",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220909,
+      "groupKey": "Masalgyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220909",
+      "derivationKey": ""
+    },
+    {
+      "id": 11220910,
+      "groupKey": "Masalgyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11220910",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230106,
+      "groupKey": "Maan",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230107,
+      "groupKey": "Maan",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230108,
+      "groupKey": "Maan",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230109,
+      "groupKey": "Maan",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230110,
+      "groupKey": "Maan",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230206,
+      "groupKey": "CheonmaJanyeong",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230206",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230207,
+      "groupKey": "CheonmaJanyeong",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230207",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230208,
+      "groupKey": "CheonmaJanyeong",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230208",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230209,
+      "groupKey": "CheonmaJanyeong",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230209",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230210,
+      "groupKey": "CheonmaJanyeong",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230210",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230306,
+      "groupKey": "MaanGeupso",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230306",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230307,
+      "groupKey": "MaanGeupso",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230307",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230308,
+      "groupKey": "MaanGeupso",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230308",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230309,
+      "groupKey": "MaanGeupso",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230309",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230310,
+      "groupKey": "MaanGeupso",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230310",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230406,
+      "groupKey": "CheonmaHosinsul",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230406",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230407,
+      "groupKey": "CheonmaHosinsul",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230407",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230408,
+      "groupKey": "CheonmaHosinsul",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230408",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230409,
+      "groupKey": "CheonmaHosinsul",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230409",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230410,
+      "groupKey": "CheonmaHosinsul",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230410",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230506,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230506",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230507,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230507",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230508,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230508",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230509,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230509",
+      "derivationKey": ""
+    },
+    {
+      "id": 11230510,
+      "groupKey": "CheonmaHochedaesung",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11230510",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240106,
+      "groupKey": "CheonmaGanggi",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240107,
+      "groupKey": "CheonmaGanggi",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240108,
+      "groupKey": "CheonmaGanggi",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240109,
+      "groupKey": "CheonmaGanggi",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240110,
+      "groupKey": "CheonmaGanggi",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240206,
+      "groupKey": "CheonmaHoesim",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240206",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240207,
+      "groupKey": "CheonmaHoesim",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240207",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240208,
+      "groupKey": "CheonmaHoesim",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240208",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240209,
+      "groupKey": "CheonmaHoesim",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240209",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240210,
+      "groupKey": "CheonmaHoesim",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240210",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240306,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240307,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240308,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240309,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240310,
+      "groupKey": "CheonmaSokhaeng",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240406,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240406",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240407,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240407",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240408,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240408",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240409,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240409",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240410,
+      "groupKey": "CheonmaSokgyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240410",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240506,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240506",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240507,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240507",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240508,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240508",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240509,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240509",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240510,
+      "groupKey": "CheonmaBalgyeong",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240510",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240606,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240606",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240607,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240607",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240608,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240608",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240609,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240609",
+      "derivationKey": ""
+    },
+    {
+      "id": 11240610,
+      "groupKey": "CheonmaHosinganggi",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11240610",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250106,
+      "groupKey": "CheonmaMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250107,
+      "groupKey": "CheonmaMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250108,
+      "groupKey": "CheonmaMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250109,
+      "groupKey": "CheonmaMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250110,
+      "groupKey": "CheonmaMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250206,
+      "groupKey": "CheonmaSalsu",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250207,
+      "groupKey": "CheonmaSalsu",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250208,
+      "groupKey": "CheonmaSalsu",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250209,
+      "groupKey": "CheonmaSalsu",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250210,
+      "groupKey": "CheonmaSalsu",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250210",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250306,
+      "groupKey": "CheonmaSuryeom",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250306",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250307,
+      "groupKey": "CheonmaSuryeom",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250307",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250308,
+      "groupKey": "CheonmaSuryeom",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250308",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250309,
+      "groupKey": "CheonmaSuryeom",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250309",
+      "derivationKey": ""
+    },
+    {
+      "id": 11250310,
+      "groupKey": "CheonmaSuryeom",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_11250310",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110106,
+      "groupKey": "MaehwaSo",
+      "level": 6,
+      "atkMultiplier": 24900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110107,
+      "groupKey": "MaehwaSo",
+      "level": 7,
+      "atkMultiplier": 28400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110108,
+      "groupKey": "MaehwaSo",
+      "level": 8,
+      "atkMultiplier": 31800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110109,
+      "groupKey": "MaehwaSo",
+      "level": 9,
+      "atkMultiplier": 35200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21110110,
+      "groupKey": "MaehwaSo",
+      "level": 10,
+      "atkMultiplier": 38600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130106,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 6,
+      "atkMultiplier": 31200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130107,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 7,
+      "atkMultiplier": 35400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130108,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 8,
+      "atkMultiplier": 39500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130109,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 9,
+      "atkMultiplier": 43700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 21130110,
+      "groupKey": "ChilmaeGeomjin",
+      "level": 10,
+      "atkMultiplier": 47900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110106,
+      "groupKey": "PaenggaDando",
+      "level": 6,
+      "atkMultiplier": 75300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110107,
+      "groupKey": "PaenggaDando",
+      "level": 7,
+      "atkMultiplier": 85600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110108,
+      "groupKey": "PaenggaDando",
+      "level": 8,
+      "atkMultiplier": 95900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110109,
+      "groupKey": "PaenggaDando",
+      "level": 9,
+      "atkMultiplier": 106200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31110110,
+      "groupKey": "PaenggaDando",
+      "level": 10,
+      "atkMultiplier": 116500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130106,
+      "groupKey": "OhoDobeop",
+      "level": 6,
+      "atkMultiplier": 43500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130107,
+      "groupKey": "OhoDobeop",
+      "level": 7,
+      "atkMultiplier": 49500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130108,
+      "groupKey": "OhoDobeop",
+      "level": 8,
+      "atkMultiplier": 55500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130109,
+      "groupKey": "OhoDobeop",
+      "level": 9,
+      "atkMultiplier": 61500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 31130110,
+      "groupKey": "OhoDobeop",
+      "level": 10,
+      "atkMultiplier": 67500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110106,
+      "groupKey": "Yanggachanggyeol",
+      "level": 6,
+      "atkMultiplier": 48000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110107,
+      "groupKey": "Yanggachanggyeol",
+      "level": 7,
+      "atkMultiplier": 54000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110108,
+      "groupKey": "Yanggachanggyeol",
+      "level": 8,
+      "atkMultiplier": 60000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110109,
+      "groupKey": "Yanggachanggyeol",
+      "level": 9,
+      "atkMultiplier": 66000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41110110,
+      "groupKey": "Yanggachanggyeol",
+      "level": 10,
+      "atkMultiplier": 72000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130106,
+      "groupKey": "IlChangCheon",
+      "level": 6,
+      "atkMultiplier": 92800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130107,
+      "groupKey": "IlChangCheon",
+      "level": 7,
+      "atkMultiplier": 105600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130108,
+      "groupKey": "IlChangCheon",
+      "level": 8,
+      "atkMultiplier": 118400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130109,
+      "groupKey": "IlChangCheon",
+      "level": 9,
+      "atkMultiplier": 131200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 41130110,
+      "groupKey": "IlChangCheon",
+      "level": 10,
+      "atkMultiplier": 144000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110106,
+      "groupKey": "SorimGon",
+      "level": 6,
+      "atkMultiplier": 19700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110107,
+      "groupKey": "SorimGon",
+      "level": 7,
+      "atkMultiplier": 21900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110108,
+      "groupKey": "SorimGon",
+      "level": 8,
+      "atkMultiplier": 24000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110109,
+      "groupKey": "SorimGon",
+      "level": 9,
+      "atkMultiplier": 26200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51110110,
+      "groupKey": "SorimGon",
+      "level": 10,
+      "atkMultiplier": 28400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130106,
+      "groupKey": "SorimGonbeop",
+      "level": 6,
+      "atkMultiplier": 31800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130107,
+      "groupKey": "SorimGonbeop",
+      "level": 7,
+      "atkMultiplier": 36100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130108,
+      "groupKey": "SorimGonbeop",
+      "level": 8,
+      "atkMultiplier": 40400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130109,
+      "groupKey": "SorimGonbeop",
+      "level": 9,
+      "atkMultiplier": 44700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 51130110,
+      "groupKey": "SorimGonbeop",
+      "level": 10,
+      "atkMultiplier": 49000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110106,
+      "groupKey": "DangmunBido",
+      "level": 6,
+      "atkMultiplier": 13200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110107,
+      "groupKey": "DangmunBido",
+      "level": 7,
+      "atkMultiplier": 14900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110108,
+      "groupKey": "DangmunBido",
+      "level": 8,
+      "atkMultiplier": 16600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110109,
+      "groupKey": "DangmunBido",
+      "level": 9,
+      "atkMultiplier": 18300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61110110,
+      "groupKey": "DangmunBido",
+      "level": 10,
+      "atkMultiplier": 20000,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130106,
+      "groupKey": "Gwisalgyeol",
+      "level": 6,
+      "atkMultiplier": 10500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130107,
+      "groupKey": "Gwisalgyeol",
+      "level": 7,
+      "atkMultiplier": 11900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130108,
+      "groupKey": "Gwisalgyeol",
+      "level": 8,
+      "atkMultiplier": 13400,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130109,
+      "groupKey": "Gwisalgyeol",
+      "level": 9,
+      "atkMultiplier": 14800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 61130110,
+      "groupKey": "Gwisalgyeol",
+      "level": 10,
+      "atkMultiplier": 16300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210106,
+      "groupKey": "GeomgyeolChosik",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210107,
+      "groupKey": "GeomgyeolChosik",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210108,
+      "groupKey": "GeomgyeolChosik",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210109,
+      "groupKey": "GeomgyeolChosik",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 20210110,
+      "groupKey": "GeomgyeolChosik",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220106,
+      "groupKey": "GeomgiEungchuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220107,
+      "groupKey": "GeomgiEungchuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220108,
+      "groupKey": "GeomgiEungchuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220109,
+      "groupKey": "GeomgiEungchuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 20220110,
+      "groupKey": "GeomgiEungchuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230106,
+      "groupKey": "MaehwaAnsik",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230107,
+      "groupKey": "MaehwaAnsik",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230108,
+      "groupKey": "MaehwaAnsik",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230109,
+      "groupKey": "MaehwaAnsik",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 20230110,
+      "groupKey": "MaehwaAnsik",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240106,
+      "groupKey": "GeomsinGaho",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240107,
+      "groupKey": "GeomsinGaho",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240108,
+      "groupKey": "GeomsinGaho",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240109,
+      "groupKey": "GeomsinGaho",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240110,
+      "groupKey": "GeomsinGaho",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240206,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240206"
+    },
+    {
+      "id": 20240207,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240207"
+    },
+    {
+      "id": 20240208,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240208"
+    },
+    {
+      "id": 20240209,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240209"
+    },
+    {
+      "id": 20240210,
+      "groupKey": "YeokgeunGeomgyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_20240210"
+    },
+    {
+      "id": 20250106,
+      "groupKey": "GeomsinMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250107,
+      "groupKey": "GeomsinMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250108,
+      "groupKey": "GeomsinMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250109,
+      "groupKey": "GeomsinMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250110,
+      "groupKey": "GeomsinMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210106,
+      "groupKey": "DogyeolIpmun",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210107,
+      "groupKey": "DogyeolIpmun",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210108,
+      "groupKey": "DogyeolIpmun",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210109,
+      "groupKey": "DogyeolIpmun",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 30210110,
+      "groupKey": "DogyeolIpmun",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220106,
+      "groupKey": "DobeopSuryeon",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220107,
+      "groupKey": "DobeopSuryeon",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220108,
+      "groupKey": "DobeopSuryeon",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220109,
+      "groupKey": "DobeopSuryeon",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 30220110,
+      "groupKey": "DobeopSuryeon",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230106,
+      "groupKey": "HoanIldo",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230107,
+      "groupKey": "HoanIldo",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230108,
+      "groupKey": "HoanIldo",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230109,
+      "groupKey": "HoanIldo",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 30230110,
+      "groupKey": "HoanIldo",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240106,
+      "groupKey": "PaedoJigyeong",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240107,
+      "groupKey": "PaedoJigyeong",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240108,
+      "groupKey": "PaedoJigyeong",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240109,
+      "groupKey": "PaedoJigyeong",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240110,
+      "groupKey": "PaedoJigyeong",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240206,
+      "groupKey": "UnghonDoche",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240206"
+    },
+    {
+      "id": 30240207,
+      "groupKey": "UnghonDoche",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240207"
+    },
+    {
+      "id": 30240208,
+      "groupKey": "UnghonDoche",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240208"
+    },
+    {
+      "id": 30240209,
+      "groupKey": "UnghonDoche",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240209"
+    },
+    {
+      "id": 30240210,
+      "groupKey": "UnghonDoche",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_30240210"
+    },
+    {
+      "id": 30250106,
+      "groupKey": "DohwangMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250107,
+      "groupKey": "DohwangMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250108,
+      "groupKey": "DohwangMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250109,
+      "groupKey": "DohwangMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250110,
+      "groupKey": "DohwangMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210106,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210107,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210108,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210109,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 40210110,
+      "groupKey": "ChanggyeolIpmun",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220106,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220107,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220108,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220109,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 40220110,
+      "groupKey": "ChangbeopSuryeon",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230106,
+      "groupKey": "JikchangJeongmil",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230107,
+      "groupKey": "JikchangJeongmil",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230108,
+      "groupKey": "JikchangJeongmil",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230109,
+      "groupKey": "JikchangJeongmil",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 40230110,
+      "groupKey": "JikchangJeongmil",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240106,
+      "groupKey": "YanggaBeopdo",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240107,
+      "groupKey": "YanggaBeopdo",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240108,
+      "groupKey": "YanggaBeopdo",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240109,
+      "groupKey": "YanggaBeopdo",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240110,
+      "groupKey": "YanggaBeopdo",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240206,
+      "groupKey": "GwangiChanggyeol",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240206"
+    },
+    {
+      "id": 40240207,
+      "groupKey": "GwangiChanggyeol",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240207"
+    },
+    {
+      "id": 40240208,
+      "groupKey": "GwangiChanggyeol",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240208"
+    },
+    {
+      "id": 40240209,
+      "groupKey": "GwangiChanggyeol",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240209"
+    },
+    {
+      "id": 40240210,
+      "groupKey": "GwangiChanggyeol",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_40240210"
+    },
+    {
+      "id": 40250106,
+      "groupKey": "ChangjeMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250107,
+      "groupKey": "ChangjeMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250108,
+      "groupKey": "ChangjeMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250109,
+      "groupKey": "ChangjeMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250110,
+      "groupKey": "ChangjeMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210106,
+      "groupKey": "GongyeolIpmun",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210107,
+      "groupKey": "GongyeolIpmun",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210108,
+      "groupKey": "GongyeolIpmun",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210109,
+      "groupKey": "GongyeolIpmun",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 50210110,
+      "groupKey": "GongyeolIpmun",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220106,
+      "groupKey": "GonbeopSuryeon",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220107,
+      "groupKey": "GonbeopSuryeon",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220108,
+      "groupKey": "GonbeopSuryeon",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220109,
+      "groupKey": "GonbeopSuryeon",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 50220110,
+      "groupKey": "GonbeopSuryeon",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230106,
+      "groupKey": "GanggonJiryeok",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230107,
+      "groupKey": "GanggonJiryeok",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230108,
+      "groupKey": "GanggonJiryeok",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230109,
+      "groupKey": "GanggonJiryeok",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 50230110,
+      "groupKey": "GanggonJiryeok",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240106,
+      "groupKey": "GonsinGaho",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240107,
+      "groupKey": "GonsinGaho",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240108,
+      "groupKey": "GonsinGaho",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240109,
+      "groupKey": "GonsinGaho",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240110,
+      "groupKey": "GonsinGaho",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240206,
+      "groupKey": "NaegaGongi",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240206"
+    },
+    {
+      "id": 50240207,
+      "groupKey": "NaegaGongi",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240207"
+    },
+    {
+      "id": 50240208,
+      "groupKey": "NaegaGongi",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240208"
+    },
+    {
+      "id": 50240209,
+      "groupKey": "NaegaGongi",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240209"
+    },
+    {
+      "id": 50240210,
+      "groupKey": "NaegaGongi",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_50240210"
+    },
+    {
+      "id": 50250106,
+      "groupKey": "GonjeMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250107,
+      "groupKey": "GonjeMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250108,
+      "groupKey": "GonjeMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250109,
+      "groupKey": "GonjeMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250110,
+      "groupKey": "GonjeMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210106,
+      "groupKey": "PyogyeolIpmun",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210106",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210107,
+      "groupKey": "PyogyeolIpmun",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210107",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210108,
+      "groupKey": "PyogyeolIpmun",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210108",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210109,
+      "groupKey": "PyogyeolIpmun",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210109",
+      "derivationKey": ""
+    },
+    {
+      "id": 60210110,
+      "groupKey": "PyogyeolIpmun",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60210110",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220106,
+      "groupKey": "AmgiSuryeon",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220106",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220107,
+      "groupKey": "AmgiSuryeon",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220107",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220108,
+      "groupKey": "AmgiSuryeon",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220108",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220109,
+      "groupKey": "AmgiSuryeon",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220109",
+      "derivationKey": ""
+    },
+    {
+      "id": 60220110,
+      "groupKey": "AmgiSuryeon",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60220110",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230106,
+      "groupKey": "JeonghwakTucheok",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230106",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230107,
+      "groupKey": "JeonghwakTucheok",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230107",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230108,
+      "groupKey": "JeonghwakTucheok",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230108",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230109,
+      "groupKey": "JeonghwakTucheok",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230109",
+      "derivationKey": ""
+    },
+    {
+      "id": 60230110,
+      "groupKey": "JeonghwakTucheok",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60230110",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240106,
+      "groupKey": "BidoJijil",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240106",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240107,
+      "groupKey": "BidoJijil",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240107",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240108,
+      "groupKey": "BidoJijil",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240108",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240109,
+      "groupKey": "BidoJijil",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240109",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240110,
+      "groupKey": "BidoJijil",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240110",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240206,
+      "groupKey": "GyeongsinBisu",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240206"
+    },
+    {
+      "id": 60240207,
+      "groupKey": "GyeongsinBisu",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240207"
+    },
+    {
+      "id": 60240208,
+      "groupKey": "GyeongsinBisu",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240208"
+    },
+    {
+      "id": 60240209,
+      "groupKey": "GyeongsinBisu",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240209"
+    },
+    {
+      "id": 60240210,
+      "groupKey": "GyeongsinBisu",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "",
+      "derivationKey": "skillderiv_60240210"
+    },
+    {
+      "id": 60250106,
+      "groupKey": "MandokMugeuk",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250106",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250107,
+      "groupKey": "MandokMugeuk",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250107",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250108,
+      "groupKey": "MandokMugeuk",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250108",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250109,
+      "groupKey": "MandokMugeuk",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250109",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250110,
+      "groupKey": "MandokMugeuk",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250110",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110206,
+      "groupKey": "CheonmaSeonwa",
+      "level": 6,
+      "atkMultiplier": 20800,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110207,
+      "groupKey": "CheonmaSeonwa",
+      "level": 7,
+      "atkMultiplier": 23700,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110208,
+      "groupKey": "CheonmaSeonwa",
+      "level": 8,
+      "atkMultiplier": 26500,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110209,
+      "groupKey": "CheonmaSeonwa",
+      "level": 9,
+      "atkMultiplier": 29300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11110210,
+      "groupKey": "CheonmaSeonwa",
+      "level": 10,
+      "atkMultiplier": 32100,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120106,
+      "groupKey": "CheonmaNoejeon",
+      "level": 6,
+      "atkMultiplier": 24300,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120107,
+      "groupKey": "CheonmaNoejeon",
+      "level": 7,
+      "atkMultiplier": 27600,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120108,
+      "groupKey": "CheonmaNoejeon",
+      "level": 8,
+      "atkMultiplier": 30900,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120109,
+      "groupKey": "CheonmaNoejeon",
+      "level": 9,
+      "atkMultiplier": 34200,
+      "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 11120110,
+      "groupKey": "CheonmaNoejeon",
+      "level": 10,
+      "atkMultiplier": 37500,
+      "attrKey": "",
+      "derivationKey": ""
+    }
+  ]
+}

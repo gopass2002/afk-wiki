@@ -1,0 +1,4900 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "kind": "zoneAtlas",
+    "patch": "ebffb",
+    "rowCount": 129,
+    "sources": [
+      "FBDataZone",
+      "FBDataZoneRegion",
+      "FBDataZoneSpawn",
+      "FBDataActorMonster",
+      "FBDataActorNPC",
+      "FBDataStringMonster_ko"
+    ],
+    "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "천마 본산",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 50,
+      "posX": 279,
+      "posY": -423,
+      "tmx": "Map_HeavenlyDemonCult",
+      "spawnKey": "spawn_0_0",
+      "spawnDataFound": true,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 6,
+      "npcNames": [
+        "호법 장로",
+        "소소",
+        "채희",
+        "채화",
+        "천변경",
+        "문파 총관"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        },
+        {
+          "id": 100008,
+          "name": "소소",
+          "shopId": 2,
+          "spawnObject": "spawn_npc_merchant"
+        },
+        {
+          "id": 100030,
+          "name": "채희",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_chaehee"
+        },
+        {
+          "id": 100031,
+          "name": "채화",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_chaewha"
+        },
+        {
+          "id": 100032,
+          "name": "천변경",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_mirror"
+        },
+        {
+          "id": 100033,
+          "name": "문파 총관",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_munpa"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "본산 외곽 산림",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": -24,
+      "posY": -333,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_0_1",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 1,
+      "monsterLevelMax": 2,
+      "bossCount": 0,
+      "monsterNames": [
+        "야생 멧돼지",
+        "야생 여우"
+      ],
+      "monsters": [
+        {
+          "id": 1000002001,
+          "name": "야생 멧돼지",
+          "level": 1,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000002001"
+        },
+        {
+          "id": 1000002002,
+          "name": "야생 여우",
+          "level": 2,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000002002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "본산 산자락",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": 96,
+      "posY": 42,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_0_2",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 2,
+      "monsterLevelMax": 3,
+      "bossCount": 1,
+      "monsterNames": [
+        "힘센 야생 멧돼지",
+        "힘센 야생 여우",
+        "대형 멧돼지"
+      ],
+      "monsters": [
+        {
+          "id": 1000003001,
+          "name": "힘센 야생 멧돼지",
+          "level": 2,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000003001"
+        },
+        {
+          "id": 1000003002,
+          "name": "힘센 야생 여우",
+          "level": 2,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000003002"
+        },
+        {
+          "id": 1000003901,
+          "name": "대형 멧돼지",
+          "level": 3,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1000003901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "심산 계곡",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": -154,
+      "posY": 27,
+      "tmx": "Map_Act00_02",
+      "spawnKey": "spawn_0_3",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 3,
+      "monsterLevelMax": 4,
+      "bossCount": 0,
+      "monsterNames": [
+        "야생 너구리",
+        "계곡 독두꺼비"
+      ],
+      "monsters": [
+        {
+          "id": 1000004001,
+          "name": "야생 너구리",
+          "level": 3,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000004001"
+        },
+        {
+          "id": 1000004002,
+          "name": "계곡 독두꺼비",
+          "level": 4,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000004002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "심산 흑곰의 굴",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": -343,
+      "posY": -129,
+      "tmx": "Map_Act00_02",
+      "spawnKey": "spawn_0_4",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 4,
+      "monsterLevelMax": 6,
+      "bossCount": 1,
+      "monsterNames": [
+        "힘센 야생 너구리",
+        "힘센 계곡 독두꺼비",
+        "심산 흑곰"
+      ],
+      "monsters": [
+        {
+          "id": 1000005001,
+          "name": "힘센 야생 너구리",
+          "level": 4,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000005001"
+        },
+        {
+          "id": 1000005002,
+          "name": "힘센 계곡 독두꺼비",
+          "level": 5,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000005002"
+        },
+        {
+          "id": 1000005901,
+          "name": "심산 흑곰",
+          "level": 6,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1000005901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "심산 외곽 산길",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": -132,
+      "posY": 265,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "spawn_0_5",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 5,
+      "monsterLevelMax": 6,
+      "bossCount": 0,
+      "monsterNames": [
+        "산적 졸개",
+        "산적 궁수"
+      ],
+      "monsters": [
+        {
+          "id": 1000006001,
+          "name": "산적 졸개",
+          "level": 5,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000006001"
+        },
+        {
+          "id": 1000006002,
+          "name": "산적 궁수",
+          "level": 6,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000006002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "심산 능선",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": 126,
+      "posY": 412,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "spawn_0_6",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 6,
+      "monsterLevelMax": 7,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 산적 졸개",
+        "노련한 산적 궁수"
+      ],
+      "monsters": [
+        {
+          "id": 1000007001,
+          "name": "노련한 산적 졸개",
+          "level": 6,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000007001"
+        },
+        {
+          "id": 1000007002,
+          "name": "노련한 산적 궁수",
+          "level": 7,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000007002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "심산 맹호 협곡",
+      "type": "Field",
+      "regionId": 1,
+      "regionName": "천마신교 외곽 심산",
+      "regionAct": "서장",
+      "maxPlayer": 4,
+      "posX": -279,
+      "posY": 525,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "spawn_0_7",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 7,
+      "monsterLevelMax": 7,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 산적 졸개",
+        "악랄한 산적 궁수",
+        "심산 맹호"
+      ],
+      "monsters": [
+        {
+          "id": 1000008001,
+          "name": "악랄한 산적 졸개",
+          "level": 7,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000008001"
+        },
+        {
+          "id": 1000008002,
+          "name": "악랄한 산적 궁수",
+          "level": 7,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1000008002"
+        },
+        {
+          "id": 1000008901,
+          "name": "심산 맹호",
+          "level": 7,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1000008901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "화산 산록 마을 외곽",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 9,
+      "posY": -609,
+      "tmx": "Map_Act01_01",
+      "spawnKey": "spawn_1_1",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 8,
+      "monsterLevelMax": 8,
+      "bossCount": 0,
+      "monsterNames": [
+        "산적 졸개",
+        "산적 궁수"
+      ],
+      "monsters": [
+        {
+          "id": 1001001001,
+          "name": "산적 졸개",
+          "level": 8,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001001001"
+        },
+        {
+          "id": 1001001002,
+          "name": "산적 궁수",
+          "level": 8,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001001002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 소문주"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "화산 산록 도화원",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 190,
+      "posY": -375,
+      "tmx": "Map_Act01_01",
+      "spawnKey": "spawn_1_2",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 8,
+      "monsterLevelMax": 8,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 산적 졸개",
+        "노련한 산적 궁수"
+      ],
+      "monsters": [
+        {
+          "id": 1001002001,
+          "name": "노련한 산적 졸개",
+          "level": 8,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001002001"
+        },
+        {
+          "id": 1001002002,
+          "name": "노련한 산적 궁수",
+          "level": 8,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001002002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 소문주"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "화산 산록 산자락",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": -168,
+      "posY": -174,
+      "tmx": "Map_Act01_01",
+      "spawnKey": "spawn_1_3",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 9,
+      "monsterLevelMax": 10,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 산적 졸개",
+        "악랄한 산적 궁수",
+        "산적 두령"
+      ],
+      "monsters": [
+        {
+          "id": 1001003001,
+          "name": "악랄한 산적 졸개",
+          "level": 9,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001003001"
+        },
+        {
+          "id": 1001003002,
+          "name": "악랄한 산적 궁수",
+          "level": 10,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001003002"
+        },
+        {
+          "id": 1001003901,
+          "name": "산적 두령",
+          "level": 10,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1001003901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 소문주"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "name": "종남 숲길",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 349,
+      "posY": -111,
+      "tmx": "Map_Act01_02",
+      "spawnKey": "spawn_1_4",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 10,
+      "monsterLevelMax": 10,
+      "bossCount": 0,
+      "monsterNames": [
+        "산적 도검병",
+        "종남파 순찰 제자"
+      ],
+      "monsters": [
+        {
+          "id": 1001004001,
+          "name": "산적 도검병",
+          "level": 10,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001004001"
+        },
+        {
+          "id": 1001004002,
+          "name": "종남파 순찰 제자",
+          "level": 10,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001004002"
+        }
+      ],
+      "npcCount": 2,
+      "npcNames": [
+        "화산파 소문주",
+        "유정"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        },
+        {
+          "id": 100007,
+          "name": "유정",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "name": "종남 깊은 숲",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 382,
+      "posY": 210,
+      "tmx": "Map_Act01_02",
+      "spawnKey": "spawn_1_5",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 10,
+      "monsterLevelMax": 10,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 산적 도검병",
+        "노련한 종남파 순찰 제자"
+      ],
+      "monsters": [
+        {
+          "id": 1001005001,
+          "name": "노련한 산적 도검병",
+          "level": 10,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001005001"
+        },
+        {
+          "id": 1001005002,
+          "name": "노련한 종남파 순찰 제자",
+          "level": 10,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001005002"
+        }
+      ],
+      "npcCount": 2,
+      "npcNames": [
+        "화산파 소문주",
+        "유정"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        },
+        {
+          "id": 100007,
+          "name": "유정",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 1006,
+      "name": "종남 외길",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 6,
+      "posY": 270,
+      "tmx": "Map_Act01_02",
+      "spawnKey": "spawn_1_6",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 11,
+      "monsterLevelMax": 13,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 산적 도검병",
+        "악랄한 종남파 순찰 제자",
+        "산적 군사"
+      ],
+      "monsters": [
+        {
+          "id": 1001006001,
+          "name": "악랄한 산적 도검병",
+          "level": 11,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001006001"
+        },
+        {
+          "id": 1001006002,
+          "name": "악랄한 종남파 순찰 제자",
+          "level": 12,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001006002"
+        },
+        {
+          "id": 1001006901,
+          "name": "산적 군사",
+          "level": 13,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1001006901"
+        }
+      ],
+      "npcCount": 2,
+      "npcNames": [
+        "화산파 소문주",
+        "검성"
+      ],
+      "npcs": [
+        {
+          "id": 100004,
+          "name": "화산파 소문주",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_student"
+        },
+        {
+          "id": 100006,
+          "name": "검성",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "name": "화산파 금지 구역 외곽",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": -312,
+      "posY": 111,
+      "tmx": "Map_Act01_03",
+      "spawnKey": "spawn_1_7",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 13,
+      "monsterLevelMax": 13,
+      "bossCount": 0,
+      "monsterNames": [
+        "산적 정예",
+        "화산파 외문 제자"
+      ],
+      "monsters": [
+        {
+          "id": 1001007001,
+          "name": "산적 정예",
+          "level": 13,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001007001"
+        },
+        {
+          "id": 1001007002,
+          "name": "화산파 외문 제자",
+          "level": 13,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001007002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100005,
+          "name": "화산파 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_jangro"
+        }
+      ]
+    },
+    {
+      "id": 1008,
+      "name": "화산파 금지 구역 어귀",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": 127,
+      "posY": 514,
+      "tmx": "Map_Act01_03",
+      "spawnKey": "spawn_1_8",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 13,
+      "monsterLevelMax": 14,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 산적 정예",
+        "노련한 화산파 외문 제자"
+      ],
+      "monsters": [
+        {
+          "id": 1001008001,
+          "name": "노련한 산적 정예",
+          "level": 13,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001008001"
+        },
+        {
+          "id": 1001008002,
+          "name": "노련한 화산파 외문 제자",
+          "level": 14,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001008002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100005,
+          "name": "화산파 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_jangro"
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "name": "화산파 금지 구역",
+      "type": "Field",
+      "regionId": 2,
+      "regionName": "화산 / 종남산",
+      "regionAct": "1장",
+      "maxPlayer": 4,
+      "posX": -240,
+      "posY": 592,
+      "tmx": "Map_Act01_03",
+      "spawnKey": "spawn_1_9",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 14,
+      "monsterLevelMax": 14,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 산적 정예",
+        "악랄한 화산파 외문 제자",
+        "흑풍채 채주"
+      ],
+      "monsters": [
+        {
+          "id": 1001009001,
+          "name": "악랄한 산적 정예",
+          "level": 14,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001009001"
+        },
+        {
+          "id": 1001009002,
+          "name": "악랄한 화산파 외문 제자",
+          "level": 14,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1001009002"
+        },
+        {
+          "id": 1001009901,
+          "name": "흑풍채 채주",
+          "level": 14,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1001009901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "화산파 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100005,
+          "name": "화산파 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_whasan_jangro"
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "name": "사천 독림",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": 320,
+      "posY": 560,
+      "tmx": "Map_Act02_01",
+      "spawnKey": "spawn_2_1",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 23,
+      "monsterLevelMax": 23,
+      "bossCount": 0,
+      "monsterNames": [
+        "독충",
+        "사천 독사"
+      ],
+      "monsters": [
+        {
+          "id": 1002001001,
+          "name": "독충",
+          "level": 23,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002001001"
+        },
+        {
+          "id": 1002001002,
+          "name": "사천 독사",
+          "level": 23,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002001002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 소가주"
+      ],
+      "npcs": [
+        {
+          "id": 100015,
+          "name": "당가 소가주",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "name": "사천 독사 골짜기",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -40,
+      "posY": 470,
+      "tmx": "Map_Act02_01",
+      "spawnKey": "spawn_2_2",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 24,
+      "monsterLevelMax": 24,
+      "bossCount": 0,
+      "monsterNames": [
+        "힘센 독충",
+        "힘센 사천 독사"
+      ],
+      "monsters": [
+        {
+          "id": 1002002001,
+          "name": "힘센 독충",
+          "level": 24,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002002001"
+        },
+        {
+          "id": 1002002002,
+          "name": "힘센 사천 독사",
+          "level": 24,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002002002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 소가주"
+      ],
+      "npcs": [
+        {
+          "id": 100015,
+          "name": "당가 소가주",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "name": "사천 안개 숲",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -330,
+      "posY": 380,
+      "tmx": "Map_Act02_01",
+      "spawnKey": "spawn_2_3",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 25,
+      "monsterLevelMax": 26,
+      "bossCount": 1,
+      "monsterNames": [
+        "사나운 독충",
+        "사나운 사천 독사",
+        "독버섯 정령"
+      ],
+      "monsters": [
+        {
+          "id": 1002003001,
+          "name": "사나운 독충",
+          "level": 25,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002003001"
+        },
+        {
+          "id": 1002003002,
+          "name": "사나운 사천 독사",
+          "level": 25,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002003002"
+        },
+        {
+          "id": 1002003901,
+          "name": "독버섯 정령",
+          "level": 26,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1002003901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 소가주"
+      ],
+      "npcs": [
+        {
+          "id": 100015,
+          "name": "당가 소가주",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "name": "독늪지",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -100,
+      "posY": 220,
+      "tmx": "Map_Act02_02",
+      "spawnKey": "spawn_2_4",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 26,
+      "monsterLevelMax": 26,
+      "bossCount": 0,
+      "monsterNames": [
+        "대형 독충",
+        "늪지 악어"
+      ],
+      "monsters": [
+        {
+          "id": 1002004001,
+          "name": "대형 독충",
+          "level": 26,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002004001"
+        },
+        {
+          "id": 1002004002,
+          "name": "늪지 악어",
+          "level": 26,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002004002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "삼사형 광풍도"
+      ],
+      "npcs": [
+        {
+          "id": 100013,
+          "name": "삼사형 광풍도",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "name": "칠색 독늪",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": 230,
+      "posY": 120,
+      "tmx": "Map_Act02_02",
+      "spawnKey": "spawn_2_5",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 26,
+      "monsterLevelMax": 26,
+      "bossCount": 0,
+      "monsterNames": [
+        "힘센 대형 독충",
+        "힘센 늪지 악어"
+      ],
+      "monsters": [
+        {
+          "id": 1002005001,
+          "name": "힘센 대형 독충",
+          "level": 26,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002005001"
+        },
+        {
+          "id": 1002005002,
+          "name": "힘센 늪지 악어",
+          "level": 26,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002005002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 소가주"
+      ],
+      "npcs": [
+        {
+          "id": 100015,
+          "name": "당가 소가주",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "name": "독왕 늪",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": 60,
+      "posY": -60,
+      "tmx": "Map_Act02_02",
+      "spawnKey": "spawn_2_6",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 27,
+      "monsterLevelMax": 27,
+      "bossCount": 1,
+      "monsterNames": [
+        "사나운 대형 독충",
+        "사나운 늪지 악어",
+        "독개구리왕"
+      ],
+      "monsters": [
+        {
+          "id": 1002006001,
+          "name": "사나운 대형 독충",
+          "level": 27,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002006001"
+        },
+        {
+          "id": 1002006002,
+          "name": "사나운 늪지 악어",
+          "level": 27,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002006002"
+        },
+        {
+          "id": 1002006901,
+          "name": "독개구리왕",
+          "level": 27,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1002006901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 소가주"
+      ],
+      "npcs": [
+        {
+          "id": 100015,
+          "name": "당가 소가주",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2007,
+      "name": "당가 외곽 시험장",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -280,
+      "posY": -180,
+      "tmx": "Map_Act02_03",
+      "spawnKey": "spawn_2_7",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 27,
+      "monsterLevelMax": 27,
+      "bossCount": 0,
+      "monsterNames": [
+        "당가 시험용 독인형",
+        "독사왕"
+      ],
+      "monsters": [
+        {
+          "id": 1002007001,
+          "name": "당가 시험용 독인형",
+          "level": 27,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002007001"
+        },
+        {
+          "id": 1002007002,
+          "name": "독사왕",
+          "level": 27,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002007002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 대소저"
+      ],
+      "npcs": [
+        {
+          "id": 100016,
+          "name": "당가 대소저",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2008,
+      "name": "당가 내원",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -120,
+      "posY": -420,
+      "tmx": "Map_Act02_03",
+      "spawnKey": "spawn_2_8",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 28,
+      "monsterLevelMax": 28,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 당가 시험용 독인형",
+        "힘센 독사왕"
+      ],
+      "monsters": [
+        {
+          "id": 1002008001,
+          "name": "노련한 당가 시험용 독인형",
+          "level": 28,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002008001"
+        },
+        {
+          "id": 1002008002,
+          "name": "힘센 독사왕",
+          "level": 28,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002008002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 대소저"
+      ],
+      "npcs": [
+        {
+          "id": 100016,
+          "name": "당가 대소저",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 2009,
+      "name": "당가 밀실",
+      "type": "Field",
+      "regionId": 3,
+      "regionName": "사천 / 당가 영역",
+      "regionAct": "2장",
+      "maxPlayer": 4,
+      "posX": -350,
+      "posY": -600,
+      "tmx": "Map_Act02_03",
+      "spawnKey": "spawn_2_9",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 29,
+      "monsterLevelMax": 29,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 당가 시험용 독인형",
+        "사나운 독사왕",
+        "독늪 골렘"
+      ],
+      "monsters": [
+        {
+          "id": 1002009001,
+          "name": "악랄한 당가 시험용 독인형",
+          "level": 29,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002009001"
+        },
+        {
+          "id": 1002009002,
+          "name": "사나운 독사왕",
+          "level": 29,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1002009002"
+        },
+        {
+          "id": 1002009901,
+          "name": "독늪 골렘",
+          "level": 29,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1002009901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "당가 대소저"
+      ],
+      "npcs": [
+        {
+          "id": 100016,
+          "name": "당가 대소저",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3001,
+      "name": "강남 수상시장",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": 150,
+      "posY": -620,
+      "tmx": "Map_Act03_01",
+      "spawnKey": "spawn_3_1",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 36,
+      "monsterLevelMax": 37,
+      "bossCount": 0,
+      "monsterNames": [
+        "수상 도적",
+        "장강 거대 게"
+      ],
+      "monsters": [
+        {
+          "id": 1003001001,
+          "name": "수상 도적",
+          "level": 36,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003001001"
+        },
+        {
+          "id": 1003001002,
+          "name": "장강 거대 게",
+          "level": 37,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003001002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3002,
+      "name": "강남 어시장 부두",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": -220,
+      "posY": -560,
+      "tmx": "Map_Act03_01",
+      "spawnKey": "spawn_3_2",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 40,
+      "monsterLevelMax": 40,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 수상 도적",
+        "힘센 장강 거대 게"
+      ],
+      "monsters": [
+        {
+          "id": 1003002001,
+          "name": "노련한 수상 도적",
+          "level": 40,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003002001"
+        },
+        {
+          "id": 1003002002,
+          "name": "힘센 장강 거대 게",
+          "level": 40,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003002002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "name": "강남 외항",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": 350,
+      "posY": -420,
+      "tmx": "Map_Act03_01",
+      "spawnKey": "spawn_3_3",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 42,
+      "monsterLevelMax": 43,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 수상 도적",
+        "사나운 장강 거대 게",
+        "부두 두목"
+      ],
+      "monsters": [
+        {
+          "id": 1003003001,
+          "name": "악랄한 수상 도적",
+          "level": 42,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003003001"
+        },
+        {
+          "id": 1003003002,
+          "name": "사나운 장강 거대 게",
+          "level": 42,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003003002"
+        },
+        {
+          "id": 1003003901,
+          "name": "부두 두목",
+          "level": 43,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1003003901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "name": "장강 수로",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": -100,
+      "posY": -180,
+      "tmx": "Map_Act03_02",
+      "spawnKey": "spawn_3_4",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 44,
+      "monsterLevelMax": 45,
+      "bossCount": 0,
+      "monsterNames": [
+        "수로채 하수인",
+        "장강 물뱀"
+      ],
+      "monsters": [
+        {
+          "id": 1003004001,
+          "name": "수로채 하수인",
+          "level": 44,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003004001"
+        },
+        {
+          "id": 1003004002,
+          "name": "장강 물뱀",
+          "level": 45,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003004002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3005,
+      "name": "장강 물뱀 늪",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": -380,
+      "posY": -20,
+      "tmx": "Map_Act03_02",
+      "spawnKey": "spawn_3_5",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 46,
+      "monsterLevelMax": 46,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 수로채 하수인",
+        "힘센 장강 물뱀"
+      ],
+      "monsters": [
+        {
+          "id": 1003005001,
+          "name": "노련한 수로채 하수인",
+          "level": 46,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003005001"
+        },
+        {
+          "id": 1003005002,
+          "name": "힘센 장강 물뱀",
+          "level": 46,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003005002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3006,
+      "name": "장강 수로채 소굴",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": 250,
+      "posY": 60,
+      "tmx": "Map_Act03_02",
+      "spawnKey": "spawn_3_6",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 48,
+      "monsterLevelMax": 49,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 수로채 하수인",
+        "사나운 장강 물뱀",
+        "수로채 여두목"
+      ],
+      "monsters": [
+        {
+          "id": 1003006001,
+          "name": "악랄한 수로채 하수인",
+          "level": 48,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003006001"
+        },
+        {
+          "id": 1003006002,
+          "name": "사나운 장강 물뱀",
+          "level": 48,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003006002"
+        },
+        {
+          "id": 1003006901,
+          "name": "수로채 여두목",
+          "level": 49,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1003006901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "수로채 여두목"
+      ],
+      "npcs": [
+        {
+          "id": 100011,
+          "name": "수로채 여두목",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3007,
+      "name": "장강 하류 수몰 건물",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": -80,
+      "posY": 250,
+      "tmx": "Map_Act03_03",
+      "spawnKey": "spawn_3_7",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 50,
+      "monsterLevelMax": 50,
+      "bossCount": 0,
+      "monsterNames": [
+        "수로채 정예",
+        "수중 해골병"
+      ],
+      "monsters": [
+        {
+          "id": 1003007001,
+          "name": "수로채 정예",
+          "level": 50,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003007001"
+        },
+        {
+          "id": 1003007002,
+          "name": "수중 해골병",
+          "level": 50,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003007002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "이사형 독영"
+      ],
+      "npcs": [
+        {
+          "id": 100012,
+          "name": "이사형 독영",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3008,
+      "name": "수몰 신전",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": -350,
+      "posY": 540,
+      "tmx": "Map_Act03_03",
+      "spawnKey": "spawn_3_8",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 52,
+      "monsterLevelMax": 52,
+      "bossCount": 0,
+      "monsterNames": [
+        "노련한 수로채 정예",
+        "노련한 수중 해골병"
+      ],
+      "monsters": [
+        {
+          "id": 1003008001,
+          "name": "노련한 수로채 정예",
+          "level": 52,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003008001"
+        },
+        {
+          "id": 1003008002,
+          "name": "노련한 수중 해골병",
+          "level": 52,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003008002"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "이사형 독영"
+      ],
+      "npcs": [
+        {
+          "id": 100012,
+          "name": "이사형 독영",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 3009,
+      "name": "수몰 심연",
+      "type": "Field",
+      "regionId": 4,
+      "regionName": "강남 / 장강 수로",
+      "regionAct": "3장",
+      "maxPlayer": 4,
+      "posX": 250,
+      "posY": 560,
+      "tmx": "Map_Act03_03",
+      "spawnKey": "spawn_3_9",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 54,
+      "monsterLevelMax": 54,
+      "bossCount": 1,
+      "monsterNames": [
+        "악랄한 수로채 정예",
+        "악랄한 수중 해골병",
+        "물귀신"
+      ],
+      "monsters": [
+        {
+          "id": 1003009001,
+          "name": "악랄한 수로채 정예",
+          "level": 54,
+          "boss": false,
+          "count": 10,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003009001"
+        },
+        {
+          "id": 1003009002,
+          "name": "악랄한 수중 해골병",
+          "level": 54,
+          "boss": false,
+          "count": 5,
+          "spawnType": "",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_1003009002"
+        },
+        {
+          "id": 1003009901,
+          "name": "물귀신",
+          "level": 54,
+          "boss": true,
+          "count": 1,
+          "spawnType": "",
+          "respawnMin": 5000,
+          "respawnMax": 10000,
+          "dropGroup": "Mob_1003009901"
+        }
+      ],
+      "npcCount": 1,
+      "npcNames": [
+        "이사형 독영"
+      ],
+      "npcs": [
+        {
+          "id": 100012,
+          "name": "이사형 독영",
+          "shopId": 0,
+          "spawnObject": "NpcSpawn"
+        }
+      ]
+    },
+    {
+      "id": 4001,
+      "name": "숭산 산록 마을",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_1",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4002,
+      "name": "숭산 산록 돌계단",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_2",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4003,
+      "name": "숭산 산록 산문",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_3",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4004,
+      "name": "소림 외곽 숲길",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_4",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4005,
+      "name": "소림 외곽 송림",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_5",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4006,
+      "name": "소림 외곽 능선",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4007,
+      "name": "숭산 암벽 지대",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_7",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4008,
+      "name": "숭산 절벽",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_8",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4009,
+      "name": "숭산 금강 좌상",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_4_9",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5001,
+      "name": "북해 설원",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_1",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5002,
+      "name": "북해 눈보라 벌판",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_2",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5003,
+      "name": "북해 얼음 호수",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_3",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5004,
+      "name": "빙하 동굴",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_4",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5005,
+      "name": "빙하 정령의 방",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_5",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5006,
+      "name": "빙하 빙정굴",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5007,
+      "name": "빙궁 외곽 성벽",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_7",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5008,
+      "name": "빙궁 정문",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_8",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5009,
+      "name": "빙궁 알현실",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_5_9",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6001,
+      "name": "남만 밀림",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_1",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6002,
+      "name": "남만 부족 마을",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_2",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6003,
+      "name": "남만 밀림 너머",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_3",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6004,
+      "name": "선미방 유적 입구",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_4",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6005,
+      "name": "선미방 석상 회랑",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_5",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6006,
+      "name": "선미방 기관 통로",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6007,
+      "name": "선미방 유적 심층",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_7",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6008,
+      "name": "선미방 봉인 신전",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_8",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 6009,
+      "name": "선미방 고대 제단",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_6_9",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7001,
+      "name": "중원 도회지 뒷골목",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_1",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7002,
+      "name": "중원 도회지 암시장",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_2",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7003,
+      "name": "중원 도회지 성문",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_3",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7004,
+      "name": "도회지 근교 들판",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_4",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7005,
+      "name": "도회지 황금 보리밭",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_5",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7006,
+      "name": "도회지 사냥꾼 길",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7007,
+      "name": "식신제 인근 산림",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_7",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7008,
+      "name": "식신제 사슴 숲",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_8",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 7009,
+      "name": "식신제 멧돼지왕 굴",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_7_9",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8001,
+      "name": "천마신교 외곽 방벽",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_1",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8002,
+      "name": "천마신교 방벽 망루",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_2",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8003,
+      "name": "천마신교 방벽 내문",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_3",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8004,
+      "name": "천마신교 요새 내부",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_4",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8005,
+      "name": "천마신교 요새 회랑",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_5",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8006,
+      "name": "천마신교 요새 중정",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8007,
+      "name": "천마신교 교주전 앞",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_7",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8008,
+      "name": "천마신교 교주전 광장",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_8",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 8009,
+      "name": "천마신교 교주전 내전",
+      "type": "Field",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 4,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_8_9",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 20003,
+      "name": "연출_화산 금지",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act01_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 20004,
+      "name": "마지막 연출",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000001,
+      "name": "심상 세계 · 삼류",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_1",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 2,
+      "monsterLevelMax": 2,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 허상"
+      ],
+      "monsters": [
+        {
+          "id": 2002001901,
+          "name": "내면의 허상",
+          "level": 2,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000002,
+      "name": "심상 세계 · 이류",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_2",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 5,
+      "monsterLevelMax": 5,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 심마"
+      ],
+      "monsters": [
+        {
+          "id": 2002002901,
+          "name": "내면의 심마",
+          "level": 5,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000003,
+      "name": "심상 세계 · 일류",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_3",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 10,
+      "monsterLevelMax": 10,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 욕망"
+      ],
+      "monsters": [
+        {
+          "id": 2002003901,
+          "name": "내면의 욕망",
+          "level": 10,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000004,
+      "name": "심상 세계 · 절정 초입",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_4",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 15,
+      "monsterLevelMax": 15,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 분노"
+      ],
+      "monsters": [
+        {
+          "id": 2002004901,
+          "name": "내면의 분노",
+          "level": 15,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000005,
+      "name": "심상 세계 · 절정 완숙",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_5",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 20,
+      "monsterLevelMax": 20,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 절망"
+      ],
+      "monsters": [
+        {
+          "id": 2002005901,
+          "name": "내면의 절망",
+          "level": 20,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000006,
+      "name": "심상 세계 · 절정 극의",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_6",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 25,
+      "monsterLevelMax": 25,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 광기"
+      ],
+      "monsters": [
+        {
+          "id": 2002006901,
+          "name": "내면의 광기",
+          "level": 25,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000007,
+      "name": "심상 세계 · 초절정 초입",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_7",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 35,
+      "monsterLevelMax": 35,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 오만"
+      ],
+      "monsters": [
+        {
+          "id": 2002007901,
+          "name": "내면의 오만",
+          "level": 35,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000008,
+      "name": "심상 세계 · 초절정 완숙",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_8",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 45,
+      "monsterLevelMax": 45,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 집착"
+      ],
+      "monsters": [
+        {
+          "id": 2002008901,
+          "name": "내면의 집착",
+          "level": 45,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000009,
+      "name": "심상 세계 · 초절정 극의",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_9",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 60,
+      "monsterLevelMax": 60,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 의심"
+      ],
+      "monsters": [
+        {
+          "id": 2002009901,
+          "name": "내면의 의심",
+          "level": 60,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000010,
+      "name": "심상 세계 · 화경 초입",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_10",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 68,
+      "monsterLevelMax": 68,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 공포"
+      ],
+      "monsters": [
+        {
+          "id": 2002010901,
+          "name": "내면의 공포",
+          "level": 68,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000011,
+      "name": "심상 세계 · 화경 완숙",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_11",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 75,
+      "monsterLevelMax": 75,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 탐욕"
+      ],
+      "monsters": [
+        {
+          "id": 2002011901,
+          "name": "내면의 탐욕",
+          "level": 75,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000012,
+      "name": "심상 세계 · 화경 극의",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_12",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 82,
+      "monsterLevelMax": 82,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 미련"
+      ],
+      "monsters": [
+        {
+          "id": 2002012901,
+          "name": "내면의 미련",
+          "level": 82,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000013,
+      "name": "심상 세계 · 현경 초입",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_13",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 88,
+      "monsterLevelMax": 88,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 허무"
+      ],
+      "monsters": [
+        {
+          "id": 2002013901,
+          "name": "내면의 허무",
+          "level": 88,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000014,
+      "name": "심상 세계 · 현경 완숙",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_14",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 92,
+      "monsterLevelMax": 92,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 아집"
+      ],
+      "monsters": [
+        {
+          "id": 2002014901,
+          "name": "내면의 아집",
+          "level": 92,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000015,
+      "name": "심상 세계 · 현경 극의",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_15",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 95,
+      "monsterLevelMax": 95,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 무명"
+      ],
+      "monsters": [
+        {
+          "id": 2002015901,
+          "name": "내면의 무명",
+          "level": 95,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000016,
+      "name": "심상 세계 · 생사경 초입",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_16",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 97,
+      "monsterLevelMax": 97,
+      "bossCount": 1,
+      "monsterNames": [
+        "내면의 심연"
+      ],
+      "monsters": [
+        {
+          "id": 2002016901,
+          "name": "내면의 심연",
+          "level": 97,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000017,
+      "name": "심상 세계 · 생사경 완숙",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_17",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 99,
+      "monsterLevelMax": 99,
+      "bossCount": 1,
+      "monsterNames": [
+        "또 하나의 나"
+      ],
+      "monsters": [
+        {
+          "id": 2002017901,
+          "name": "또 하나의 나",
+          "level": 99,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 2000018,
+      "name": "심상 세계 · 천하제일",
+      "type": "PromotionExam",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Promo_VoidWater",
+      "spawnKey": "promotion_18",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 100,
+      "monsterLevelMax": 100,
+      "bossCount": 1,
+      "monsterNames": [
+        "진정한 나"
+      ],
+      "monsters": [
+        {
+          "id": 2002018901,
+          "name": "진정한 나",
+          "level": 100,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000001,
+      "name": "연출_화산",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act01_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000002,
+      "name": "연출_종남",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act01_02",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000003,
+      "name": "프롤로그",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "MAP_Prologue_War",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000004,
+      "name": "선택지 연출",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000005,
+      "name": "연출_서장_본산",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_HeavenlyDemonCult",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000006,
+      "name": "연출_서장_산자락",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "spawn_cut_6",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000007,
+      "name": "연출_서장_계곡굴",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_02",
+      "spawnKey": "spawn_cut_7",
+      "spawnDataFound": true,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 3000008,
+      "name": "연출_서장_능선협곡",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "spawn_cut_8",
+      "spawnDataFound": true,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 1,
+      "npcNames": [
+        "호법 장로"
+      ],
+      "npcs": [
+        {
+          "id": 100001,
+          "name": "호법 장로",
+          "shopId": 0,
+          "spawnObject": "spawn_npc_GuardianElder"
+        }
+      ]
+    },
+    {
+      "id": 3000009,
+      "name": "연출_서장_사냥인트로",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000010,
+      "name": "연출_서장_사냥인트로",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act00_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000011,
+      "name": "연출_화산심부",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act01_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000012,
+      "name": "연출_칠색독늪",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act02_02",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000013,
+      "name": "연출_장강소굴",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act03_02",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000014,
+      "name": "연출_흑랑",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act03_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000015,
+      "name": "연출_사천독림",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act02_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000016,
+      "name": "연출_독늪지",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act02_02",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000017,
+      "name": "연출_당가시험장",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act02_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000018,
+      "name": "연출_흑랑소굴",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_Raid_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000019,
+      "name": "연출_강남시장",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act03_01",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000020,
+      "name": "연출_장강수로",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act03_02",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 3000021,
+      "name": "연출_수몰지",
+      "type": "InstanceField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Act03_03",
+      "spawnKey": "",
+      "spawnDataFound": false,
+      "monsterCount": 0,
+      "monsterLevelMin": null,
+      "monsterLevelMax": null,
+      "bossCount": 0,
+      "monsterNames": [],
+      "monsters": [],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 4000001,
+      "name": "숟가락 할배",
+      "type": "DungeonBoss",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 1,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_Silver",
+      "spawnKey": "daily_spawn_0_0",
+      "spawnDataFound": true,
+      "monsterCount": 1,
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "bossCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsters": [
+        {
+          "id": 2001001901,
+          "name": "숟가락 할배",
+          "level": 18,
+          "boss": true,
+          "count": 1,
+          "spawnType": "Once",
+          "respawnMin": 0,
+          "respawnMax": 0,
+          "dropGroup": ""
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000001,
+      "name": "흑랑의 소굴",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_Raid_01",
+      "spawnKey": "daily_spawn_1_0",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 31,
+      "monsterLevelMax": 33,
+      "bossCount": 0,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsters": [
+        {
+          "id": 2001004901,
+          "name": "흑랑",
+          "level": 31,
+          "boss": false,
+          "count": 10,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004901"
+        },
+        {
+          "id": 2001004902,
+          "name": "흑랑 우두머리",
+          "level": 33,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004902"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000002,
+      "name": "흑랑의 소굴",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_Raid_01",
+      "spawnKey": "daily_spawn_1_1",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 53,
+      "monsterLevelMax": 55,
+      "bossCount": 0,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsters": [
+        {
+          "id": 2001004903,
+          "name": "흑랑",
+          "level": 53,
+          "boss": false,
+          "count": 10,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004903"
+        },
+        {
+          "id": 2001004904,
+          "name": "흑랑 우두머리",
+          "level": 55,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004904"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000003,
+      "name": "흑랑의 소굴",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_Raid_01",
+      "spawnKey": "daily_spawn_1_2",
+      "spawnDataFound": true,
+      "monsterCount": 2,
+      "monsterLevelMin": 73,
+      "monsterLevelMax": 75,
+      "bossCount": 0,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsters": [
+        {
+          "id": 2001004905,
+          "name": "흑랑",
+          "level": 73,
+          "boss": false,
+          "count": 10,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004905"
+        },
+        {
+          "id": 2001004906,
+          "name": "흑랑 우두머리",
+          "level": 75,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001004906"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000004,
+      "name": "심마의 세계",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_boss",
+      "spawnKey": "daily_simma_ch0",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 60,
+      "monsterLevelMax": 60,
+      "bossCount": 0,
+      "monsterNames": [
+        "내면의 허상",
+        "내면의 심마",
+        "내면의 욕망"
+      ],
+      "monsters": [
+        {
+          "id": 2001005901,
+          "name": "내면의 허상",
+          "level": 60,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005901"
+        },
+        {
+          "id": 2001005902,
+          "name": "내면의 심마",
+          "level": 60,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005902"
+        },
+        {
+          "id": 2001005903,
+          "name": "내면의 욕망",
+          "level": 60,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005903"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000005,
+      "name": "심마의 세계",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_boss",
+      "spawnKey": "daily_simma_ch1",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 73,
+      "monsterLevelMax": 73,
+      "bossCount": 0,
+      "monsterNames": [
+        "내면의 분노",
+        "내면의 절망",
+        "내면의 광기"
+      ],
+      "monsters": [
+        {
+          "id": 2001005904,
+          "name": "내면의 분노",
+          "level": 73,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005904"
+        },
+        {
+          "id": 2001005905,
+          "name": "내면의 절망",
+          "level": 73,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005905"
+        },
+        {
+          "id": 2001005906,
+          "name": "내면의 광기",
+          "level": 73,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005906"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000006,
+      "name": "심마의 세계",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_boss",
+      "spawnKey": "daily_simma_ch2",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 86,
+      "monsterLevelMax": 86,
+      "bossCount": 0,
+      "monsterNames": [
+        "내면의 오만",
+        "내면의 집착",
+        "내면의 의심"
+      ],
+      "monsters": [
+        {
+          "id": 2001005907,
+          "name": "내면의 오만",
+          "level": 86,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005907"
+        },
+        {
+          "id": 2001005908,
+          "name": "내면의 집착",
+          "level": 86,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005908"
+        },
+        {
+          "id": 2001005909,
+          "name": "내면의 의심",
+          "level": 86,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005909"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    },
+    {
+      "id": 5000007,
+      "name": "심마의 세계",
+      "type": "TimeField",
+      "regionId": 0,
+      "regionName": "",
+      "regionAct": "",
+      "maxPlayer": 7,
+      "posX": 0,
+      "posY": 0,
+      "tmx": "Map_Dungeon_boss",
+      "spawnKey": "daily_simma_ch3",
+      "spawnDataFound": true,
+      "monsterCount": 3,
+      "monsterLevelMin": 100,
+      "monsterLevelMax": 100,
+      "bossCount": 0,
+      "monsterNames": [
+        "내면의 공포",
+        "내면의 탐욕",
+        "내면의 미련"
+      ],
+      "monsters": [
+        {
+          "id": 2001005910,
+          "name": "내면의 공포",
+          "level": 100,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005910"
+        },
+        {
+          "id": 2001005911,
+          "name": "내면의 탐욕",
+          "level": 100,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005911"
+        },
+        {
+          "id": 2001005912,
+          "name": "내면의 미련",
+          "level": 100,
+          "boss": false,
+          "count": 5,
+          "spawnType": "Timer",
+          "respawnMin": 1000,
+          "respawnMax": 1500,
+          "dropGroup": "Mob_2001005912"
+        }
+      ],
+      "npcCount": 0,
+      "npcNames": [],
+      "npcs": []
+    }
+  ]
+}

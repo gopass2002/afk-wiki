@@ -1,0 +1,7867 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 561,
+    "schema": "FBDataCollection",
+    "sourceAsset": "FBDataCollection",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 10001,
+      "name": "Collection_Name_10001",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10059,
+      "name": "Collection_Name_10059",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10060,
+      "name": "Collection_Name_10060",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10061,
+      "name": "Collection_Name_10061",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10062,
+      "name": "Collection_Name_10062",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10063,
+      "name": "Collection_Name_10063",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10064,
+      "name": "Collection_Name_10064",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10015,
+      "name": "Collection_Name_10015",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10016,
+      "name": "Collection_Name_10016",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10017,
+      "name": "Collection_Name_10017",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10018,
+      "name": "Collection_Name_10018",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10065,
+      "name": "Collection_Name_10065",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10066,
+      "name": "Collection_Name_10066",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        40
+      ],
+      "valueArray": [
+        40
+      ]
+    },
+    {
+      "id": 10067,
+      "name": "Collection_Name_10067",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10068,
+      "name": "Collection_Name_10068",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10069,
+      "name": "Collection_Name_10069",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10011,
+      "name": "Collection_Name_10011",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10012,
+      "name": "Collection_Name_10012",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10013,
+      "name": "Collection_Name_10013",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10014,
+      "name": "Collection_Name_10014",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10007,
+      "name": "Collection_Name_10007",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10008,
+      "name": "Collection_Name_10008",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10009,
+      "name": "Collection_Name_10009",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10010,
+      "name": "Collection_Name_10010",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10019,
+      "name": "Collection_Name_10019",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10020,
+      "name": "Collection_Name_10020",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10021,
+      "name": "Collection_Name_10021",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10022,
+      "name": "Collection_Name_10022",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10070,
+      "name": "Collection_Name_10070",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10071,
+      "name": "Collection_Name_10071",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10072,
+      "name": "Collection_Name_10072",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10073,
+      "name": "Collection_Name_10073",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10074,
+      "name": "Collection_Name_10074",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10075,
+      "name": "Collection_Name_10075",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10076,
+      "name": "Collection_Name_10076",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10077,
+      "name": "Collection_Name_10077",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10078,
+      "name": "Collection_Name_10078",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10079,
+      "name": "Collection_Name_10079",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        70
+      ],
+      "valueArray": [
+        70
+      ]
+    },
+    {
+      "id": 10080,
+      "name": "Collection_Name_10080",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        70
+      ],
+      "valueArray": [
+        70
+      ]
+    },
+    {
+      "id": 10081,
+      "name": "Collection_Name_10081",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        70
+      ],
+      "valueArray": [
+        70
+      ]
+    },
+    {
+      "id": 10082,
+      "name": "Collection_Name_10082",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        70
+      ],
+      "valueArray": [
+        70
+      ]
+    },
+    {
+      "id": 10027,
+      "name": "Collection_Name_10027",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10028,
+      "name": "Collection_Name_10028",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10029,
+      "name": "Collection_Name_10029",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10030,
+      "name": "Collection_Name_10030",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10083,
+      "name": "Collection_Name_10083",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10031,
+      "name": "Collection_Name_10031",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10032,
+      "name": "Collection_Name_10032",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10033,
+      "name": "Collection_Name_10033",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10034,
+      "name": "Collection_Name_10034",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10023,
+      "name": "Collection_Name_10023",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10024,
+      "name": "Collection_Name_10024",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10025,
+      "name": "Collection_Name_10025",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10026,
+      "name": "Collection_Name_10026",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10035,
+      "name": "Collection_Name_10035",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10036,
+      "name": "Collection_Name_10036",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10037,
+      "name": "Collection_Name_10037",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10038,
+      "name": "Collection_Name_10038",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10084,
+      "name": "Collection_Name_10084",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10085,
+      "name": "Collection_Name_10085",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10086,
+      "name": "Collection_Name_10086",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10087,
+      "name": "Collection_Name_10087",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 10088,
+      "name": "Collection_Name_10088",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10089,
+      "name": "Collection_Name_10089",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10090,
+      "name": "Collection_Name_10090",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10091,
+      "name": "Collection_Name_10091",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10092,
+      "name": "Collection_Name_10092",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10093,
+      "name": "Collection_Name_10093",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10094,
+      "name": "Collection_Name_10094",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10095,
+      "name": "Collection_Name_10095",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10096,
+      "name": "Collection_Name_10096",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10097,
+      "name": "Collection_Name_10097",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10098,
+      "name": "Collection_Name_10098",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "EVA"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10099,
+      "name": "Collection_Name_10099",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10100,
+      "name": "Collection_Name_10100",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        110
+      ],
+      "valueArray": [
+        110
+      ]
+    },
+    {
+      "id": 10101,
+      "name": "Collection_Name_10101",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        110
+      ],
+      "valueArray": [
+        110
+      ]
+    },
+    {
+      "id": 10102,
+      "name": "Collection_Name_10102",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        110
+      ],
+      "valueArray": [
+        110
+      ]
+    },
+    {
+      "id": 10103,
+      "name": "Collection_Name_10103",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        110
+      ],
+      "valueArray": [
+        110
+      ]
+    },
+    {
+      "id": 10104,
+      "name": "Collection_Name_10104",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        100
+      ],
+      "valueArray": [
+        100
+      ]
+    },
+    {
+      "id": 10105,
+      "name": "Collection_Name_10105",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        80
+      ],
+      "valueArray": [
+        80
+      ]
+    },
+    {
+      "id": 10106,
+      "name": "Collection_Name_10106",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "EVA"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10107,
+      "name": "Collection_Name_10107",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10047,
+      "name": "Collection_Name_10047",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10048,
+      "name": "Collection_Name_10048",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10049,
+      "name": "Collection_Name_10049",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10050,
+      "name": "Collection_Name_10050",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10043,
+      "name": "Collection_Name_10043",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10044,
+      "name": "Collection_Name_10044",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10045,
+      "name": "Collection_Name_10045",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10046,
+      "name": "Collection_Name_10046",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10039,
+      "name": "Collection_Name_10039",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10040,
+      "name": "Collection_Name_10040",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10041,
+      "name": "Collection_Name_10041",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10042,
+      "name": "Collection_Name_10042",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10051,
+      "name": "Collection_Name_10051",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        500
+      ],
+      "valueArray": [
+        500
+      ]
+    },
+    {
+      "id": 10052,
+      "name": "Collection_Name_10052",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        600
+      ],
+      "valueArray": [
+        600
+      ]
+    },
+    {
+      "id": 10053,
+      "name": "Collection_Name_10053",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        800
+      ],
+      "valueArray": [
+        800
+      ]
+    },
+    {
+      "id": 10054,
+      "name": "Collection_Name_10054",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        1000
+      ],
+      "valueArray": [
+        1000
+      ]
+    },
+    {
+      "id": 10108,
+      "name": "Collection_Name_10108",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10109,
+      "name": "Collection_Name_10109",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10110,
+      "name": "Collection_Name_10110",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10111,
+      "name": "Collection_Name_10111",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 10112,
+      "name": "Collection_Name_10112",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10113,
+      "name": "Collection_Name_10113",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10114,
+      "name": "Collection_Name_10114",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10115,
+      "name": "Collection_Name_10115",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10116,
+      "name": "Collection_Name_10116",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10117,
+      "name": "Collection_Name_10117",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10118,
+      "name": "Collection_Name_10118",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10119,
+      "name": "Collection_Name_10119",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10120,
+      "name": "Collection_Name_10120",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10121,
+      "name": "Collection_Name_10121",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        500
+      ],
+      "valueArray": [
+        500
+      ]
+    },
+    {
+      "id": 10122,
+      "name": "Collection_Name_10122",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10123,
+      "name": "Collection_Name_10123",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        80
+      ],
+      "valueArray": [
+        80
+      ]
+    },
+    {
+      "id": 10124,
+      "name": "Collection_Name_10124",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10125,
+      "name": "Collection_Name_10125",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 10126,
+      "name": "Collection_Name_10126",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        10
+      ],
+      "valueArray": [
+        10
+      ]
+    },
+    {
+      "id": 10127,
+      "name": "Collection_Name_10127",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 10128,
+      "name": "Collection_Name_10128",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 10129,
+      "name": "Collection_Name_10129",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        400
+      ],
+      "valueArray": [
+        400
+      ]
+    },
+    {
+      "id": 10130,
+      "name": "Collection_Name_10130",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        500
+      ],
+      "valueArray": [
+        500
+      ]
+    },
+    {
+      "id": 10131,
+      "name": "Collection_Name_10131",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        600
+      ],
+      "valueArray": [
+        600
+      ]
+    },
+    {
+      "id": 10132,
+      "name": "Collection_Name_10132",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        800
+      ],
+      "valueArray": [
+        800
+      ]
+    },
+    {
+      "id": 10133,
+      "name": "Collection_Name_10133",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10134,
+      "name": "Collection_Name_10134",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10135,
+      "name": "Collection_Name_10135",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10136,
+      "name": "Collection_Name_10136",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 10137,
+      "name": "Collection_Name_10137",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        60
+      ],
+      "valueArray": [
+        60
+      ]
+    },
+    {
+      "id": 10138,
+      "name": "Collection_Name_10138",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        80
+      ],
+      "valueArray": [
+        80
+      ]
+    },
+    {
+      "id": 10139,
+      "name": "Collection_Name_10139",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        100
+      ],
+      "valueArray": [
+        100
+      ]
+    },
+    {
+      "id": 10140,
+      "name": "Collection_Name_10140",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        120
+      ],
+      "valueArray": [
+        120
+      ]
+    },
+    {
+      "id": 10141,
+      "name": "Collection_Name_10141",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10142,
+      "name": "Collection_Name_10142",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10143,
+      "name": "Collection_Name_10143",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10144,
+      "name": "Collection_Name_10144",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 10145,
+      "name": "Collection_Name_10145",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        300
+      ],
+      "valueArray": [
+        300
+      ]
+    },
+    {
+      "id": 10146,
+      "name": "Collection_Name_10146",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "PEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10147,
+      "name": "Collection_Name_10147",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 10148,
+      "name": "Collection_Name_10148",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10149,
+      "name": "Collection_Name_10149",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        120
+      ],
+      "valueArray": [
+        120
+      ]
+    },
+    {
+      "id": 10150,
+      "name": "Collection_Name_10150",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "EVA"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10151,
+      "name": "Collection_Name_10151",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "CRIT_DMG"
+      ],
+      "value": [
+        300
+      ],
+      "valueArray": [
+        300
+      ]
+    },
+    {
+      "id": 10152,
+      "name": "Collection_Name_10152",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        20
+      ],
+      "valueArray": [
+        20
+      ]
+    },
+    {
+      "id": 10055,
+      "name": "Collection_Name_10055",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        10
+      ],
+      "valueArray": [
+        10
+      ]
+    },
+    {
+      "id": 10056,
+      "name": "Collection_Name_10056",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 10057,
+      "name": "Collection_Name_10057",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        14
+      ],
+      "valueArray": [
+        14
+      ]
+    },
+    {
+      "id": 10058,
+      "name": "Collection_Name_10058",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "ATK"
+      ],
+      "value": [
+        16
+      ],
+      "valueArray": [
+        16
+      ]
+    },
+    {
+      "id": 10153,
+      "name": "Collection_Name_10153",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10154,
+      "name": "Collection_Name_10154",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        100
+      ],
+      "valueArray": [
+        100
+      ]
+    },
+    {
+      "id": 10155,
+      "name": "Collection_Name_10155",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        130
+      ],
+      "valueArray": [
+        130
+      ]
+    },
+    {
+      "id": 10156,
+      "name": "Collection_Name_10156",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        160
+      ],
+      "valueArray": [
+        160
+      ]
+    },
+    {
+      "id": 10157,
+      "name": "Collection_Name_10157",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        200
+      ],
+      "valueArray": [
+        200
+      ]
+    },
+    {
+      "id": 10158,
+      "name": "Collection_Name_10158",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "EVA"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10159,
+      "name": "Collection_Name_10159",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10160,
+      "name": "Collection_Name_10160",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10161,
+      "name": "Collection_Name_10161",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 10162,
+      "name": "Collection_Name_10162",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 10163,
+      "name": "Collection_Name_10163",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10164,
+      "name": "Collection_Name_10164",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10165,
+      "name": "Collection_Name_10165",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10166,
+      "name": "Collection_Name_10166",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10167,
+      "name": "Collection_Name_10167",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10168,
+      "name": "Collection_Name_10168",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 10169,
+      "name": "Collection_Name_10169",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 10170,
+      "name": "Collection_Name_10170",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 10171,
+      "name": "Collection_Name_10171",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        7
+      ],
+      "valueArray": [
+        7
+      ]
+    },
+    {
+      "id": 10172,
+      "name": "Collection_Name_10172",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        9
+      ],
+      "valueArray": [
+        9
+      ]
+    },
+    {
+      "id": 21001,
+      "name": "Collection_Name_21001",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21002,
+      "name": "Collection_Name_21002",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21003,
+      "name": "Collection_Name_21003",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21004,
+      "name": "Collection_Name_21004",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21005,
+      "name": "Collection_Name_21005",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21006,
+      "name": "Collection_Name_21006",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21007,
+      "name": "Collection_Name_21007",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21008,
+      "name": "Collection_Name_21008",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21009,
+      "name": "Collection_Name_21009",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21010,
+      "name": "Collection_Name_21010",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21011,
+      "name": "Collection_Name_21011",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21012,
+      "name": "Collection_Name_21012",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21013,
+      "name": "Collection_Name_21013",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21014,
+      "name": "Collection_Name_21014",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21015,
+      "name": "Collection_Name_21015",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21016,
+      "name": "Collection_Name_21016",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21017,
+      "name": "Collection_Name_21017",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21018,
+      "name": "Collection_Name_21018",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21019,
+      "name": "Collection_Name_21019",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21020,
+      "name": "Collection_Name_21020",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21021,
+      "name": "Collection_Name_21021",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 21022,
+      "name": "Collection_Name_21022",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21023,
+      "name": "Collection_Name_21023",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21101,
+      "name": "Collection_Name_21101",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21102,
+      "name": "Collection_Name_21102",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21103,
+      "name": "Collection_Name_21103",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21104,
+      "name": "Collection_Name_21104",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21105,
+      "name": "Collection_Name_21105",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21106,
+      "name": "Collection_Name_21106",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21107,
+      "name": "Collection_Name_21107",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21108,
+      "name": "Collection_Name_21108",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21109,
+      "name": "Collection_Name_21109",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21110,
+      "name": "Collection_Name_21110",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21111,
+      "name": "Collection_Name_21111",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21112,
+      "name": "Collection_Name_21112",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21113,
+      "name": "Collection_Name_21113",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21114,
+      "name": "Collection_Name_21114",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21115,
+      "name": "Collection_Name_21115",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21116,
+      "name": "Collection_Name_21116",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21117,
+      "name": "Collection_Name_21117",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21118,
+      "name": "Collection_Name_21118",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21119,
+      "name": "Collection_Name_21119",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21120,
+      "name": "Collection_Name_21120",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21121,
+      "name": "Collection_Name_21121",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21122,
+      "name": "Collection_Name_21122",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21123,
+      "name": "Collection_Name_21123",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21124,
+      "name": "Collection_Name_21124",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21125,
+      "name": "Collection_Name_21125",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21126,
+      "name": "Collection_Name_21126",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21127,
+      "name": "Collection_Name_21127",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21128,
+      "name": "Collection_Name_21128",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21129,
+      "name": "Collection_Name_21129",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 21201,
+      "name": "Collection_Name_21201",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21202,
+      "name": "Collection_Name_21202",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21203,
+      "name": "Collection_Name_21203",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21204,
+      "name": "Collection_Name_21204",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21205,
+      "name": "Collection_Name_21205",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21206,
+      "name": "Collection_Name_21206",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21207,
+      "name": "Collection_Name_21207",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21208,
+      "name": "Collection_Name_21208",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21209,
+      "name": "Collection_Name_21209",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21210,
+      "name": "Collection_Name_21210",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21211,
+      "name": "Collection_Name_21211",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21212,
+      "name": "Collection_Name_21212",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21213,
+      "name": "Collection_Name_21213",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21214,
+      "name": "Collection_Name_21214",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21215,
+      "name": "Collection_Name_21215",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21216,
+      "name": "Collection_Name_21216",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21217,
+      "name": "Collection_Name_21217",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21218,
+      "name": "Collection_Name_21218",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21219,
+      "name": "Collection_Name_21219",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21220,
+      "name": "Collection_Name_21220",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21221,
+      "name": "Collection_Name_21221",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21222,
+      "name": "Collection_Name_21222",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21223,
+      "name": "Collection_Name_21223",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21224,
+      "name": "Collection_Name_21224",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21225,
+      "name": "Collection_Name_21225",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        12
+      ],
+      "valueArray": [
+        12
+      ]
+    },
+    {
+      "id": 21226,
+      "name": "Collection_Name_21226",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21227,
+      "name": "Collection_Name_21227",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 21228,
+      "name": "Collection_Name_21228",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 21229,
+      "name": "Collection_Name_21229",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 21301,
+      "name": "Collection_Name_21301",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21302,
+      "name": "Collection_Name_21302",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21303,
+      "name": "Collection_Name_21303",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21304,
+      "name": "Collection_Name_21304",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21305,
+      "name": "Collection_Name_21305",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21306,
+      "name": "Collection_Name_21306",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21307,
+      "name": "Collection_Name_21307",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21308,
+      "name": "Collection_Name_21308",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21309,
+      "name": "Collection_Name_21309",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21310,
+      "name": "Collection_Name_21310",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21311,
+      "name": "Collection_Name_21311",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21312,
+      "name": "Collection_Name_21312",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21313,
+      "name": "Collection_Name_21313",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21314,
+      "name": "Collection_Name_21314",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21315,
+      "name": "Collection_Name_21315",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21316,
+      "name": "Collection_Name_21316",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21317,
+      "name": "Collection_Name_21317",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21318,
+      "name": "Collection_Name_21318",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21319,
+      "name": "Collection_Name_21319",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21320,
+      "name": "Collection_Name_21320",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21321,
+      "name": "Collection_Name_21321",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21322,
+      "name": "Collection_Name_21322",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21323,
+      "name": "Collection_Name_21323",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21324,
+      "name": "Collection_Name_21324",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21325,
+      "name": "Collection_Name_21325",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 21326,
+      "name": "Collection_Name_21326",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_SP"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21327,
+      "name": "Collection_Name_21327",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 21328,
+      "name": "Collection_Name_21328",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 21329,
+      "name": "Collection_Name_21329",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        10
+      ],
+      "valueArray": [
+        10
+      ]
+    },
+    {
+      "id": 22001,
+      "name": "Collection_Name_22001",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22002,
+      "name": "Collection_Name_22002",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        20
+      ],
+      "valueArray": [
+        20
+      ]
+    },
+    {
+      "id": 22003,
+      "name": "Collection_Name_22003",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22004,
+      "name": "Collection_Name_22004",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22005,
+      "name": "Collection_Name_22005",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        20
+      ],
+      "valueArray": [
+        20
+      ]
+    },
+    {
+      "id": 22006,
+      "name": "Collection_Name_22006",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22007,
+      "name": "Collection_Name_22007",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22008,
+      "name": "Collection_Name_22008",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22009,
+      "name": "Collection_Name_22009",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22010,
+      "name": "Collection_Name_22010",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 22011,
+      "name": "Collection_Name_22011",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "MAX_HP"
+      ],
+      "value": [
+        15
+      ],
+      "valueArray": [
+        15
+      ]
+    },
+    {
+      "id": 22012,
+      "name": "Collection_Name_22012",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22013,
+      "name": "Collection_Name_22013",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22014,
+      "name": "Collection_Name_22014",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22015,
+      "name": "Collection_Name_22015",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "SP_REGEN"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22016,
+      "name": "Collection_Name_22016",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22017,
+      "name": "Collection_Name_22017",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HP_REGEN"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22018,
+      "name": "Collection_Name_22018",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22019,
+      "name": "Collection_Name_22019",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22020,
+      "name": "Collection_Name_22020",
+      "category": "Cook",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22021,
+      "name": "Collection_Name_22021",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22022,
+      "name": "Collection_Name_22022",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22023,
+      "name": "Collection_Name_22023",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22024,
+      "name": "Collection_Name_22024",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22025,
+      "name": "Collection_Name_22025",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22026,
+      "name": "Collection_Name_22026",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22027,
+      "name": "Collection_Name_22027",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22028,
+      "name": "Collection_Name_22028",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22029,
+      "name": "Collection_Name_22029",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22030,
+      "name": "Collection_Name_22030",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22031,
+      "name": "Collection_Name_22031",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22032,
+      "name": "Collection_Name_22032",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22033,
+      "name": "Collection_Name_22033",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22034,
+      "name": "Collection_Name_22034",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22035,
+      "name": "Collection_Name_22035",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22036,
+      "name": "Collection_Name_22036",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22037,
+      "name": "Collection_Name_22037",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22038,
+      "name": "Collection_Name_22038",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22039,
+      "name": "Collection_Name_22039",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22040,
+      "name": "Collection_Name_22040",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22041,
+      "name": "Collection_Name_22041",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22042,
+      "name": "Collection_Name_22042",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22043,
+      "name": "Collection_Name_22043",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22044,
+      "name": "Collection_Name_22044",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22045,
+      "name": "Collection_Name_22045",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22046,
+      "name": "Collection_Name_22046",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22047,
+      "name": "Collection_Name_22047",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22048,
+      "name": "Collection_Name_22048",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22049,
+      "name": "Collection_Name_22049",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22050,
+      "name": "Collection_Name_22050",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22051,
+      "name": "Collection_Name_22051",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22052,
+      "name": "Collection_Name_22052",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22053,
+      "name": "Collection_Name_22053",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22054,
+      "name": "Collection_Name_22054",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22055,
+      "name": "Collection_Name_22055",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22056,
+      "name": "Collection_Name_22056",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22057,
+      "name": "Collection_Name_22057",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22058,
+      "name": "Collection_Name_22058",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22059,
+      "name": "Collection_Name_22059",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22060,
+      "name": "Collection_Name_22060",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22061,
+      "name": "Collection_Name_22061",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22062,
+      "name": "Collection_Name_22062",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22063,
+      "name": "Collection_Name_22063",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22064,
+      "name": "Collection_Name_22064",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22065,
+      "name": "Collection_Name_22065",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22066,
+      "name": "Collection_Name_22066",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22067,
+      "name": "Collection_Name_22067",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22068,
+      "name": "Collection_Name_22068",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22069,
+      "name": "Collection_Name_22069",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22070,
+      "name": "Collection_Name_22070",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22071,
+      "name": "Collection_Name_22071",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22072,
+      "name": "Collection_Name_22072",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22073,
+      "name": "Collection_Name_22073",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22074,
+      "name": "Collection_Name_22074",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22075,
+      "name": "Collection_Name_22075",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22076,
+      "name": "Collection_Name_22076",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22077,
+      "name": "Collection_Name_22077",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22078,
+      "name": "Collection_Name_22078",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22079,
+      "name": "Collection_Name_22079",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22080,
+      "name": "Collection_Name_22080",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22081,
+      "name": "Collection_Name_22081",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22082,
+      "name": "Collection_Name_22082",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22083,
+      "name": "Collection_Name_22083",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22084,
+      "name": "Collection_Name_22084",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22085,
+      "name": "Collection_Name_22085",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22086,
+      "name": "Collection_Name_22086",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22087,
+      "name": "Collection_Name_22087",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22088,
+      "name": "Collection_Name_22088",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22089,
+      "name": "Collection_Name_22089",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22090,
+      "name": "Collection_Name_22090",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22091,
+      "name": "Collection_Name_22091",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22092,
+      "name": "Collection_Name_22092",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22093,
+      "name": "Collection_Name_22093",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22094,
+      "name": "Collection_Name_22094",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22095,
+      "name": "Collection_Name_22095",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22096,
+      "name": "Collection_Name_22096",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22097,
+      "name": "Collection_Name_22097",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22098,
+      "name": "Collection_Name_22098",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22099,
+      "name": "Collection_Name_22099",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22100,
+      "name": "Collection_Name_22100",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22101,
+      "name": "Collection_Name_22101",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22102,
+      "name": "Collection_Name_22102",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22103,
+      "name": "Collection_Name_22103",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22104,
+      "name": "Collection_Name_22104",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22105,
+      "name": "Collection_Name_22105",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22106,
+      "name": "Collection_Name_22106",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22107,
+      "name": "Collection_Name_22107",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22108,
+      "name": "Collection_Name_22108",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22109,
+      "name": "Collection_Name_22109",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22110,
+      "name": "Collection_Name_22110",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22111,
+      "name": "Collection_Name_22111",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22112,
+      "name": "Collection_Name_22112",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22113,
+      "name": "Collection_Name_22113",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22114,
+      "name": "Collection_Name_22114",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22115,
+      "name": "Collection_Name_22115",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22116,
+      "name": "Collection_Name_22116",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22117,
+      "name": "Collection_Name_22117",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22118,
+      "name": "Collection_Name_22118",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22119,
+      "name": "Collection_Name_22119",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22120,
+      "name": "Collection_Name_22120",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22121,
+      "name": "Collection_Name_22121",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22122,
+      "name": "Collection_Name_22122",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22123,
+      "name": "Collection_Name_22123",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22124,
+      "name": "Collection_Name_22124",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22125,
+      "name": "Collection_Name_22125",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22126,
+      "name": "Collection_Name_22126",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22127,
+      "name": "Collection_Name_22127",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22128,
+      "name": "Collection_Name_22128",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22129,
+      "name": "Collection_Name_22129",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22130,
+      "name": "Collection_Name_22130",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22131,
+      "name": "Collection_Name_22131",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22132,
+      "name": "Collection_Name_22132",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22133,
+      "name": "Collection_Name_22133",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22134,
+      "name": "Collection_Name_22134",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22135,
+      "name": "Collection_Name_22135",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22136,
+      "name": "Collection_Name_22136",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22137,
+      "name": "Collection_Name_22137",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22138,
+      "name": "Collection_Name_22138",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22139,
+      "name": "Collection_Name_22139",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22140,
+      "name": "Collection_Name_22140",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22141,
+      "name": "Collection_Name_22141",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22142,
+      "name": "Collection_Name_22142",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22143,
+      "name": "Collection_Name_22143",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22144,
+      "name": "Collection_Name_22144",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22145,
+      "name": "Collection_Name_22145",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22146,
+      "name": "Collection_Name_22146",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22147,
+      "name": "Collection_Name_22147",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22148,
+      "name": "Collection_Name_22148",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22149,
+      "name": "Collection_Name_22149",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22150,
+      "name": "Collection_Name_22150",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22151,
+      "name": "Collection_Name_22151",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22152,
+      "name": "Collection_Name_22152",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22153,
+      "name": "Collection_Name_22153",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22154,
+      "name": "Collection_Name_22154",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22155,
+      "name": "Collection_Name_22155",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22156,
+      "name": "Collection_Name_22156",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22157,
+      "name": "Collection_Name_22157",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22158,
+      "name": "Collection_Name_22158",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22159,
+      "name": "Collection_Name_22159",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22160,
+      "name": "Collection_Name_22160",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22161,
+      "name": "Collection_Name_22161",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22162,
+      "name": "Collection_Name_22162",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22163,
+      "name": "Collection_Name_22163",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22164,
+      "name": "Collection_Name_22164",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22165,
+      "name": "Collection_Name_22165",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22166,
+      "name": "Collection_Name_22166",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22167,
+      "name": "Collection_Name_22167",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22168,
+      "name": "Collection_Name_22168",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22169,
+      "name": "Collection_Name_22169",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22170,
+      "name": "Collection_Name_22170",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22171,
+      "name": "Collection_Name_22171",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22172,
+      "name": "Collection_Name_22172",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22173,
+      "name": "Collection_Name_22173",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22174,
+      "name": "Collection_Name_22174",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22175,
+      "name": "Collection_Name_22175",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22176,
+      "name": "Collection_Name_22176",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22177,
+      "name": "Collection_Name_22177",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22178,
+      "name": "Collection_Name_22178",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22179,
+      "name": "Collection_Name_22179",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22180,
+      "name": "Collection_Name_22180",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22181,
+      "name": "Collection_Name_22181",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22182,
+      "name": "Collection_Name_22182",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22183,
+      "name": "Collection_Name_22183",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22184,
+      "name": "Collection_Name_22184",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22185,
+      "name": "Collection_Name_22185",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22186,
+      "name": "Collection_Name_22186",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22187,
+      "name": "Collection_Name_22187",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22188,
+      "name": "Collection_Name_22188",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22189,
+      "name": "Collection_Name_22189",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22190,
+      "name": "Collection_Name_22190",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22191,
+      "name": "Collection_Name_22191",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22192,
+      "name": "Collection_Name_22192",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22193,
+      "name": "Collection_Name_22193",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22194,
+      "name": "Collection_Name_22194",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22195,
+      "name": "Collection_Name_22195",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22196,
+      "name": "Collection_Name_22196",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22197,
+      "name": "Collection_Name_22197",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22198,
+      "name": "Collection_Name_22198",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22199,
+      "name": "Collection_Name_22199",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22200,
+      "name": "Collection_Name_22200",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22201,
+      "name": "Collection_Name_22201",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22202,
+      "name": "Collection_Name_22202",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22203,
+      "name": "Collection_Name_22203",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22204,
+      "name": "Collection_Name_22204",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22205,
+      "name": "Collection_Name_22205",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22206,
+      "name": "Collection_Name_22206",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22207,
+      "name": "Collection_Name_22207",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22208,
+      "name": "Collection_Name_22208",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22209,
+      "name": "Collection_Name_22209",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22210,
+      "name": "Collection_Name_22210",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22211,
+      "name": "Collection_Name_22211",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22212,
+      "name": "Collection_Name_22212",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22213,
+      "name": "Collection_Name_22213",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22214,
+      "name": "Collection_Name_22214",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22215,
+      "name": "Collection_Name_22215",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22216,
+      "name": "Collection_Name_22216",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22217,
+      "name": "Collection_Name_22217",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22218,
+      "name": "Collection_Name_22218",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22219,
+      "name": "Collection_Name_22219",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22220,
+      "name": "Collection_Name_22220",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22221,
+      "name": "Collection_Name_22221",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        1
+      ],
+      "valueArray": [
+        1
+      ]
+    },
+    {
+      "id": 22222,
+      "name": "Collection_Name_22222",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        2
+      ],
+      "valueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22223,
+      "name": "Collection_Name_22223",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        3
+      ],
+      "valueArray": [
+        3
+      ]
+    },
+    {
+      "id": 22224,
+      "name": "Collection_Name_22224",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22225,
+      "name": "Collection_Name_22225",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22226,
+      "name": "Collection_Name_22226",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22227,
+      "name": "Collection_Name_22227",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22228,
+      "name": "Collection_Name_22228",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22229,
+      "name": "Collection_Name_22229",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22230,
+      "name": "Collection_Name_22230",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22231,
+      "name": "Collection_Name_22231",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22232,
+      "name": "Collection_Name_22232",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22233,
+      "name": "Collection_Name_22233",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22234,
+      "name": "Collection_Name_22234",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22235,
+      "name": "Collection_Name_22235",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22236,
+      "name": "Collection_Name_22236",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22237,
+      "name": "Collection_Name_22237",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22238,
+      "name": "Collection_Name_22238",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22239,
+      "name": "Collection_Name_22239",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22240,
+      "name": "Collection_Name_22240",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22241,
+      "name": "Collection_Name_22241",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22242,
+      "name": "Collection_Name_22242",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22243,
+      "name": "Collection_Name_22243",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22244,
+      "name": "Collection_Name_22244",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22245,
+      "name": "Collection_Name_22245",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22246,
+      "name": "Collection_Name_22246",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22247,
+      "name": "Collection_Name_22247",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22248,
+      "name": "Collection_Name_22248",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22249,
+      "name": "Collection_Name_22249",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22250,
+      "name": "Collection_Name_22250",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22251,
+      "name": "Collection_Name_22251",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22252,
+      "name": "Collection_Name_22252",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22253,
+      "name": "Collection_Name_22253",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22254,
+      "name": "Collection_Name_22254",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22255,
+      "name": "Collection_Name_22255",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22256,
+      "name": "Collection_Name_22256",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22257,
+      "name": "Collection_Name_22257",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22258,
+      "name": "Collection_Name_22258",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22259,
+      "name": "Collection_Name_22259",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22260,
+      "name": "Collection_Name_22260",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22261,
+      "name": "Collection_Name_22261",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22262,
+      "name": "Collection_Name_22262",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22263,
+      "name": "Collection_Name_22263",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22264,
+      "name": "Collection_Name_22264",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22265,
+      "name": "Collection_Name_22265",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22266,
+      "name": "Collection_Name_22266",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22267,
+      "name": "Collection_Name_22267",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22268,
+      "name": "Collection_Name_22268",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22269,
+      "name": "Collection_Name_22269",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22270,
+      "name": "Collection_Name_22270",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22271,
+      "name": "Collection_Name_22271",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22272,
+      "name": "Collection_Name_22272",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22273,
+      "name": "Collection_Name_22273",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22274,
+      "name": "Collection_Name_22274",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22275,
+      "name": "Collection_Name_22275",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22276,
+      "name": "Collection_Name_22276",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22277,
+      "name": "Collection_Name_22277",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22278,
+      "name": "Collection_Name_22278",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22279,
+      "name": "Collection_Name_22279",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22280,
+      "name": "Collection_Name_22280",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    },
+    {
+      "id": 22281,
+      "name": "Collection_Name_22281",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        4
+      ],
+      "valueArray": [
+        4
+      ]
+    },
+    {
+      "id": 22282,
+      "name": "Collection_Name_22282",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        5
+      ],
+      "valueArray": [
+        5
+      ]
+    },
+    {
+      "id": 22283,
+      "name": "Collection_Name_22283",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        6
+      ],
+      "valueArray": [
+        6
+      ]
+    },
+    {
+      "id": 22284,
+      "name": "Collection_Name_22284",
+      "category": "Equipment",
+      "rewardAttributeType": [
+        "HIT"
+      ],
+      "value": [
+        8
+      ],
+      "valueArray": [
+        8
+      ]
+    }
+  ]
+}

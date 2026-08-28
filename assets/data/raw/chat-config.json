@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 5,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataChatConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "MaxMessageLength",
+      "value": [
+        "200"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "MessageBufferSize",
+      "value": [
+        "50"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "WorldSkillMinGrade",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "WorldEnhanceMinLevel",
+      "value": [
+        "18"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "WorldPromotionMinGrade",
+      "value": [
+        "5"
+      ]
+    }
+  ]
+}

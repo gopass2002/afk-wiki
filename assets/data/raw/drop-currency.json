@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 98,
+    "schema": "FBDataDropCurrency",
+    "sourceAsset": "FBDataDropCurrency",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1000002001,
+      "dropGroup": "Mob_1000002001",
+      "exp": 50,
+      "goldMin": 15,
+      "goldMax": 30
+    },
+    {
+      "id": 1000002002,
+      "dropGroup": "Mob_1000002002",
+      "exp": 50,
+      "goldMin": 15,
+      "goldMax": 30
+    },
+    {
+      "id": 1000003001,
+      "dropGroup": "Mob_1000003001",
+      "exp": 56,
+      "goldMin": 17,
+      "goldMax": 33
+    },
+    {
+      "id": 1000003002,
+      "dropGroup": "Mob_1000003002",
+      "exp": 56,
+      "goldMin": 17,
+      "goldMax": 33
+    },
+    {
+      "id": 1000003901,
+      "dropGroup": "Mob_1000003901",
+      "exp": 112,
+      "goldMin": 33,
+      "goldMax": 68
+    },
+    {
+      "id": 1000004001,
+      "dropGroup": "Mob_1000004001",
+      "exp": 63,
+      "goldMin": 19,
+      "goldMax": 38
+    },
+    {
+      "id": 1000004002,
+      "dropGroup": "Mob_1000004002",
+      "exp": 63,
+      "goldMin": 19,
+      "goldMax": 38
+    },
+    {
+      "id": 1000005001,
+      "dropGroup": "Mob_1000005001",
+      "exp": 71,
+      "goldMin": 22,
+      "goldMax": 42
+    },
+    {
+      "id": 1000005002,
+      "dropGroup": "Mob_1000005002",
+      "exp": 71,
+      "goldMin": 22,
+      "goldMax": 42
+    },
+    {
+      "id": 1000005901,
+      "dropGroup": "Mob_1000005901",
+      "exp": 142,
+      "goldMin": 42,
+      "goldMax": 86
+    },
+    {
+      "id": 1000006001,
+      "dropGroup": "Mob_1000006001",
+      "exp": 79,
+      "goldMin": 23,
+      "goldMax": 48
+    },
+    {
+      "id": 1000006002,
+      "dropGroup": "Mob_1000006002",
+      "exp": 79,
+      "goldMin": 23,
+      "goldMax": 48
+    },
+    {
+      "id": 1000007001,
+      "dropGroup": "Mob_1000007001",
+      "exp": 89,
+      "goldMin": 27,
+      "goldMax": 53
+    },
+    {
+      "id": 1000007002,
+      "dropGroup": "Mob_1000007002",
+      "exp": 89,
+      "goldMin": 27,
+      "goldMax": 53
+    },
+    {
+      "id": 1000008001,
+      "dropGroup": "Mob_1000008001",
+      "exp": 100,
+      "goldMin": 30,
+      "goldMax": 60
+    },
+    {
+      "id": 1000008002,
+      "dropGroup": "Mob_1000008002",
+      "exp": 100,
+      "goldMin": 30,
+      "goldMax": 60
+    },
+    {
+      "id": 1000008901,
+      "dropGroup": "Mob_1000008901",
+      "exp": 200,
+      "goldMin": 60,
+      "goldMax": 120
+    },
+    {
+      "id": 1001001001,
+      "dropGroup": "Mob_1001001001",
+      "exp": 150,
+      "goldMin": 45,
+      "goldMax": 90
+    },
+    {
+      "id": 1001001002,
+      "dropGroup": "Mob_1001001002",
+      "exp": 150,
+      "goldMin": 45,
+      "goldMax": 90
+    },
+    {
+      "id": 1001002001,
+      "dropGroup": "Mob_1001002001",
+      "exp": 164,
+      "goldMin": 50,
+      "goldMax": 98
+    },
+    {
+      "id": 1001002002,
+      "dropGroup": "Mob_1001002002",
+      "exp": 164,
+      "goldMin": 50,
+      "goldMax": 98
+    },
+    {
+      "id": 1001003001,
+      "dropGroup": "Mob_1001003001",
+      "exp": 178,
+      "goldMin": 53,
+      "goldMax": 107
+    },
+    {
+      "id": 1001003002,
+      "dropGroup": "Mob_1001003002",
+      "exp": 178,
+      "goldMin": 53,
+      "goldMax": 107
+    },
+    {
+      "id": 1001003901,
+      "dropGroup": "Mob_1001003901",
+      "exp": 356,
+      "goldMin": 107,
+      "goldMax": 213
+    },
+    {
+      "id": 1001004001,
+      "dropGroup": "Mob_1001004001",
+      "exp": 194,
+      "goldMin": 58,
+      "goldMax": 116
+    },
+    {
+      "id": 1001004002,
+      "dropGroup": "Mob_1001004002",
+      "exp": 194,
+      "goldMin": 58,
+      "goldMax": 116
+    },
+    {
+      "id": 1001005001,
+      "dropGroup": "Mob_1001005001",
+      "exp": 212,
+      "goldMin": 64,
+      "goldMax": 127
+    },
+    {
+      "id": 1001005002,
+      "dropGroup": "Mob_1001005002",
+      "exp": 212,
+      "goldMin": 64,
+      "goldMax": 127
+    },
+    {
+      "id": 1001006001,
+      "dropGroup": "Mob_1001006001",
+      "exp": 230,
+      "goldMin": 69,
+      "goldMax": 138
+    },
+    {
+      "id": 1001006002,
+      "dropGroup": "Mob_1001006002",
+      "exp": 230,
+      "goldMin": 69,
+      "goldMax": 138
+    },
+    {
+      "id": 1001006901,
+      "dropGroup": "Mob_1001006901",
+      "exp": 460,
+      "goldMin": 138,
+      "goldMax": 276
+    },
+    {
+      "id": 1001007001,
+      "dropGroup": "Mob_1001007001",
+      "exp": 252,
+      "goldMin": 76,
+      "goldMax": 151
+    },
+    {
+      "id": 1001007002,
+      "dropGroup": "Mob_1001007002",
+      "exp": 252,
+      "goldMin": 76,
+      "goldMax": 151
+    },
+    {
+      "id": 1001008001,
+      "dropGroup": "Mob_1001008001",
+      "exp": 275,
+      "goldMin": 83,
+      "goldMax": 165
+    },
+    {
+      "id": 1001008002,
+      "dropGroup": "Mob_1001008002",
+      "exp": 275,
+      "goldMin": 83,
+      "goldMax": 165
+    },
+    {
+      "id": 1001009001,
+      "dropGroup": "Mob_1001009001",
+      "exp": 300,
+      "goldMin": 90,
+      "goldMax": 180
+    },
+    {
+      "id": 1001009002,
+      "dropGroup": "Mob_1001009002",
+      "exp": 300,
+      "goldMin": 90,
+      "goldMax": 180
+    },
+    {
+      "id": 1001009901,
+      "dropGroup": "Mob_1001009901",
+      "exp": 600,
+      "goldMin": 180,
+      "goldMax": 360
+    },
+    {
+      "id": 1002001001,
+      "dropGroup": "Mob_1002001001",
+      "exp": 450,
+      "goldMin": 135,
+      "goldMax": 270
+    },
+    {
+      "id": 1002001002,
+      "dropGroup": "Mob_1002001002",
+      "exp": 450,
+      "goldMin": 135,
+      "goldMax": 270
+    },
+    {
+      "id": 1002002001,
+      "dropGroup": "Mob_1002002001",
+      "exp": 490,
+      "goldMin": 147,
+      "goldMax": 294
+    },
+    {
+      "id": 1002002002,
+      "dropGroup": "Mob_1002002002",
+      "exp": 490,
+      "goldMin": 147,
+      "goldMax": 294
+    },
+    {
+      "id": 1002003001,
+      "dropGroup": "Mob_1002003001",
+      "exp": 535,
+      "goldMin": 160,
+      "goldMax": 321
+    },
+    {
+      "id": 1002003002,
+      "dropGroup": "Mob_1002003002",
+      "exp": 535,
+      "goldMin": 160,
+      "goldMax": 321
+    },
+    {
+      "id": 1002003901,
+      "dropGroup": "Mob_1002003901",
+      "exp": 1070,
+      "goldMin": 321,
+      "goldMax": 642
+    },
+    {
+      "id": 1002004001,
+      "dropGroup": "Mob_1002004001",
+      "exp": 585,
+      "goldMin": 176,
+      "goldMax": 351
+    },
+    {
+      "id": 1002004002,
+      "dropGroup": "Mob_1002004002",
+      "exp": 585,
+      "goldMin": 176,
+      "goldMax": 351
+    },
+    {
+      "id": 1002005001,
+      "dropGroup": "Mob_1002005001",
+      "exp": 635,
+      "goldMin": 191,
+      "goldMax": 381
+    },
+    {
+      "id": 1002005002,
+      "dropGroup": "Mob_1002005002",
+      "exp": 635,
+      "goldMin": 191,
+      "goldMax": 381
+    },
+    {
+      "id": 1002006001,
+      "dropGroup": "Mob_1002006001",
+      "exp": 695,
+      "goldMin": 209,
+      "goldMax": 417
+    },
+    {
+      "id": 1002006002,
+      "dropGroup": "Mob_1002006002",
+      "exp": 695,
+      "goldMin": 209,
+      "goldMax": 417
+    },
+    {
+      "id": 1002006901,
+      "dropGroup": "Mob_1002006901",
+      "exp": 1390,
+      "goldMin": 417,
+      "goldMax": 834
+    },
+    {
+      "id": 1002007001,
+      "dropGroup": "Mob_1002007001",
+      "exp": 755,
+      "goldMin": 227,
+      "goldMax": 453
+    },
+    {
+      "id": 1002007002,
+      "dropGroup": "Mob_1002007002",
+      "exp": 755,
+      "goldMin": 227,
+      "goldMax": 453
+    },
+    {
+      "id": 1002008001,
+      "dropGroup": "Mob_1002008001",
+      "exp": 825,
+      "goldMin": 248,
+      "goldMax": 495
+    },
+    {
+      "id": 1002008002,
+      "dropGroup": "Mob_1002008002",
+      "exp": 825,
+      "goldMin": 248,
+      "goldMax": 495
+    },
+    {
+      "id": 1002009001,
+      "dropGroup": "Mob_1002009001",
+      "exp": 900,
+      "goldMin": 270,
+      "goldMax": 540
+    },
+    {
+      "id": 1002009002,
+      "dropGroup": "Mob_1002009002",
+      "exp": 900,
+      "goldMin": 270,
+      "goldMax": 540
+    },
+    {
+      "id": 1002009901,
+      "dropGroup": "Mob_1002009901",
+      "exp": 1800,
+      "goldMin": 540,
+      "goldMax": 1080
+    },
+    {
+      "id": 1003001001,
+      "dropGroup": "Mob_1003001001",
+      "exp": 1350,
+      "goldMin": 405,
+      "goldMax": 810
+    },
+    {
+      "id": 1003001002,
+      "dropGroup": "Mob_1003001002",
+      "exp": 1350,
+      "goldMin": 405,
+      "goldMax": 810
+    },
+    {
+      "id": 1003002001,
+      "dropGroup": "Mob_1003002001",
+      "exp": 1470,
+      "goldMin": 441,
+      "goldMax": 882
+    },
+    {
+      "id": 1003002002,
+      "dropGroup": "Mob_1003002002",
+      "exp": 1470,
+      "goldMin": 441,
+      "goldMax": 882
+    },
+    {
+      "id": 1003003001,
+      "dropGroup": "Mob_1003003001",
+      "exp": 1605,
+      "goldMin": 482,
+      "goldMax": 963
+    },
+    {
+      "id": 1003003002,
+      "dropGroup": "Mob_1003003002",
+      "exp": 1605,
+      "goldMin": 482,
+      "goldMax": 963
+    },
+    {
+      "id": 1003003901,
+      "dropGroup": "Mob_1003003901",
+      "exp": 3210,
+      "goldMin": 963,
+      "goldMax": 1926
+    },
+    {
+      "id": 1003004001,
+      "dropGroup": "Mob_1003004001",
+      "exp": 1750,
+      "goldMin": 525,
+      "goldMax": 1050
+    },
+    {
+      "id": 1003004002,
+      "dropGroup": "Mob_1003004002",
+      "exp": 1750,
+      "goldMin": 525,
+      "goldMax": 1050
+    },
+    {
+      "id": 1003005001,
+      "dropGroup": "Mob_1003005001",
+      "exp": 1910,
+      "goldMin": 573,
+      "goldMax": 1146
+    },
+    {
+      "id": 1003005002,
+      "dropGroup": "Mob_1003005002",
+      "exp": 1910,
+      "goldMin": 573,
+      "goldMax": 1146
+    },
+    {
+      "id": 1003006001,
+      "dropGroup": "Mob_1003006001",
+      "exp": 2080,
+      "goldMin": 624,
+      "goldMax": 1248
+    },
+    {
+      "id": 1003006002,
+      "dropGroup": "Mob_1003006002",
+      "exp": 2080,
+      "goldMin": 624,
+      "goldMax": 1248
+    },
+    {
+      "id": 1003006901,
+      "dropGroup": "Mob_1003006901",
+      "exp": 4160,
+      "goldMin": 1248,
+      "goldMax": 2496
+    },
+    {
+      "id": 1003007001,
+      "dropGroup": "Mob_1003007001",
+      "exp": 2270,
+      "goldMin": 681,
+      "goldMax": 1362
+    },
+    {
+      "id": 1003007002,
+      "dropGroup": "Mob_1003007002",
+      "exp": 2270,
+      "goldMin": 681,
+      "goldMax": 1362
+    },
+    {
+      "id": 1003008001,
+      "dropGroup": "Mob_1003008001",
+      "exp": 2475,
+      "goldMin": 742,
+      "goldMax": 1485
+    },
+    {
+      "id": 1003008002,
+      "dropGroup": "Mob_1003008002",
+      "exp": 2475,
+      "goldMin": 742,
+      "goldMax": 1485
+    },
+    {
+      "id": 1003009001,
+      "dropGroup": "Mob_1003009001",
+      "exp": 2700,
+      "goldMin": 810,
+      "goldMax": 1620
+    },
+    {
+      "id": 1003009002,
+      "dropGroup": "Mob_1003009002",
+      "exp": 2700,
+      "goldMin": 810,
+      "goldMax": 1620
+    },
+    {
+      "id": 1003009901,
+      "dropGroup": "Mob_1003009901",
+      "exp": 5400,
+      "goldMin": 1620,
+      "goldMax": 3240
+    },
+    {
+      "id": 2001004901,
+      "dropGroup": "Mob_2001004901",
+      "exp": 4375,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004902,
+      "dropGroup": "Mob_2001004902",
+      "exp": 5250,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004903,
+      "dropGroup": "Mob_2001004903",
+      "exp": 11000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004904,
+      "dropGroup": "Mob_2001004904",
+      "exp": 13200,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004905,
+      "dropGroup": "Mob_2001004905",
+      "exp": 27500,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004906,
+      "dropGroup": "Mob_2001004906",
+      "exp": 33000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005901,
+      "dropGroup": "Mob_2001005901",
+      "exp": 11000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005902,
+      "dropGroup": "Mob_2001005902",
+      "exp": 11000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005903,
+      "dropGroup": "Mob_2001005903",
+      "exp": 11000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005904,
+      "dropGroup": "Mob_2001005904",
+      "exp": 27500,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005905,
+      "dropGroup": "Mob_2001005905",
+      "exp": 27500,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005906,
+      "dropGroup": "Mob_2001005906",
+      "exp": 27500,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005907,
+      "dropGroup": "Mob_2001005907",
+      "exp": 55000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005908,
+      "dropGroup": "Mob_2001005908",
+      "exp": 55000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005909,
+      "dropGroup": "Mob_2001005909",
+      "exp": 55000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005910,
+      "dropGroup": "Mob_2001005910",
+      "exp": 110000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005911,
+      "dropGroup": "Mob_2001005911",
+      "exp": 110000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001005912,
+      "dropGroup": "Mob_2001005912",
+      "exp": 110000,
+      "goldMin": 0,
+      "goldMax": 0
+    }
+  ]
+}

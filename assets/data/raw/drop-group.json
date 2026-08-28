@@ -1,0 +1,5221 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 868,
+    "schema": "FBDataDropGroup",
+    "sourceAsset": "FBDataDropGroup",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 600000,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1
+    },
+    {
+      "id": 600001,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600002,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600003,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 1
+    },
+    {
+      "id": 600004,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 1
+    },
+    {
+      "id": 600005,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Food_1000002001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600007,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1
+    },
+    {
+      "id": 600008,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600009,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600010,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 1
+    },
+    {
+      "id": 600011,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 1
+    },
+    {
+      "id": 600012,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Food_1000002002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600014,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1000000
+    },
+    {
+      "id": 600015,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600016,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600017,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 8000000
+    },
+    {
+      "id": 600018,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 32000000
+    },
+    {
+      "id": 600019,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Food_1000003001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600021,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1000000
+    },
+    {
+      "id": 600022,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600023,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600024,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 8000000
+    },
+    {
+      "id": 600025,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 32000000
+    },
+    {
+      "id": 600026,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Food_1000003002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600028,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1500000
+    },
+    {
+      "id": 600029,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600030,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600031,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600033,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 12000000
+    },
+    {
+      "id": 600034,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 48000000
+    },
+    {
+      "id": 600035,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Food_1000003901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600037,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1100000
+    },
+    {
+      "id": 600038,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600039,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600040,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 12000000
+    },
+    {
+      "id": 600041,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 48000000
+    },
+    {
+      "id": 600042,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Food_1000004001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600044,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1100000
+    },
+    {
+      "id": 600045,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600046,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600047,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 12000000
+    },
+    {
+      "id": 600048,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 48000000
+    },
+    {
+      "id": 600049,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Food_1000004002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600051,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1200000
+    },
+    {
+      "id": 600052,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600053,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600054,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 14000000
+    },
+    {
+      "id": 600055,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 56000000
+    },
+    {
+      "id": 600056,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Food_1000005001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600058,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1200000
+    },
+    {
+      "id": 600059,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600060,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600061,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 14000000
+    },
+    {
+      "id": 600062,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 56000000
+    },
+    {
+      "id": 600063,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Food_1000005002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600065,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1800000
+    },
+    {
+      "id": 600066,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600067,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600068,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600070,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 21000000
+    },
+    {
+      "id": 600071,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 84000000
+    },
+    {
+      "id": 600072,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Food_1000005901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600074,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1300000
+    },
+    {
+      "id": 600075,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600076,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600077,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 16000000
+    },
+    {
+      "id": 600078,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 64000000
+    },
+    {
+      "id": 600079,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Food_1000006001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600081,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1300000
+    },
+    {
+      "id": 600082,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600083,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600084,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 16000000
+    },
+    {
+      "id": 600085,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 64000000
+    },
+    {
+      "id": 600086,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Food_1000006002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600088,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1400000
+    },
+    {
+      "id": 600089,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600090,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600091,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 16000000
+    },
+    {
+      "id": 600092,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 64000000
+    },
+    {
+      "id": 600093,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Food_1000007001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600095,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1400000
+    },
+    {
+      "id": 600096,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600097,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600098,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 16000000
+    },
+    {
+      "id": 600099,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 64000000
+    },
+    {
+      "id": 600100,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Food_1000007002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600102,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1500000
+    },
+    {
+      "id": 600103,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600104,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600105,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 18000000
+    },
+    {
+      "id": 600106,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 72000000
+    },
+    {
+      "id": 600107,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Food_1000008001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600109,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1500000
+    },
+    {
+      "id": 600110,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600111,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600112,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 18000000
+    },
+    {
+      "id": 600113,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 72000000
+    },
+    {
+      "id": 600114,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Food_1000008002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600116,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 2250000
+    },
+    {
+      "id": 600117,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 1
+    },
+    {
+      "id": 600118,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600119,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600121,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 27000000
+    },
+    {
+      "id": 600122,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 108000000
+    },
+    {
+      "id": 600123,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Food_1000008901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600125,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 840000
+    },
+    {
+      "id": 600126,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 360000
+    },
+    {
+      "id": 600127,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600128,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600129,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600130,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Food_1001001001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600132,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 840000
+    },
+    {
+      "id": 600133,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 360000
+    },
+    {
+      "id": 600134,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600135,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600136,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600137,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Food_1001001002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600139,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 880000
+    },
+    {
+      "id": 600140,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 370000
+    },
+    {
+      "id": 600141,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600142,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600143,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600144,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Food_1001002001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600146,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 880000
+    },
+    {
+      "id": 600147,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 370000
+    },
+    {
+      "id": 600148,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600149,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600150,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600151,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Food_1001002002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600153,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 910000
+    },
+    {
+      "id": 600154,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 390000
+    },
+    {
+      "id": 600155,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600156,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600157,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600158,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Food_1001003001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600160,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 910000
+    },
+    {
+      "id": 600161,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 390000
+    },
+    {
+      "id": 600162,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600163,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600164,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600165,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Food_1001003002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600167,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1370000
+    },
+    {
+      "id": 600168,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 580000
+    },
+    {
+      "id": 600169,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600170,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600172,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600173,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600174,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Food_1001003901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600176,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 950000
+    },
+    {
+      "id": 600177,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 400000
+    },
+    {
+      "id": 600178,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600179,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600180,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600181,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Food_1001004001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600183,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 950000
+    },
+    {
+      "id": 600184,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 400000
+    },
+    {
+      "id": 600185,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600186,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600187,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600188,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Food_1001004002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600190,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 980000
+    },
+    {
+      "id": 600191,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 420000
+    },
+    {
+      "id": 600192,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600193,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600194,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600195,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Food_1001005001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600197,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 980000
+    },
+    {
+      "id": 600198,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 420000
+    },
+    {
+      "id": 600199,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600200,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600201,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600202,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Food_1001005002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600204,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1020000
+    },
+    {
+      "id": 600205,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 430000
+    },
+    {
+      "id": 600206,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600207,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600208,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600209,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Food_1001006001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600211,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1020000
+    },
+    {
+      "id": 600212,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 430000
+    },
+    {
+      "id": 600213,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600214,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600215,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600216,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Food_1001006002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600218,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1530000
+    },
+    {
+      "id": 600219,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 650000
+    },
+    {
+      "id": 600220,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600221,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600223,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600224,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600225,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Food_1001006901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600227,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1050000
+    },
+    {
+      "id": 600228,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 450000
+    },
+    {
+      "id": 600229,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600230,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600231,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600232,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Food_1001007001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600234,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1050000
+    },
+    {
+      "id": 600235,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 450000
+    },
+    {
+      "id": 600236,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600237,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600238,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600239,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Food_1001007002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600241,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1090000
+    },
+    {
+      "id": 600242,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 460000
+    },
+    {
+      "id": 600243,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600244,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600245,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600246,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Food_1001008001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600248,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1090000
+    },
+    {
+      "id": 600249,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 460000
+    },
+    {
+      "id": 600250,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600251,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600252,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600253,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Food_1001008002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600255,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1120000
+    },
+    {
+      "id": 600256,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 480000
+    },
+    {
+      "id": 600257,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600258,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600259,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600260,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Food_1001009001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600262,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1120000
+    },
+    {
+      "id": 600263,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 480000
+    },
+    {
+      "id": 600264,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600265,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600266,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600267,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Food_1001009002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600269,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1680000
+    },
+    {
+      "id": 600270,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 720000
+    },
+    {
+      "id": 600271,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 1
+    },
+    {
+      "id": 600272,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600274,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600275,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600276,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Food_1001009901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600278,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 700000
+    },
+    {
+      "id": 600279,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 490000
+    },
+    {
+      "id": 600280,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 210000
+    },
+    {
+      "id": 600281,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600282,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600283,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Food_1002001001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600285,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 700000
+    },
+    {
+      "id": 600286,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 490000
+    },
+    {
+      "id": 600287,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 210000
+    },
+    {
+      "id": 600288,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600289,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600290,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Food_1002001002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600292,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 730000
+    },
+    {
+      "id": 600293,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 510000
+    },
+    {
+      "id": 600294,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 210000
+    },
+    {
+      "id": 600295,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600296,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600297,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Food_1002002001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600299,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 730000
+    },
+    {
+      "id": 600300,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 510000
+    },
+    {
+      "id": 600301,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 210000
+    },
+    {
+      "id": 600302,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600303,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600304,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Food_1002002002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600306,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 750000
+    },
+    {
+      "id": 600307,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 530000
+    },
+    {
+      "id": 600308,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 220000
+    },
+    {
+      "id": 600309,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600310,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600311,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Food_1002003001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600313,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 750000
+    },
+    {
+      "id": 600314,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 530000
+    },
+    {
+      "id": 600315,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 220000
+    },
+    {
+      "id": 600316,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600317,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600318,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Food_1002003002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600320,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1130000
+    },
+    {
+      "id": 600321,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 790000
+    },
+    {
+      "id": 600322,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 330000
+    },
+    {
+      "id": 600323,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600325,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600326,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600327,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Food_1002003901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600329,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 780000
+    },
+    {
+      "id": 600330,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 540000
+    },
+    {
+      "id": 600331,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 230000
+    },
+    {
+      "id": 600332,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600333,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600334,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Food_1002004001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600336,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 780000
+    },
+    {
+      "id": 600337,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 540000
+    },
+    {
+      "id": 600338,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 230000
+    },
+    {
+      "id": 600339,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600340,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600341,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Food_1002004002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600343,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 800000
+    },
+    {
+      "id": 600344,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 560000
+    },
+    {
+      "id": 600345,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 240000
+    },
+    {
+      "id": 600346,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600347,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600348,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Food_1002005001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600350,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 800000
+    },
+    {
+      "id": 600351,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 560000
+    },
+    {
+      "id": 600352,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 240000
+    },
+    {
+      "id": 600353,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600354,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600355,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Food_1002005002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600357,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 830000
+    },
+    {
+      "id": 600358,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 580000
+    },
+    {
+      "id": 600359,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 240000
+    },
+    {
+      "id": 600360,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600361,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600362,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Food_1002006001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600364,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 830000
+    },
+    {
+      "id": 600365,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 580000
+    },
+    {
+      "id": 600366,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 240000
+    },
+    {
+      "id": 600367,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600368,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600369,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Food_1002006002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600371,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1240000
+    },
+    {
+      "id": 600372,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 870000
+    },
+    {
+      "id": 600373,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 370000
+    },
+    {
+      "id": 600374,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600376,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600377,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600378,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Food_1002006901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600380,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 850000
+    },
+    {
+      "id": 600381,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 600000
+    },
+    {
+      "id": 600382,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 250000
+    },
+    {
+      "id": 600383,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600384,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600385,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Food_1002007001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600387,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 850000
+    },
+    {
+      "id": 600388,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 600000
+    },
+    {
+      "id": 600389,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 250000
+    },
+    {
+      "id": 600390,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600391,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600392,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Food_1002007002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600394,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 880000
+    },
+    {
+      "id": 600395,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 610000
+    },
+    {
+      "id": 600396,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 260000
+    },
+    {
+      "id": 600397,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600398,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600399,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Food_1002008001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600401,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 880000
+    },
+    {
+      "id": 600402,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 610000
+    },
+    {
+      "id": 600403,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 260000
+    },
+    {
+      "id": 600404,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600405,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600406,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Food_1002008002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600408,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 900000
+    },
+    {
+      "id": 600409,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 630000
+    },
+    {
+      "id": 600410,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 270000
+    },
+    {
+      "id": 600411,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600412,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600413,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Food_1002009001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600415,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 900000
+    },
+    {
+      "id": 600416,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 630000
+    },
+    {
+      "id": 600417,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 270000
+    },
+    {
+      "id": 600418,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600419,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600420,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Food_1002009002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600422,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 1350000
+    },
+    {
+      "id": 600423,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 950000
+    },
+    {
+      "id": 600424,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 400000
+    },
+    {
+      "id": 600425,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 600427,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600428,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600429,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Food_1002009901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600431,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 279500
+    },
+    {
+      "id": 600432,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 480000
+    },
+    {
+      "id": 600433,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 320000
+    },
+    {
+      "id": 600434,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600435,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600436,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Food_1003001001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600438,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 279500
+    },
+    {
+      "id": 600439,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 480000
+    },
+    {
+      "id": 600440,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 320000
+    },
+    {
+      "id": 600441,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600442,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600443,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Food_1003001002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600445,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 299500
+    },
+    {
+      "id": 600446,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 500000
+    },
+    {
+      "id": 600447,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 330000
+    },
+    {
+      "id": 600448,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600449,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600450,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Food_1003002001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600452,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 299500
+    },
+    {
+      "id": 600453,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 500000
+    },
+    {
+      "id": 600454,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 330000
+    },
+    {
+      "id": 600455,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600456,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600457,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Food_1003002002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600459,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 309500
+    },
+    {
+      "id": 600460,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 510000
+    },
+    {
+      "id": 600461,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 340000
+    },
+    {
+      "id": 600462,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600463,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600464,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Food_1003003001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600466,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 309500
+    },
+    {
+      "id": 600467,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 510000
+    },
+    {
+      "id": 600468,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 340000
+    },
+    {
+      "id": 600469,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600470,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600471,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Food_1003003002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600473,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 469500
+    },
+    {
+      "id": 600474,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 770000
+    },
+    {
+      "id": 600475,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 510000
+    },
+    {
+      "id": 600476,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 250000
+    },
+    {
+      "id": 600478,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600479,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600480,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Food_1003003901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600482,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 329500
+    },
+    {
+      "id": 600483,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 530000
+    },
+    {
+      "id": 600484,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 350000
+    },
+    {
+      "id": 600485,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600486,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600487,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Food_1003004001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600489,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 329500
+    },
+    {
+      "id": 600490,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 530000
+    },
+    {
+      "id": 600491,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 350000
+    },
+    {
+      "id": 600492,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600493,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600494,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Food_1003004002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600496,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 339500
+    },
+    {
+      "id": 600497,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 540000
+    },
+    {
+      "id": 600498,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 360000
+    },
+    {
+      "id": 600499,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600500,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600501,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Food_1003005001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600503,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 339500
+    },
+    {
+      "id": 600504,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 540000
+    },
+    {
+      "id": 600505,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 360000
+    },
+    {
+      "id": 600506,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600507,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600508,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Food_1003005002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600510,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 359500
+    },
+    {
+      "id": 600511,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 560000
+    },
+    {
+      "id": 600512,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 370000
+    },
+    {
+      "id": 600513,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600514,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600515,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Food_1003006001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600517,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 359500
+    },
+    {
+      "id": 600518,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 560000
+    },
+    {
+      "id": 600519,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 370000
+    },
+    {
+      "id": 600520,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600521,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600522,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Food_1003006002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600524,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 529500
+    },
+    {
+      "id": 600525,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 830000
+    },
+    {
+      "id": 600526,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 560000
+    },
+    {
+      "id": 600527,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 280000
+    },
+    {
+      "id": 600529,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600530,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600531,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Food_1003006901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 600533,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 369500
+    },
+    {
+      "id": 600534,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 570000
+    },
+    {
+      "id": 600535,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 380000
+    },
+    {
+      "id": 600536,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600537,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600538,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Food_1003007001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600540,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 369500
+    },
+    {
+      "id": 600541,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 570000
+    },
+    {
+      "id": 600542,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 380000
+    },
+    {
+      "id": 600543,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600544,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600545,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Food_1003007002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600547,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 389500
+    },
+    {
+      "id": 600548,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 590000
+    },
+    {
+      "id": 600549,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 390000
+    },
+    {
+      "id": 600550,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600551,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600552,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Food_1003008001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600554,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 389500
+    },
+    {
+      "id": 600555,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 590000
+    },
+    {
+      "id": 600556,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 390000
+    },
+    {
+      "id": 600557,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600558,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600559,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Food_1003008002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600561,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 399500
+    },
+    {
+      "id": 600562,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 600000
+    },
+    {
+      "id": 600563,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 400000
+    },
+    {
+      "id": 600564,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600565,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600566,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Food_1003009001",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600568,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 399500
+    },
+    {
+      "id": 600569,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 600000
+    },
+    {
+      "id": 600570,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 400000
+    },
+    {
+      "id": 600571,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600572,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600573,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Food_1003009002",
+      "dropRate": 15000000
+    },
+    {
+      "id": 600575,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_T1",
+      "dropRate": 599500
+    },
+    {
+      "id": 600576,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_T2",
+      "dropRate": 900000
+    },
+    {
+      "id": 600577,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_T3",
+      "dropRate": 600000
+    },
+    {
+      "id": 600578,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 300000
+    },
+    {
+      "id": 600580,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Mat_Scroll",
+      "dropRate": 20000000
+    },
+    {
+      "id": 600581,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Mat_Stone",
+      "dropRate": 80000000
+    },
+    {
+      "id": 600582,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Food_1003009901",
+      "dropRate": 10000000
+    },
+    {
+      "id": 601349,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601350,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601351,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601352,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601353,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601354,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601355,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601356,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601357,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601358,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601359,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601360,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601361,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601362,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601363,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601364,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601365,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601366,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601367,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601368,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601369,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601370,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601371,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601372,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601373,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601374,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601375,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601376,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601377,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601378,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601379,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601380,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601381,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601382,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601383,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601384,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601385,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601386,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601387,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601388,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601389,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601390,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601391,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601392,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601393,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601394,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601395,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601396,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601397,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601398,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601399,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601400,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601401,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601402,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601403,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601404,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601405,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601406,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601407,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601408,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601409,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601410,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601411,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601412,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601413,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601414,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601415,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601416,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601417,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601418,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601419,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601420,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601421,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601422,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601423,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601424,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601425,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601426,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601427,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Spark",
+      "dropRate": 400000000
+    },
+    {
+      "id": 601428,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Spark_Boss",
+      "dropRate": 1000000000
+    },
+    {
+      "id": 601534,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601535,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601536,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601537,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601538,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601539,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601540,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601541,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601542,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601543,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601544,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601545,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601546,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601547,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601548,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601549,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601550,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601551,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601552,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601553,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601554,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601555,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601556,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601557,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601558,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601559,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601560,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601561,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601562,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601563,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601564,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601565,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601566,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601567,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601568,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601569,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601570,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601571,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601572,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601573,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601574,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601575,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601576,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601577,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601578,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601579,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601580,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601581,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 1
+    },
+    {
+      "id": 601582,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601583,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601584,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601585,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601586,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 170000
+    },
+    {
+      "id": 601587,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 170000
+    },
+    {
+      "id": 601588,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 170000
+    },
+    {
+      "id": 601589,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 170000
+    },
+    {
+      "id": 601590,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 180000
+    },
+    {
+      "id": 601591,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 180000
+    },
+    {
+      "id": 601592,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 180000
+    },
+    {
+      "id": 601593,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 180000
+    },
+    {
+      "id": 601594,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 190000
+    },
+    {
+      "id": 601595,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 190000
+    },
+    {
+      "id": 601596,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 190000
+    },
+    {
+      "id": 601597,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 190000
+    },
+    {
+      "id": 601598,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 200000
+    },
+    {
+      "id": 601599,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_T4",
+      "dropRate": 200000
+    },
+    {
+      "id": 601600,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 19997500
+    },
+    {
+      "id": 601601,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 6000000
+    },
+    {
+      "id": 601602,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1200000
+    },
+    {
+      "id": 601603,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 120000
+    },
+    {
+      "id": 601604,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601607,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 19997500
+    },
+    {
+      "id": 601608,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 6000000
+    },
+    {
+      "id": 601609,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1200000
+    },
+    {
+      "id": 601610,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 120000
+    },
+    {
+      "id": 601611,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 40000000
+    },
+    {
+      "id": 601612,
+      "dropGroup": "Mob_2001004901",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 2500
+    },
+    {
+      "id": 601613,
+      "dropGroup": "Mob_2001004902",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 2500
+    },
+    {
+      "id": 601614,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 19385000
+    },
+    {
+      "id": 601615,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 6500000
+    },
+    {
+      "id": 601616,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1300000
+    },
+    {
+      "id": 601617,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 130000
+    },
+    {
+      "id": 601618,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 5000
+    },
+    {
+      "id": 601619,
+      "dropGroup": "Mob_2001004903",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601620,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 19385000
+    },
+    {
+      "id": 601621,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 6500000
+    },
+    {
+      "id": 601622,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1300000
+    },
+    {
+      "id": 601623,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 130000
+    },
+    {
+      "id": 601624,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 5000
+    },
+    {
+      "id": 601625,
+      "dropGroup": "Mob_2001004904",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 40000000
+    },
+    {
+      "id": 601626,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 18770000
+    },
+    {
+      "id": 601627,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 7000000
+    },
+    {
+      "id": 601628,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1400000
+    },
+    {
+      "id": 601629,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 140000
+    },
+    {
+      "id": 601630,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 10000
+    },
+    {
+      "id": 601631,
+      "dropGroup": "Mob_2001004905",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601632,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 18770000
+    },
+    {
+      "id": 601633,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 7000000
+    },
+    {
+      "id": 601634,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 1400000
+    },
+    {
+      "id": 601635,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 140000
+    },
+    {
+      "id": 601636,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 10000
+    },
+    {
+      "id": 601637,
+      "dropGroup": "Mob_2001004906",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 40000000
+    },
+    {
+      "id": 601638,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 19385000
+    },
+    {
+      "id": 601639,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 6500000
+    },
+    {
+      "id": 601640,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1300000
+    },
+    {
+      "id": 601641,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 130000
+    },
+    {
+      "id": 601642,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 5000
+    },
+    {
+      "id": 601643,
+      "dropGroup": "Mob_2001005901",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601644,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 19385000
+    },
+    {
+      "id": 601645,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 6500000
+    },
+    {
+      "id": 601646,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1300000
+    },
+    {
+      "id": 601647,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 130000
+    },
+    {
+      "id": 601648,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 5000
+    },
+    {
+      "id": 601649,
+      "dropGroup": "Mob_2001005902",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601650,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 19385000
+    },
+    {
+      "id": 601651,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 6500000
+    },
+    {
+      "id": 601652,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1300000
+    },
+    {
+      "id": 601653,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 130000
+    },
+    {
+      "id": 601654,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 5000
+    },
+    {
+      "id": 601655,
+      "dropGroup": "Mob_2001005903",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601656,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18770000
+    },
+    {
+      "id": 601657,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7000000
+    },
+    {
+      "id": 601658,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1400000
+    },
+    {
+      "id": 601659,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 140000
+    },
+    {
+      "id": 601660,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 10000
+    },
+    {
+      "id": 601661,
+      "dropGroup": "Mob_2001005904",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601662,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18770000
+    },
+    {
+      "id": 601663,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7000000
+    },
+    {
+      "id": 601664,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1400000
+    },
+    {
+      "id": 601665,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 140000
+    },
+    {
+      "id": 601666,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 10000
+    },
+    {
+      "id": 601667,
+      "dropGroup": "Mob_2001005905",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601668,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18770000
+    },
+    {
+      "id": 601669,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7000000
+    },
+    {
+      "id": 601670,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1400000
+    },
+    {
+      "id": 601671,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 140000
+    },
+    {
+      "id": 601672,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 10000
+    },
+    {
+      "id": 601673,
+      "dropGroup": "Mob_2001005906",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601674,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18040000
+    },
+    {
+      "id": 601675,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7500000
+    },
+    {
+      "id": 601676,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1600000
+    },
+    {
+      "id": 601677,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601678,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 20000
+    },
+    {
+      "id": 601679,
+      "dropGroup": "Mob_2001005907",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601680,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18040000
+    },
+    {
+      "id": 601681,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7500000
+    },
+    {
+      "id": 601682,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1600000
+    },
+    {
+      "id": 601683,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601684,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 20000
+    },
+    {
+      "id": 601685,
+      "dropGroup": "Mob_2001005908",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601686,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 18040000
+    },
+    {
+      "id": 601687,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 7500000
+    },
+    {
+      "id": 601688,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1600000
+    },
+    {
+      "id": 601689,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 160000
+    },
+    {
+      "id": 601690,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 20000
+    },
+    {
+      "id": 601691,
+      "dropGroup": "Mob_2001005909",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601692,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 17280000
+    },
+    {
+      "id": 601693,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 8000000
+    },
+    {
+      "id": 601694,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1800000
+    },
+    {
+      "id": 601695,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 200000
+    },
+    {
+      "id": 601696,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 40000
+    },
+    {
+      "id": 601697,
+      "dropGroup": "Mob_2001005910",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601698,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 17280000
+    },
+    {
+      "id": 601699,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 8000000
+    },
+    {
+      "id": 601700,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1800000
+    },
+    {
+      "id": 601701,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 200000
+    },
+    {
+      "id": 601702,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 40000
+    },
+    {
+      "id": 601703,
+      "dropGroup": "Mob_2001005911",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601704,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Orb_T1",
+      "dropRate": 17280000
+    },
+    {
+      "id": 601705,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Orb_T2",
+      "dropRate": 8000000
+    },
+    {
+      "id": 601706,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Orb_T3",
+      "dropRate": 1800000
+    },
+    {
+      "id": 601707,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Orb_T4",
+      "dropRate": 200000
+    },
+    {
+      "id": 601708,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Orb_Legend",
+      "dropRate": 40000
+    },
+    {
+      "id": 601709,
+      "dropGroup": "Mob_2001005912",
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "dropRate": 20000000
+    },
+    {
+      "id": 601710,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 160000
+    },
+    {
+      "id": 601711,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 160000
+    },
+    {
+      "id": 601712,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 160000
+    },
+    {
+      "id": 601713,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 160000
+    },
+    {
+      "id": 601714,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 170000
+    },
+    {
+      "id": 601715,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 170000
+    },
+    {
+      "id": 601716,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 250000
+    },
+    {
+      "id": 601717,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 170000
+    },
+    {
+      "id": 601718,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 170000
+    },
+    {
+      "id": 601719,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 180000
+    },
+    {
+      "id": 601720,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 180000
+    },
+    {
+      "id": 601721,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 180000
+    },
+    {
+      "id": 601722,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 180000
+    },
+    {
+      "id": 601723,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 280000
+    },
+    {
+      "id": 601724,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 190000
+    },
+    {
+      "id": 601725,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 190000
+    },
+    {
+      "id": 601726,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 190000
+    },
+    {
+      "id": 601727,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 190000
+    },
+    {
+      "id": 601728,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 200000
+    },
+    {
+      "id": 601729,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 200000
+    },
+    {
+      "id": 601730,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "dropRate": 300000
+    },
+    {
+      "id": 601731,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601732,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601733,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601734,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601735,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601736,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601737,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601738,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601739,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601740,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601741,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601742,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601743,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601744,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601745,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601746,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601747,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601748,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601749,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601750,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601751,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_Equip_Legend",
+      "dropRate": 500
+    },
+    {
+      "id": 601752,
+      "dropGroup": "Mob_1000002001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601753,
+      "dropGroup": "Mob_1000002002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601754,
+      "dropGroup": "Mob_1000003001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601755,
+      "dropGroup": "Mob_1000003002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601756,
+      "dropGroup": "Mob_1000003901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601757,
+      "dropGroup": "Mob_1000004001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601758,
+      "dropGroup": "Mob_1000004002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601759,
+      "dropGroup": "Mob_1000005001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601760,
+      "dropGroup": "Mob_1000005002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601761,
+      "dropGroup": "Mob_1000005901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601762,
+      "dropGroup": "Mob_1000006001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601763,
+      "dropGroup": "Mob_1000006002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601764,
+      "dropGroup": "Mob_1000007001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601765,
+      "dropGroup": "Mob_1000007002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601766,
+      "dropGroup": "Mob_1000008001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601767,
+      "dropGroup": "Mob_1000008002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601768,
+      "dropGroup": "Mob_1000008901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 6405
+    },
+    {
+      "id": 601769,
+      "dropGroup": "Mob_1001001001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601770,
+      "dropGroup": "Mob_1001001002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601771,
+      "dropGroup": "Mob_1001002001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601772,
+      "dropGroup": "Mob_1001002002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601773,
+      "dropGroup": "Mob_1001003001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601774,
+      "dropGroup": "Mob_1001003002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601775,
+      "dropGroup": "Mob_1001003901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601776,
+      "dropGroup": "Mob_1001004001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601777,
+      "dropGroup": "Mob_1001004002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601778,
+      "dropGroup": "Mob_1001005001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601779,
+      "dropGroup": "Mob_1001005002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601780,
+      "dropGroup": "Mob_1001006001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601781,
+      "dropGroup": "Mob_1001006002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601782,
+      "dropGroup": "Mob_1001006901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601783,
+      "dropGroup": "Mob_1001007001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601784,
+      "dropGroup": "Mob_1001007002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601785,
+      "dropGroup": "Mob_1001008001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601786,
+      "dropGroup": "Mob_1001008002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601787,
+      "dropGroup": "Mob_1001009001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601788,
+      "dropGroup": "Mob_1001009002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601789,
+      "dropGroup": "Mob_1001009901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 12810
+    },
+    {
+      "id": 601790,
+      "dropGroup": "Mob_1002001001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601791,
+      "dropGroup": "Mob_1002001002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601792,
+      "dropGroup": "Mob_1002002001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601793,
+      "dropGroup": "Mob_1002002002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601794,
+      "dropGroup": "Mob_1002003001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601795,
+      "dropGroup": "Mob_1002003002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601796,
+      "dropGroup": "Mob_1002003901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601797,
+      "dropGroup": "Mob_1002004001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601798,
+      "dropGroup": "Mob_1002004002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601799,
+      "dropGroup": "Mob_1002005001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601800,
+      "dropGroup": "Mob_1002005002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601801,
+      "dropGroup": "Mob_1002006001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601802,
+      "dropGroup": "Mob_1002006002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601803,
+      "dropGroup": "Mob_1002006901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601804,
+      "dropGroup": "Mob_1002007001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601805,
+      "dropGroup": "Mob_1002007002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601806,
+      "dropGroup": "Mob_1002008001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601807,
+      "dropGroup": "Mob_1002008002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601808,
+      "dropGroup": "Mob_1002009001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601809,
+      "dropGroup": "Mob_1002009002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601810,
+      "dropGroup": "Mob_1002009901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 17934
+    },
+    {
+      "id": 601811,
+      "dropGroup": "Mob_1003001001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601812,
+      "dropGroup": "Mob_1003001002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601813,
+      "dropGroup": "Mob_1003002001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601814,
+      "dropGroup": "Mob_1003002002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601815,
+      "dropGroup": "Mob_1003003001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601816,
+      "dropGroup": "Mob_1003003002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601817,
+      "dropGroup": "Mob_1003003901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601818,
+      "dropGroup": "Mob_1003004001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601819,
+      "dropGroup": "Mob_1003004002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601820,
+      "dropGroup": "Mob_1003005001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601821,
+      "dropGroup": "Mob_1003005002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601822,
+      "dropGroup": "Mob_1003006001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601823,
+      "dropGroup": "Mob_1003006002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601824,
+      "dropGroup": "Mob_1003006901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601825,
+      "dropGroup": "Mob_1003007001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601826,
+      "dropGroup": "Mob_1003007002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601827,
+      "dropGroup": "Mob_1003008001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601828,
+      "dropGroup": "Mob_1003008002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601829,
+      "dropGroup": "Mob_1003009001",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601830,
+      "dropGroup": "Mob_1003009002",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    },
+    {
+      "id": 601831,
+      "dropGroup": "Mob_1003009901",
+      "seedGroup": "Seed_HyeopJeon",
+      "dropRate": 21777
+    }
+  ]
+}

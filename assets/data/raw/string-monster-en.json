@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 101,
+    "schema": "FBDataStringMonster",
+    "sourceAsset": "FBDataStringMonster_en",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 19,
+      "key": "Monster_Name_90001",
+      "value": "Inner Illusion"
+    },
+    {
+      "id": 20,
+      "key": "Monster_Name_90011",
+      "value": "Inner Demon"
+    },
+    {
+      "id": 21,
+      "key": "Monster_Name_90012",
+      "value": "Inner Desire"
+    },
+    {
+      "id": 22,
+      "key": "Monster_Name_90013",
+      "value": "Inner Rage"
+    },
+    {
+      "id": 23,
+      "key": "Monster_Name_90014",
+      "value": "Inner Despair"
+    },
+    {
+      "id": 24,
+      "key": "Monster_Name_90015",
+      "value": "Inner Madness"
+    },
+    {
+      "id": 25,
+      "key": "Monster_Name_90016",
+      "value": "Inner Pride"
+    },
+    {
+      "id": 26,
+      "key": "Monster_Name_90017",
+      "value": "Inner Obsession"
+    },
+    {
+      "id": 27,
+      "key": "Monster_Name_90018",
+      "value": "Inner Doubt"
+    },
+    {
+      "id": 28,
+      "key": "Monster_Name_90019",
+      "value": "Inner Fear"
+    },
+    {
+      "id": 29,
+      "key": "Monster_Name_90020",
+      "value": "Inner Greed"
+    },
+    {
+      "id": 30,
+      "key": "Monster_Name_90021",
+      "value": "Inner Regret"
+    },
+    {
+      "id": 31,
+      "key": "Monster_Name_90022",
+      "value": "Inner Emptiness"
+    },
+    {
+      "id": 32,
+      "key": "Monster_Name_90023",
+      "value": "Inner Ego"
+    },
+    {
+      "id": 33,
+      "key": "Monster_Name_90024",
+      "value": "Inner Ignorance"
+    },
+    {
+      "id": 34,
+      "key": "Monster_Name_90025",
+      "value": "Inner Abyss"
+    },
+    {
+      "id": 35,
+      "key": "Monster_Name_90026",
+      "value": "Another Self"
+    },
+    {
+      "id": 36,
+      "key": "Monster_Name_90027",
+      "value": "True Self"
+    },
+    {
+      "id": 1000002001,
+      "key": "Monster_Name_1000002001",
+      "value": "Wild Boar"
+    },
+    {
+      "id": 1000002002,
+      "key": "Monster_Name_1000002002",
+      "value": "Wild Fox"
+    },
+    {
+      "id": 1000003001,
+      "key": "Monster_Name_1000003001",
+      "value": "Strong Wild Boar"
+    },
+    {
+      "id": 1000003002,
+      "key": "Monster_Name_1000003002",
+      "value": "Strong Wild Fox"
+    },
+    {
+      "id": 1000003901,
+      "key": "Monster_Name_1000003901",
+      "value": "Giant Boar"
+    },
+    {
+      "id": 1000004001,
+      "key": "Monster_Name_1000004001",
+      "value": "Wild Raccoon"
+    },
+    {
+      "id": 1000004002,
+      "key": "Monster_Name_1000004002",
+      "value": "Valley Toad"
+    },
+    {
+      "id": 1000005001,
+      "key": "Monster_Name_1000005001",
+      "value": "Strong Wild Raccoon"
+    },
+    {
+      "id": 1000005002,
+      "key": "Monster_Name_1000005002",
+      "value": "Strong Valley Toad"
+    },
+    {
+      "id": 1000005901,
+      "key": "Monster_Name_1000005901",
+      "value": "Black Bear"
+    },
+    {
+      "id": 1000006001,
+      "key": "Monster_Name_1000006001",
+      "value": "Bandit Grunt"
+    },
+    {
+      "id": 1000006002,
+      "key": "Monster_Name_1000006002",
+      "value": "Bandit Archer"
+    },
+    {
+      "id": 1000007001,
+      "key": "Monster_Name_1000007001",
+      "value": "Veteran Bandit Grunt"
+    },
+    {
+      "id": 1000007002,
+      "key": "Monster_Name_1000007002",
+      "value": "Veteran Bandit Archer"
+    },
+    {
+      "id": 1000008001,
+      "key": "Monster_Name_1000008001",
+      "value": "Vicious Bandit Grunt"
+    },
+    {
+      "id": 1000008002,
+      "key": "Monster_Name_1000008002",
+      "value": "Vicious Bandit Archer"
+    },
+    {
+      "id": 1000008901,
+      "key": "Monster_Name_1000008901",
+      "value": "Fierce Tiger"
+    },
+    {
+      "id": 1001001001,
+      "key": "Monster_Name_1001001001",
+      "value": "Bandit Grunt"
+    },
+    {
+      "id": 1001001002,
+      "key": "Monster_Name_1001001002",
+      "value": "Bandit Archer"
+    },
+    {
+      "id": 1001002001,
+      "key": "Monster_Name_1001002001",
+      "value": "Veteran Bandit Grunt"
+    },
+    {
+      "id": 1001002002,
+      "key": "Monster_Name_1001002002",
+      "value": "Veteran Bandit Archer"
+    },
+    {
+      "id": 1001003001,
+      "key": "Monster_Name_1001003001",
+      "value": "Vicious Bandit Grunt"
+    },
+    {
+      "id": 1001003002,
+      "key": "Monster_Name_1001003002",
+      "value": "Vicious Bandit Archer"
+    },
+    {
+      "id": 1001003901,
+      "key": "Monster_Name_1001003901",
+      "value": "Bandit Leader"
+    },
+    {
+      "id": 1001004001,
+      "key": "Monster_Name_1001004001",
+      "value": "Bandit Swordsman"
+    },
+    {
+      "id": 1001004002,
+      "key": "Monster_Name_1001004002",
+      "value": "Jongnam Patrol"
+    },
+    {
+      "id": 1001005001,
+      "key": "Monster_Name_1001005001",
+      "value": "Veteran Bandit Swordsman"
+    },
+    {
+      "id": 1001005002,
+      "key": "Monster_Name_1001005002",
+      "value": "Veteran Jongnam Patrol"
+    },
+    {
+      "id": 1001006001,
+      "key": "Monster_Name_1001006001",
+      "value": "Vicious Bandit Swordsman"
+    },
+    {
+      "id": 1001006002,
+      "key": "Monster_Name_1001006002",
+      "value": "Vicious Jongnam Patrol"
+    },
+    {
+      "id": 1001006901,
+      "key": "Monster_Name_1001006901",
+      "value": "Bandit Tactician"
+    },
+    {
+      "id": 1001007001,
+      "key": "Monster_Name_1001007001",
+      "value": "Bandit Elite"
+    },
+    {
+      "id": 1001007002,
+      "key": "Monster_Name_1001007002",
+      "value": "Hwasan Disciple"
+    },
+    {
+      "id": 1001008001,
+      "key": "Monster_Name_1001008001",
+      "value": "Veteran Bandit Elite"
+    },
+    {
+      "id": 1001008002,
+      "key": "Monster_Name_1001008002",
+      "value": "Veteran Hwasan Disciple"
+    },
+    {
+      "id": 1001009001,
+      "key": "Monster_Name_1001009001",
+      "value": "Vicious Bandit Elite"
+    },
+    {
+      "id": 1001009002,
+      "key": "Monster_Name_1001009002",
+      "value": "Vicious Hwasan Disciple"
+    },
+    {
+      "id": 1001009901,
+      "key": "Monster_Name_1001009901",
+      "value": "Heukpung Chief"
+    },
+    {
+      "id": 1002001001,
+      "key": "Monster_Name_1002001001",
+      "value": "Venom Insect"
+    },
+    {
+      "id": 1002001002,
+      "key": "Monster_Name_1002001002",
+      "value": "Sichuan Viper"
+    },
+    {
+      "id": 1002002001,
+      "key": "Monster_Name_1002002001",
+      "value": "Strong Venom Insect"
+    },
+    {
+      "id": 1002002002,
+      "key": "Monster_Name_1002002002",
+      "value": "Strong Sichuan Viper"
+    },
+    {
+      "id": 1002003001,
+      "key": "Monster_Name_1002003001",
+      "value": "Fierce Venom Insect"
+    },
+    {
+      "id": 1002003002,
+      "key": "Monster_Name_1002003002",
+      "value": "Fierce Sichuan Viper"
+    },
+    {
+      "id": 1002003901,
+      "key": "Monster_Name_1002003901",
+      "value": "Mushroom Spirit"
+    },
+    {
+      "id": 1002004001,
+      "key": "Monster_Name_1002004001",
+      "value": "Giant Venom Insect"
+    },
+    {
+      "id": 1002004002,
+      "key": "Monster_Name_1002004002",
+      "value": "Swamp Crocodile"
+    },
+    {
+      "id": 1002005001,
+      "key": "Monster_Name_1002005001",
+      "value": "Strong Giant Venom Insect"
+    },
+    {
+      "id": 1002005002,
+      "key": "Monster_Name_1002005002",
+      "value": "Strong Swamp Crocodile"
+    },
+    {
+      "id": 1002006001,
+      "key": "Monster_Name_1002006001",
+      "value": "Fierce Giant Venom Insect"
+    },
+    {
+      "id": 1002006002,
+      "key": "Monster_Name_1002006002",
+      "value": "Fierce Swamp Crocodile"
+    },
+    {
+      "id": 1002006901,
+      "key": "Monster_Name_1002006901",
+      "value": "Poison Frog King"
+    },
+    {
+      "id": 1002007001,
+      "key": "Monster_Name_1002007001",
+      "value": "Tang Poison Puppet"
+    },
+    {
+      "id": 1002007002,
+      "key": "Monster_Name_1002007002",
+      "value": "Viper King"
+    },
+    {
+      "id": 1002008001,
+      "key": "Monster_Name_1002008001",
+      "value": "Veteran Tang Poison Puppet"
+    },
+    {
+      "id": 1002008002,
+      "key": "Monster_Name_1002008002",
+      "value": "Strong Viper King"
+    },
+    {
+      "id": 1002009001,
+      "key": "Monster_Name_1002009001",
+      "value": "Vicious Tang Poison Puppet"
+    },
+    {
+      "id": 1002009002,
+      "key": "Monster_Name_1002009002",
+      "value": "Fierce Viper King"
+    },
+    {
+      "id": 1002009901,
+      "key": "Monster_Name_1002009901",
+      "value": "Swamp Golem"
+    },
+    {
+      "id": 1003001001,
+      "key": "Monster_Name_1003001001",
+      "value": "Water Bandit"
+    },
+    {
+      "id": 1003001002,
+      "key": "Monster_Name_1003001002",
+      "value": "Giant Crab"
+    },
+    {
+      "id": 1003002001,
+      "key": "Monster_Name_1003002001",
+      "value": "Veteran Water Bandit"
+    },
+    {
+      "id": 1003002002,
+      "key": "Monster_Name_1003002002",
+      "value": "Strong Giant Crab"
+    },
+    {
+      "id": 1003003001,
+      "key": "Monster_Name_1003003001",
+      "value": "Vicious Water Bandit"
+    },
+    {
+      "id": 1003003002,
+      "key": "Monster_Name_1003003002",
+      "value": "Fierce Giant Crab"
+    },
+    {
+      "id": 1003003901,
+      "key": "Monster_Name_1003003901",
+      "value": "Dock Boss"
+    },
+    {
+      "id": 1003004001,
+      "key": "Monster_Name_1003004001",
+      "value": "Canal Lackey"
+    },
+    {
+      "id": 1003004002,
+      "key": "Monster_Name_1003004002",
+      "value": "Water Snake"
+    },
+    {
+      "id": 1003005001,
+      "key": "Monster_Name_1003005001",
+      "value": "Veteran Canal Lackey"
+    },
+    {
+      "id": 1003005002,
+      "key": "Monster_Name_1003005002",
+      "value": "Strong Water Snake"
+    },
+    {
+      "id": 1003006001,
+      "key": "Monster_Name_1003006001",
+      "value": "Vicious Canal Lackey"
+    },
+    {
+      "id": 1003006002,
+      "key": "Monster_Name_1003006002",
+      "value": "Fierce Water Snake"
+    },
+    {
+      "id": 1003006901,
+      "key": "Monster_Name_1003006901",
+      "value": "Canal Mistress"
+    },
+    {
+      "id": 1003007001,
+      "key": "Monster_Name_1003007001",
+      "value": "Canal Elite"
+    },
+    {
+      "id": 1003007002,
+      "key": "Monster_Name_1003007002",
+      "value": "Sunken Skeleton"
+    },
+    {
+      "id": 1003008001,
+      "key": "Monster_Name_1003008001",
+      "value": "Veteran Canal Elite"
+    },
+    {
+      "id": 1003008002,
+      "key": "Monster_Name_1003008002",
+      "value": "Veteran Sunken Skeleton"
+    },
+    {
+      "id": 1003009001,
+      "key": "Monster_Name_1003009001",
+      "value": "Vicious Canal Elite"
+    },
+    {
+      "id": 1003009002,
+      "key": "Monster_Name_1003009002",
+      "value": "Vicious Sunken Skeleton"
+    },
+    {
+      "id": 1003009901,
+      "key": "Monster_Name_1003009901",
+      "value": "Water Ghost"
+    },
+    {
+      "id": 2001004901,
+      "key": "Monster_Name_2001004901",
+      "value": "Black Wolf"
+    },
+    {
+      "id": 2001004902,
+      "key": "Monster_Name_2001004902",
+      "value": "Black Wolf Chief"
+    },
+    {
+      "id": 2001001901,
+      "key": "Monster_Name_2001001901",
+      "value": "Spoon Elder"
+    }
+  ]
+}

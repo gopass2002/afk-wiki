@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 21,
+    "schema": "FBDataAuctionEnhanceCurve",
+    "sourceAsset": "FBDataAuctionEnhanceCurve",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "level": 0,
+      "multiplier": 1000
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "multiplier": 1250
+    },
+    {
+      "id": 3,
+      "level": 2,
+      "multiplier": 1500
+    },
+    {
+      "id": 4,
+      "level": 3,
+      "multiplier": 1750
+    },
+    {
+      "id": 5,
+      "level": 4,
+      "multiplier": 2000
+    },
+    {
+      "id": 6,
+      "level": 5,
+      "multiplier": 2250
+    },
+    {
+      "id": 7,
+      "level": 6,
+      "multiplier": 2500
+    },
+    {
+      "id": 8,
+      "level": 7,
+      "multiplier": 2950
+    },
+    {
+      "id": 9,
+      "level": 8,
+      "multiplier": 3400
+    },
+    {
+      "id": 10,
+      "level": 9,
+      "multiplier": 3850
+    },
+    {
+      "id": 11,
+      "level": 10,
+      "multiplier": 4450
+    },
+    {
+      "id": 12,
+      "level": 11,
+      "multiplier": 5050
+    },
+    {
+      "id": 13,
+      "level": 12,
+      "multiplier": 5650
+    },
+    {
+      "id": 14,
+      "level": 13,
+      "multiplier": 10000
+    },
+    {
+      "id": 15,
+      "level": 14,
+      "multiplier": 35000
+    },
+    {
+      "id": 16,
+      "level": 15,
+      "multiplier": 480000
+    },
+    {
+      "id": 17,
+      "level": 16,
+      "multiplier": 960000
+    },
+    {
+      "id": 18,
+      "level": 17,
+      "multiplier": 1920000
+    },
+    {
+      "id": 19,
+      "level": 18,
+      "multiplier": 3840000
+    },
+    {
+      "id": 20,
+      "level": 19,
+      "multiplier": 7680000
+    },
+    {
+      "id": 21,
+      "level": 20,
+      "multiplier": 15360000
+    }
+  ]
+}

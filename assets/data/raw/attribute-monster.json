@@ -1,0 +1,4034 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 109,
+    "schema": "FBDataAttribute",
+    "sourceAsset": "FBDataAttributeMonster",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1000002001,
+      "key": "stage_1_1_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        54,
+        7,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        54,
+        7,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000002002,
+      "key": "stage_1_1_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        75,
+        10,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        75,
+        10,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000003001,
+      "key": "stage_1_2_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        92,
+        11,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        92,
+        11,
+        13,
+        9,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000003002,
+      "key": "stage_1_2_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        92,
+        15,
+        13,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        92,
+        15,
+        13,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000003901,
+      "key": "stage_1_2_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        175,
+        18,
+        18,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        175,
+        18,
+        18,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000004001,
+      "key": "stage_1_3_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        132,
+        18,
+        14,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        132,
+        18,
+        14,
+        10,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000004002,
+      "key": "stage_1_3_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        132,
+        20,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        132,
+        20,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000005001,
+      "key": "stage_1_4_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        145,
+        20,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        145,
+        20,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000005002,
+      "key": "stage_1_4_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        165,
+        21,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        165,
+        21,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000005901,
+      "key": "stage_1_4_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        332,
+        23,
+        21,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        332,
+        23,
+        21,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000006001,
+      "key": "stage_1_5_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        258,
+        32,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        258,
+        32,
+        16,
+        11,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000006002,
+      "key": "stage_1_5_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        275,
+        33,
+        16,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        275,
+        33,
+        16,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000007001,
+      "key": "stage_1_6_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        346,
+        36,
+        17,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        346,
+        36,
+        17,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000007002,
+      "key": "stage_1_6_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        346,
+        38,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        346,
+        38,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000008001,
+      "key": "stage_1_7_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        376,
+        39,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        376,
+        39,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000008002,
+      "key": "stage_1_7_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        376,
+        39,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        376,
+        39,
+        18,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1000008901,
+      "key": "stage_1_7_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1096,
+        43,
+        26,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1096,
+        43,
+        26,
+        12,
+        0,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001001001,
+      "key": "stage_2_1_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        558,
+        69,
+        18,
+        32,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        558,
+        69,
+        18,
+        32,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001001002,
+      "key": "stage_2_1_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        604,
+        72,
+        20,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        604,
+        72,
+        20,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001002001,
+      "key": "stage_2_2_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        614,
+        79,
+        21,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        614,
+        79,
+        21,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001002002,
+      "key": "stage_2_2_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        684,
+        79,
+        21,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        684,
+        79,
+        21,
+        42,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001003001,
+      "key": "stage_2_3_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        766,
+        86,
+        22,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        766,
+        86,
+        22,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001003002,
+      "key": "stage_2_3_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        790,
+        88,
+        23,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        790,
+        88,
+        23,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001003901,
+      "key": "stage_2_3_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2361,
+        78,
+        36,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2361,
+        78,
+        36,
+        48,
+        4,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001004001,
+      "key": "stage_2_4_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        874,
+        94,
+        23,
+        48,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        874,
+        94,
+        23,
+        48,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001004002,
+      "key": "stage_2_4_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        874,
+        98,
+        23,
+        48,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        874,
+        98,
+        23,
+        48,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001005001,
+      "key": "stage_2_5_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        936,
+        100,
+        25,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        936,
+        100,
+        25,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001005002,
+      "key": "stage_2_5_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        936,
+        108,
+        26,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        936,
+        108,
+        26,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001006001,
+      "key": "stage_2_6_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1075,
+        112,
+        26,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1075,
+        112,
+        26,
+        53,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001006002,
+      "key": "stage_2_6_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1126,
+        113,
+        27,
+        64,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1126,
+        113,
+        27,
+        64,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001006901,
+      "key": "stage_2_6_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3982,
+        113,
+        47,
+        64,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3982,
+        113,
+        47,
+        64,
+        5,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001007001,
+      "key": "stage_2_7_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1166,
+        118,
+        29,
+        64,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1166,
+        118,
+        29,
+        64,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001007002,
+      "key": "stage_2_7_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1243,
+        121,
+        29,
+        64,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1243,
+        121,
+        29,
+        64,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001008001,
+      "key": "stage_2_8_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1308,
+        127,
+        30,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1308,
+        127,
+        30,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001008002,
+      "key": "stage_2_8_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1335,
+        133,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1335,
+        133,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001009001,
+      "key": "stage_2_9_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1431,
+        134,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1431,
+        134,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001009002,
+      "key": "stage_2_9_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1431,
+        134,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1431,
+        134,
+        31,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1001009901,
+      "key": "stage_2_9_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4840,
+        126,
+        52,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        4840,
+        126,
+        52,
+        69,
+        6,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002001001,
+      "key": "stage_3_1_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1961,
+        175,
+        31,
+        53,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1961,
+        175,
+        31,
+        53,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002001002,
+      "key": "stage_3_1_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2031,
+        175,
+        32,
+        57,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2031,
+        175,
+        32,
+        57,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002002001,
+      "key": "stage_3_2_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2180,
+        189,
+        34,
+        57,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2180,
+        189,
+        34,
+        57,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002002002,
+      "key": "stage_3_2_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2215,
+        189,
+        35,
+        65,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2215,
+        189,
+        35,
+        65,
+        11,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002003001,
+      "key": "stage_3_3_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2328,
+        195,
+        36,
+        65,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2328,
+        195,
+        36,
+        65,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002003002,
+      "key": "stage_3_3_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2365,
+        197,
+        36,
+        65,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2365,
+        197,
+        36,
+        65,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002003901,
+      "key": "stage_3_3_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5933,
+        183,
+        65,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        5933,
+        183,
+        65,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002004001,
+      "key": "stage_3_4_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2516,
+        207,
+        39,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2516,
+        207,
+        39,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002004002,
+      "key": "stage_3_4_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2549,
+        214,
+        39,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2549,
+        214,
+        39,
+        68,
+        13,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002005001,
+      "key": "stage_3_5_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2737,
+        223,
+        42,
+        76,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2737,
+        223,
+        42,
+        76,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002005002,
+      "key": "stage_3_5_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2737,
+        227,
+        42,
+        76,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2737,
+        227,
+        42,
+        76,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002006001,
+      "key": "stage_3_6_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2853,
+        234,
+        44,
+        80,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2853,
+        234,
+        44,
+        80,
+        14,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002006002,
+      "key": "stage_3_6_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2960,
+        234,
+        44,
+        80,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2960,
+        234,
+        44,
+        80,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002006901,
+      "key": "stage_3_6_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        7183,
+        204,
+        78,
+        80,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        7183,
+        204,
+        78,
+        80,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002007001,
+      "key": "stage_3_7_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3041,
+        246,
+        47,
+        84,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3041,
+        246,
+        47,
+        84,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002007002,
+      "key": "stage_3_7_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3149,
+        246,
+        47,
+        84,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3149,
+        246,
+        47,
+        84,
+        14,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002008001,
+      "key": "stage_3_8_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3268,
+        253,
+        48,
+        91,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3268,
+        253,
+        48,
+        91,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002008002,
+      "key": "stage_3_8_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3268,
+        258,
+        49,
+        91,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3268,
+        258,
+        49,
+        91,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002009001,
+      "key": "stage_3_9_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3459,
+        266,
+        51,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3459,
+        266,
+        51,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002009002,
+      "key": "stage_3_9_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3459,
+        266,
+        51,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        3459,
+        266,
+        51,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002009901,
+      "key": "stage_3_9_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        8303,
+        218,
+        91,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        8303,
+        218,
+        91,
+        95,
+        17,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003001001,
+      "key": "stage_4_1_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4161,
+        309,
+        52,
+        111,
+        74,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        4161,
+        309,
+        52,
+        111,
+        74,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003001002,
+      "key": "stage_4_1_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4290,
+        310,
+        52,
+        111,
+        74,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        4290,
+        310,
+        52,
+        111,
+        74,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003002001,
+      "key": "stage_4_2_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4706,
+        315,
+        55,
+        115,
+        81,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        4706,
+        315,
+        55,
+        115,
+        81,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003002002,
+      "key": "stage_4_2_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4791,
+        316,
+        55,
+        115,
+        81,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        4791,
+        316,
+        55,
+        115,
+        81,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003003001,
+      "key": "stage_4_3_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5220,
+        321,
+        57,
+        123,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        5220,
+        321,
+        57,
+        123,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003003002,
+      "key": "stage_4_3_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5355,
+        321,
+        58,
+        131,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        5355,
+        321,
+        58,
+        131,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003003901,
+      "key": "stage_4_3_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        11211,
+        452,
+        109,
+        131,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        11211,
+        452,
+        109,
+        131,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003004001,
+      "key": "stage_4_4_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5793,
+        326,
+        61,
+        135,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        5793,
+        326,
+        61,
+        135,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003004002,
+      "key": "stage_4_4_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5793,
+        327,
+        62,
+        135,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        5793,
+        327,
+        62,
+        135,
+        84,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003005001,
+      "key": "stage_4_5_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        6200,
+        330,
+        64,
+        139,
+        93,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        6200,
+        330,
+        64,
+        139,
+        93,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003005002,
+      "key": "stage_4_5_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        6244,
+        338,
+        65,
+        139,
+        93,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        6244,
+        338,
+        65,
+        139,
+        93,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003006001,
+      "key": "stage_4_6_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        6708,
+        348,
+        68,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        6708,
+        348,
+        68,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003006002,
+      "key": "stage_4_6_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        6891,
+        354,
+        68,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        6891,
+        354,
+        68,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003006901,
+      "key": "stage_4_6_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        13916,
+        470,
+        125,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        13916,
+        470,
+        125,
+        148,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003007001,
+      "key": "stage_4_7_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        7365,
+        368,
+        70,
+        156,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        7365,
+        368,
+        70,
+        156,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003007002,
+      "key": "stage_4_7_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        7461,
+        537,
+        70,
+        156,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        7461,
+        537,
+        70,
+        156,
+        99,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003008001,
+      "key": "stage_4_8_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        7948,
+        542,
+        73,
+        160,
+        102,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        7948,
+        542,
+        73,
+        160,
+        102,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003008002,
+      "key": "stage_4_8_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        8043,
+        543,
+        74,
+        164,
+        102,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        8043,
+        543,
+        74,
+        164,
+        102,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003009001,
+      "key": "stage_4_9_normal_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        8541,
+        548,
+        77,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        8541,
+        548,
+        77,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003009002,
+      "key": "stage_4_9_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        8541,
+        548,
+        77,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        8541,
+        548,
+        77,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1003009901,
+      "key": "stage_4_9_boss",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        16479,
+        777,
+        143,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        16479,
+        777,
+        143,
+        172,
+        105,
+        3,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2002001901,
+      "key": "promotion_boss_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        238,
+        2,
+        14,
+        106,
+        2,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        238,
+        2,
+        14,
+        106,
+        2,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002002901,
+      "key": "promotion_boss_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1250,
+        42,
+        22,
+        112,
+        2,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        1250,
+        42,
+        22,
+        112,
+        2,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002003901,
+      "key": "promotion_boss_3",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3159,
+        64,
+        32,
+        129,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        3159,
+        64,
+        32,
+        129,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002004901,
+      "key": "promotion_boss_4",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3666,
+        65,
+        42,
+        140,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        3666,
+        65,
+        42,
+        140,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002005901,
+      "key": "promotion_boss_5",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5070,
+        114,
+        57,
+        176,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        5070,
+        114,
+        57,
+        176,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002006901,
+      "key": "promotion_boss_6",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        6916,
+        131,
+        70,
+        187,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        6916,
+        131,
+        70,
+        187,
+        3,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002007901,
+      "key": "promotion_boss_7",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        14040,
+        140,
+        93,
+        246,
+        5,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        14040,
+        140,
+        93,
+        246,
+        5,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002008901,
+      "key": "promotion_boss_8",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        20930,
+        172,
+        125,
+        269,
+        8,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        20930,
+        172,
+        125,
+        269,
+        8,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002009901,
+      "key": "promotion_boss_9",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        35000,
+        309,
+        190,
+        328,
+        14,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        35000,
+        309,
+        190,
+        328,
+        14,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002010901,
+      "key": "promotion_boss_10",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        56000,
+        321,
+        187,
+        498,
+        17,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        56000,
+        321,
+        187,
+        498,
+        17,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002011901,
+      "key": "promotion_boss_11",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        73000,
+        343,
+        207,
+        517,
+        20,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        73000,
+        343,
+        207,
+        517,
+        20,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002012901,
+      "key": "promotion_boss_12",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        92000,
+        374,
+        229,
+        535,
+        24,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        92000,
+        374,
+        229,
+        535,
+        24,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002013901,
+      "key": "promotion_boss_13",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        175000,
+        537,
+        248,
+        588,
+        30,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        175000,
+        537,
+        248,
+        588,
+        30,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002014901,
+      "key": "promotion_boss_14",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        208000,
+        555,
+        322,
+        600,
+        33,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        208000,
+        555,
+        322,
+        600,
+        33,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002015901,
+      "key": "promotion_boss_15",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        235000,
+        570,
+        336,
+        608,
+        36,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        235000,
+        570,
+        336,
+        608,
+        36,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002016901,
+      "key": "promotion_boss_16",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        325000,
+        598,
+        340,
+        614,
+        38,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        325000,
+        598,
+        340,
+        614,
+        38,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002017901,
+      "key": "promotion_boss_17",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        384000,
+        604,
+        343,
+        618,
+        39,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        384000,
+        604,
+        343,
+        618,
+        39,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2002018901,
+      "key": "promotion_boss_18",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        444000,
+        608,
+        345,
+        621,
+        39,
+        1,
+        0,
+        130,
+        6000
+      ],
+      "attrValueArray": [
+        444000,
+        608,
+        345,
+        621,
+        39,
+        1,
+        0,
+        130,
+        6000
+      ]
+    },
+    {
+      "id": 2001001901,
+      "key": "dungeon_boss_spoon",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2925,
+        78,
+        36,
+        9,
+        3000
+      ],
+      "attrValueArray": [
+        2925,
+        78,
+        36,
+        9,
+        3000
+      ]
+    },
+    {
+      "id": 2001004901,
+      "key": "dungeon_wolf_normal",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        7280,
+        140,
+        31,
+        53,
+        56,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        7280,
+        140,
+        31,
+        53,
+        56,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001004902,
+      "key": "dungeon_wolf_alpha",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        14560,
+        168,
+        36,
+        53,
+        67,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        14560,
+        168,
+        36,
+        53,
+        67,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001004903,
+      "key": "dungeon_wolf_normal_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        80000,
+        550,
+        150,
+        165,
+        206,
+        1,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        80000,
+        550,
+        150,
+        165,
+        206,
+        1,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001004904,
+      "key": "dungeon_wolf_alpha_2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        96000,
+        620,
+        156,
+        174,
+        210,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        96000,
+        620,
+        156,
+        174,
+        210,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001004905,
+      "key": "dungeon_wolf_normal_3",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        250000,
+        1300,
+        300,
+        330,
+        430,
+        3,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        250000,
+        1300,
+        300,
+        330,
+        430,
+        3,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001004906,
+      "key": "dungeon_wolf_alpha_3",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        300000,
+        1500,
+        312,
+        348,
+        480,
+        4,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        300000,
+        1500,
+        312,
+        348,
+        480,
+        4,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001005901,
+      "key": "dungeon_simma_ch0",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        90000,
+        620,
+        156,
+        174,
+        210,
+        2,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        90000,
+        620,
+        156,
+        174,
+        210,
+        2,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001005904,
+      "key": "dungeon_simma_ch1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        250000,
+        1300,
+        300,
+        330,
+        430,
+        3,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        250000,
+        1300,
+        300,
+        330,
+        430,
+        3,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001005907,
+      "key": "dungeon_simma_ch2",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        500000,
+        2200,
+        600,
+        660,
+        860,
+        4,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        500000,
+        2200,
+        600,
+        660,
+        860,
+        4,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 2001005910,
+      "key": "dungeon_simma_ch3",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1000000,
+        3800,
+        1200,
+        1320,
+        1720,
+        5,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1000000,
+        3800,
+        1200,
+        1320,
+        1720,
+        5,
+        3,
+        130,
+        3000
+      ]
+    }
+  ]
+}

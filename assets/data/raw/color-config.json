@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 22,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataColorConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "NormalLabel",
+      "value": [
+        "e2e2e2"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "RareLabel",
+      "value": [
+        "5dff9a"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "EpicLabel",
+      "value": [
+        "5dace7"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "UniqueLabel",
+      "value": [
+        "d181f2"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "LegendaryLabel",
+      "value": [
+        "ffc926"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "Enough",
+      "value": [
+        "38ff7e"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "Insufficient",
+      "value": [
+        "ff574b"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "Default",
+      "value": [
+        "FEF3EF"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "ActorTintGray",
+      "value": [
+        "7F7F7F"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "ActorReflection",
+      "value": [
+        "BEBEC8C8"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "EnhanceLevelColor",
+      "value": [
+        "FFB800"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "BossHpColorType_1",
+      "value": [
+        "D41F22"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "BossHpColorType_2",
+      "value": [
+        "009C91"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "BossHpColorType_3",
+      "value": [
+        "E06000"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "BossHpColorType_4",
+      "value": [
+        "7ED321"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "BossHpColorType_5",
+      "value": [
+        "F06AAE"
+      ]
+    },
+    {
+      "id": 17,
+      "key": "BossHpColorType_6",
+      "value": [
+        "9227D8"
+      ]
+    },
+    {
+      "id": 18,
+      "key": "BossHpColorType_7",
+      "value": [
+        "F2E000"
+      ]
+    },
+    {
+      "id": 19,
+      "key": "BossHpColorType_8",
+      "value": [
+        "176ED6"
+      ]
+    },
+    {
+      "id": 20,
+      "key": "TextEmphasis",
+      "value": [
+        "FFA500"
+      ]
+    },
+    {
+      "id": 21,
+      "key": "CurrencyGem",
+      "value": [
+        "FFB800"
+      ]
+    },
+    {
+      "id": 22,
+      "key": "CurrencyTradeCoin",
+      "value": [
+        "31E1EB"
+      ]
+    }
+  ]
+}

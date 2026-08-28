@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 11,
+    "schema": "FBDataAttrDerivation",
+    "sourceAsset": "FBDataAttrDerivation",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "targetAttr": "ATK",
+      "str": 3,
+      "vit": 0,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 2,
+      "targetAttr": "DEF",
+      "str": 0,
+      "vit": 0.30000001192092896,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 3,
+      "targetAttr": "CRIT_RATE",
+      "str": 0,
+      "vit": 0,
+      "agi": 10,
+      "spi": 0
+    },
+    {
+      "id": 4,
+      "targetAttr": "CRIT_DMG",
+      "str": 0,
+      "vit": 0,
+      "agi": 255,
+      "spi": 0
+    },
+    {
+      "id": 5,
+      "targetAttr": "MAX_HP",
+      "str": 0,
+      "vit": 23,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 6,
+      "targetAttr": "PEN",
+      "str": 0.30000001192092896,
+      "vit": 0,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 7,
+      "targetAttr": "HP_REGEN",
+      "str": 0,
+      "vit": 1,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 8,
+      "targetAttr": "MAX_SP",
+      "str": 0,
+      "vit": 0,
+      "agi": 0,
+      "spi": 0.30000001192092896
+    },
+    {
+      "id": 9,
+      "targetAttr": "SP_REGEN",
+      "str": 0,
+      "vit": 0,
+      "agi": 0,
+      "spi": 0
+    },
+    {
+      "id": 10,
+      "targetAttr": "SKILL_AMP",
+      "str": 0,
+      "vit": 0,
+      "agi": 0,
+      "spi": 64
+    },
+    {
+      "id": 11,
+      "targetAttr": "EVA",
+      "str": 0,
+      "vit": 0,
+      "agi": 0.30000001192092896,
+      "spi": 0
+    }
+  ]
+}

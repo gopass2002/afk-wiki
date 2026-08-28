@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 3,
+    "schema": "FBDataAppearanceShopDisplay",
+    "sourceAsset": "FBDataAppearanceShopDisplay",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "itemId": 24001900,
+      "badge": "Event",
+      "highlighted": true,
+      "sortOrder": 100,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "itemId": 25001016,
+      "badge": "Event",
+      "highlighted": true,
+      "sortOrder": 90,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "itemId": 22204000,
+      "badge": "Event",
+      "highlighted": true,
+      "sortOrder": 80,
+      "featured": true
+    }
+  ]
+}

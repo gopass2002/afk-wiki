@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 25,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataSoundConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "SpatialSfxMinRange",
+      "value": [
+        "100"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "SpatialSfxMaxRange",
+      "value": [
+        "400"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "UI_CLICK_DEFAULT",
+      "value": [
+        "12.Sound/UI_CLICK_DEFAULT"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "UI_TOAST",
+      "value": [
+        "12.Sound/SFX_UI_TOAST"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "SFX_EQUIP",
+      "value": [
+        "12.Sound/SFX_UI_EQUIP"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "SFX_ENHANCE_SUCCESS",
+      "value": [
+        "12.Sound/SFX_ENHANCE_SUCCESS"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "SFX_ENHANCE_FAIL",
+      "value": [
+        "12.Sound/SFX_ENHANCE_FAIL"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "BGM_WORLDMAP",
+      "value": [
+        "12.Sound/bgm/BGM_WORLDMAP_INTRO"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "SFX_ACTOR_LEVELUP",
+      "value": [
+        "12.Sound/SFX_UI_LEVEL_UP"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "SFX_GET_COIN",
+      "value": [
+        "12.Sound/SFX_UI_GET_COIN"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "SFX_GACHA",
+      "value": [
+        "12.Sound/SFX_GACHA_2"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "UI_CLICK_MAINMENU",
+      "value": [
+        "12.Sound/UI_CLICK_MAINMENU"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "UI_CLICK_TAB",
+      "value": [
+        "12.Sound/UI_CLICK_TAB"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "UI_CLICK_CONFIRM",
+      "value": [
+        "12.Sound/UI_CLICK_CONFIRM"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "UI_CLICK_BACK",
+      "value": [
+        "12.Sound/UI_CLICK_BACK"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "UI_CLICK_DROPDOWN",
+      "value": [
+        "12.Sound/UI_CLICK_DROPDOWN"
+      ]
+    },
+    {
+      "id": 17,
+      "key": "UI_CLICK_GET",
+      "value": [
+        "12.Sound/UI_CLICK_GET"
+      ]
+    },
+    {
+      "id": 18,
+      "key": "UI_POPUP_REWARD",
+      "value": [
+        "12.Sound/UI_POPUP_REWARD"
+      ]
+    },
+    {
+      "id": 19,
+      "key": "SFX_REALM_BREAKTHROUGH",
+      "value": [
+        "12.Sound/SFX_REALM_BREAKTHROUGH"
+      ]
+    },
+    {
+      "id": 20,
+      "key": "SFX_COOK_LEVELUP",
+      "value": [
+        "12.Sound/SFX_COOK_LEVELUP"
+      ]
+    },
+    {
+      "id": 21,
+      "key": "SFX_COOK_POT_START",
+      "value": [
+        "12.Sound/SFX_COOK_POT_START"
+      ]
+    },
+    {
+      "id": 22,
+      "key": "SFX_COOK_POT_BOIL_LOOP",
+      "value": [
+        "12.Sound/SFX_COOK_POT_BOIL_LOOP"
+      ]
+    },
+    {
+      "id": 23,
+      "key": "SFX_COSTUME_GACHA_CURTAIN_CLOSE",
+      "value": [
+        "12.Sound/SFX_UI_COSTUME_GACHA_CURTAIN_CLOSE"
+      ]
+    },
+    {
+      "id": 24,
+      "key": "SFX_COSTUME_GACHA_CURTAIN_OPEN",
+      "value": [
+        "12.Sound/SFX_UI_COSTUME_GACHA_CURTAIN_OPEN"
+      ]
+    },
+    {
+      "id": 25,
+      "key": "SFX_COSTUME_GACHA_RESULT",
+      "value": [
+        "12.Sound/SFX_UI_COSTUME_GACHA_RESULT"
+      ]
+    }
+  ]
+}

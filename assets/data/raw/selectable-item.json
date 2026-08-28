@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 12,
+    "schema": "FBDataSelectableItem",
+    "sourceAsset": "FBDataSelectableItem",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "Hair",
+      "itemId": 24001000
+    },
+    {
+      "id": 2,
+      "groupKey": "Hair",
+      "itemId": 24001001
+    },
+    {
+      "id": 3,
+      "groupKey": "Hair",
+      "itemId": 24001002
+    },
+    {
+      "id": 4,
+      "groupKey": "Weapon",
+      "itemId": 11102000
+    },
+    {
+      "id": 5,
+      "groupKey": "Weapon",
+      "itemId": 11202000
+    },
+    {
+      "id": 6,
+      "groupKey": "Weapon",
+      "itemId": 11302000
+    },
+    {
+      "id": 7,
+      "groupKey": "Weapon",
+      "itemId": 11402000
+    },
+    {
+      "id": 8,
+      "groupKey": "Weapon",
+      "itemId": 11502000
+    },
+    {
+      "id": 9,
+      "groupKey": "Food",
+      "itemId": 90600001
+    },
+    {
+      "id": 10,
+      "groupKey": "Food",
+      "itemId": 90600002
+    },
+    {
+      "id": 11,
+      "groupKey": "Food",
+      "itemId": 90600003
+    },
+    {
+      "id": 12,
+      "groupKey": "Food",
+      "itemId": 90600004
+    }
+  ]
+}

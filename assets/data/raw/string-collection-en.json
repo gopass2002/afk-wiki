@@ -1,0 +1,1498 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 297,
+    "schema": "FBDataStringCollection",
+    "sourceAsset": "FBDataStringCollection_en",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 10001,
+      "key": "Collection_Name_10001",
+      "value": "무쇠수련검"
+    },
+    {
+      "id": 10059,
+      "key": "Collection_Name_10059",
+      "value": "강철박도"
+    },
+    {
+      "id": 10060,
+      "key": "Collection_Name_10060",
+      "value": "토목장창"
+    },
+    {
+      "id": 10061,
+      "key": "Collection_Name_10061",
+      "value": "단단한목봉"
+    },
+    {
+      "id": 10062,
+      "key": "Collection_Name_10062",
+      "value": "무쇠표창"
+    },
+    {
+      "id": 10063,
+      "key": "Collection_Name_10063",
+      "value": "강호 첫 장만 I — 쓰개 · 신발"
+    },
+    {
+      "id": 10064,
+      "key": "Collection_Name_10064",
+      "value": "강호 첫 장만 II — 의복"
+    },
+    {
+      "id": 10015,
+      "key": "Collection_Name_10015",
+      "value": "흑색 수련 일습 I"
+    },
+    {
+      "id": 10016,
+      "key": "Collection_Name_10016",
+      "value": "흑색 수련 일습 II"
+    },
+    {
+      "id": 10017,
+      "key": "Collection_Name_10017",
+      "value": "흑색 수련 일습 III"
+    },
+    {
+      "id": 10018,
+      "key": "Collection_Name_10018",
+      "value": "흑색 수련 일습 IV"
+    },
+    {
+      "id": 10065,
+      "key": "Collection_Name_10065",
+      "value": "첫 장터 나들이"
+    },
+    {
+      "id": 10066,
+      "key": "Collection_Name_10066",
+      "value": "수련 상의 삼색"
+    },
+    {
+      "id": 10067,
+      "key": "Collection_Name_10067",
+      "value": "수련 하의 삼색"
+    },
+    {
+      "id": 10068,
+      "key": "Collection_Name_10068",
+      "value": "수련 장갑 삼색"
+    },
+    {
+      "id": 10069,
+      "key": "Collection_Name_10069",
+      "value": "수련 신발 삼색"
+    },
+    {
+      "id": 10011,
+      "key": "Collection_Name_10011",
+      "value": "황색 수련 일습 I"
+    },
+    {
+      "id": 10012,
+      "key": "Collection_Name_10012",
+      "value": "황색 수련 일습 II"
+    },
+    {
+      "id": 10013,
+      "key": "Collection_Name_10013",
+      "value": "황색 수련 일습 III"
+    },
+    {
+      "id": 10014,
+      "key": "Collection_Name_10014",
+      "value": "황색 수련 일습 IV"
+    },
+    {
+      "id": 10007,
+      "key": "Collection_Name_10007",
+      "value": "자색 수련 일습 I"
+    },
+    {
+      "id": 10008,
+      "key": "Collection_Name_10008",
+      "value": "자색 수련 일습 II"
+    },
+    {
+      "id": 10009,
+      "key": "Collection_Name_10009",
+      "value": "자색 수련 일습 III"
+    },
+    {
+      "id": 10010,
+      "key": "Collection_Name_10010",
+      "value": "자색 수련 일습 IV"
+    },
+    {
+      "id": 10019,
+      "key": "Collection_Name_10019",
+      "value": "수련 오병기 I"
+    },
+    {
+      "id": 10020,
+      "key": "Collection_Name_10020",
+      "value": "수련 오병기 II"
+    },
+    {
+      "id": 10021,
+      "key": "Collection_Name_10021",
+      "value": "수련 오병기 III"
+    },
+    {
+      "id": 10022,
+      "key": "Collection_Name_10022",
+      "value": "수련 오병기 IV"
+    },
+    {
+      "id": 10070,
+      "key": "Collection_Name_10070",
+      "value": "무쇠 삼신구 I"
+    },
+    {
+      "id": 10071,
+      "key": "Collection_Name_10071",
+      "value": "무쇠 삼신구 II"
+    },
+    {
+      "id": 10072,
+      "key": "Collection_Name_10072",
+      "value": "무쇠 삼신구 III"
+    },
+    {
+      "id": 10073,
+      "key": "Collection_Name_10073",
+      "value": "무쇠 삼신구 IV"
+    },
+    {
+      "id": 10074,
+      "key": "Collection_Name_10074",
+      "value": "청명정련검"
+    },
+    {
+      "id": 10075,
+      "key": "Collection_Name_10075",
+      "value": "벽해령도"
+    },
+    {
+      "id": 10076,
+      "key": "Collection_Name_10076",
+      "value": "청운파공창"
+    },
+    {
+      "id": 10077,
+      "key": "Collection_Name_10077",
+      "value": "비취수호봉"
+    },
+    {
+      "id": 10078,
+      "key": "Collection_Name_10078",
+      "value": "청아비수"
+    },
+    {
+      "id": 10079,
+      "key": "Collection_Name_10079",
+      "value": "무복 상의 삼색"
+    },
+    {
+      "id": 10080,
+      "key": "Collection_Name_10080",
+      "value": "무복 하의 삼색"
+    },
+    {
+      "id": 10081,
+      "key": "Collection_Name_10081",
+      "value": "무복 장갑 삼색"
+    },
+    {
+      "id": 10082,
+      "key": "Collection_Name_10082",
+      "value": "무복 신발 삼색"
+    },
+    {
+      "id": 10027,
+      "key": "Collection_Name_10027",
+      "value": "갈색 무복 일습 I"
+    },
+    {
+      "id": 10028,
+      "key": "Collection_Name_10028",
+      "value": "갈색 무복 일습 II"
+    },
+    {
+      "id": 10029,
+      "key": "Collection_Name_10029",
+      "value": "갈색 무복 일습 III"
+    },
+    {
+      "id": 10030,
+      "key": "Collection_Name_10030",
+      "value": "갈색 무복 일습 IV"
+    },
+    {
+      "id": 10083,
+      "key": "Collection_Name_10083",
+      "value": "무복 새내기"
+    },
+    {
+      "id": 10031,
+      "key": "Collection_Name_10031",
+      "value": "흑색 무복 일습 I"
+    },
+    {
+      "id": 10032,
+      "key": "Collection_Name_10032",
+      "value": "흑색 무복 일습 II"
+    },
+    {
+      "id": 10033,
+      "key": "Collection_Name_10033",
+      "value": "흑색 무복 일습 III"
+    },
+    {
+      "id": 10034,
+      "key": "Collection_Name_10034",
+      "value": "흑색 무복 일습 IV"
+    },
+    {
+      "id": 10023,
+      "key": "Collection_Name_10023",
+      "value": "백색 무복 일습 I"
+    },
+    {
+      "id": 10024,
+      "key": "Collection_Name_10024",
+      "value": "백색 무복 일습 II"
+    },
+    {
+      "id": 10025,
+      "key": "Collection_Name_10025",
+      "value": "백색 무복 일습 III"
+    },
+    {
+      "id": 10026,
+      "key": "Collection_Name_10026",
+      "value": "백색 무복 일습 IV"
+    },
+    {
+      "id": 10035,
+      "key": "Collection_Name_10035",
+      "value": "외문 오병기 I"
+    },
+    {
+      "id": 10036,
+      "key": "Collection_Name_10036",
+      "value": "외문 오병기 II"
+    },
+    {
+      "id": 10037,
+      "key": "Collection_Name_10037",
+      "value": "외문 오병기 III"
+    },
+    {
+      "id": 10038,
+      "key": "Collection_Name_10038",
+      "value": "외문 오병기 IV"
+    },
+    {
+      "id": 10084,
+      "key": "Collection_Name_10084",
+      "value": "비취 귀걸이"
+    },
+    {
+      "id": 10085,
+      "key": "Collection_Name_10085",
+      "value": "비취 목걸이"
+    },
+    {
+      "id": 10086,
+      "key": "Collection_Name_10086",
+      "value": "비취 반지"
+    },
+    {
+      "id": 10087,
+      "key": "Collection_Name_10087",
+      "value": "비취 삼신구 I"
+    },
+    {
+      "id": 10088,
+      "key": "Collection_Name_10088",
+      "value": "비취 삼신구 II"
+    },
+    {
+      "id": 10089,
+      "key": "Collection_Name_10089",
+      "value": "비취 삼신구 III"
+    },
+    {
+      "id": 10090,
+      "key": "Collection_Name_10090",
+      "value": "비취 삼신구 IV"
+    },
+    {
+      "id": 10091,
+      "key": "Collection_Name_10091",
+      "value": "현묘심연검"
+    },
+    {
+      "id": 10092,
+      "key": "Collection_Name_10092",
+      "value": "태현마도"
+    },
+    {
+      "id": 10093,
+      "key": "Collection_Name_10093",
+      "value": "현천귀혼창"
+    },
+    {
+      "id": 10094,
+      "key": "Collection_Name_10094",
+      "value": "혼원천주봉"
+    },
+    {
+      "id": 10095,
+      "key": "Collection_Name_10095",
+      "value": "천라만상침"
+    },
+    {
+      "id": 10096,
+      "key": "Collection_Name_10096",
+      "value": "여우 가면"
+    },
+    {
+      "id": 10097,
+      "key": "Collection_Name_10097",
+      "value": "머리띠 형제"
+    },
+    {
+      "id": 10098,
+      "key": "Collection_Name_10098",
+      "value": "백색 결벽"
+    },
+    {
+      "id": 10099,
+      "key": "Collection_Name_10099",
+      "value": "적색 불꽃"
+    },
+    {
+      "id": 10100,
+      "key": "Collection_Name_10100",
+      "value": "현공 상의 삼색"
+    },
+    {
+      "id": 10101,
+      "key": "Collection_Name_10101",
+      "value": "현공 하의 삼색"
+    },
+    {
+      "id": 10102,
+      "key": "Collection_Name_10102",
+      "value": "현공 장갑 삼색"
+    },
+    {
+      "id": 10103,
+      "key": "Collection_Name_10103",
+      "value": "현공 신발 삼색"
+    },
+    {
+      "id": 10104,
+      "key": "Collection_Name_10104",
+      "value": "자색 일생"
+    },
+    {
+      "id": 10105,
+      "key": "Collection_Name_10105",
+      "value": "황색 물결"
+    },
+    {
+      "id": 10106,
+      "key": "Collection_Name_10106",
+      "value": "흑의 무인"
+    },
+    {
+      "id": 10107,
+      "key": "Collection_Name_10107",
+      "value": "귀한 손님 맞이"
+    },
+    {
+      "id": 10047,
+      "key": "Collection_Name_10047",
+      "value": "영기 현공 일습 I"
+    },
+    {
+      "id": 10048,
+      "key": "Collection_Name_10048",
+      "value": "영기 현공 일습 II"
+    },
+    {
+      "id": 10049,
+      "key": "Collection_Name_10049",
+      "value": "영기 현공 일습 III"
+    },
+    {
+      "id": 10050,
+      "key": "Collection_Name_10050",
+      "value": "영기 현공 일습 IV"
+    },
+    {
+      "id": 10043,
+      "key": "Collection_Name_10043",
+      "value": "명주 현공 일습 I"
+    },
+    {
+      "id": 10044,
+      "key": "Collection_Name_10044",
+      "value": "명주 현공 일습 II"
+    },
+    {
+      "id": 10045,
+      "key": "Collection_Name_10045",
+      "value": "명주 현공 일습 III"
+    },
+    {
+      "id": 10046,
+      "key": "Collection_Name_10046",
+      "value": "명주 현공 일습 IV"
+    },
+    {
+      "id": 10039,
+      "key": "Collection_Name_10039",
+      "value": "자색 현공 일습 I"
+    },
+    {
+      "id": 10040,
+      "key": "Collection_Name_10040",
+      "value": "자색 현공 일습 II"
+    },
+    {
+      "id": 10041,
+      "key": "Collection_Name_10041",
+      "value": "자색 현공 일습 III"
+    },
+    {
+      "id": 10042,
+      "key": "Collection_Name_10042",
+      "value": "자색 현공 일습 IV"
+    },
+    {
+      "id": 10051,
+      "key": "Collection_Name_10051",
+      "value": "정련 오병기 I"
+    },
+    {
+      "id": 10052,
+      "key": "Collection_Name_10052",
+      "value": "정련 오병기 II"
+    },
+    {
+      "id": 10053,
+      "key": "Collection_Name_10053",
+      "value": "정련 오병기 III"
+    },
+    {
+      "id": 10054,
+      "key": "Collection_Name_10054",
+      "value": "정련 오병기 IV"
+    },
+    {
+      "id": 10108,
+      "key": "Collection_Name_10108",
+      "value": "현철 귀걸이"
+    },
+    {
+      "id": 10109,
+      "key": "Collection_Name_10109",
+      "value": "현철 목걸이"
+    },
+    {
+      "id": 10110,
+      "key": "Collection_Name_10110",
+      "value": "현철 반지"
+    },
+    {
+      "id": 10111,
+      "key": "Collection_Name_10111",
+      "value": "현철 삼신구 I"
+    },
+    {
+      "id": 10112,
+      "key": "Collection_Name_10112",
+      "value": "현철 삼신구 II"
+    },
+    {
+      "id": 10113,
+      "key": "Collection_Name_10113",
+      "value": "현철 삼신구 III"
+    },
+    {
+      "id": 10114,
+      "key": "Collection_Name_10114",
+      "value": "현철 삼신구 IV"
+    },
+    {
+      "id": 10115,
+      "key": "Collection_Name_10115",
+      "value": "태청백선검"
+    },
+    {
+      "id": 10116,
+      "key": "Collection_Name_10116",
+      "value": "무극빙백도"
+    },
+    {
+      "id": 10117,
+      "key": "Collection_Name_10117",
+      "value": "은하벽력창"
+    },
+    {
+      "id": 10118,
+      "key": "Collection_Name_10118",
+      "value": "정해지수봉"
+    },
+    {
+      "id": 10119,
+      "key": "Collection_Name_10119",
+      "value": "설화유성령"
+    },
+    {
+      "id": 10120,
+      "key": "Collection_Name_10120",
+      "value": "검의 명인"
+    },
+    {
+      "id": 10121,
+      "key": "Collection_Name_10121",
+      "value": "도의 명인"
+    },
+    {
+      "id": 10122,
+      "key": "Collection_Name_10122",
+      "value": "창의 명인"
+    },
+    {
+      "id": 10123,
+      "key": "Collection_Name_10123",
+      "value": "봉의 명인"
+    },
+    {
+      "id": 10124,
+      "key": "Collection_Name_10124",
+      "value": "암기의 명인"
+    },
+    {
+      "id": 10125,
+      "key": "Collection_Name_10125",
+      "value": "검의 길 I"
+    },
+    {
+      "id": 10126,
+      "key": "Collection_Name_10126",
+      "value": "검의 길 II"
+    },
+    {
+      "id": 10127,
+      "key": "Collection_Name_10127",
+      "value": "검의 길 III"
+    },
+    {
+      "id": 10128,
+      "key": "Collection_Name_10128",
+      "value": "검의 길 IV"
+    },
+    {
+      "id": 10129,
+      "key": "Collection_Name_10129",
+      "value": "도의 길 I"
+    },
+    {
+      "id": 10130,
+      "key": "Collection_Name_10130",
+      "value": "도의 길 II"
+    },
+    {
+      "id": 10131,
+      "key": "Collection_Name_10131",
+      "value": "도의 길 III"
+    },
+    {
+      "id": 10132,
+      "key": "Collection_Name_10132",
+      "value": "도의 길 IV"
+    },
+    {
+      "id": 10133,
+      "key": "Collection_Name_10133",
+      "value": "창의 길 I"
+    },
+    {
+      "id": 10134,
+      "key": "Collection_Name_10134",
+      "value": "창의 길 II"
+    },
+    {
+      "id": 10135,
+      "key": "Collection_Name_10135",
+      "value": "창의 길 III"
+    },
+    {
+      "id": 10136,
+      "key": "Collection_Name_10136",
+      "value": "창의 길 IV"
+    },
+    {
+      "id": 10137,
+      "key": "Collection_Name_10137",
+      "value": "봉의 길 I"
+    },
+    {
+      "id": 10138,
+      "key": "Collection_Name_10138",
+      "value": "봉의 길 II"
+    },
+    {
+      "id": 10139,
+      "key": "Collection_Name_10139",
+      "value": "봉의 길 III"
+    },
+    {
+      "id": 10140,
+      "key": "Collection_Name_10140",
+      "value": "봉의 길 IV"
+    },
+    {
+      "id": 10141,
+      "key": "Collection_Name_10141",
+      "value": "암기의 길 I"
+    },
+    {
+      "id": 10142,
+      "key": "Collection_Name_10142",
+      "value": "암기의 길 II"
+    },
+    {
+      "id": 10143,
+      "key": "Collection_Name_10143",
+      "value": "암기의 길 III"
+    },
+    {
+      "id": 10144,
+      "key": "Collection_Name_10144",
+      "value": "암기의 길 IV"
+    },
+    {
+      "id": 10145,
+      "key": "Collection_Name_10145",
+      "value": "도검 쌍벽"
+    },
+    {
+      "id": 10146,
+      "key": "Collection_Name_10146",
+      "value": "창봉 쌍벽"
+    },
+    {
+      "id": 10147,
+      "key": "Collection_Name_10147",
+      "value": "가면과 삿갓"
+    },
+    {
+      "id": 10148,
+      "key": "Collection_Name_10148",
+      "value": "쓰개 순례"
+    },
+    {
+      "id": 10149,
+      "key": "Collection_Name_10149",
+      "value": "상의 순례"
+    },
+    {
+      "id": 10150,
+      "key": "Collection_Name_10150",
+      "value": "하의 순례"
+    },
+    {
+      "id": 10151,
+      "key": "Collection_Name_10151",
+      "value": "장갑 순례"
+    },
+    {
+      "id": 10152,
+      "key": "Collection_Name_10152",
+      "value": "신발 순례"
+    },
+    {
+      "id": 10055,
+      "key": "Collection_Name_10055",
+      "value": "선급 오병기 I"
+    },
+    {
+      "id": 10056,
+      "key": "Collection_Name_10056",
+      "value": "선급 오병기 II"
+    },
+    {
+      "id": 10057,
+      "key": "Collection_Name_10057",
+      "value": "선급 오병기 III"
+    },
+    {
+      "id": 10058,
+      "key": "Collection_Name_10058",
+      "value": "선급 오병기 IV"
+    },
+    {
+      "id": 10153,
+      "key": "Collection_Name_10153",
+      "value": "삿갓 한 쌍"
+    },
+    {
+      "id": 10154,
+      "key": "Collection_Name_10154",
+      "value": "철벽 수비 I"
+    },
+    {
+      "id": 10155,
+      "key": "Collection_Name_10155",
+      "value": "철벽 수비 II"
+    },
+    {
+      "id": 10156,
+      "key": "Collection_Name_10156",
+      "value": "철벽 수비 III"
+    },
+    {
+      "id": 10157,
+      "key": "Collection_Name_10157",
+      "value": "철벽 수비 IV"
+    },
+    {
+      "id": 10158,
+      "key": "Collection_Name_10158",
+      "value": "흑야행"
+    },
+    {
+      "id": 10159,
+      "key": "Collection_Name_10159",
+      "value": "선신 일습 I"
+    },
+    {
+      "id": 10160,
+      "key": "Collection_Name_10160",
+      "value": "선신 일습 II"
+    },
+    {
+      "id": 10161,
+      "key": "Collection_Name_10161",
+      "value": "선신 일습 III"
+    },
+    {
+      "id": 10162,
+      "key": "Collection_Name_10162",
+      "value": "선신 일습 IV"
+    },
+    {
+      "id": 10163,
+      "key": "Collection_Name_10163",
+      "value": "선신의 귀걸이"
+    },
+    {
+      "id": 10164,
+      "key": "Collection_Name_10164",
+      "value": "선신의 목걸이"
+    },
+    {
+      "id": 10165,
+      "key": "Collection_Name_10165",
+      "value": "선신의 반지"
+    },
+    {
+      "id": 10166,
+      "key": "Collection_Name_10166",
+      "value": "귀걸이 감정가"
+    },
+    {
+      "id": 10167,
+      "key": "Collection_Name_10167",
+      "value": "목걸이 감정가"
+    },
+    {
+      "id": 10168,
+      "key": "Collection_Name_10168",
+      "value": "반지 감정가"
+    },
+    {
+      "id": 10169,
+      "key": "Collection_Name_10169",
+      "value": "선신 삼신구 I"
+    },
+    {
+      "id": 10170,
+      "key": "Collection_Name_10170",
+      "value": "선신 삼신구 II"
+    },
+    {
+      "id": 10171,
+      "key": "Collection_Name_10171",
+      "value": "선신 삼신구 III"
+    },
+    {
+      "id": 10172,
+      "key": "Collection_Name_10172",
+      "value": "선신 삼신구 IV"
+    },
+    {
+      "id": 21001,
+      "key": "Collection_Name_21001",
+      "value": "본산 외곽 산림 별미 I"
+    },
+    {
+      "id": 21002,
+      "key": "Collection_Name_21002",
+      "value": "본산 외곽 산림 별미 II"
+    },
+    {
+      "id": 21003,
+      "key": "Collection_Name_21003",
+      "value": "본산 외곽 산림 별미 III"
+    },
+    {
+      "id": 21004,
+      "key": "Collection_Name_21004",
+      "value": "본산 산자락 별미 I"
+    },
+    {
+      "id": 21005,
+      "key": "Collection_Name_21005",
+      "value": "본산 산자락 별미 II"
+    },
+    {
+      "id": 21006,
+      "key": "Collection_Name_21006",
+      "value": "본산 산자락 별미 III"
+    },
+    {
+      "id": 21007,
+      "key": "Collection_Name_21007",
+      "value": "심산 계곡 별미 I"
+    },
+    {
+      "id": 21008,
+      "key": "Collection_Name_21008",
+      "value": "심산 계곡 별미 II"
+    },
+    {
+      "id": 21009,
+      "key": "Collection_Name_21009",
+      "value": "심산 계곡 별미 III"
+    },
+    {
+      "id": 21010,
+      "key": "Collection_Name_21010",
+      "value": "심산 흑곰의 굴 별미 I"
+    },
+    {
+      "id": 21011,
+      "key": "Collection_Name_21011",
+      "value": "심산 흑곰의 굴 별미 II"
+    },
+    {
+      "id": 21012,
+      "key": "Collection_Name_21012",
+      "value": "심산 흑곰의 굴 별미 III"
+    },
+    {
+      "id": 21013,
+      "key": "Collection_Name_21013",
+      "value": "심산 외곽 산길 별미 I"
+    },
+    {
+      "id": 21014,
+      "key": "Collection_Name_21014",
+      "value": "심산 외곽 산길 별미 II"
+    },
+    {
+      "id": 21015,
+      "key": "Collection_Name_21015",
+      "value": "심산 외곽 산길 별미 III"
+    },
+    {
+      "id": 21016,
+      "key": "Collection_Name_21016",
+      "value": "심산 능선 별미 I"
+    },
+    {
+      "id": 21017,
+      "key": "Collection_Name_21017",
+      "value": "심산 능선 별미 II"
+    },
+    {
+      "id": 21018,
+      "key": "Collection_Name_21018",
+      "value": "심산 능선 별미 III"
+    },
+    {
+      "id": 21019,
+      "key": "Collection_Name_21019",
+      "value": "심산 맹호 협곡 별미 I"
+    },
+    {
+      "id": 21020,
+      "key": "Collection_Name_21020",
+      "value": "심산 맹호 협곡 별미 II"
+    },
+    {
+      "id": 21021,
+      "key": "Collection_Name_21021",
+      "value": "심산 맹호 협곡 별미 III"
+    },
+    {
+      "id": 21022,
+      "key": "Collection_Name_21022",
+      "value": "서장 · 보스의 성찬 I"
+    },
+    {
+      "id": 21023,
+      "key": "Collection_Name_21023",
+      "value": "서장 · 보스의 성찬 II"
+    },
+    {
+      "id": 21101,
+      "key": "Collection_Name_21101",
+      "value": "화산 산록 마을 외곽 별미 I"
+    },
+    {
+      "id": 21102,
+      "key": "Collection_Name_21102",
+      "value": "화산 산록 마을 외곽 별미 II"
+    },
+    {
+      "id": 21103,
+      "key": "Collection_Name_21103",
+      "value": "화산 산록 마을 외곽 별미 III"
+    },
+    {
+      "id": 21104,
+      "key": "Collection_Name_21104",
+      "value": "화산 산록 도화원 별미 I"
+    },
+    {
+      "id": 21105,
+      "key": "Collection_Name_21105",
+      "value": "화산 산록 도화원 별미 II"
+    },
+    {
+      "id": 21106,
+      "key": "Collection_Name_21106",
+      "value": "화산 산록 도화원 별미 III"
+    },
+    {
+      "id": 21107,
+      "key": "Collection_Name_21107",
+      "value": "화산 산록 산자락 별미 I"
+    },
+    {
+      "id": 21108,
+      "key": "Collection_Name_21108",
+      "value": "화산 산록 산자락 별미 II"
+    },
+    {
+      "id": 21109,
+      "key": "Collection_Name_21109",
+      "value": "화산 산록 산자락 별미 III"
+    },
+    {
+      "id": 21110,
+      "key": "Collection_Name_21110",
+      "value": "종남 숲길 별미 I"
+    },
+    {
+      "id": 21111,
+      "key": "Collection_Name_21111",
+      "value": "종남 숲길 별미 II"
+    },
+    {
+      "id": 21112,
+      "key": "Collection_Name_21112",
+      "value": "종남 숲길 별미 III"
+    },
+    {
+      "id": 21113,
+      "key": "Collection_Name_21113",
+      "value": "종남 깊은 숲 별미 I"
+    },
+    {
+      "id": 21114,
+      "key": "Collection_Name_21114",
+      "value": "종남 깊은 숲 별미 II"
+    },
+    {
+      "id": 21115,
+      "key": "Collection_Name_21115",
+      "value": "종남 깊은 숲 별미 III"
+    },
+    {
+      "id": 21116,
+      "key": "Collection_Name_21116",
+      "value": "종남 외길 별미 I"
+    },
+    {
+      "id": 21117,
+      "key": "Collection_Name_21117",
+      "value": "종남 외길 별미 II"
+    },
+    {
+      "id": 21118,
+      "key": "Collection_Name_21118",
+      "value": "종남 외길 별미 III"
+    },
+    {
+      "id": 21119,
+      "key": "Collection_Name_21119",
+      "value": "화산파 금지 구역 외곽 별미 I"
+    },
+    {
+      "id": 21120,
+      "key": "Collection_Name_21120",
+      "value": "화산파 금지 구역 외곽 별미 II"
+    },
+    {
+      "id": 21121,
+      "key": "Collection_Name_21121",
+      "value": "화산파 금지 구역 외곽 별미 III"
+    },
+    {
+      "id": 21122,
+      "key": "Collection_Name_21122",
+      "value": "화산파 금지 구역 어귀 별미 I"
+    },
+    {
+      "id": 21123,
+      "key": "Collection_Name_21123",
+      "value": "화산파 금지 구역 어귀 별미 II"
+    },
+    {
+      "id": 21124,
+      "key": "Collection_Name_21124",
+      "value": "화산파 금지 구역 어귀 별미 III"
+    },
+    {
+      "id": 21125,
+      "key": "Collection_Name_21125",
+      "value": "화산파 금지 구역 별미 I"
+    },
+    {
+      "id": 21126,
+      "key": "Collection_Name_21126",
+      "value": "화산파 금지 구역 별미 II"
+    },
+    {
+      "id": 21127,
+      "key": "Collection_Name_21127",
+      "value": "화산파 금지 구역 별미 III"
+    },
+    {
+      "id": 21128,
+      "key": "Collection_Name_21128",
+      "value": "1장 화산 · 보스의 성찬 I"
+    },
+    {
+      "id": 21129,
+      "key": "Collection_Name_21129",
+      "value": "1장 화산 · 보스의 성찬 II"
+    },
+    {
+      "id": 21201,
+      "key": "Collection_Name_21201",
+      "value": "사천 독림 별미 I"
+    },
+    {
+      "id": 21202,
+      "key": "Collection_Name_21202",
+      "value": "사천 독림 별미 II"
+    },
+    {
+      "id": 21203,
+      "key": "Collection_Name_21203",
+      "value": "사천 독림 별미 III"
+    },
+    {
+      "id": 21204,
+      "key": "Collection_Name_21204",
+      "value": "사천 독사 골짜기 별미 I"
+    },
+    {
+      "id": 21205,
+      "key": "Collection_Name_21205",
+      "value": "사천 독사 골짜기 별미 II"
+    },
+    {
+      "id": 21206,
+      "key": "Collection_Name_21206",
+      "value": "사천 독사 골짜기 별미 III"
+    },
+    {
+      "id": 21207,
+      "key": "Collection_Name_21207",
+      "value": "사천 안개 숲 별미 I"
+    },
+    {
+      "id": 21208,
+      "key": "Collection_Name_21208",
+      "value": "사천 안개 숲 별미 II"
+    },
+    {
+      "id": 21209,
+      "key": "Collection_Name_21209",
+      "value": "사천 안개 숲 별미 III"
+    },
+    {
+      "id": 21210,
+      "key": "Collection_Name_21210",
+      "value": "독늪지 별미 I"
+    },
+    {
+      "id": 21211,
+      "key": "Collection_Name_21211",
+      "value": "독늪지 별미 II"
+    },
+    {
+      "id": 21212,
+      "key": "Collection_Name_21212",
+      "value": "독늪지 별미 III"
+    },
+    {
+      "id": 21213,
+      "key": "Collection_Name_21213",
+      "value": "칠색 독늪 별미 I"
+    },
+    {
+      "id": 21214,
+      "key": "Collection_Name_21214",
+      "value": "칠색 독늪 별미 II"
+    },
+    {
+      "id": 21215,
+      "key": "Collection_Name_21215",
+      "value": "칠색 독늪 별미 III"
+    },
+    {
+      "id": 21216,
+      "key": "Collection_Name_21216",
+      "value": "독왕 늪 별미 I"
+    },
+    {
+      "id": 21217,
+      "key": "Collection_Name_21217",
+      "value": "독왕 늪 별미 II"
+    },
+    {
+      "id": 21218,
+      "key": "Collection_Name_21218",
+      "value": "독왕 늪 별미 III"
+    },
+    {
+      "id": 21219,
+      "key": "Collection_Name_21219",
+      "value": "당가 외곽 시험장 별미 I"
+    },
+    {
+      "id": 21220,
+      "key": "Collection_Name_21220",
+      "value": "당가 외곽 시험장 별미 II"
+    },
+    {
+      "id": 21221,
+      "key": "Collection_Name_21221",
+      "value": "당가 외곽 시험장 별미 III"
+    },
+    {
+      "id": 21222,
+      "key": "Collection_Name_21222",
+      "value": "당가 내원 별미 I"
+    },
+    {
+      "id": 21223,
+      "key": "Collection_Name_21223",
+      "value": "당가 내원 별미 II"
+    },
+    {
+      "id": 21224,
+      "key": "Collection_Name_21224",
+      "value": "당가 내원 별미 III"
+    },
+    {
+      "id": 21225,
+      "key": "Collection_Name_21225",
+      "value": "당가 밀실 별미 I"
+    },
+    {
+      "id": 21226,
+      "key": "Collection_Name_21226",
+      "value": "당가 밀실 별미 II"
+    },
+    {
+      "id": 21227,
+      "key": "Collection_Name_21227",
+      "value": "당가 밀실 별미 III"
+    },
+    {
+      "id": 21228,
+      "key": "Collection_Name_21228",
+      "value": "사천 독림 · 보스의 성찬 I"
+    },
+    {
+      "id": 21229,
+      "key": "Collection_Name_21229",
+      "value": "사천 독림 · 보스의 성찬 II"
+    },
+    {
+      "id": 21301,
+      "key": "Collection_Name_21301",
+      "value": "강남 수상시장 별미 I"
+    },
+    {
+      "id": 21302,
+      "key": "Collection_Name_21302",
+      "value": "강남 수상시장 별미 II"
+    },
+    {
+      "id": 21303,
+      "key": "Collection_Name_21303",
+      "value": "강남 수상시장 별미 III"
+    },
+    {
+      "id": 21304,
+      "key": "Collection_Name_21304",
+      "value": "강남 어시장 부두 별미 I"
+    },
+    {
+      "id": 21305,
+      "key": "Collection_Name_21305",
+      "value": "강남 어시장 부두 별미 II"
+    },
+    {
+      "id": 21306,
+      "key": "Collection_Name_21306",
+      "value": "강남 어시장 부두 별미 III"
+    },
+    {
+      "id": 21307,
+      "key": "Collection_Name_21307",
+      "value": "강남 외항 별미 I"
+    },
+    {
+      "id": 21308,
+      "key": "Collection_Name_21308",
+      "value": "강남 외항 별미 II"
+    },
+    {
+      "id": 21309,
+      "key": "Collection_Name_21309",
+      "value": "강남 외항 별미 III"
+    },
+    {
+      "id": 21310,
+      "key": "Collection_Name_21310",
+      "value": "장강 수로 별미 I"
+    },
+    {
+      "id": 21311,
+      "key": "Collection_Name_21311",
+      "value": "장강 수로 별미 II"
+    },
+    {
+      "id": 21312,
+      "key": "Collection_Name_21312",
+      "value": "장강 수로 별미 III"
+    },
+    {
+      "id": 21313,
+      "key": "Collection_Name_21313",
+      "value": "장강 물뱀 늪 별미 I"
+    },
+    {
+      "id": 21314,
+      "key": "Collection_Name_21314",
+      "value": "장강 물뱀 늪 별미 II"
+    },
+    {
+      "id": 21315,
+      "key": "Collection_Name_21315",
+      "value": "장강 물뱀 늪 별미 III"
+    },
+    {
+      "id": 21316,
+      "key": "Collection_Name_21316",
+      "value": "장강 수로채 소굴 별미 I"
+    },
+    {
+      "id": 21317,
+      "key": "Collection_Name_21317",
+      "value": "장강 수로채 소굴 별미 II"
+    },
+    {
+      "id": 21318,
+      "key": "Collection_Name_21318",
+      "value": "장강 수로채 소굴 별미 III"
+    },
+    {
+      "id": 21319,
+      "key": "Collection_Name_21319",
+      "value": "장강 하류 수몰 건물 별미 I"
+    },
+    {
+      "id": 21320,
+      "key": "Collection_Name_21320",
+      "value": "장강 하류 수몰 건물 별미 II"
+    },
+    {
+      "id": 21321,
+      "key": "Collection_Name_21321",
+      "value": "장강 하류 수몰 건물 별미 III"
+    },
+    {
+      "id": 21322,
+      "key": "Collection_Name_21322",
+      "value": "수몰 신전 별미 I"
+    },
+    {
+      "id": 21323,
+      "key": "Collection_Name_21323",
+      "value": "수몰 신전 별미 II"
+    },
+    {
+      "id": 21324,
+      "key": "Collection_Name_21324",
+      "value": "수몰 신전 별미 III"
+    },
+    {
+      "id": 21325,
+      "key": "Collection_Name_21325",
+      "value": "수몰 심연 별미 I"
+    },
+    {
+      "id": 21326,
+      "key": "Collection_Name_21326",
+      "value": "수몰 심연 별미 II"
+    },
+    {
+      "id": 21327,
+      "key": "Collection_Name_21327",
+      "value": "수몰 심연 별미 III"
+    },
+    {
+      "id": 21328,
+      "key": "Collection_Name_21328",
+      "value": "강남 수로 · 보스의 성찬 I"
+    },
+    {
+      "id": 21329,
+      "key": "Collection_Name_21329",
+      "value": "강남 수로 · 보스의 성찬 II"
+    },
+    {
+      "id": 22001,
+      "key": "Collection_Name_22001",
+      "value": "태초보양탕"
+    },
+    {
+      "id": 22002,
+      "key": "Collection_Name_22002",
+      "value": "멧돼지 세 부위"
+    },
+    {
+      "id": 22003,
+      "key": "Collection_Name_22003",
+      "value": "삼겹살 소금구이"
+    },
+    {
+      "id": 22004,
+      "key": "Collection_Name_22004",
+      "value": "항정살 숙성구이"
+    },
+    {
+      "id": 22005,
+      "key": "Collection_Name_22005",
+      "value": "곰발바닥 찜"
+    },
+    {
+      "id": 22006,
+      "key": "Collection_Name_22006",
+      "value": "맹호 등심 구이"
+    },
+    {
+      "id": 22007,
+      "key": "Collection_Name_22007",
+      "value": "개구리 뒷다리 튀김"
+    },
+    {
+      "id": 22008,
+      "key": "Collection_Name_22008",
+      "value": "꼬리찜 삼미"
+    },
+    {
+      "id": 22009,
+      "key": "Collection_Name_22009",
+      "value": "혀끝 삼미"
+    },
+    {
+      "id": 22010,
+      "key": "Collection_Name_22010",
+      "value": "장강 게살 한 상"
+    },
+    {
+      "id": 22011,
+      "key": "Collection_Name_22011",
+      "value": "늪지 악어 통구이"
+    },
+    {
+      "id": 22012,
+      "key": "Collection_Name_22012",
+      "value": "천하 육포 밥상"
+    },
+    {
+      "id": 22013,
+      "key": "Collection_Name_22013",
+      "value": "강호 건빵 시식회"
+    },
+    {
+      "id": 22014,
+      "key": "Collection_Name_22014",
+      "value": "두목들의 도시락"
+    },
+    {
+      "id": 22015,
+      "key": "Collection_Name_22015",
+      "value": "독충 알찜"
+    },
+    {
+      "id": 22016,
+      "key": "Collection_Name_22016",
+      "value": "요리의 삼재"
+    },
+    {
+      "id": 22017,
+      "key": "Collection_Name_22017",
+      "value": "너구리 맑은탕"
+    },
+    {
+      "id": 22018,
+      "key": "Collection_Name_22018",
+      "value": "물갈퀴 부침"
+    },
+    {
+      "id": 22019,
+      "key": "Collection_Name_22019",
+      "value": "독왕의 밥상"
+    },
+    {
+      "id": 22020,
+      "key": "Collection_Name_22020",
+      "value": "문파 도시락 털이"
+    }
+  ]
+}

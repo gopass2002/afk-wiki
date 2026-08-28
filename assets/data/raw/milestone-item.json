@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 2,
+    "schema": "FBDataMilestoneItem",
+    "sourceAsset": "FBDataMilestoneItem",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "reward_equipment_20",
+      "rewardType": "Currency",
+      "itemId": 1,
+      "amount": 200
+    },
+    {
+      "id": 2,
+      "groupKey": "reward_equipment_20",
+      "rewardType": "Currency",
+      "itemId": 2,
+      "amount": 100
+    }
+  ]
+}

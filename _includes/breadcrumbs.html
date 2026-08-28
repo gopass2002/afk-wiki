@@ -1,0 +1,14 @@
+{% unless page.url == '/' %}
+<nav class="breadcrumbs" aria-label="현재 위치">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">홈</a></li>
+    {% if page.parent_title %}
+      <li><a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a></li>
+    {% elsif page.data_category %}
+      <li><a href="{{ '/docs/data/' | relative_url }}">원본 데이터</a></li>
+      <li><span>{{ page.data_category }}</span></li>
+    {% endif %}
+    <li aria-current="page"><span>{{ page.title | default: page.data_asset }}</span></li>
+  </ol>
+</nav>
+{% endunless %}

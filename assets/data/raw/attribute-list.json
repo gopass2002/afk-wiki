@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 35,
+    "schema": "FBDataAttributeList",
+    "sourceAsset": "FBDataAttributeList",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "STR",
+      "type": 1,
+      "visible": true,
+      "sortOrder": 1,
+      "divisor": 0,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_STR"
+    },
+    {
+      "id": 2,
+      "key": "VIT",
+      "type": 1,
+      "visible": true,
+      "sortOrder": 2,
+      "divisor": 0,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_VIT"
+    },
+    {
+      "id": 3,
+      "key": "AGI",
+      "type": 1,
+      "visible": true,
+      "sortOrder": 3,
+      "divisor": 0,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_AGI"
+    },
+    {
+      "id": 4,
+      "key": "SPI",
+      "type": 1,
+      "visible": true,
+      "sortOrder": 4,
+      "divisor": 0,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_SPI"
+    },
+    {
+      "id": 5,
+      "key": "STR_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 71,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_STR"
+    },
+    {
+      "id": 6,
+      "key": "VIT_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 72,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_VIT"
+    },
+    {
+      "id": 7,
+      "key": "AGI_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 73,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_AGI"
+    },
+    {
+      "id": 8,
+      "key": "SPI_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 74,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_SPI"
+    },
+    {
+      "id": 101,
+      "key": "ATK",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 11,
+      "divisor": 0,
+      "battlePowerWeight": 100,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_ATK"
+    },
+    {
+      "id": 102,
+      "key": "DEF",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 21,
+      "divisor": 0,
+      "battlePowerWeight": 100,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_DEF"
+    },
+    {
+      "id": 103,
+      "key": "CRIT_RATE",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 51,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_CRIT_RATE"
+    },
+    {
+      "id": 104,
+      "key": "CRIT_DMG",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 52,
+      "divisor": 100,
+      "battlePowerWeight": 100,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_CRIT_DMG"
+    },
+    {
+      "id": 105,
+      "key": "MAX_HP",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 31,
+      "divisor": 0,
+      "battlePowerWeight": 10,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MAX_HP"
+    },
+    {
+      "id": 106,
+      "key": "PEN",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 61,
+      "divisor": 0,
+      "battlePowerWeight": 70,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_PEN"
+    },
+    {
+      "id": 107,
+      "key": "HP_REGEN",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 33,
+      "divisor": 0,
+      "battlePowerWeight": 60,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_HP_REGEN"
+    },
+    {
+      "id": 108,
+      "key": "MAX_SP",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 41,
+      "divisor": 0,
+      "battlePowerWeight": 58,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MAX_SP"
+    },
+    {
+      "id": 109,
+      "key": "SP_REGEN",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 43,
+      "divisor": 0,
+      "battlePowerWeight": 292,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_SP_REGEN"
+    },
+    {
+      "id": 110,
+      "key": "SKILL_AMP",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 62,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_SKILL_AMP"
+    },
+    {
+      "id": 111,
+      "key": "ATK_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 12,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_ATK"
+    },
+    {
+      "id": 112,
+      "key": "DEF_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 22,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_DEF"
+    },
+    {
+      "id": 113,
+      "key": "MAX_HP_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 32,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MAX_HP"
+    },
+    {
+      "id": 114,
+      "key": "MAX_SP_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 42,
+      "divisor": 100,
+      "battlePowerWeight": 438,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MAX_SP"
+    },
+    {
+      "id": 115,
+      "key": "HP_REGEN_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 34,
+      "divisor": 100,
+      "battlePowerWeight": 438,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_HP_REGEN"
+    },
+    {
+      "id": 116,
+      "key": "SP_REGEN_PER",
+      "type": 2,
+      "visible": true,
+      "sortOrder": 44,
+      "divisor": 100,
+      "battlePowerWeight": 438,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_SP_REGEN"
+    },
+    {
+      "id": 201,
+      "key": "HIT",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 101,
+      "divisor": 0,
+      "battlePowerWeight": 146,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_HIT"
+    },
+    {
+      "id": 202,
+      "key": "EVA",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 102,
+      "divisor": 0,
+      "battlePowerWeight": 50,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_EVA"
+    },
+    {
+      "id": 203,
+      "key": "ATK_SPD",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 111,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_ATK_SPD"
+    },
+    {
+      "id": 204,
+      "key": "FINAL_DMG_BONUS",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 121,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_FINAL_DMG_BONUS"
+    },
+    {
+      "id": 205,
+      "key": "BOSS_DMG_BONUS",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 122,
+      "divisor": 100,
+      "battlePowerWeight": 438,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_BOSS_DMG_BONUS"
+    },
+    {
+      "id": 206,
+      "key": "PVP_DMG_BONUS",
+      "type": 3,
+      "visible": false,
+      "sortOrder": 123,
+      "divisor": 100,
+      "battlePowerWeight": 438,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_PVP_DMG_BONUS"
+    },
+    {
+      "id": 207,
+      "key": "EXP_BONUS",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 133,
+      "divisor": 100,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_EXP_BONUS"
+    },
+    {
+      "id": 208,
+      "key": "GOLD_BONUS",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 134,
+      "divisor": 100,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_GOLD_BONUS"
+    },
+    {
+      "id": 209,
+      "key": "COOLDOWN_REDUCE",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 131,
+      "divisor": 100,
+      "battlePowerWeight": 500,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_COOLDOWN_REDUCE"
+    },
+    {
+      "id": 210,
+      "key": "POTION_BONUS",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 132,
+      "divisor": 100,
+      "battlePowerWeight": 0,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_POTION_BONUS"
+    },
+    {
+      "id": 211,
+      "key": "MOVE_SPEED",
+      "type": 3,
+      "visible": true,
+      "sortOrder": 112,
+      "divisor": 100,
+      "battlePowerWeight": 150,
+      "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MOVE_SPEED"
+    }
+  ]
+}

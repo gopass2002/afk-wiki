@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 26,
+    "schema": "FBDataLoadingTip",
+    "sourceAsset": "FBDataLoadingTip",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "titleKey": "LoadingTip_Promotion_Title",
+      "descKey": "LoadingTip_Promotion_Desc"
+    },
+    {
+      "id": 2,
+      "titleKey": "LoadingTip_RealmWall_Title",
+      "descKey": "LoadingTip_RealmWall_Desc"
+    },
+    {
+      "id": 3,
+      "titleKey": "LoadingTip_SkillWeapon_Title",
+      "descKey": "LoadingTip_SkillWeapon_Desc"
+    },
+    {
+      "id": 4,
+      "titleKey": "LoadingTip_InnerPower_Title",
+      "descKey": "LoadingTip_InnerPower_Desc"
+    },
+    {
+      "id": 5,
+      "titleKey": "LoadingTip_Critical_Title",
+      "descKey": "LoadingTip_Critical_Desc"
+    },
+    {
+      "id": 6,
+      "titleKey": "LoadingTip_Penetration_Title",
+      "descKey": "LoadingTip_Penetration_Desc"
+    },
+    {
+      "id": 7,
+      "titleKey": "LoadingTip_Enhance_Title",
+      "descKey": "LoadingTip_Enhance_Desc"
+    },
+    {
+      "id": 8,
+      "titleKey": "LoadingTip_Refine_Title",
+      "descKey": "LoadingTip_Refine_Desc"
+    },
+    {
+      "id": 9,
+      "titleKey": "LoadingTip_BagFull_Title",
+      "descKey": "LoadingTip_BagFull_Desc"
+    },
+    {
+      "id": 10,
+      "titleKey": "LoadingTip_BagExpand_Title",
+      "descKey": "LoadingTip_BagExpand_Desc"
+    },
+    {
+      "id": 11,
+      "titleKey": "LoadingTip_Collection_Title",
+      "descKey": "LoadingTip_Collection_Desc"
+    },
+    {
+      "id": 12,
+      "titleKey": "LoadingTip_Cook_Title",
+      "descKey": "LoadingTip_Cook_Desc"
+    },
+    {
+      "id": 13,
+      "titleKey": "LoadingTip_Mail_Title",
+      "descKey": "LoadingTip_Mail_Desc"
+    },
+    {
+      "id": 14,
+      "titleKey": "LoadingTip_Gold_Title",
+      "descKey": "LoadingTip_Gold_Desc"
+    },
+    {
+      "id": 15,
+      "titleKey": "LoadingTip_LegendSkill_Title",
+      "descKey": "LoadingTip_LegendSkill_Desc"
+    },
+    {
+      "id": 16,
+      "titleKey": "LoadingTip_Nickname_Title",
+      "descKey": "LoadingTip_Nickname_Desc"
+    },
+    {
+      "id": 17,
+      "titleKey": "LoadingTip_Cooldown_Title",
+      "descKey": "LoadingTip_Cooldown_Desc"
+    },
+    {
+      "id": 18,
+      "titleKey": "LoadingTip_Proverb_Title",
+      "descKey": "LoadingTip_Proverb_Desc"
+    },
+    {
+      "id": 19,
+      "titleKey": "LoadingTip_Rumor_Title",
+      "descKey": "LoadingTip_Rumor_Desc"
+    },
+    {
+      "id": 20,
+      "titleKey": "LoadingTip_Beginner_Title",
+      "descKey": "LoadingTip_Beginner_Desc"
+    },
+    {
+      "id": 21,
+      "titleKey": "LoadingTip_HitEvade_Title",
+      "descKey": "LoadingTip_HitEvade_Desc"
+    },
+    {
+      "id": 22,
+      "titleKey": "LoadingTip_SkillEnhance_Title",
+      "descKey": "LoadingTip_SkillEnhance_Desc"
+    },
+    {
+      "id": 23,
+      "titleKey": "LoadingTip_DailyDungeon_Title",
+      "descKey": "LoadingTip_DailyDungeon_Desc"
+    },
+    {
+      "id": 24,
+      "titleKey": "LoadingTip_SkillGacha_Title",
+      "descKey": "LoadingTip_SkillGacha_Desc"
+    },
+    {
+      "id": 25,
+      "titleKey": "LoadingTip_Attendance_Title",
+      "descKey": "LoadingTip_Attendance_Desc"
+    },
+    {
+      "id": 26,
+      "titleKey": "LoadingTip_Shop_Title",
+      "descKey": "LoadingTip_Shop_Desc"
+    }
+  ]
+}

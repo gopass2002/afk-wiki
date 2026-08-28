@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 5,
+    "schema": "FBDataEnhanceFx",
+    "sourceAsset": "FBDataEnhanceFx",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "subType": "Sword",
+      "prefab": "99.Effects/sword_fx_0001/swordfx_0001"
+    },
+    {
+      "id": 2,
+      "subType": "Blade",
+      "prefab": "99.Effects/sword_fx_0002/swordfx_0002"
+    },
+    {
+      "id": 3,
+      "subType": "Spear",
+      "prefab": "99.Effects/sword_fx_0003/swordfx_0003"
+    },
+    {
+      "id": 4,
+      "subType": "Staff",
+      "prefab": "99.Effects/sword_fx_0004/swordfx_0004"
+    },
+    {
+      "id": 5,
+      "subType": "Hidden",
+      "prefab": "99.Effects/sword_fx_0005/swordfx_0005"
+    }
+  ]
+}

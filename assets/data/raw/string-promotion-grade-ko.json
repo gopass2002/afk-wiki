@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 15,
+    "schema": "FBDataStringPromotionGrade",
+    "sourceAsset": "FBDataStringPromotionGrade_ko",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 0,
+      "key": "PromotionNone",
+      "value": "입문"
+    },
+    {
+      "id": 1,
+      "key": "PromotionThridClass",
+      "value": "삼류"
+    },
+    {
+      "id": 2,
+      "key": "PromotionSecondClass",
+      "value": "이류"
+    },
+    {
+      "id": 3,
+      "key": "PromotionTopClass",
+      "value": "일류"
+    },
+    {
+      "id": 4,
+      "key": "PromotionEntrance",
+      "value": "초입"
+    },
+    {
+      "id": 5,
+      "key": "PromotionHard",
+      "value": "완숙"
+    },
+    {
+      "id": 6,
+      "key": "PromotionExtreme",
+      "value": "극의"
+    },
+    {
+      "id": 7,
+      "key": "Apex",
+      "value": "절정"
+    },
+    {
+      "id": 8,
+      "key": "Transcendent",
+      "value": "초절정"
+    },
+    {
+      "id": 9,
+      "key": "Ascendant",
+      "value": "화경"
+    },
+    {
+      "id": 10,
+      "key": "Mystic",
+      "value": "현경"
+    },
+    {
+      "id": 11,
+      "key": "LifeandDeath",
+      "value": "생사경"
+    },
+    {
+      "id": 12,
+      "key": "ThridClass",
+      "value": "삼류"
+    },
+    {
+      "id": 13,
+      "key": "SecondClass",
+      "value": "이류"
+    },
+    {
+      "id": 14,
+      "key": "TopClass",
+      "value": "일류"
+    }
+  ]
+}

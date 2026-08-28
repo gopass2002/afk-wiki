@@ -1,0 +1,418 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 81,
+    "schema": "FBDataActorNpcTalk",
+    "sourceAsset": "FBDataActorNpcTalk",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_1"
+    },
+    {
+      "id": 2,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_2"
+    },
+    {
+      "id": 3,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_3"
+    },
+    {
+      "id": 4,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_4"
+    },
+    {
+      "id": 5,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_5"
+    },
+    {
+      "id": 6,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_6"
+    },
+    {
+      "id": 7,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_7"
+    },
+    {
+      "id": 8,
+      "groupKey": "soso_talk",
+      "textKey": "NpcTalk_Soso_8"
+    },
+    {
+      "id": 9,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_1"
+    },
+    {
+      "id": 10,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_2"
+    },
+    {
+      "id": 11,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_3"
+    },
+    {
+      "id": 12,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_4"
+    },
+    {
+      "id": 13,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_5"
+    },
+    {
+      "id": 14,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_6"
+    },
+    {
+      "id": 15,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_7"
+    },
+    {
+      "id": 16,
+      "groupKey": "hobob_talk",
+      "textKey": "NpcTalk_Hobob_8"
+    },
+    {
+      "id": 17,
+      "groupKey": "chunma_talk",
+      "textKey": "NpcTalk_Chunma_1"
+    },
+    {
+      "id": 18,
+      "groupKey": "chunma_talk",
+      "textKey": "NpcTalk_Chunma_2"
+    },
+    {
+      "id": 19,
+      "groupKey": "chunma_talk",
+      "textKey": "NpcTalk_Chunma_3"
+    },
+    {
+      "id": 20,
+      "groupKey": "chunma_talk",
+      "textKey": "NpcTalk_Chunma_4"
+    },
+    {
+      "id": 21,
+      "groupKey": "chunma_talk",
+      "textKey": "NpcTalk_Chunma_5"
+    },
+    {
+      "id": 22,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_1"
+    },
+    {
+      "id": 23,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_2"
+    },
+    {
+      "id": 24,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_3"
+    },
+    {
+      "id": 25,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_4"
+    },
+    {
+      "id": 26,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_5"
+    },
+    {
+      "id": 27,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_6"
+    },
+    {
+      "id": 28,
+      "groupKey": "whasan_student_talk",
+      "textKey": "NpcTalk_WhasanStudent_7"
+    },
+    {
+      "id": 29,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_1"
+    },
+    {
+      "id": 30,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_2"
+    },
+    {
+      "id": 31,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_3"
+    },
+    {
+      "id": 32,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_4"
+    },
+    {
+      "id": 33,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_5"
+    },
+    {
+      "id": 34,
+      "groupKey": "whasan_jangro_talk",
+      "textKey": "NpcTalk_WhasanJangro_6"
+    },
+    {
+      "id": 35,
+      "groupKey": "swordsaint_talk",
+      "textKey": "NpcTalk_Swordsaint_1"
+    },
+    {
+      "id": 36,
+      "groupKey": "swordsaint_talk",
+      "textKey": "NpcTalk_Swordsaint_2"
+    },
+    {
+      "id": 37,
+      "groupKey": "swordsaint_talk",
+      "textKey": "NpcTalk_Swordsaint_3"
+    },
+    {
+      "id": 38,
+      "groupKey": "swordsaint_talk",
+      "textKey": "NpcTalk_Swordsaint_4"
+    },
+    {
+      "id": 39,
+      "groupKey": "swordsaint_talk",
+      "textKey": "NpcTalk_Swordsaint_5"
+    },
+    {
+      "id": 40,
+      "groupKey": "yujung_talk",
+      "textKey": "NpcTalk_Yujung_1"
+    },
+    {
+      "id": 41,
+      "groupKey": "yujung_talk",
+      "textKey": "NpcTalk_Yujung_2"
+    },
+    {
+      "id": 42,
+      "groupKey": "yujung_talk",
+      "textKey": "NpcTalk_Yujung_3"
+    },
+    {
+      "id": 43,
+      "groupKey": "yujung_talk",
+      "textKey": "NpcTalk_Yujung_4"
+    },
+    {
+      "id": 44,
+      "groupKey": "yujung_talk",
+      "textKey": "NpcTalk_Yujung_5"
+    },
+    {
+      "id": 45,
+      "groupKey": "dokgocheol_talk",
+      "textKey": "NpcTalk_Dokgocheol_1"
+    },
+    {
+      "id": 46,
+      "groupKey": "dokgocheol_talk",
+      "textKey": "NpcTalk_Dokgocheol_2"
+    },
+    {
+      "id": 47,
+      "groupKey": "dokgocheol_talk",
+      "textKey": "NpcTalk_Dokgocheol_3"
+    },
+    {
+      "id": 48,
+      "groupKey": "dokgocheol_talk",
+      "textKey": "NpcTalk_Dokgocheol_4"
+    },
+    {
+      "id": 49,
+      "groupKey": "dokgocheol_talk",
+      "textKey": "NpcTalk_Dokgocheol_5"
+    },
+    {
+      "id": 50,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_1"
+    },
+    {
+      "id": 51,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_2"
+    },
+    {
+      "id": 52,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_3"
+    },
+    {
+      "id": 53,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_4"
+    },
+    {
+      "id": 54,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_5"
+    },
+    {
+      "id": 55,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_6"
+    },
+    {
+      "id": 56,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_7"
+    },
+    {
+      "id": 57,
+      "groupKey": "chaehee_talk",
+      "textKey": "NpcTalk_Chaehee_8"
+    },
+    {
+      "id": 58,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_1"
+    },
+    {
+      "id": 59,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_2"
+    },
+    {
+      "id": 60,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_3"
+    },
+    {
+      "id": 61,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_4"
+    },
+    {
+      "id": 62,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_5"
+    },
+    {
+      "id": 63,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_6"
+    },
+    {
+      "id": 64,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_7"
+    },
+    {
+      "id": 65,
+      "groupKey": "chaewha_talk",
+      "textKey": "NpcTalk_Chaewha_8"
+    },
+    {
+      "id": 71,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_1"
+    },
+    {
+      "id": 72,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_2"
+    },
+    {
+      "id": 73,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_3"
+    },
+    {
+      "id": 74,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_4"
+    },
+    {
+      "id": 75,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_5"
+    },
+    {
+      "id": 76,
+      "groupKey": "munpa_talk",
+      "textKey": "NpcTalk_Munpa_6"
+    },
+    {
+      "id": 77,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_1"
+    },
+    {
+      "id": 78,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_2"
+    },
+    {
+      "id": 79,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_3"
+    },
+    {
+      "id": 80,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_4"
+    },
+    {
+      "id": 81,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_5"
+    },
+    {
+      "id": 82,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_6"
+    },
+    {
+      "id": 83,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_7"
+    },
+    {
+      "id": 84,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_8"
+    },
+    {
+      "id": 85,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_9"
+    },
+    {
+      "id": 86,
+      "groupKey": "mirror_talk",
+      "textKey": "NpcTalk_Mirror_10"
+    }
+  ]
+}

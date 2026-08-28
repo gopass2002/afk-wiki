@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 33,
+    "schema": "FBDataActorNPC",
+    "sourceAsset": "FBDataActorNPC",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 100001,
+      "prefab": "03.Npc/npc_hobob/npc_hobob",
+      "name": "호법 장로",
+      "talkGroupKey": "hobob_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100002,
+      "prefab": "03.Npc/chunma/npc_chunma",
+      "name": "천마 교주",
+      "talkGroupKey": "chunma_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100003,
+      "prefab": "03.Npc/npc_child/npc_child",
+      "name": "어린 주인공",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100004,
+      "prefab": "03.Npc/npc_whasan_student/npc_whasan_student",
+      "name": "화산파 소문주",
+      "talkGroupKey": "whasan_student_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100005,
+      "prefab": "03.Npc/npc_whasan_jangro/npc_whasan_jangro",
+      "name": "화산파 장로",
+      "talkGroupKey": "whasan_jangro_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100006,
+      "prefab": "03.Npc/npc_swordsaint/npc_swordsaint",
+      "name": "검성",
+      "talkGroupKey": "swordsaint_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100007,
+      "prefab": "03.Npc/npc_yujung/npc_yujung",
+      "name": "유정",
+      "talkGroupKey": "yujung_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100008,
+      "prefab": "03.Npc/npc_merchant/npc_merchant",
+      "name": "소소",
+      "talkGroupKey": "soso_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 2
+    },
+    {
+      "id": 100009,
+      "prefab": "02.Monsters/monster_1000006001/monster_1000006001",
+      "name": "산적",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100010,
+      "prefab": "03.Npc/npc_dokgocheol/npc_dokgocheol",
+      "name": "독고철",
+      "talkGroupKey": "dokgocheol_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100015,
+      "prefab": "03.Npc/npc_dangsojin/npc_dangsojin",
+      "name": "당가 소가주",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100016,
+      "prefab": "03.Npc/npc_dangsoryung/npc_dangsoryung",
+      "name": "당가 대소저",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100011,
+      "prefab": "02.Monsters/monster_1003006901/monster_1003006901",
+      "name": "수로채 여두목",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100012,
+      "prefab": "03.Npc/npc_dokyung/npc_dokyung",
+      "name": "이사형 독영",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100013,
+      "prefab": "03.Npc/npc_gwangpoongdo/npc_gwangpoongdo",
+      "name": "삼사형 광풍도",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100014,
+      "prefab": "02.Monsters/monster_2001001901/monster_2001001901",
+      "name": "숟가락 할배",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100017,
+      "prefab": "02.Monsters/monster_1001001001/monster_1001001001",
+      "name": "산적",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100018,
+      "prefab": "02.Monsters/monster_1002007001/monster_1002007001",
+      "name": "당가 시험용 독인형",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100019,
+      "prefab": "02.Monsters/monster_1002003901/monster_1002003901",
+      "name": "독버섯 정령",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100020,
+      "prefab": "02.Monsters/monster_1002006901/monster_1002006901",
+      "name": "독개구리왕",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100021,
+      "prefab": "02.Monsters/monster_2001004901/monster_2001004901",
+      "name": "흑랑",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100022,
+      "prefab": "02.Monsters/monster_2001004902/monster_2001004902",
+      "name": "흑랑 우두머리",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100023,
+      "prefab": "02.Monsters/monster_1003001001/monster_1003001001",
+      "name": "수상 도적",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100024,
+      "prefab": "02.Monsters/monster_1003001002/monster_1003001002",
+      "name": "장강 거대 게",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100025,
+      "prefab": "02.Monsters/monster_1003004001/monster_1003004001",
+      "name": "수로채 하수인",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100026,
+      "prefab": "02.Monsters/monster_1003004002/monster_1003004002",
+      "name": "장강 물뱀",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100027,
+      "prefab": "02.Monsters/monster_1003007001/monster_1003007001",
+      "name": "수로채 정예",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100028,
+      "prefab": "02.Monsters/monster_1003007002/monster_1003007002",
+      "name": "수중 해골병",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100029,
+      "prefab": "02.Monsters/monster_1003009901/monster_1003009901",
+      "name": "물귀신",
+      "talkGroupKey": "",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100030,
+      "prefab": "03.Npc/npc_chaehee/npc_chaehee",
+      "name": "채희",
+      "talkGroupKey": "chaehee_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100031,
+      "prefab": "03.Npc/npc_chaewha/npc_chaewha",
+      "name": "채화",
+      "talkGroupKey": "chaewha_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100032,
+      "prefab": "03.Npc/npc_mirror_01/npc_mirror_01",
+      "name": "천변경",
+      "talkGroupKey": "mirror_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    },
+    {
+      "id": 100033,
+      "prefab": "03.Npc/npc_munpa/npc_munpa",
+      "name": "문파 총관",
+      "talkGroupKey": "munpa_talk",
+      "defaultDialogGroupId": "",
+      "shopId": 0
+    }
+  ]
+}

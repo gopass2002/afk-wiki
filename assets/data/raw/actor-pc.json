@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 1,
+    "schema": "FBDataActorPC",
+    "sourceAsset": "FBDataActorPC",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1234,
+      "prefab": "01.Characters/01.Clothes/avatar_0rigin/avatar_origin",
+      "attackSfx": "12.Sound/SFX_PLAYER_SWING_WIND_1",
+      "statKey": "statsetattribute_A_1"
+    }
+  ]
+}

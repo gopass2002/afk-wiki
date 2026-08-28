@@ -1,0 +1,813 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 50,
+    "schema": "FBDataAttrDerivationSkill",
+    "sourceAsset": "FBDataAttrDerivationSkill",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 20240201,
+      "key": "skillderiv_20240201",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1000
+      ],
+      "rateArray": [
+        1000
+      ]
+    },
+    {
+      "id": 20240202,
+      "key": "skillderiv_20240202",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1500
+      ],
+      "rateArray": [
+        1500
+      ]
+    },
+    {
+      "id": 20240203,
+      "key": "skillderiv_20240203",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2000
+      ],
+      "rateArray": [
+        2000
+      ]
+    },
+    {
+      "id": 20240204,
+      "key": "skillderiv_20240204",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2500
+      ],
+      "rateArray": [
+        2500
+      ]
+    },
+    {
+      "id": 20240205,
+      "key": "skillderiv_20240205",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3000
+      ],
+      "rateArray": [
+        3000
+      ]
+    },
+    {
+      "id": 30240201,
+      "key": "skillderiv_30240201",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1000
+      ],
+      "rateArray": [
+        1000
+      ]
+    },
+    {
+      "id": 30240202,
+      "key": "skillderiv_30240202",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1500
+      ],
+      "rateArray": [
+        1500
+      ]
+    },
+    {
+      "id": 30240203,
+      "key": "skillderiv_30240203",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2000
+      ],
+      "rateArray": [
+        2000
+      ]
+    },
+    {
+      "id": 30240204,
+      "key": "skillderiv_30240204",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2500
+      ],
+      "rateArray": [
+        2500
+      ]
+    },
+    {
+      "id": 30240205,
+      "key": "skillderiv_30240205",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3000
+      ],
+      "rateArray": [
+        3000
+      ]
+    },
+    {
+      "id": 40240201,
+      "key": "skillderiv_40240201",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1000
+      ],
+      "rateArray": [
+        1000
+      ]
+    },
+    {
+      "id": 40240202,
+      "key": "skillderiv_40240202",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1500
+      ],
+      "rateArray": [
+        1500
+      ]
+    },
+    {
+      "id": 40240203,
+      "key": "skillderiv_40240203",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2000
+      ],
+      "rateArray": [
+        2000
+      ]
+    },
+    {
+      "id": 40240204,
+      "key": "skillderiv_40240204",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2500
+      ],
+      "rateArray": [
+        2500
+      ]
+    },
+    {
+      "id": 40240205,
+      "key": "skillderiv_40240205",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3000
+      ],
+      "rateArray": [
+        3000
+      ]
+    },
+    {
+      "id": 50240201,
+      "key": "skillderiv_50240201",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1000
+      ],
+      "rateArray": [
+        1000
+      ]
+    },
+    {
+      "id": 50240202,
+      "key": "skillderiv_50240202",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1500
+      ],
+      "rateArray": [
+        1500
+      ]
+    },
+    {
+      "id": 50240203,
+      "key": "skillderiv_50240203",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2000
+      ],
+      "rateArray": [
+        2000
+      ]
+    },
+    {
+      "id": 50240204,
+      "key": "skillderiv_50240204",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2500
+      ],
+      "rateArray": [
+        2500
+      ]
+    },
+    {
+      "id": 50240205,
+      "key": "skillderiv_50240205",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3000
+      ],
+      "rateArray": [
+        3000
+      ]
+    },
+    {
+      "id": 60240201,
+      "key": "skillderiv_60240201",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1000
+      ],
+      "rateArray": [
+        1000
+      ]
+    },
+    {
+      "id": 60240202,
+      "key": "skillderiv_60240202",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        1500
+      ],
+      "rateArray": [
+        1500
+      ]
+    },
+    {
+      "id": 60240203,
+      "key": "skillderiv_60240203",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2000
+      ],
+      "rateArray": [
+        2000
+      ]
+    },
+    {
+      "id": 60240204,
+      "key": "skillderiv_60240204",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        2500
+      ],
+      "rateArray": [
+        2500
+      ]
+    },
+    {
+      "id": 60240205,
+      "key": "skillderiv_60240205",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3000
+      ],
+      "rateArray": [
+        3000
+      ]
+    },
+    {
+      "id": 20240206,
+      "key": "skillderiv_20240206",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3500
+      ],
+      "rateArray": [
+        3500
+      ]
+    },
+    {
+      "id": 20240207,
+      "key": "skillderiv_20240207",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4000
+      ],
+      "rateArray": [
+        4000
+      ]
+    },
+    {
+      "id": 20240208,
+      "key": "skillderiv_20240208",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4500
+      ],
+      "rateArray": [
+        4500
+      ]
+    },
+    {
+      "id": 20240209,
+      "key": "skillderiv_20240209",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5000
+      ],
+      "rateArray": [
+        5000
+      ]
+    },
+    {
+      "id": 20240210,
+      "key": "skillderiv_20240210",
+      "sourceAttr": [
+        "STR"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5500
+      ],
+      "rateArray": [
+        5500
+      ]
+    },
+    {
+      "id": 30240206,
+      "key": "skillderiv_30240206",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3500
+      ],
+      "rateArray": [
+        3500
+      ]
+    },
+    {
+      "id": 30240207,
+      "key": "skillderiv_30240207",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4000
+      ],
+      "rateArray": [
+        4000
+      ]
+    },
+    {
+      "id": 30240208,
+      "key": "skillderiv_30240208",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4500
+      ],
+      "rateArray": [
+        4500
+      ]
+    },
+    {
+      "id": 30240209,
+      "key": "skillderiv_30240209",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5000
+      ],
+      "rateArray": [
+        5000
+      ]
+    },
+    {
+      "id": 30240210,
+      "key": "skillderiv_30240210",
+      "sourceAttr": [
+        "VIT"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5500
+      ],
+      "rateArray": [
+        5500
+      ]
+    },
+    {
+      "id": 40240206,
+      "key": "skillderiv_40240206",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3500
+      ],
+      "rateArray": [
+        3500
+      ]
+    },
+    {
+      "id": 40240207,
+      "key": "skillderiv_40240207",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4000
+      ],
+      "rateArray": [
+        4000
+      ]
+    },
+    {
+      "id": 40240208,
+      "key": "skillderiv_40240208",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4500
+      ],
+      "rateArray": [
+        4500
+      ]
+    },
+    {
+      "id": 40240209,
+      "key": "skillderiv_40240209",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5000
+      ],
+      "rateArray": [
+        5000
+      ]
+    },
+    {
+      "id": 40240210,
+      "key": "skillderiv_40240210",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5500
+      ],
+      "rateArray": [
+        5500
+      ]
+    },
+    {
+      "id": 50240206,
+      "key": "skillderiv_50240206",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3500
+      ],
+      "rateArray": [
+        3500
+      ]
+    },
+    {
+      "id": 50240207,
+      "key": "skillderiv_50240207",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4000
+      ],
+      "rateArray": [
+        4000
+      ]
+    },
+    {
+      "id": 50240208,
+      "key": "skillderiv_50240208",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4500
+      ],
+      "rateArray": [
+        4500
+      ]
+    },
+    {
+      "id": 50240209,
+      "key": "skillderiv_50240209",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5000
+      ],
+      "rateArray": [
+        5000
+      ]
+    },
+    {
+      "id": 50240210,
+      "key": "skillderiv_50240210",
+      "sourceAttr": [
+        "SPI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5500
+      ],
+      "rateArray": [
+        5500
+      ]
+    },
+    {
+      "id": 60240206,
+      "key": "skillderiv_60240206",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        3500
+      ],
+      "rateArray": [
+        3500
+      ]
+    },
+    {
+      "id": 60240207,
+      "key": "skillderiv_60240207",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4000
+      ],
+      "rateArray": [
+        4000
+      ]
+    },
+    {
+      "id": 60240208,
+      "key": "skillderiv_60240208",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        4500
+      ],
+      "rateArray": [
+        4500
+      ]
+    },
+    {
+      "id": 60240209,
+      "key": "skillderiv_60240209",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5000
+      ],
+      "rateArray": [
+        5000
+      ]
+    },
+    {
+      "id": 60240210,
+      "key": "skillderiv_60240210",
+      "sourceAttr": [
+        "AGI"
+      ],
+      "targetAttr": [
+        "ATK"
+      ],
+      "rate": [
+        5500
+      ],
+      "rateArray": [
+        5500
+      ]
+    }
+  ]
+}

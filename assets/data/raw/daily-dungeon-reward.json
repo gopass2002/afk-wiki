@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 7,
+    "schema": "FBDataDailyDungeonReward",
+    "sourceAsset": "FBDataDailyDungeonReward",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "rewardGroupKey": "timefield_reward_1",
+      "itemId": 1,
+      "amountMin": 100,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 2,
+      "rewardGroupKey": "timefield_reward_1",
+      "itemId": 100,
+      "amountMin": 100,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 3,
+      "rewardGroupKey": "timefield_reward_2",
+      "itemId": 1,
+      "amountMin": 30000,
+      "amountMax": 0,
+      "weight": 0
+    },
+    {
+      "id": 4,
+      "rewardGroupKey": "timefield_reward_3",
+      "itemId": 1,
+      "amountMin": 40000,
+      "amountMax": 0,
+      "weight": 0
+    },
+    {
+      "id": 5,
+      "rewardGroupKey": "timefield_reward_4",
+      "itemId": 1,
+      "amountMin": 50000,
+      "amountMax": 0,
+      "weight": 0
+    },
+    {
+      "id": 6,
+      "rewardGroupKey": "timefield_reward_5",
+      "itemId": 1,
+      "amountMin": 60000,
+      "amountMax": 0,
+      "weight": 0
+    },
+    {
+      "id": 7,
+      "rewardGroupKey": "timefield_reward_6",
+      "itemId": 1,
+      "amountMin": 70000,
+      "amountMax": 0,
+      "weight": 0
+    }
+  ]
+}

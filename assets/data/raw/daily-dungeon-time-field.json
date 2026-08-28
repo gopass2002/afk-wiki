@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 2,
+    "schema": "FBDataDailyDungeonTimeField",
+    "sourceAsset": "FBDataDailyDungeonTimeField",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 100000,
+      "nameKey": "흑랑의 소굴",
+      "titleKey": "흑랑의 소굴",
+      "descKey": "검은 늑대 무리가 터를 잡은 깊은 산속 소굴.\n밤이 되면 굶주린 울음소리가 골짜기를 뒤덮는다.",
+      "contentKey": "WolfField",
+      "rewardIcon": "10.UI/99.Resource/Bag_UI/UI_Bag_EquipIcon_Earrings",
+      "bossPortrait": "10.UI/99.Resource/DailyContent/UI_DailyBoss_002",
+      "background": "10.UI/99.Resource/DailyContent/UI_DailyBg_002",
+      "tierGroupKey": "WolfField",
+      "dailyTime": 14400000
+    },
+    {
+      "id": 100001,
+      "nameKey": "심마의 세계",
+      "titleKey": "심마의 세계",
+      "descKey": "승급의 시련이 드리운 마음의 그림자.\n붉은 혈월 아래, 내면의 마귀가 실체가 되어 덤벼든다.",
+      "contentKey": "SimmaField",
+      "rewardIcon": "10.UI/99.Resource/ItemIcon/item_special_14105000",
+      "bossPortrait": "10.UI/99.Resource/DailyContent/UI_DailyBoss_003",
+      "background": "10.UI/99.Resource/DailyContent/UI_DailyBg_003",
+      "tierGroupKey": "SimmaField",
+      "dailyTime": 3600000
+    }
+  ]
+}

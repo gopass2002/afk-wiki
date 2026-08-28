@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 5,
+    "schema": "FBDataRefineAttempt",
+    "sourceAsset": "FBDataRefineAttempt",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "cost": 1000
+    },
+    {
+      "id": 2,
+      "cost": 3000
+    },
+    {
+      "id": 3,
+      "cost": 5000
+    },
+    {
+      "id": 4,
+      "cost": 10000
+    },
+    {
+      "id": 5,
+      "cost": 20000
+    }
+  ]
+}

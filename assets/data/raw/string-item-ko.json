@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 55,
+    "schema": "FBDataStringItem",
+    "sourceAsset": "FBDataStringItem_ko",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 7,
+      "key": "GradeType_Normal",
+      "value": "범"
+    },
+    {
+      "id": 8,
+      "key": "GradeType_Rare",
+      "value": "영"
+    },
+    {
+      "id": 9,
+      "key": "GradeType_Epic",
+      "value": "현"
+    },
+    {
+      "id": 10,
+      "key": "GradeType_Unique",
+      "value": "선"
+    },
+    {
+      "id": 11,
+      "key": "GradeType_Legendary",
+      "value": "신"
+    },
+    {
+      "id": 12,
+      "key": "ItemSubType_Gold",
+      "value": "은량"
+    },
+    {
+      "id": 13,
+      "key": "ItemSubType_Gem",
+      "value": "영석"
+    },
+    {
+      "id": 14,
+      "key": "ItemSubType_Jade",
+      "value": "천옥"
+    },
+    {
+      "id": 15,
+      "key": "ItemSubType_InspirationSpark",
+      "value": "영감의 불꽃"
+    },
+    {
+      "id": 16,
+      "key": "ItemSubType_SkillTicket",
+      "value": "스킬 소환권"
+    },
+    {
+      "id": 17,
+      "key": "ItemSubType_PlayerExp",
+      "value": "경험치"
+    },
+    {
+      "id": 18,
+      "key": "ItemSubType_CookingExp",
+      "value": "미식 경험치"
+    },
+    {
+      "id": 19,
+      "key": "ItemSubType_Sword",
+      "value": "검"
+    },
+    {
+      "id": 20,
+      "key": "ItemSubType_Blade",
+      "value": "도"
+    },
+    {
+      "id": 21,
+      "key": "ItemSubType_Spear",
+      "value": "창"
+    },
+    {
+      "id": 22,
+      "key": "ItemSubType_Staff",
+      "value": "봉"
+    },
+    {
+      "id": 23,
+      "key": "ItemSubType_Hidden",
+      "value": "암기"
+    },
+    {
+      "id": 24,
+      "key": "ItemSubType_Hat",
+      "value": "모자"
+    },
+    {
+      "id": 25,
+      "key": "ItemSubType_Clothes",
+      "value": "상의"
+    },
+    {
+      "id": 26,
+      "key": "ItemSubType_Pants",
+      "value": "하의"
+    },
+    {
+      "id": 27,
+      "key": "ItemSubType_Glove",
+      "value": "장갑"
+    },
+    {
+      "id": 28,
+      "key": "ItemSubType_Shoe",
+      "value": "신발"
+    },
+    {
+      "id": 29,
+      "key": "ItemSubType_Hair",
+      "value": "머리"
+    },
+    {
+      "id": 30,
+      "key": "ItemSubType_RefineStone",
+      "value": "연마석"
+    },
+    {
+      "id": 31,
+      "key": "ItemSubType_EnhanceScroll",
+      "value": "주문서"
+    },
+    {
+      "id": 32,
+      "key": "ItemSubType_SkillBook",
+      "value": "수련서"
+    },
+    {
+      "id": 33,
+      "key": "ItemSubType_Ingredient",
+      "value": "식재료"
+    },
+    {
+      "id": 34,
+      "key": "ItemSubType_Byproduct",
+      "value": "부산물"
+    },
+    {
+      "id": 35,
+      "key": "ItemSubType_CookAtk",
+      "value": "공격력 요리"
+    },
+    {
+      "id": 36,
+      "key": "ItemSubType_CookDef",
+      "value": "방어력 요리"
+    },
+    {
+      "id": 37,
+      "key": "ItemSubType_CookStr",
+      "value": "힘 요리"
+    },
+    {
+      "id": 38,
+      "key": "ItemSubType_CookVit",
+      "value": "체력 요리"
+    },
+    {
+      "id": 39,
+      "key": "ItemSubType_CookAgi",
+      "value": "민첩 요리"
+    },
+    {
+      "id": 40,
+      "key": "ItemSubType_CookSpi",
+      "value": "내력 요리"
+    },
+    {
+      "id": 41,
+      "key": "ItemMainType_Weapon",
+      "value": "무기"
+    },
+    {
+      "id": 42,
+      "key": "ItemMainType_Armor",
+      "value": "방어구"
+    },
+    {
+      "id": 43,
+      "key": "ItemMainType_Etc",
+      "value": "기타"
+    },
+    {
+      "id": 44,
+      "key": "ItemMainType_Currency",
+      "value": "재화"
+    },
+    {
+      "id": 45,
+      "key": "ItemMainType_Appearance",
+      "value": "외형"
+    },
+    {
+      "id": 46,
+      "key": "ItemMainType_Exp",
+      "value": "경험치"
+    },
+    {
+      "id": 47,
+      "key": "ItemMainType_Cooking",
+      "value": "요리"
+    },
+    {
+      "id": 48,
+      "key": "ItemSubType_None",
+      "value": "공용"
+    },
+    {
+      "id": 49,
+      "key": "ItemMainType_Accessory",
+      "value": "장신구"
+    },
+    {
+      "id": 50,
+      "key": "ItemSubType_Potion",
+      "value": "회복약"
+    },
+    {
+      "id": 51,
+      "key": "ItemSubType_Earring",
+      "value": "귀걸이"
+    },
+    {
+      "id": 52,
+      "key": "ItemSubType_Ring",
+      "value": "반지"
+    },
+    {
+      "id": 53,
+      "key": "ItemSubType_Necklace",
+      "value": "목걸이"
+    },
+    {
+      "id": 54,
+      "key": "ItemSubType_Box",
+      "value": "상자"
+    },
+    {
+      "id": 55,
+      "key": "ItemSubType_GoldPassTicket",
+      "value": "입장 패"
+    },
+    {
+      "id": 56,
+      "key": "ItemMainType_Special",
+      "value": "특수 부위"
+    },
+    {
+      "id": 57,
+      "key": "ItemSubType_Orb",
+      "value": "수련주"
+    },
+    {
+      "id": 58,
+      "key": "ItemSubType_Shoulder",
+      "value": "견갑"
+    },
+    {
+      "id": 59,
+      "key": "ItemSubType_Belt",
+      "value": "요대"
+    },
+    {
+      "id": 60,
+      "key": "ItemSubType_Wrist",
+      "value": "호완"
+    },
+    {
+      "id": 61,
+      "key": "ItemSubType_Greave",
+      "value": "경갑"
+    }
+  ]
+}

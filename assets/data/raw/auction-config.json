@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 16,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataAuctionConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 2,
+      "key": "AuctionRegistrationFeeRatio",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "AuctionSellFeeRatio",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "AuctionDefaultSellSlot",
+      "value": [
+        "20"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "AuctionListingDurationHours",
+      "value": [
+        "48"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "AuctionListingDelayMinutes",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "AuctionSettlementKeepDays",
+      "value": [
+        "365"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "AuctionMaxTradeCount",
+      "value": [
+        "7"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "AuctionPriceBandPct",
+      "value": [
+        "50"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "AuctionAbsoluteFloorPct",
+      "value": [
+        "50"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "AuctionMinRegistrationFee",
+      "value": [
+        "5000"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "AuctionGemToGoldRate",
+      "value": [
+        "2700"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "AuctionPriceWeightPct",
+      "value": [
+        "20"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "AuctionDailyCapPct",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "AuctionSampleCount",
+      "value": [
+        "30"
+      ]
+    },
+    {
+      "id": 17,
+      "key": "AuctionMinSampleCount",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 18,
+      "key": "AuctionTrimPct",
+      "value": [
+        "10"
+      ]
+    }
+  ]
+}

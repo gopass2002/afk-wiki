@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 9,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataCookConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "CookBoxMaxCapacity",
+      "value": [
+        "100"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "CookAutoIntervalMs",
+      "value": [
+        "2000"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "CookGemPerMinute",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "CookInformationImage_1",
+      "value": []
+    },
+    {
+      "id": 5,
+      "key": "CookInformationDescription_1",
+      "value": [
+        "요리레벨은 1레벨~캐릭터레벨로 균등확률로 결정됩니다."
+      ]
+    },
+    {
+      "id": 6,
+      "key": "CookInformationImage_2",
+      "value": []
+    },
+    {
+      "id": 7,
+      "key": "CookInformationDescription_2",
+      "value": [
+        "미식 개척 레벨이 오를수록 상위 등급 요리의 등장 확률이 높아집니다."
+      ]
+    },
+    {
+      "id": 8,
+      "key": "CookTutorialQuestId",
+      "value": [
+        "16"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "CookTutorialFixedDishItemId",
+      "value": [
+        "33101000"
+      ]
+    }
+  ]
+}

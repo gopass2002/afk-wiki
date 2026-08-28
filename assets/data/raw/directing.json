@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 33,
+    "schema": "FBDataDirecting",
+    "sourceAsset": "FBDataDirecting",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "triggerType": "ZoneEnter",
+      "triggerValue": 3000003,
+      "requireQuestId": 0,
+      "instanceZoneId": 0,
+      "completeZoneId": 3000009,
+      "actionFile": "21.ActionFiles/Seojang_Intro.xml",
+      "skipable": true
+    },
+    {
+      "id": 2,
+      "triggerType": "ZoneEnter",
+      "triggerValue": 3000009,
+      "requireQuestId": 0,
+      "instanceZoneId": 0,
+      "completeZoneId": 2,
+      "actionFile": "21.ActionFiles/Seojang_01b_HuntIntro.xml",
+      "skipable": true
+    },
+    {
+      "id": 3,
+      "triggerType": "ZoneEnter",
+      "triggerValue": 2000001,
+      "requireQuestId": 0,
+      "instanceZoneId": 0,
+      "completeZoneId": 0,
+      "actionFile": "21.ActionFiles/PromotionZone.xml",
+      "skipable": true
+    },
+    {
+      "id": 4,
+      "triggerType": "QuestAccept",
+      "triggerValue": 43,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000010,
+      "completeZoneId": 3000004,
+      "actionFile": "21.ActionFiles/Seojang_Promotion.xml",
+      "skipable": true
+    },
+    {
+      "id": 5,
+      "triggerType": "ZoneEnter",
+      "triggerValue": 3000004,
+      "requireQuestId": 0,
+      "instanceZoneId": 0,
+      "completeZoneId": 1,
+      "actionFile": "21.ActionFiles/Seojang_Final.xml",
+      "skipable": true
+    },
+    {
+      "id": 6,
+      "triggerType": "QuestAccept",
+      "triggerValue": 44,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000004,
+      "completeZoneId": 1001,
+      "actionFile": "21.ActionFiles/JungwonAdvance.xml",
+      "skipable": false
+    },
+    {
+      "id": 7,
+      "triggerType": "QuestAccept",
+      "triggerValue": 45,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000001,
+      "completeZoneId": 1001,
+      "actionFile": "21.ActionFiles/Whasan_Arrival.xml",
+      "skipable": true
+    },
+    {
+      "id": 8,
+      "triggerType": "QuestAccept",
+      "triggerValue": 84,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000001,
+      "completeZoneId": 2001,
+      "actionFile": "21.ActionFiles/Whasan_Finale.xml",
+      "skipable": true
+    },
+    {
+      "id": 9,
+      "triggerType": "QuestAccept",
+      "triggerValue": 11,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000006,
+      "completeZoneId": 3,
+      "actionFile": "21.ActionFiles/Seojang_WeaponLesson.xml",
+      "skipable": true
+    },
+    {
+      "id": 10,
+      "triggerType": "QuestAccept",
+      "triggerValue": 30,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000007,
+      "completeZoneId": 5,
+      "actionFile": "21.ActionFiles/Dokgo_TestMid_Start.xml",
+      "skipable": true
+    },
+    {
+      "id": 11,
+      "triggerType": "QuestAccept",
+      "triggerValue": 31,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000007,
+      "completeZoneId": 5,
+      "actionFile": "21.ActionFiles/Dokgo_TestMid_End.xml",
+      "skipable": true
+    },
+    {
+      "id": 12,
+      "triggerType": "QuestAccept",
+      "triggerValue": 40,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000008,
+      "completeZoneId": 8,
+      "actionFile": "21.ActionFiles/Dokgo_TestFinal_Start.xml",
+      "skipable": true
+    },
+    {
+      "id": 13,
+      "triggerType": "QuestAccept",
+      "triggerValue": 41,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000008,
+      "completeZoneId": 8,
+      "actionFile": "21.ActionFiles/Dokgo_TestFinal_End.xml",
+      "skipable": true
+    },
+    {
+      "id": 14,
+      "triggerType": "QuestAccept",
+      "triggerValue": 87,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000002,
+      "completeZoneId": 1004,
+      "actionFile": "21.ActionFiles/Jongnam_SpoonGrandpa.xml",
+      "skipable": true
+    },
+    {
+      "id": 15,
+      "triggerType": "QuestAccept",
+      "triggerValue": 433,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000011,
+      "completeZoneId": 1009,
+      "actionFile": "21.ActionFiles/Whasan_Yeongji.xml",
+      "skipable": true
+    },
+    {
+      "id": 16,
+      "triggerType": "QuestAccept",
+      "triggerValue": 434,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000017,
+      "completeZoneId": 2009,
+      "actionFile": "21.ActionFiles/Sacheon_Farewell.xml",
+      "skipable": true
+    },
+    {
+      "id": 17,
+      "triggerType": "QuestAccept",
+      "triggerValue": 435,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000013,
+      "completeZoneId": 3006,
+      "actionFile": "21.ActionFiles/Jangang_Geumrin.xml",
+      "skipable": true
+    },
+    {
+      "id": 18,
+      "triggerType": "QuestAccept",
+      "triggerValue": 436,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000016,
+      "completeZoneId": 2004,
+      "actionFile": "21.ActionFiles/Sacheon_WolfCall.xml",
+      "skipable": true
+    },
+    {
+      "id": 19,
+      "triggerType": "QuestAccept",
+      "triggerValue": 201,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000015,
+      "completeZoneId": 2001,
+      "actionFile": "21.ActionFiles/Sacheon_Sogaju.xml",
+      "skipable": true
+    },
+    {
+      "id": 20,
+      "triggerType": "QuestAccept",
+      "triggerValue": 215,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000016,
+      "completeZoneId": 2004,
+      "actionFile": "21.ActionFiles/Sacheon_Gwangpungdo.xml",
+      "skipable": true
+    },
+    {
+      "id": 21,
+      "triggerType": "QuestAccept",
+      "triggerValue": 229,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000017,
+      "completeZoneId": 2007,
+      "actionFile": "21.ActionFiles/Sacheon_Daesojeo.xml",
+      "skipable": true
+    },
+    {
+      "id": 22,
+      "triggerType": "QuestAccept",
+      "triggerValue": 241,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000017,
+      "completeZoneId": 2009,
+      "actionFile": "21.ActionFiles/Sacheon_FirstStep.xml",
+      "skipable": true
+    },
+    {
+      "id": 23,
+      "triggerType": "QuestAccept",
+      "triggerValue": 213,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000015,
+      "completeZoneId": 2003,
+      "actionFile": "21.ActionFiles/Sacheon_MobMushroom.xml",
+      "skipable": true
+    },
+    {
+      "id": 24,
+      "triggerType": "QuestAccept",
+      "triggerValue": 227,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000016,
+      "completeZoneId": 2006,
+      "actionFile": "21.ActionFiles/Sacheon_MobFrog.xml",
+      "skipable": true
+    },
+    {
+      "id": 25,
+      "triggerType": "QuestAccept",
+      "triggerValue": 230,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000017,
+      "completeZoneId": 2007,
+      "actionFile": "21.ActionFiles/Sacheon_MobPuppet.xml",
+      "skipable": true
+    },
+    {
+      "id": 26,
+      "triggerType": "QuestAccept",
+      "triggerValue": 437,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000018,
+      "completeZoneId": 2004,
+      "actionFile": "21.ActionFiles/Gangnam_Heukrang.xml",
+      "skipable": true
+    },
+    {
+      "id": 27,
+      "triggerType": "QuestAccept",
+      "triggerValue": 302,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000019,
+      "completeZoneId": 3001,
+      "actionFile": "21.ActionFiles/Gangnam_MobDock.xml",
+      "skipable": true
+    },
+    {
+      "id": 28,
+      "triggerType": "QuestAccept",
+      "triggerValue": 315,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000020,
+      "completeZoneId": 3004,
+      "actionFile": "21.ActionFiles/Gangnam_MobSnake.xml",
+      "skipable": true
+    },
+    {
+      "id": 29,
+      "triggerType": "QuestAccept",
+      "triggerValue": 329,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000021,
+      "completeZoneId": 3007,
+      "actionFile": "21.ActionFiles/Gangnam_MobBone.xml",
+      "skipable": true
+    },
+    {
+      "id": 30,
+      "triggerType": "QuestAccept",
+      "triggerValue": 301,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000019,
+      "completeZoneId": 3001,
+      "actionFile": "21.ActionFiles/Gangnam_FirstMeet.xml",
+      "skipable": true
+    },
+    {
+      "id": 31,
+      "triggerType": "QuestAccept",
+      "triggerValue": 325,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000020,
+      "completeZoneId": 3006,
+      "actionFile": "21.ActionFiles/Gangnam_Duel.xml",
+      "skipable": true
+    },
+    {
+      "id": 32,
+      "triggerType": "QuestAccept",
+      "triggerValue": 328,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000021,
+      "completeZoneId": 3007,
+      "actionFile": "21.ActionFiles/Gangnam_Dokyoung.xml",
+      "skipable": true
+    },
+    {
+      "id": 33,
+      "triggerType": "QuestAccept",
+      "triggerValue": 339,
+      "requireQuestId": 0,
+      "instanceZoneId": 3000021,
+      "completeZoneId": 3009,
+      "actionFile": "21.ActionFiles/Gangnam_Ghost.xml",
+      "skipable": true
+    }
+  ]
+}

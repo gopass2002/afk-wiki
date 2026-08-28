@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 25,
+    "schema": "FBDataAppearanceSaveExpansion",
+    "sourceAsset": "FBDataAppearanceSaveExpansion",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 2,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 3,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 4,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 5,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 6,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 7,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 8,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 9,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 10,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 11,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 12,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 13,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 14,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 15,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 16,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 17,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 18,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 19,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 20,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 21,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 22,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 23,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 24,
+      "currencyType": "Gem",
+      "amount": 1500
+    },
+    {
+      "id": 25,
+      "currencyType": "Gem",
+      "amount": 1500
+    }
+  ]
+}

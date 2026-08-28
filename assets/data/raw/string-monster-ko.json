@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 101,
+    "schema": "FBDataStringMonster",
+    "sourceAsset": "FBDataStringMonster_ko",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 19,
+      "key": "Monster_Name_90001",
+      "value": "내면의 허상"
+    },
+    {
+      "id": 20,
+      "key": "Monster_Name_90011",
+      "value": "내면의 심마"
+    },
+    {
+      "id": 21,
+      "key": "Monster_Name_90012",
+      "value": "내면의 욕망"
+    },
+    {
+      "id": 22,
+      "key": "Monster_Name_90013",
+      "value": "내면의 분노"
+    },
+    {
+      "id": 23,
+      "key": "Monster_Name_90014",
+      "value": "내면의 절망"
+    },
+    {
+      "id": 24,
+      "key": "Monster_Name_90015",
+      "value": "내면의 광기"
+    },
+    {
+      "id": 25,
+      "key": "Monster_Name_90016",
+      "value": "내면의 오만"
+    },
+    {
+      "id": 26,
+      "key": "Monster_Name_90017",
+      "value": "내면의 집착"
+    },
+    {
+      "id": 27,
+      "key": "Monster_Name_90018",
+      "value": "내면의 의심"
+    },
+    {
+      "id": 28,
+      "key": "Monster_Name_90019",
+      "value": "내면의 공포"
+    },
+    {
+      "id": 29,
+      "key": "Monster_Name_90020",
+      "value": "내면의 탐욕"
+    },
+    {
+      "id": 30,
+      "key": "Monster_Name_90021",
+      "value": "내면의 미련"
+    },
+    {
+      "id": 31,
+      "key": "Monster_Name_90022",
+      "value": "내면의 허무"
+    },
+    {
+      "id": 32,
+      "key": "Monster_Name_90023",
+      "value": "내면의 아집"
+    },
+    {
+      "id": 33,
+      "key": "Monster_Name_90024",
+      "value": "내면의 무명"
+    },
+    {
+      "id": 34,
+      "key": "Monster_Name_90025",
+      "value": "내면의 심연"
+    },
+    {
+      "id": 35,
+      "key": "Monster_Name_90026",
+      "value": "또 하나의 나"
+    },
+    {
+      "id": 36,
+      "key": "Monster_Name_90027",
+      "value": "진정한 나"
+    },
+    {
+      "id": 1000002001,
+      "key": "Monster_Name_1000002001",
+      "value": "야생 멧돼지"
+    },
+    {
+      "id": 1000002002,
+      "key": "Monster_Name_1000002002",
+      "value": "야생 여우"
+    },
+    {
+      "id": 1000003001,
+      "key": "Monster_Name_1000003001",
+      "value": "힘센 야생 멧돼지"
+    },
+    {
+      "id": 1000003002,
+      "key": "Monster_Name_1000003002",
+      "value": "힘센 야생 여우"
+    },
+    {
+      "id": 1000003901,
+      "key": "Monster_Name_1000003901",
+      "value": "대형 멧돼지"
+    },
+    {
+      "id": 1000004001,
+      "key": "Monster_Name_1000004001",
+      "value": "야생 너구리"
+    },
+    {
+      "id": 1000004002,
+      "key": "Monster_Name_1000004002",
+      "value": "계곡 독두꺼비"
+    },
+    {
+      "id": 1000005001,
+      "key": "Monster_Name_1000005001",
+      "value": "힘센 야생 너구리"
+    },
+    {
+      "id": 1000005002,
+      "key": "Monster_Name_1000005002",
+      "value": "힘센 계곡 독두꺼비"
+    },
+    {
+      "id": 1000005901,
+      "key": "Monster_Name_1000005901",
+      "value": "심산 흑곰"
+    },
+    {
+      "id": 1000006001,
+      "key": "Monster_Name_1000006001",
+      "value": "산적 졸개"
+    },
+    {
+      "id": 1000006002,
+      "key": "Monster_Name_1000006002",
+      "value": "산적 궁수"
+    },
+    {
+      "id": 1000007001,
+      "key": "Monster_Name_1000007001",
+      "value": "노련한 산적 졸개"
+    },
+    {
+      "id": 1000007002,
+      "key": "Monster_Name_1000007002",
+      "value": "노련한 산적 궁수"
+    },
+    {
+      "id": 1000008001,
+      "key": "Monster_Name_1000008001",
+      "value": "악랄한 산적 졸개"
+    },
+    {
+      "id": 1000008002,
+      "key": "Monster_Name_1000008002",
+      "value": "악랄한 산적 궁수"
+    },
+    {
+      "id": 1000008901,
+      "key": "Monster_Name_1000008901",
+      "value": "심산 맹호"
+    },
+    {
+      "id": 1001001001,
+      "key": "Monster_Name_1001001001",
+      "value": "산적 졸개"
+    },
+    {
+      "id": 1001001002,
+      "key": "Monster_Name_1001001002",
+      "value": "산적 궁수"
+    },
+    {
+      "id": 1001002001,
+      "key": "Monster_Name_1001002001",
+      "value": "노련한 산적 졸개"
+    },
+    {
+      "id": 1001002002,
+      "key": "Monster_Name_1001002002",
+      "value": "노련한 산적 궁수"
+    },
+    {
+      "id": 1001003001,
+      "key": "Monster_Name_1001003001",
+      "value": "악랄한 산적 졸개"
+    },
+    {
+      "id": 1001003002,
+      "key": "Monster_Name_1001003002",
+      "value": "악랄한 산적 궁수"
+    },
+    {
+      "id": 1001003901,
+      "key": "Monster_Name_1001003901",
+      "value": "산적 두령"
+    },
+    {
+      "id": 1001004001,
+      "key": "Monster_Name_1001004001",
+      "value": "산적 도검병"
+    },
+    {
+      "id": 1001004002,
+      "key": "Monster_Name_1001004002",
+      "value": "종남파 순찰 제자"
+    },
+    {
+      "id": 1001005001,
+      "key": "Monster_Name_1001005001",
+      "value": "노련한 산적 도검병"
+    },
+    {
+      "id": 1001005002,
+      "key": "Monster_Name_1001005002",
+      "value": "노련한 종남파 순찰 제자"
+    },
+    {
+      "id": 1001006001,
+      "key": "Monster_Name_1001006001",
+      "value": "악랄한 산적 도검병"
+    },
+    {
+      "id": 1001006002,
+      "key": "Monster_Name_1001006002",
+      "value": "악랄한 종남파 순찰 제자"
+    },
+    {
+      "id": 1001006901,
+      "key": "Monster_Name_1001006901",
+      "value": "산적 군사"
+    },
+    {
+      "id": 1001007001,
+      "key": "Monster_Name_1001007001",
+      "value": "산적 정예"
+    },
+    {
+      "id": 1001007002,
+      "key": "Monster_Name_1001007002",
+      "value": "화산파 외문 제자"
+    },
+    {
+      "id": 1001008001,
+      "key": "Monster_Name_1001008001",
+      "value": "노련한 산적 정예"
+    },
+    {
+      "id": 1001008002,
+      "key": "Monster_Name_1001008002",
+      "value": "노련한 화산파 외문 제자"
+    },
+    {
+      "id": 1001009001,
+      "key": "Monster_Name_1001009001",
+      "value": "악랄한 산적 정예"
+    },
+    {
+      "id": 1001009002,
+      "key": "Monster_Name_1001009002",
+      "value": "악랄한 화산파 외문 제자"
+    },
+    {
+      "id": 1001009901,
+      "key": "Monster_Name_1001009901",
+      "value": "흑풍채 채주"
+    },
+    {
+      "id": 1002001001,
+      "key": "Monster_Name_1002001001",
+      "value": "독충"
+    },
+    {
+      "id": 1002001002,
+      "key": "Monster_Name_1002001002",
+      "value": "사천 독사"
+    },
+    {
+      "id": 1002002001,
+      "key": "Monster_Name_1002002001",
+      "value": "힘센 독충"
+    },
+    {
+      "id": 1002002002,
+      "key": "Monster_Name_1002002002",
+      "value": "힘센 사천 독사"
+    },
+    {
+      "id": 1002003001,
+      "key": "Monster_Name_1002003001",
+      "value": "사나운 독충"
+    },
+    {
+      "id": 1002003002,
+      "key": "Monster_Name_1002003002",
+      "value": "사나운 사천 독사"
+    },
+    {
+      "id": 1002003901,
+      "key": "Monster_Name_1002003901",
+      "value": "독버섯 정령"
+    },
+    {
+      "id": 1002004001,
+      "key": "Monster_Name_1002004001",
+      "value": "대형 독충"
+    },
+    {
+      "id": 1002004002,
+      "key": "Monster_Name_1002004002",
+      "value": "늪지 악어"
+    },
+    {
+      "id": 1002005001,
+      "key": "Monster_Name_1002005001",
+      "value": "힘센 대형 독충"
+    },
+    {
+      "id": 1002005002,
+      "key": "Monster_Name_1002005002",
+      "value": "힘센 늪지 악어"
+    },
+    {
+      "id": 1002006001,
+      "key": "Monster_Name_1002006001",
+      "value": "사나운 대형 독충"
+    },
+    {
+      "id": 1002006002,
+      "key": "Monster_Name_1002006002",
+      "value": "사나운 늪지 악어"
+    },
+    {
+      "id": 1002006901,
+      "key": "Monster_Name_1002006901",
+      "value": "독개구리왕"
+    },
+    {
+      "id": 1002007001,
+      "key": "Monster_Name_1002007001",
+      "value": "당가 시험용 독인형"
+    },
+    {
+      "id": 1002007002,
+      "key": "Monster_Name_1002007002",
+      "value": "독사왕"
+    },
+    {
+      "id": 1002008001,
+      "key": "Monster_Name_1002008001",
+      "value": "노련한 당가 시험용 독인형"
+    },
+    {
+      "id": 1002008002,
+      "key": "Monster_Name_1002008002",
+      "value": "힘센 독사왕"
+    },
+    {
+      "id": 1002009001,
+      "key": "Monster_Name_1002009001",
+      "value": "악랄한 당가 시험용 독인형"
+    },
+    {
+      "id": 1002009002,
+      "key": "Monster_Name_1002009002",
+      "value": "사나운 독사왕"
+    },
+    {
+      "id": 1002009901,
+      "key": "Monster_Name_1002009901",
+      "value": "독늪 골렘"
+    },
+    {
+      "id": 1003001001,
+      "key": "Monster_Name_1003001001",
+      "value": "수상 도적"
+    },
+    {
+      "id": 1003001002,
+      "key": "Monster_Name_1003001002",
+      "value": "장강 거대 게"
+    },
+    {
+      "id": 1003002001,
+      "key": "Monster_Name_1003002001",
+      "value": "노련한 수상 도적"
+    },
+    {
+      "id": 1003002002,
+      "key": "Monster_Name_1003002002",
+      "value": "힘센 장강 거대 게"
+    },
+    {
+      "id": 1003003001,
+      "key": "Monster_Name_1003003001",
+      "value": "악랄한 수상 도적"
+    },
+    {
+      "id": 1003003002,
+      "key": "Monster_Name_1003003002",
+      "value": "사나운 장강 거대 게"
+    },
+    {
+      "id": 1003003901,
+      "key": "Monster_Name_1003003901",
+      "value": "부두 두목"
+    },
+    {
+      "id": 1003004001,
+      "key": "Monster_Name_1003004001",
+      "value": "수로채 하수인"
+    },
+    {
+      "id": 1003004002,
+      "key": "Monster_Name_1003004002",
+      "value": "장강 물뱀"
+    },
+    {
+      "id": 1003005001,
+      "key": "Monster_Name_1003005001",
+      "value": "노련한 수로채 하수인"
+    },
+    {
+      "id": 1003005002,
+      "key": "Monster_Name_1003005002",
+      "value": "힘센 장강 물뱀"
+    },
+    {
+      "id": 1003006001,
+      "key": "Monster_Name_1003006001",
+      "value": "악랄한 수로채 하수인"
+    },
+    {
+      "id": 1003006002,
+      "key": "Monster_Name_1003006002",
+      "value": "사나운 장강 물뱀"
+    },
+    {
+      "id": 1003006901,
+      "key": "Monster_Name_1003006901",
+      "value": "수로채 여두목"
+    },
+    {
+      "id": 1003007001,
+      "key": "Monster_Name_1003007001",
+      "value": "수로채 정예"
+    },
+    {
+      "id": 1003007002,
+      "key": "Monster_Name_1003007002",
+      "value": "수중 해골병"
+    },
+    {
+      "id": 1003008001,
+      "key": "Monster_Name_1003008001",
+      "value": "노련한 수로채 정예"
+    },
+    {
+      "id": 1003008002,
+      "key": "Monster_Name_1003008002",
+      "value": "노련한 수중 해골병"
+    },
+    {
+      "id": 1003009001,
+      "key": "Monster_Name_1003009001",
+      "value": "악랄한 수로채 정예"
+    },
+    {
+      "id": 1003009002,
+      "key": "Monster_Name_1003009002",
+      "value": "악랄한 수중 해골병"
+    },
+    {
+      "id": 1003009901,
+      "key": "Monster_Name_1003009901",
+      "value": "물귀신"
+    },
+    {
+      "id": 2001004901,
+      "key": "Monster_Name_2001004901",
+      "value": "흑랑"
+    },
+    {
+      "id": 2001004902,
+      "key": "Monster_Name_2001004902",
+      "value": "흑랑 우두머리"
+    },
+    {
+      "id": 2001001901,
+      "key": "Monster_Name_2001001901",
+      "value": "숟가락 할배"
+    }
+  ]
+}

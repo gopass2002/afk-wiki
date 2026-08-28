@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 6,
+    "schema": "FBDataGachaProduct",
+    "sourceAsset": "FBDataGachaProduct",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "gachaType": "Skill",
+      "nameKey": "SkillGacha_x1",
+      "groupListKey": "SkillGacha_Normal",
+      "pullCount": 1,
+      "costItemId": 10,
+      "costAmount": 1
+    },
+    {
+      "id": 2,
+      "gachaType": "Skill",
+      "nameKey": "SkillGacha_x10",
+      "groupListKey": "SkillGacha_Normal",
+      "pullCount": 10,
+      "costItemId": 10,
+      "costAmount": 10
+    },
+    {
+      "id": 3,
+      "gachaType": "Skill",
+      "nameKey": "SkillGacha_x1",
+      "groupListKey": "SkillGacha_Normal",
+      "pullCount": 1,
+      "costItemId": 2,
+      "costAmount": 30
+    },
+    {
+      "id": 4,
+      "gachaType": "Skill",
+      "nameKey": "SkillGacha_x10",
+      "groupListKey": "SkillGacha_Normal",
+      "pullCount": 10,
+      "costItemId": 2,
+      "costAmount": 300
+    },
+    {
+      "id": 5,
+      "gachaType": "Appearance",
+      "nameKey": "HairGacha_x1",
+      "groupListKey": "HairGacha_Normal",
+      "pullCount": 1,
+      "costItemId": 11,
+      "costAmount": 1
+    },
+    {
+      "id": 6,
+      "gachaType": "Appearance",
+      "nameKey": "FaceGacha_x1",
+      "groupListKey": "FaceGacha_Normal",
+      "pullCount": 1,
+      "costItemId": 12,
+      "costAmount": 1
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 160,
+    "schema": "FBDataEnhanceMaterial",
+    "sourceAsset": "FBDataEnhanceMaterial",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "Enhance_Weapon_1",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "groupKey": "Enhance_Weapon_1",
+      "itemId": 1,
+      "amount": 500
+    },
+    {
+      "id": 3,
+      "groupKey": "Enhance_Weapon_2",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "groupKey": "Enhance_Weapon_2",
+      "itemId": 1,
+      "amount": 1000
+    },
+    {
+      "id": 5,
+      "groupKey": "Enhance_Weapon_3",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "groupKey": "Enhance_Weapon_3",
+      "itemId": 1,
+      "amount": 1800
+    },
+    {
+      "id": 7,
+      "groupKey": "Enhance_Weapon_4",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 8,
+      "groupKey": "Enhance_Weapon_4",
+      "itemId": 1,
+      "amount": 3000
+    },
+    {
+      "id": 9,
+      "groupKey": "Enhance_Weapon_5",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 10,
+      "groupKey": "Enhance_Weapon_5",
+      "itemId": 1,
+      "amount": 5000
+    },
+    {
+      "id": 11,
+      "groupKey": "Enhance_Weapon_6",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 12,
+      "groupKey": "Enhance_Weapon_6",
+      "itemId": 1,
+      "amount": 7500
+    },
+    {
+      "id": 13,
+      "groupKey": "Enhance_Weapon_7",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 14,
+      "groupKey": "Enhance_Weapon_7",
+      "itemId": 1,
+      "amount": 11000
+    },
+    {
+      "id": 15,
+      "groupKey": "Enhance_Weapon_8",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 16,
+      "groupKey": "Enhance_Weapon_8",
+      "itemId": 1,
+      "amount": 16000
+    },
+    {
+      "id": 17,
+      "groupKey": "Enhance_Weapon_9",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 18,
+      "groupKey": "Enhance_Weapon_9",
+      "itemId": 1,
+      "amount": 22000
+    },
+    {
+      "id": 19,
+      "groupKey": "Enhance_Weapon_10",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 20,
+      "groupKey": "Enhance_Weapon_10",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 21,
+      "groupKey": "Enhance_Weapon_11",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 22,
+      "groupKey": "Enhance_Weapon_11",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 23,
+      "groupKey": "Enhance_Weapon_12",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 24,
+      "groupKey": "Enhance_Weapon_12",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 25,
+      "groupKey": "Enhance_Weapon_13",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 26,
+      "groupKey": "Enhance_Weapon_13",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 27,
+      "groupKey": "Enhance_Weapon_14",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 28,
+      "groupKey": "Enhance_Weapon_14",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 29,
+      "groupKey": "Enhance_Weapon_15",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 30,
+      "groupKey": "Enhance_Weapon_15",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 51,
+      "groupKey": "Enhance_Armor_1",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 52,
+      "groupKey": "Enhance_Armor_1",
+      "itemId": 1,
+      "amount": 500
+    },
+    {
+      "id": 53,
+      "groupKey": "Enhance_Armor_2",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 54,
+      "groupKey": "Enhance_Armor_2",
+      "itemId": 1,
+      "amount": 1000
+    },
+    {
+      "id": 55,
+      "groupKey": "Enhance_Armor_3",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 56,
+      "groupKey": "Enhance_Armor_3",
+      "itemId": 1,
+      "amount": 1800
+    },
+    {
+      "id": 57,
+      "groupKey": "Enhance_Armor_4",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 58,
+      "groupKey": "Enhance_Armor_4",
+      "itemId": 1,
+      "amount": 3000
+    },
+    {
+      "id": 59,
+      "groupKey": "Enhance_Armor_5",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 60,
+      "groupKey": "Enhance_Armor_5",
+      "itemId": 1,
+      "amount": 5000
+    },
+    {
+      "id": 61,
+      "groupKey": "Enhance_Armor_6",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 62,
+      "groupKey": "Enhance_Armor_6",
+      "itemId": 1,
+      "amount": 7500
+    },
+    {
+      "id": 63,
+      "groupKey": "Enhance_Armor_7",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 64,
+      "groupKey": "Enhance_Armor_7",
+      "itemId": 1,
+      "amount": 11000
+    },
+    {
+      "id": 65,
+      "groupKey": "Enhance_Armor_8",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 66,
+      "groupKey": "Enhance_Armor_8",
+      "itemId": 1,
+      "amount": 16000
+    },
+    {
+      "id": 67,
+      "groupKey": "Enhance_Armor_9",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 68,
+      "groupKey": "Enhance_Armor_9",
+      "itemId": 1,
+      "amount": 22000
+    },
+    {
+      "id": 69,
+      "groupKey": "Enhance_Armor_10",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 70,
+      "groupKey": "Enhance_Armor_10",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 71,
+      "groupKey": "Enhance_Armor_11",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 72,
+      "groupKey": "Enhance_Armor_11",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 73,
+      "groupKey": "Enhance_Armor_12",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 74,
+      "groupKey": "Enhance_Armor_12",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 75,
+      "groupKey": "Enhance_Armor_13",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 76,
+      "groupKey": "Enhance_Armor_13",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 77,
+      "groupKey": "Enhance_Armor_14",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 78,
+      "groupKey": "Enhance_Armor_14",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 79,
+      "groupKey": "Enhance_Armor_15",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 80,
+      "groupKey": "Enhance_Armor_15",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 81,
+      "groupKey": "Enhance_Accessory_1",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 82,
+      "groupKey": "Enhance_Accessory_1",
+      "itemId": 1,
+      "amount": 500
+    },
+    {
+      "id": 83,
+      "groupKey": "Enhance_Accessory_2",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 84,
+      "groupKey": "Enhance_Accessory_2",
+      "itemId": 1,
+      "amount": 1000
+    },
+    {
+      "id": 85,
+      "groupKey": "Enhance_Accessory_3",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 86,
+      "groupKey": "Enhance_Accessory_3",
+      "itemId": 1,
+      "amount": 1800
+    },
+    {
+      "id": 87,
+      "groupKey": "Enhance_Accessory_4",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 88,
+      "groupKey": "Enhance_Accessory_4",
+      "itemId": 1,
+      "amount": 3000
+    },
+    {
+      "id": 89,
+      "groupKey": "Enhance_Accessory_5",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 90,
+      "groupKey": "Enhance_Accessory_5",
+      "itemId": 1,
+      "amount": 5000
+    },
+    {
+      "id": 91,
+      "groupKey": "Enhance_Accessory_6",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 92,
+      "groupKey": "Enhance_Accessory_6",
+      "itemId": 1,
+      "amount": 7500
+    },
+    {
+      "id": 93,
+      "groupKey": "Enhance_Accessory_7",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 94,
+      "groupKey": "Enhance_Accessory_7",
+      "itemId": 1,
+      "amount": 11000
+    },
+    {
+      "id": 95,
+      "groupKey": "Enhance_Accessory_8",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 96,
+      "groupKey": "Enhance_Accessory_8",
+      "itemId": 1,
+      "amount": 16000
+    },
+    {
+      "id": 97,
+      "groupKey": "Enhance_Accessory_9",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 98,
+      "groupKey": "Enhance_Accessory_9",
+      "itemId": 1,
+      "amount": 22000
+    },
+    {
+      "id": 99,
+      "groupKey": "Enhance_Accessory_10",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 100,
+      "groupKey": "Enhance_Accessory_10",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 101,
+      "groupKey": "Enhance_Accessory_11",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 102,
+      "groupKey": "Enhance_Accessory_11",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 103,
+      "groupKey": "Enhance_Accessory_12",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 104,
+      "groupKey": "Enhance_Accessory_12",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 105,
+      "groupKey": "Enhance_Accessory_13",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 106,
+      "groupKey": "Enhance_Accessory_13",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 107,
+      "groupKey": "Enhance_Accessory_14",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 108,
+      "groupKey": "Enhance_Accessory_14",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 109,
+      "groupKey": "Enhance_Accessory_15",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 110,
+      "groupKey": "Enhance_Accessory_15",
+      "itemId": 1,
+      "amount": 30000
+    },
+    {
+      "id": 111,
+      "groupKey": "Enhance_Weapon_16",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 112,
+      "groupKey": "Enhance_Weapon_16",
+      "itemId": 1,
+      "amount": 50000
+    },
+    {
+      "id": 113,
+      "groupKey": "Enhance_Weapon_17",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 114,
+      "groupKey": "Enhance_Weapon_17",
+      "itemId": 1,
+      "amount": 70000
+    },
+    {
+      "id": 115,
+      "groupKey": "Enhance_Weapon_18",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 116,
+      "groupKey": "Enhance_Weapon_18",
+      "itemId": 1,
+      "amount": 100000
+    },
+    {
+      "id": 117,
+      "groupKey": "Enhance_Weapon_19",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 118,
+      "groupKey": "Enhance_Weapon_19",
+      "itemId": 1,
+      "amount": 200000
+    },
+    {
+      "id": 119,
+      "groupKey": "Enhance_Weapon_20",
+      "itemId": 91000000,
+      "amount": 1
+    },
+    {
+      "id": 120,
+      "groupKey": "Enhance_Weapon_20",
+      "itemId": 1,
+      "amount": 300000
+    },
+    {
+      "id": 121,
+      "groupKey": "Enhance_Armor_16",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 122,
+      "groupKey": "Enhance_Armor_16",
+      "itemId": 1,
+      "amount": 50000
+    },
+    {
+      "id": 123,
+      "groupKey": "Enhance_Armor_17",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 124,
+      "groupKey": "Enhance_Armor_17",
+      "itemId": 1,
+      "amount": 70000
+    },
+    {
+      "id": 125,
+      "groupKey": "Enhance_Armor_18",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 126,
+      "groupKey": "Enhance_Armor_18",
+      "itemId": 1,
+      "amount": 100000
+    },
+    {
+      "id": 127,
+      "groupKey": "Enhance_Armor_19",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 128,
+      "groupKey": "Enhance_Armor_19",
+      "itemId": 1,
+      "amount": 200000
+    },
+    {
+      "id": 129,
+      "groupKey": "Enhance_Armor_20",
+      "itemId": 91000001,
+      "amount": 1
+    },
+    {
+      "id": 130,
+      "groupKey": "Enhance_Armor_20",
+      "itemId": 1,
+      "amount": 300000
+    },
+    {
+      "id": 131,
+      "groupKey": "Enhance_Accessory_16",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 132,
+      "groupKey": "Enhance_Accessory_16",
+      "itemId": 1,
+      "amount": 50000
+    },
+    {
+      "id": 133,
+      "groupKey": "Enhance_Accessory_17",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 134,
+      "groupKey": "Enhance_Accessory_17",
+      "itemId": 1,
+      "amount": 70000
+    },
+    {
+      "id": 135,
+      "groupKey": "Enhance_Accessory_18",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 136,
+      "groupKey": "Enhance_Accessory_18",
+      "itemId": 1,
+      "amount": 100000
+    },
+    {
+      "id": 137,
+      "groupKey": "Enhance_Accessory_19",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 138,
+      "groupKey": "Enhance_Accessory_19",
+      "itemId": 1,
+      "amount": 200000
+    },
+    {
+      "id": 139,
+      "groupKey": "Enhance_Accessory_20",
+      "itemId": 91000002,
+      "amount": 1
+    },
+    {
+      "id": 140,
+      "groupKey": "Enhance_Accessory_20",
+      "itemId": 1,
+      "amount": 300000
+    },
+    {
+      "id": 141,
+      "groupKey": "Enhance_Special_1",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 142,
+      "groupKey": "Enhance_Special_1",
+      "itemId": 1,
+      "amount": 1500
+    },
+    {
+      "id": 143,
+      "groupKey": "Enhance_Special_2",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 144,
+      "groupKey": "Enhance_Special_2",
+      "itemId": 1,
+      "amount": 3000
+    },
+    {
+      "id": 145,
+      "groupKey": "Enhance_Special_3",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 146,
+      "groupKey": "Enhance_Special_3",
+      "itemId": 1,
+      "amount": 5400
+    },
+    {
+      "id": 147,
+      "groupKey": "Enhance_Special_4",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 148,
+      "groupKey": "Enhance_Special_4",
+      "itemId": 1,
+      "amount": 9000
+    },
+    {
+      "id": 149,
+      "groupKey": "Enhance_Special_5",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 150,
+      "groupKey": "Enhance_Special_5",
+      "itemId": 1,
+      "amount": 15000
+    },
+    {
+      "id": 151,
+      "groupKey": "Enhance_Special_6",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 152,
+      "groupKey": "Enhance_Special_6",
+      "itemId": 1,
+      "amount": 22500
+    },
+    {
+      "id": 153,
+      "groupKey": "Enhance_Special_7",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 154,
+      "groupKey": "Enhance_Special_7",
+      "itemId": 1,
+      "amount": 33000
+    },
+    {
+      "id": 155,
+      "groupKey": "Enhance_Special_8",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 156,
+      "groupKey": "Enhance_Special_8",
+      "itemId": 1,
+      "amount": 48000
+    },
+    {
+      "id": 157,
+      "groupKey": "Enhance_Special_9",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 158,
+      "groupKey": "Enhance_Special_9",
+      "itemId": 1,
+      "amount": 66000
+    },
+    {
+      "id": 159,
+      "groupKey": "Enhance_Special_10",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 160,
+      "groupKey": "Enhance_Special_10",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 161,
+      "groupKey": "Enhance_Special_11",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 162,
+      "groupKey": "Enhance_Special_11",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 163,
+      "groupKey": "Enhance_Special_12",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 164,
+      "groupKey": "Enhance_Special_12",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 165,
+      "groupKey": "Enhance_Special_13",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 166,
+      "groupKey": "Enhance_Special_13",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 167,
+      "groupKey": "Enhance_Special_14",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 168,
+      "groupKey": "Enhance_Special_14",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 169,
+      "groupKey": "Enhance_Special_15",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 170,
+      "groupKey": "Enhance_Special_15",
+      "itemId": 1,
+      "amount": 90000
+    },
+    {
+      "id": 171,
+      "groupKey": "Enhance_Special_16",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 172,
+      "groupKey": "Enhance_Special_16",
+      "itemId": 1,
+      "amount": 150000
+    },
+    {
+      "id": 173,
+      "groupKey": "Enhance_Special_17",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 174,
+      "groupKey": "Enhance_Special_17",
+      "itemId": 1,
+      "amount": 210000
+    },
+    {
+      "id": 175,
+      "groupKey": "Enhance_Special_18",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 176,
+      "groupKey": "Enhance_Special_18",
+      "itemId": 1,
+      "amount": 300000
+    },
+    {
+      "id": 177,
+      "groupKey": "Enhance_Special_19",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 178,
+      "groupKey": "Enhance_Special_19",
+      "itemId": 1,
+      "amount": 600000
+    },
+    {
+      "id": 179,
+      "groupKey": "Enhance_Special_20",
+      "itemId": 91000003,
+      "amount": 1
+    },
+    {
+      "id": 180,
+      "groupKey": "Enhance_Special_20",
+      "itemId": 1,
+      "amount": 900000
+    }
+  ]
+}

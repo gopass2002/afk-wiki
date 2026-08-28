@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 2,
+    "schema": "FBDataEventMission",
+    "sourceAsset": "FBDataEventMission",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "naver_cafe_visit",
+      "step": 1,
+      "objectiveType": "VisitNaverCafe",
+      "objectiveTarget": "0",
+      "objectiveCount": 1
+    },
+    {
+      "id": 2,
+      "groupKey": "guild_join",
+      "step": 1,
+      "objectiveType": "JoinGuild",
+      "objectiveTarget": "0",
+      "objectiveCount": 1
+    }
+  ]
+}

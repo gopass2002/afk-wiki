@@ -1,0 +1,1353 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 268,
+    "schema": "FBDataStringUI",
+    "sourceAsset": "FBDataStringUI_ko",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "LoadingText_1",
+      "value": "무림 세계로 입장 중..."
+    },
+    {
+      "id": 2,
+      "key": "LoadingText_2",
+      "value": "강호도 풍경이 열리는 중…"
+    },
+    {
+      "id": 3,
+      "key": "SYSTEM_WELCOME",
+      "value": "강호에 오신 것을 환영합니다. {0} 소협"
+    },
+    {
+      "id": 4,
+      "key": "SYSTEM_PROMOTION_READY",
+      "value": "수련치가 가득 찼습니다. {0}로 승급할 수 있습니다."
+    },
+    {
+      "id": 5,
+      "key": "SYSTEM_REWARD_MAIL",
+      "value": "보상이 우편함에 도착했습니다."
+    },
+    {
+      "id": 6,
+      "key": "WORLD_LEGENDARY_SKILL",
+      "value": "<outline color=black width=1> [<color=#ffc926>전설</color>] 무공 <color=#ffc926>{0}</color> ! {1}대협이 손에 넣었습니다. </outline>"
+    },
+    {
+      "id": 7,
+      "key": "WORLD_ENHANCE_SUCCESS",
+      "value": "{0}님이 {1} +{2}강화에 성공! 강호가 술렁입니다."
+    },
+    {
+      "id": 8,
+      "key": "WORLD_PROMOTION",
+      "value": "{0}님이 {1}:{2}에 올라 무명을 펼쳤습니다."
+    },
+    {
+      "id": 9,
+      "key": "WORLD_MAINTENANCE",
+      "value": "잠시 후 서버 점검이 시작됩니다. {0}"
+    },
+    {
+      "id": 10,
+      "key": "ShopRewardTitle",
+      "value": "구매 완료"
+    },
+    {
+      "id": 11,
+      "key": "QuestRewardTitle",
+      "value": "퀘스트 완료 보상"
+    },
+    {
+      "id": 12,
+      "key": "CookRewardTitle",
+      "value": "요리 획득"
+    },
+    {
+      "id": 13,
+      "key": "MailRewardTitle",
+      "value": "보상 획득"
+    },
+    {
+      "id": 14,
+      "key": "DefaultNickName",
+      "value": "비룡"
+    },
+    {
+      "id": 15,
+      "key": "ValueFormat_PerSecond",
+      "value": "{0}초당 {1}"
+    },
+    {
+      "id": 16,
+      "key": "Collection_Category_Equipment",
+      "value": "장비"
+    },
+    {
+      "id": 17,
+      "key": "Collection_Category_Cook",
+      "value": "식재료"
+    },
+    {
+      "id": 18,
+      "key": "Collection_Category_Etc",
+      "value": "전리품"
+    },
+    {
+      "id": 19,
+      "key": "CollectionRewardTitle",
+      "value": "달성 보상 획득"
+    },
+    {
+      "id": 20,
+      "key": "ContentUnlockQuestAccept",
+      "value": "{0} 진행시 해금돼요"
+    },
+    {
+      "id": 21,
+      "key": "ContentUnlockQuestComplete",
+      "value": "{0} 완료시 해금돼요"
+    },
+    {
+      "id": 22,
+      "key": "MapNormalMonster",
+      "value": "일반 몬스터"
+    },
+    {
+      "id": 23,
+      "key": "MapBossMonster",
+      "value": "보스 몬스터"
+    },
+    {
+      "id": 24,
+      "key": "MapNPC",
+      "value": "NPC"
+    },
+    {
+      "id": 25,
+      "key": "BuyLimitDay",
+      "value": "일일"
+    },
+    {
+      "id": 26,
+      "key": "BuyLimitWeek",
+      "value": "주간"
+    },
+    {
+      "id": 27,
+      "key": "BuyLimitMonth",
+      "value": "월간"
+    },
+    {
+      "id": 28,
+      "key": "BuyLimitAccount",
+      "value": "계정"
+    },
+    {
+      "id": 29,
+      "key": "LoadingTip_Promotion_Title",
+      "value": "승급의 길"
+    },
+    {
+      "id": 30,
+      "key": "LoadingTip_Promotion_Desc",
+      "value": "경지는 하나의 벽, 넘어설 때마다 더 강해집니다.\n삼류에서 시작해 화경, 그 위 경지까지 정진하세요."
+    },
+    {
+      "id": 31,
+      "key": "LoadingTip_RealmWall_Title",
+      "value": "경지의 벽"
+    },
+    {
+      "id": 32,
+      "key": "LoadingTip_RealmWall_Desc",
+      "value": "절정부터 각 경지는 초입·완숙·극의로 나뉩니다.\n극의에 이르러야 비로소 다음 경지의 문이 열립니다."
+    },
+    {
+      "id": 33,
+      "key": "LoadingTip_SkillWeapon_Title",
+      "value": "무공과 무기"
+    },
+    {
+      "id": 34,
+      "key": "LoadingTip_SkillWeapon_Desc",
+      "value": "무공은 짝이 맞는 무기가 있어야 펼칠 수 있습니다.\n검법엔 검을, 도법엔 도를 들어야 제 위력이 삽니다."
+    },
+    {
+      "id": 35,
+      "key": "LoadingTip_InnerPower_Title",
+      "value": "정신력 관리"
+    },
+    {
+      "id": 36,
+      "key": "LoadingTip_InnerPower_Desc",
+      "value": "무공을 펼칠 때마다 정신력이 소모됩니다.\n최대 정신력과 회복을 키우면 무공을 더 자주 펼칠 수 있습니다."
+    },
+    {
+      "id": 37,
+      "key": "LoadingTip_Critical_Title",
+      "value": "치명타의 미학"
+    },
+    {
+      "id": 38,
+      "key": "LoadingTip_Critical_Desc",
+      "value": "치명타는 확률과 피해가 함께 올라야 빛을 발합니다.\n한쪽만 높이면 결정적 한 방이 살지 않습니다."
+    },
+    {
+      "id": 39,
+      "key": "LoadingTip_Penetration_Title",
+      "value": "방어 관통"
+    },
+    {
+      "id": 40,
+      "key": "LoadingTip_Penetration_Desc",
+      "value": "단단한 적은 공격력만으론 좀처럼 뚫리지 않습니다.\n방어 관통을 챙기면 두꺼운 갑옷도 갈라집니다."
+    },
+    {
+      "id": 41,
+      "key": "LoadingTip_Enhance_Title",
+      "value": "강화의 길"
+    },
+    {
+      "id": 42,
+      "key": "LoadingTip_Enhance_Desc",
+      "value": "강화에 성공하면 그 소문이 강호 전체에 퍼집니다.\n한 단계씩, 최대 강화까지 도전해 보세요."
+    },
+    {
+      "id": 43,
+      "key": "LoadingTip_Refine_Title",
+      "value": "연마"
+    },
+    {
+      "id": 44,
+      "key": "LoadingTip_Refine_Desc",
+      "value": "강화가 끝이 아닙니다. 장비는 연마로 더 벼립니다.\n강화와 연마를 함께 챙기면 전투력이 크게 오릅니다."
+    },
+    {
+      "id": 45,
+      "key": "LoadingTip_BagFull_Title",
+      "value": "가방이 꽉 찬 경우"
+    },
+    {
+      "id": 46,
+      "key": "LoadingTip_BagFull_Desc",
+      "value": "가방이 가득 차면 전리품을 더 담을 수 없습니다.\n이때 사냥해도 은량과 경험치만 들어옵니다."
+    },
+    {
+      "id": 47,
+      "key": "LoadingTip_BagExpand_Title",
+      "value": "가방 확장"
+    },
+    {
+      "id": 48,
+      "key": "LoadingTip_BagExpand_Desc",
+      "value": "가방은 은량과 영석으로 칸을 늘릴 수 있습니다.\n사냥을 떠나기 전, 넉넉히 자리를 비워두세요."
+    },
+    {
+      "id": 49,
+      "key": "LoadingTip_Collection_Title",
+      "value": "도감 수집"
+    },
+    {
+      "id": 50,
+      "key": "LoadingTip_Collection_Desc",
+      "value": "장비부터 식재료까지 모두 도감에 남습니다.\n한 칸씩 채워 완성하면 보상이 기다립니다."
+    },
+    {
+      "id": 51,
+      "key": "LoadingTip_Cook_Title",
+      "value": "요리의 힘"
+    },
+    {
+      "id": 52,
+      "key": "LoadingTip_Cook_Desc",
+      "value": "강호의 고수도 결국 밥심으로 싸웁니다.\n요리를 챙겨 먹고 든든하게 사냥을 떠나세요."
+    },
+    {
+      "id": 53,
+      "key": "LoadingTip_Mail_Title",
+      "value": "우편함 확인"
+    },
+    {
+      "id": 54,
+      "key": "LoadingTip_Mail_Desc",
+      "value": "미처 받지 못한 보상은 우편함으로 배달됩니다.\n잊지 말고 우편함을 들여다보세요."
+    },
+    {
+      "id": 55,
+      "key": "LoadingTip_Gold_Title",
+      "value": "은량이 부족할 때"
+    },
+    {
+      "id": 56,
+      "key": "LoadingTip_Gold_Desc",
+      "value": "사냥은 가장 꾸준한 은량 벌이입니다.\n가방이 가득 차도 은량만은 계속 쌓입니다."
+    },
+    {
+      "id": 57,
+      "key": "LoadingTip_LegendSkill_Title",
+      "value": "전설 무공"
+    },
+    {
+      "id": 58,
+      "key": "LoadingTip_LegendSkill_Desc",
+      "value": "전설 무공은 아무나 손에 넣지 못합니다.\n하나라도 얻으면 그 이름이 강호에 울려 퍼집니다."
+    },
+    {
+      "id": 59,
+      "key": "LoadingTip_Nickname_Title",
+      "value": "닉네임"
+    },
+    {
+      "id": 60,
+      "key": "LoadingTip_Nickname_Desc",
+      "value": "강호에 새길 이름이니 신중히 정하세요.\n이미 누군가 쓰고 있는 이름은 등록할 수 없습니다."
+    },
+    {
+      "id": 61,
+      "key": "LoadingTip_Cooldown_Title",
+      "value": "재사용 대기시간"
+    },
+    {
+      "id": 62,
+      "key": "LoadingTip_Cooldown_Desc",
+      "value": "강력한 무공일수록 재사용 대기시간이 깁니다.\n언제 터뜨리느냐가 승부를 가릅니다."
+    },
+    {
+      "id": 63,
+      "key": "LoadingTip_Proverb_Title",
+      "value": "강호의 격언"
+    },
+    {
+      "id": 64,
+      "key": "LoadingTip_Proverb_Desc",
+      "value": "삼류 무사도 십 년을 갈고닦으면\n마침내 절정에 이른다 하였습니다."
+    },
+    {
+      "id": 65,
+      "key": "LoadingTip_Rumor_Title",
+      "value": "무림의 소문"
+    },
+    {
+      "id": 66,
+      "key": "LoadingTip_Rumor_Desc",
+      "value": "경지의 끝에 무엇이 있는지는\n누구도 함부로 말하지 못한다 전해집니다."
+    },
+    {
+      "id": 67,
+      "key": "LoadingTip_Beginner_Title",
+      "value": "입문자에게"
+    },
+    {
+      "id": 68,
+      "key": "LoadingTip_Beginner_Desc",
+      "value": "강호는 넓고, 숨은 고수는 헤아릴 수 없습니다.\n서두르지 말고 한 걸음씩 나아가세요."
+    },
+    {
+      "id": 69,
+      "key": "NpcShop_Buy_Dialog",
+      "value": "어서오세요~!\n생명력 회복은 회춘단!\n구입 시 슬롯에 장착돼요"
+    },
+    {
+      "id": 70,
+      "key": "NpcShop_Sell_Dialog",
+      "value": "안 쓰는 물건은\n소소가 사드릴게요!\n가방칸도 가벼워져요~"
+    },
+    {
+      "id": 71,
+      "key": "NpcShop_Rebuy_Dialog",
+      "value": "실수로 판매했어도\n최근 판매 20건까지\n다시 찾아가세요~"
+    },
+    {
+      "id": 72,
+      "key": "LoadingTip_HitEvade_Title",
+      "value": "명중과 회피"
+    },
+    {
+      "id": 73,
+      "key": "LoadingTip_HitEvade_Desc",
+      "value": "명중이 낮으면 공격이 허공을 가릅니다.\n회피를 올리면 적의 칼날을 슬쩍 흘려낼 수 있습니다."
+    },
+    {
+      "id": 74,
+      "key": "LoadingTip_SkillEnhance_Title",
+      "value": "무공 강화"
+    },
+    {
+      "id": 75,
+      "key": "LoadingTip_SkillEnhance_Desc",
+      "value": "강해지는 건 무기와 장비만이 아닙니다.\n무공도 강화하면 그 위력이 한층 올라갑니다."
+    },
+    {
+      "id": 76,
+      "key": "LoadingTip_DailyDungeon_Title",
+      "value": "일일 도전"
+    },
+    {
+      "id": 77,
+      "key": "LoadingTip_DailyDungeon_Desc",
+      "value": "매일 정해진 강적이 문을 열고 기다립니다.\n입장권을 챙겨 도전하면 두둑한 보상이 따릅니다."
+    },
+    {
+      "id": 78,
+      "key": "LoadingTip_SkillGacha_Title",
+      "value": "무공 획득"
+    },
+    {
+      "id": 79,
+      "key": "LoadingTip_SkillGacha_Desc",
+      "value": "새로운 무공은 무공 뽑기로 손에 넣습니다.\n한 번에 여러 개를 몰아 뽑을 수도 있습니다."
+    },
+    {
+      "id": 80,
+      "key": "LoadingTip_Attendance_Title",
+      "value": "매일의 보상"
+    },
+    {
+      "id": 81,
+      "key": "LoadingTip_Attendance_Desc",
+      "value": "강호에 얼굴만 비춰도 선물이 쌓입니다.\n하루도 거르지 말고 출석 보상을 챙기세요."
+    },
+    {
+      "id": 82,
+      "key": "LoadingTip_Shop_Title",
+      "value": "상점 활용"
+    },
+    {
+      "id": 83,
+      "key": "LoadingTip_Shop_Desc",
+      "value": "필요한 물건은 상점에서 은량과 영석으로 구합니다.\n품목마다 살 수 있는 수량이 정해져 있으니 확인하세요."
+    },
+    {
+      "id": 84,
+      "key": "NpcShop_Buy_Toast",
+      "value": "{0} {1}개를 구입했습니다"
+    },
+    {
+      "id": 85,
+      "key": "NpcShop_Sell_Toast",
+      "value": "{0} {1}개를 판매했습니다"
+    },
+    {
+      "id": 86,
+      "key": "NpcShop_Rebuy_Toast",
+      "value": "{0} {1}개를 재매입했습니다"
+    },
+    {
+      "id": 87,
+      "key": "NpcTalk_Soso_1",
+      "value": "어서오세요~ 소소 상회!"
+    },
+    {
+      "id": 88,
+      "key": "NpcTalk_Soso_2",
+      "value": "본교 지정 상인이라구요!"
+    },
+    {
+      "id": 89,
+      "key": "NpcTalk_Soso_3",
+      "value": "좋은 물건 들어왔어요~"
+    },
+    {
+      "id": 90,
+      "key": "NpcTalk_Soso_4",
+      "value": "소소는 계산이 빨라요!"
+    },
+    {
+      "id": 91,
+      "key": "NpcTalk_Soso_5",
+      "value": "안 쓰는 물건 사드려요~"
+    },
+    {
+      "id": 92,
+      "key": "NpcTalk_Soso_6",
+      "value": "수레 세 대는 끈다구요><"
+    },
+    {
+      "id": 93,
+      "key": "NpcTalk_Soso_7",
+      "value": "회춘단 챙기셨어요?"
+    },
+    {
+      "id": 94,
+      "key": "NpcTalk_Soso_8",
+      "value": "구경만도 환영이에요~"
+    },
+    {
+      "id": 95,
+      "key": "BoxType_SelectBox_Desc",
+      "value": "아래의 아이템 중 {0}종류를 선택하여 획득할 수 있습니다."
+    },
+    {
+      "id": 96,
+      "key": "BoxType_RandomBox_Desc",
+      "value": "아래의 아이템 중 1개를 일정 확률로 획득할 수 있습니다."
+    },
+    {
+      "id": 97,
+      "key": "BoxType_AllBox_Desc",
+      "value": "아래의 아이템을 전부 획득할 수 있습니다."
+    },
+    {
+      "id": 98,
+      "key": "CookAchievementRewardTitle",
+      "value": "달성 보상 획득"
+    },
+    {
+      "id": 99,
+      "key": "NpcTalk_Hobob_1",
+      "value": "기록에 남긴다."
+    },
+    {
+      "id": 100,
+      "key": "NpcTalk_Hobob_2",
+      "value": "수련은 했느냐."
+    },
+    {
+      "id": 101,
+      "key": "NpcTalk_Hobob_3",
+      "value": "허리를 펴라."
+    },
+    {
+      "id": 102,
+      "key": "NpcTalk_Hobob_4",
+      "value": "규정 제7조 위반이다."
+    },
+    {
+      "id": 103,
+      "key": "NpcTalk_Hobob_5",
+      "value": "오늘 일지는 썼느냐."
+    },
+    {
+      "id": 104,
+      "key": "NpcTalk_Hobob_6",
+      "value": "게으름은 죄다."
+    },
+    {
+      "id": 105,
+      "key": "NpcTalk_Hobob_7",
+      "value": "…어디서 고기 냄새가."
+    },
+    {
+      "id": 106,
+      "key": "NpcTalk_Hobob_8",
+      "value": "천마신교의 법도니라."
+    },
+    {
+      "id": 107,
+      "key": "NpcTalk_Chunma_1",
+      "value": "…"
+    },
+    {
+      "id": 108,
+      "key": "NpcTalk_Chunma_2",
+      "value": "차가 식는군."
+    },
+    {
+      "id": 109,
+      "key": "NpcTalk_Chunma_3",
+      "value": "바람이 차다."
+    },
+    {
+      "id": 110,
+      "key": "NpcTalk_Chunma_4",
+      "value": "서두를 것 없다."
+    },
+    {
+      "id": 111,
+      "key": "NpcTalk_Chunma_5",
+      "value": "…좋은 아침이군."
+    },
+    {
+      "id": 112,
+      "key": "NpcTalk_WhasanStudent_1",
+      "value": "화산의 검은 지지 않아."
+    },
+    {
+      "id": 113,
+      "key": "NpcTalk_WhasanStudent_2",
+      "value": "수련… 수련…"
+    },
+    {
+      "id": 114,
+      "key": "NpcTalk_WhasanStudent_3",
+      "value": "매화가 폈네."
+    },
+    {
+      "id": 115,
+      "key": "NpcTalk_WhasanStudent_4",
+      "value": "…배가 고프다."
+    },
+    {
+      "id": 116,
+      "key": "NpcTalk_WhasanStudent_5",
+      "value": "그 요리, 잊을 수 없어."
+    },
+    {
+      "id": 117,
+      "key": "NpcTalk_WhasanStudent_6",
+      "value": "오늘도 정진!"
+    },
+    {
+      "id": 118,
+      "key": "NpcTalk_WhasanStudent_7",
+      "value": "검끝이 무뎌졌나…"
+    },
+    {
+      "id": 119,
+      "key": "NpcTalk_WhasanJangro_1",
+      "value": "허어…"
+    },
+    {
+      "id": 120,
+      "key": "NpcTalk_WhasanJangro_2",
+      "value": "수상한 기운이야."
+    },
+    {
+      "id": 121,
+      "key": "NpcTalk_WhasanJangro_3",
+      "value": "매화는 이르게 핀다."
+    },
+    {
+      "id": 122,
+      "key": "NpcTalk_WhasanJangro_4",
+      "value": "화산의 이름으로."
+    },
+    {
+      "id": 123,
+      "key": "NpcTalk_WhasanJangro_5",
+      "value": "요즘 산이 소란하군."
+    },
+    {
+      "id": 124,
+      "key": "NpcTalk_WhasanJangro_6",
+      "value": "정진하게."
+    },
+    {
+      "id": 125,
+      "key": "NpcTalk_Swordsaint_1",
+      "value": "검은 곧 마음이다."
+    },
+    {
+      "id": 126,
+      "key": "NpcTalk_Swordsaint_2",
+      "value": "베는 것만이 검이 아니다."
+    },
+    {
+      "id": 127,
+      "key": "NpcTalk_Swordsaint_3",
+      "value": "…아직 멀었군."
+    },
+    {
+      "id": 128,
+      "key": "NpcTalk_Swordsaint_4",
+      "value": "바람을 읽어라."
+    },
+    {
+      "id": 129,
+      "key": "NpcTalk_Swordsaint_5",
+      "value": "한 수 배우고 싶은가."
+    },
+    {
+      "id": 130,
+      "key": "NpcTalk_Yujung_1",
+      "value": "…재미있는 산이야."
+    },
+    {
+      "id": 131,
+      "key": "NpcTalk_Yujung_2",
+      "value": "그 검격, 기억해두지."
+    },
+    {
+      "id": 132,
+      "key": "NpcTalk_Yujung_3",
+      "value": "바람이 수상해."
+    },
+    {
+      "id": 133,
+      "key": "NpcTalk_Yujung_4",
+      "value": "매화 아래가 좋군."
+    },
+    {
+      "id": 134,
+      "key": "NpcTalk_Yujung_5",
+      "value": "…누굴 기다리는 건 아니야."
+    },
+    {
+      "id": 135,
+      "key": "NpcTalk_Dokgocheol_1",
+      "value": "흑풍채가 이 산의 주인이다!"
+    },
+    {
+      "id": 136,
+      "key": "NpcTalk_Dokgocheol_2",
+      "value": "겁먹지 마라!"
+    },
+    {
+      "id": 137,
+      "key": "NpcTalk_Dokgocheol_3",
+      "value": "만만한 놈들만 골라라."
+    },
+    {
+      "id": 138,
+      "key": "NpcTalk_Dokgocheol_4",
+      "value": "이 산은 내 구역이다."
+    },
+    {
+      "id": 139,
+      "key": "NpcTalk_Dokgocheol_5",
+      "value": "…배짱 좋은 놈이군."
+    },
+    {
+      "id": 140,
+      "key": "ShopUnlockLevel",
+      "value": "Lv.{0} 달성시 해금돼요"
+    },
+    {
+      "id": 141,
+      "key": "AccountLinkRewardTitle",
+      "value": "계정연동 보상"
+    },
+    {
+      "id": 142,
+      "key": "AutoEnhance_Goal_Desc",
+      "value": "현재 강화 단계보다 높은 단계만 선택 가능합니다.\n자동 강화로 올릴 수 있는 최고 단계는 +{0} 입니다."
+    },
+    {
+      "id": 143,
+      "key": "AutoEnhance_Running_Goal",
+      "value": "목표 +{0}"
+    },
+    {
+      "id": 144,
+      "key": "NpcShop_BulkSell_Toast",
+      "value": "{0}개를 판매했습니다"
+    },
+    {
+      "id": 145,
+      "key": "DIFF_EASY",
+      "value": "쉬움"
+    },
+    {
+      "id": 146,
+      "key": "DIFF_NORMAL",
+      "value": "보통"
+    },
+    {
+      "id": 147,
+      "key": "DIFF_HARD",
+      "value": "어려움"
+    },
+    {
+      "id": 153,
+      "key": "AuctionClaimRewardTitle",
+      "value": "거래소 수령"
+    },
+    {
+      "id": 154,
+      "key": "Exchange_Title",
+      "value": "환전"
+    },
+    {
+      "id": 155,
+      "key": "Exchange_ConfirmTitle",
+      "value": "환전 확인"
+    },
+    {
+      "id": 156,
+      "key": "Exchange_DirGemToCoin",
+      "value": "영석 → 협전"
+    },
+    {
+      "id": 157,
+      "key": "Exchange_DirCoinToGem",
+      "value": "협전 → 영석"
+    },
+    {
+      "id": 158,
+      "key": "Exchange_SlotSpend",
+      "value": "소모"
+    },
+    {
+      "id": 159,
+      "key": "Exchange_SlotGain",
+      "value": "획득"
+    },
+    {
+      "id": 160,
+      "key": "Exchange_Have",
+      "value": "보유 {0}"
+    },
+    {
+      "id": 161,
+      "key": "Exchange_RateGemToCoin",
+      "value": "영석 {0}개 = 협전 1개"
+    },
+    {
+      "id": 162,
+      "key": "Exchange_RateCoinToGem",
+      "value": "협전 1개 = 영석 {0}개 ▪ 환전 수수료 {1}% 적용"
+    },
+    {
+      "id": 163,
+      "key": "Exchange_DailyLimitTitle",
+      "value": "오늘 환전 가능 협전"
+    },
+    {
+      "id": 164,
+      "key": "Exchange_DailyLimitValue",
+      "value": "{0} / {1}개"
+    },
+    {
+      "id": 165,
+      "key": "Exchange_Apply",
+      "value": "환전하기"
+    },
+    {
+      "id": 166,
+      "key": "Exchange_ConfirmGemToCoin",
+      "value": "<color=CurrencyGem>영석 {0}개</color>를 <color=CurrencyTradeCoin>협전 {1}개</color>로 바꿉니다.\n환전 후에는 되돌릴 수 없습니다."
+    },
+    {
+      "id": 167,
+      "key": "Exchange_ConfirmCoinToGem",
+      "value": "<color=CurrencyTradeCoin>협전 {0}개</color>를 <color=CurrencyGem>영석 {1}개</color>로 바꿉니다.\n환전 후에는 되돌릴 수 없습니다."
+    },
+    {
+      "id": 168,
+      "key": "Exchange_ConfirmFee",
+      "value": "환전 수수료 {0}% 적용"
+    },
+    {
+      "id": 169,
+      "key": "Exchange_ConfirmCancel",
+      "value": "취소"
+    },
+    {
+      "id": 170,
+      "key": "Exchange_ConfirmOk",
+      "value": "환전"
+    },
+    {
+      "id": 171,
+      "key": "Exchange_NeedGem",
+      "value": "영석이 {0}개 이상 있어야 환전할 수 있습니다."
+    },
+    {
+      "id": 172,
+      "key": "Exchange_NeedTradeCoin",
+      "value": "협전이 {0}개 이상 있어야 환전할 수 있습니다."
+    },
+    {
+      "id": 173,
+      "key": "Exchange_Complete",
+      "value": "환전이 완료되었습니다."
+    },
+    {
+      "id": 148,
+      "key": "SIMMA_CH0",
+      "value": "서장 보스"
+    },
+    {
+      "id": 149,
+      "key": "SIMMA_CH1",
+      "value": "1장 보스"
+    },
+    {
+      "id": 150,
+      "key": "SIMMA_CH2",
+      "value": "2장 보스"
+    },
+    {
+      "id": 151,
+      "key": "SIMMA_CH3",
+      "value": "3장 보스"
+    },
+    {
+      "id": 152,
+      "key": "ContentUnlockRequireLevel",
+      "value": "Lv.{0} 달성시 해금돼요"
+    },
+    {
+      "id": 174,
+      "key": "Filter_OptionNone",
+      "value": "선택 안 함"
+    },
+    {
+      "id": 175,
+      "key": "Guild_Donate_Toast",
+      "value": "기부가 완료되었어요"
+    },
+    {
+      "id": 176,
+      "key": "Guild_RoleChange_Toast",
+      "value": "직위가 변경되었습니다"
+    },
+    {
+      "id": 177,
+      "key": "Guild_Apply_Toast",
+      "value": "가입 신청이 완료되었습니다."
+    },
+    {
+      "id": 178,
+      "key": "Guild_Kick_Toast",
+      "value": "{0}님을 문파에서 내보냈습니다"
+    },
+    {
+      "id": 179,
+      "key": "Guild_TransferMaster_Toast",
+      "value": "{0}님에게 문주를 위임했습니다"
+    },
+    {
+      "id": 180,
+      "key": "Guild_Kicked_Notify",
+      "value": "문파에서 추방되었습니다"
+    },
+    {
+      "id": 181,
+      "key": "Guild_Joined_Notify",
+      "value": "{0} 문파에 가입되었습니다"
+    },
+    {
+      "id": 182,
+      "key": "Guild_Disbanded_Notify",
+      "value": "문파가 해산되었습니다"
+    },
+    {
+      "id": 183,
+      "key": "Guild_MyRoleChanged_Notify",
+      "value": "직위가 {0}(으)로 변경되었습니다"
+    },
+    {
+      "id": 184,
+      "key": "ShopTab_Package",
+      "value": "패키지"
+    },
+    {
+      "id": 185,
+      "key": "ShopTab_Appearance",
+      "value": "외형"
+    },
+    {
+      "id": 186,
+      "key": "ShopTab_Currency",
+      "value": "재화"
+    },
+    {
+      "id": 187,
+      "key": "ShopSection_Recommend",
+      "value": "추천"
+    },
+    {
+      "id": 188,
+      "key": "ShopSection_WeeklySupply",
+      "value": "주간 보급"
+    },
+    {
+      "id": 189,
+      "key": "ShopSection_MonthlySupply",
+      "value": "월간 보급"
+    },
+    {
+      "id": 190,
+      "key": "ShopSection_Gold",
+      "value": "은량"
+    },
+    {
+      "id": 191,
+      "key": "ShopSection_Gem",
+      "value": "영석"
+    },
+    {
+      "id": 192,
+      "key": "ShopSection_Costume",
+      "value": "천면함"
+    },
+    {
+      "id": 193,
+      "key": "ShopSection_Transform",
+      "value": "역용부"
+    },
+    {
+      "id": 194,
+      "key": "GotoShop_TicketTitle",
+      "value": "역용부 부족"
+    },
+    {
+      "id": 195,
+      "key": "GotoShop_TicketBody",
+      "value": "변신을 진행하기 위한 {0} 역용부가 부족합니다.\n상점으로 이동하여 역용부를 구매하시겠습니까?"
+    },
+    {
+      "id": 196,
+      "key": "AppearancePart_Hair",
+      "value": "머리"
+    },
+    {
+      "id": 197,
+      "key": "AppearancePart_Face",
+      "value": "얼굴"
+    },
+    {
+      "id": 198,
+      "key": "AppearancePart_Hat",
+      "value": "모자"
+    },
+    {
+      "id": 199,
+      "key": "AppearancePart_Avatar",
+      "value": "한벌옷"
+    },
+    {
+      "id": 200,
+      "key": "AppearanceShop_UseTicket",
+      "value": "{0} 사용"
+    },
+    {
+      "id": 201,
+      "key": "AppearanceTag_Hat",
+      "value": "모자"
+    },
+    {
+      "id": 202,
+      "key": "AppearanceTag_Avatar",
+      "value": "한벌옷"
+    },
+    {
+      "id": 203,
+      "key": "NpcTalk_Chaehee_1",
+      "value": "어머, 그 차림은 좀 아니죠."
+    },
+    {
+      "id": 204,
+      "key": "NpcTalk_Chaehee_2",
+      "value": "이리 와요. 제가 바꿔드릴게요."
+    },
+    {
+      "id": 205,
+      "key": "NpcTalk_Chaehee_3",
+      "value": "제 옷 입고 못생기긴 어려워요."
+    },
+    {
+      "id": 206,
+      "key": "NpcTalk_Chaehee_4",
+      "value": "여인 옷을 입으면 몸도 여인이 돼요."
+    },
+    {
+      "id": 207,
+      "key": "NpcTalk_Chaehee_5",
+      "value": "치수 걱정은 촌스러워요."
+    },
+    {
+      "id": 208,
+      "key": "NpcTalk_Chaehee_6",
+      "value": "만지셨으면 사셔야죠?"
+    },
+    {
+      "id": 209,
+      "key": "NpcTalk_Chaehee_7",
+      "value": "채화는 얼굴, 저는 전부."
+    },
+    {
+      "id": 210,
+      "key": "NpcTalk_Chaehee_8",
+      "value": "어울리네요. 제 옷이니까."
+    },
+    {
+      "id": 211,
+      "key": "NpcTalk_Chaewha_1",
+      "value": "부적 한 장, 인생 한 번."
+    },
+    {
+      "id": 212,
+      "key": "NpcTalk_Chaewha_2",
+      "value": "그 얼굴, 제가 바꿔드릴까요?"
+    },
+    {
+      "id": 213,
+      "key": "NpcTalk_Chaewha_3",
+      "value": "뭐가 나올진 저도 몰라요. 그게 재미죠."
+    },
+    {
+      "id": 214,
+      "key": "NpcTalk_Chaewha_4",
+      "value": "어머, 그 머리 제 작품이네. 역시."
+    },
+    {
+      "id": 215,
+      "key": "NpcTalk_Chaewha_5",
+      "value": "딱 한 장만 더. 다들 그러던데요?"
+    },
+    {
+      "id": 216,
+      "key": "NpcTalk_Chaewha_6",
+      "value": "수염이 나와도 환불은 안 돼요."
+    },
+    {
+      "id": 217,
+      "key": "NpcTalk_Chaewha_7",
+      "value": "원판 탓은 하지 마시고요."
+    },
+    {
+      "id": 218,
+      "key": "NpcTalk_Chaewha_8",
+      "value": "채희는 옷, 저는 얼굴."
+    },
+    {
+      "id": 219,
+      "key": "NpcTalk_Munpa_1",
+      "value": "쿨... 쿨... 헉, 어서 오세요!"
+    },
+    {
+      "id": 220,
+      "key": "NpcTalk_Munpa_2",
+      "value": "안 잤습니다. 눈만 감았죠."
+    },
+    {
+      "id": 221,
+      "key": "NpcTalk_Munpa_3",
+      "value": "개파 서류가... 분명 여기..."
+    },
+    {
+      "id": 222,
+      "key": "NpcTalk_Munpa_4",
+      "value": "혼자 다니지 마시고... 문파 드세요."
+    },
+    {
+      "id": 223,
+      "key": "NpcTalk_Munpa_5",
+      "value": "하암... 오늘 며칠이죠?"
+    },
+    {
+      "id": 224,
+      "key": "NpcTalk_Munpa_6",
+      "value": "아이고 깜짝이야! 언제 오셨어요."
+    },
+    {
+      "id": 225,
+      "key": "AppearanceSave_SlotLabelHair",
+      "value": "역용첩▪머리 슬롯"
+    },
+    {
+      "id": 226,
+      "key": "AppearanceSave_SlotLabelFace",
+      "value": "역용첩▪얼굴 슬롯"
+    },
+    {
+      "id": 227,
+      "key": "AppearanceSave_RecordTitle",
+      "value": "기록하기"
+    },
+    {
+      "id": 228,
+      "key": "AppearanceSave_SwapTitle",
+      "value": "교체하기"
+    },
+    {
+      "id": 229,
+      "key": "AppearanceSave_RecordBodyHair",
+      "value": "현재 착용 중인 머리를 이 슬롯에 기록하시겠습니까?"
+    },
+    {
+      "id": 230,
+      "key": "AppearanceSave_RecordBodyFace",
+      "value": "현재 착용 중인 얼굴을 이 슬롯에 기록하시겠습니까?"
+    },
+    {
+      "id": 231,
+      "key": "AppearanceSave_SwapBodyHair",
+      "value": "현재 착용중인 머리와\n이 슬롯의 머리를 교체하시겠습니까?"
+    },
+    {
+      "id": 232,
+      "key": "AppearanceSave_SwapBodyFace",
+      "value": "현재 착용중인 얼굴과\n이 슬롯의 얼굴을 교체하시겠습니까?"
+    },
+    {
+      "id": 233,
+      "key": "AppearanceSave_NowHair",
+      "value": "현재 착용 중인 머리"
+    },
+    {
+      "id": 234,
+      "key": "AppearanceSave_NowFace",
+      "value": "현재 착용 중인 얼굴"
+    },
+    {
+      "id": 235,
+      "key": "AppearanceSave_AfterHair",
+      "value": "교체될 슬롯 머리"
+    },
+    {
+      "id": 236,
+      "key": "AppearanceSave_AfterFace",
+      "value": "교체될 슬롯 얼굴"
+    },
+    {
+      "id": 237,
+      "key": "AppearanceSave_ExpandTitleHair",
+      "value": "역용첩▪머리 슬롯 확장"
+    },
+    {
+      "id": 238,
+      "key": "AppearanceSave_ExpandTitleFace",
+      "value": "역용첩▪얼굴 슬롯 확장"
+    },
+    {
+      "id": 239,
+      "key": "AppearanceSave_ExpandMax",
+      "value": "최대 {0}칸"
+    },
+    {
+      "id": 240,
+      "key": "UserProfile_Offline_Toast",
+      "value": "접속하지 않은 유저입니다."
+    },
+    {
+      "id": 241,
+      "key": "Mail_TicketConversion_Subject",
+      "value": "역용부 은량 치환 안내"
+    },
+    {
+      "id": 242,
+      "key": "Mail_TicketConversion_Body",
+      "value": "기수가 바뀌어 사용할 수 없게 된 역용부 {count}개를 은량 {gold}개로 바꾸어 보내드립니다."
+    },
+    {
+      "id": 243,
+      "key": "UI_Membership_Title_AuctionPass",
+      "value": "28일간 멤버십 혜택"
+    },
+    {
+      "id": 244,
+      "key": "UI_Membership_Benefit_AuctionSlot",
+      "value": "거래소 판매 슬롯 활성화 (20개)"
+    },
+    {
+      "id": 245,
+      "key": "UI_Membership_Benefit_DailyGem",
+      "value": "28일 동안 접속 시 매일 영석 30개 지급 (우편함 지급)"
+    },
+    {
+      "id": 246,
+      "key": "UI_Membership_Benefit_ExpBoost",
+      "value": "+5% 경험치 획득 증가"
+    },
+    {
+      "id": 247,
+      "key": "UI_Membership_Remain",
+      "value": "{0}일 남음"
+    },
+    {
+      "id": 248,
+      "key": "ShopSection_Supply",
+      "value": "보급"
+    },
+    {
+      "id": 249,
+      "key": "Shop_Buy_Toast",
+      "value": "{0} {1}개를 구입했습니다"
+    },
+    {
+      "id": 250,
+      "key": "Shop_Extend_Toast",
+      "value": "{0} 기간이 연장되었습니다"
+    },
+    {
+      "id": 251,
+      "key": "EventMissionRewardTitle",
+      "value": "이벤트 보상"
+    },
+    {
+      "id": 252,
+      "key": "AppearanceSave_PartHair",
+      "value": "머리"
+    },
+    {
+      "id": 253,
+      "key": "AppearanceSave_PartFace",
+      "value": "얼굴"
+    },
+    {
+      "id": 254,
+      "key": "AppearanceSave_SwapSameToast",
+      "value": "현재 적용 중인 {0}와 동일하여 교체할 수 없습니다"
+    },
+    {
+      "id": 255,
+      "key": "NpcTalk_Mirror_1",
+      "value": "..."
+    },
+    {
+      "id": 256,
+      "key": "NpcTalk_Mirror_2",
+      "value": "(반짝반짝)"
+    },
+    {
+      "id": 257,
+      "key": "NpcTalk_Mirror_3",
+      "value": "(스르륵)"
+    },
+    {
+      "id": 258,
+      "key": "NpcTalk_Mirror_4",
+      "value": "(거울이 흔들린다)"
+    },
+    {
+      "id": 259,
+      "key": "NpcTalk_Mirror_5",
+      "value": "(반짝)"
+    },
+    {
+      "id": 260,
+      "key": "NpcTalk_Mirror_6",
+      "value": "...비추어 보아라."
+    },
+    {
+      "id": 261,
+      "key": "NpcTalk_Mirror_7",
+      "value": "(맑아졌다)"
+    },
+    {
+      "id": 262,
+      "key": "NpcTalk_Mirror_8",
+      "value": "...그 얼굴이더냐."
+    },
+    {
+      "id": 263,
+      "key": "NpcTalk_Mirror_9",
+      "value": "(무언가 스쳐 갔다)"
+    },
+    {
+      "id": 264,
+      "key": "NpcTalk_Mirror_10",
+      "value": "(조용히 빛난다)"
+    },
+    {
+      "id": 265,
+      "key": "ShopBadge_Recommend",
+      "value": "추천"
+    },
+    {
+      "id": 266,
+      "key": "AppearanceEvent_Transform",
+      "value": "채화 변신술 특선"
+    },
+    {
+      "id": 267,
+      "key": "AppearanceEvent_Costume",
+      "value": "채희 의상실 특선"
+    },
+    {
+      "id": 268,
+      "key": "ShopBadge_Membership",
+      "value": "멤버십"
+    }
+  ]
+}

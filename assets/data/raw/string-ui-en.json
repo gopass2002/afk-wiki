@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 54,
+    "schema": "FBDataStringUI",
+    "sourceAsset": "FBDataStringUI_en",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 148,
+      "key": "SIMMA_CH0",
+      "value": "Prologue Boss"
+    },
+    {
+      "id": 149,
+      "key": "SIMMA_CH1",
+      "value": "Chapter 1 Boss"
+    },
+    {
+      "id": 150,
+      "key": "SIMMA_CH2",
+      "value": "Chapter 2 Boss"
+    },
+    {
+      "id": 151,
+      "key": "SIMMA_CH3",
+      "value": "Chapter 3 Boss"
+    },
+    {
+      "id": 152,
+      "key": "ContentUnlockRequireLevel",
+      "value": "Unlocks at Lv.{0}."
+    },
+    {
+      "id": 174,
+      "key": "Filter_OptionNone",
+      "value": "None"
+    },
+    {
+      "id": 175,
+      "key": "Guild_Donate_Toast",
+      "value": "Donation complete."
+    },
+    {
+      "id": 176,
+      "key": "Guild_RoleChange_Toast",
+      "value": "Ranks updated."
+    },
+    {
+      "id": 177,
+      "key": "Guild_Apply_Toast",
+      "value": "Your application has been submitted."
+    },
+    {
+      "id": 178,
+      "key": "Guild_Kick_Toast",
+      "value": "{0} has been removed from the guild."
+    },
+    {
+      "id": 179,
+      "key": "Guild_TransferMaster_Toast",
+      "value": "You passed leadership to {0}."
+    },
+    {
+      "id": 180,
+      "key": "Guild_Kicked_Notify",
+      "value": "You have been removed from your guild."
+    },
+    {
+      "id": 181,
+      "key": "Guild_Joined_Notify",
+      "value": "You have joined the guild {0}."
+    },
+    {
+      "id": 182,
+      "key": "Guild_Disbanded_Notify",
+      "value": "Your guild has been disbanded."
+    },
+    {
+      "id": 183,
+      "key": "Guild_MyRoleChanged_Notify",
+      "value": "Your rank changed to {0}."
+    },
+    {
+      "id": 184,
+      "key": "ShopTab_Package",
+      "value": "Packages"
+    },
+    {
+      "id": 185,
+      "key": "ShopTab_Appearance",
+      "value": "Appearance"
+    },
+    {
+      "id": 186,
+      "key": "ShopTab_Currency",
+      "value": "Currency"
+    },
+    {
+      "id": 187,
+      "key": "ShopSection_Recommend",
+      "value": "Recommended"
+    },
+    {
+      "id": 188,
+      "key": "ShopSection_WeeklySupply",
+      "value": "Weekly Supply"
+    },
+    {
+      "id": 189,
+      "key": "ShopSection_MonthlySupply",
+      "value": "Monthly Supply"
+    },
+    {
+      "id": 190,
+      "key": "ShopSection_Gold",
+      "value": "Silver"
+    },
+    {
+      "id": 191,
+      "key": "ShopSection_Gem",
+      "value": "Gem"
+    },
+    {
+      "id": 192,
+      "key": "ShopSection_Costume",
+      "value": "Costume"
+    },
+    {
+      "id": 193,
+      "key": "ShopSection_Transform",
+      "value": "Transform"
+    },
+    {
+      "id": 194,
+      "key": "GotoShop_TicketTitle",
+      "value": "Not Enough Tickets"
+    },
+    {
+      "id": 195,
+      "key": "GotoShop_TicketBody",
+      "value": "You need more {0} transformation tickets.\nGo to the shop to buy more?"
+    },
+    {
+      "id": 196,
+      "key": "AppearancePart_Hair",
+      "value": "Hair"
+    },
+    {
+      "id": 197,
+      "key": "AppearancePart_Face",
+      "value": "Face"
+    },
+    {
+      "id": 198,
+      "key": "AppearancePart_Hat",
+      "value": "Hat"
+    },
+    {
+      "id": 199,
+      "key": "AppearancePart_Avatar",
+      "value": "Outfit"
+    },
+    {
+      "id": 200,
+      "key": "AppearanceShop_UseTicket",
+      "value": "Use {0}"
+    },
+    {
+      "id": 201,
+      "key": "AppearanceTag_Hat",
+      "value": "Head"
+    },
+    {
+      "id": 202,
+      "key": "AppearanceTag_Avatar",
+      "value": "Outfit"
+    },
+    {
+      "id": 225,
+      "key": "AppearanceSave_SlotLabelHair",
+      "value": "Disguise Scroll ▪ Hair Slots"
+    },
+    {
+      "id": 226,
+      "key": "AppearanceSave_SlotLabelFace",
+      "value": "Disguise Scroll ▪ Face Slots"
+    },
+    {
+      "id": 227,
+      "key": "AppearanceSave_RecordTitle",
+      "value": "Record"
+    },
+    {
+      "id": 228,
+      "key": "AppearanceSave_SwapTitle",
+      "value": "Swap"
+    },
+    {
+      "id": 229,
+      "key": "AppearanceSave_RecordBodyHair",
+      "value": "Record your current hair in this slot?"
+    },
+    {
+      "id": 230,
+      "key": "AppearanceSave_RecordBodyFace",
+      "value": "Record your current face in this slot?"
+    },
+    {
+      "id": 231,
+      "key": "AppearanceSave_SwapBodyHair",
+      "value": "Swap your current hair with\nthe hair in this slot?"
+    },
+    {
+      "id": 232,
+      "key": "AppearanceSave_SwapBodyFace",
+      "value": "Swap your current face with\nthe face in this slot?"
+    },
+    {
+      "id": 233,
+      "key": "AppearanceSave_NowHair",
+      "value": "Current Hair"
+    },
+    {
+      "id": 234,
+      "key": "AppearanceSave_NowFace",
+      "value": "Current Face"
+    },
+    {
+      "id": 235,
+      "key": "AppearanceSave_AfterHair",
+      "value": "Hair in This Slot"
+    },
+    {
+      "id": 236,
+      "key": "AppearanceSave_AfterFace",
+      "value": "Face in This Slot"
+    },
+    {
+      "id": 237,
+      "key": "AppearanceSave_ExpandTitleHair",
+      "value": "Disguise Scroll ▪ Expand Hair Slots"
+    },
+    {
+      "id": 238,
+      "key": "AppearanceSave_ExpandTitleFace",
+      "value": "Disguise Scroll ▪ Expand Face Slots"
+    },
+    {
+      "id": 239,
+      "key": "AppearanceSave_ExpandMax",
+      "value": "Max {0} slots"
+    },
+    {
+      "id": 248,
+      "key": "ShopSection_Supply",
+      "value": "Supply"
+    },
+    {
+      "id": 251,
+      "key": "EventMissionRewardTitle",
+      "value": "Event Reward"
+    },
+    {
+      "id": 252,
+      "key": "AppearanceSave_PartHair",
+      "value": "hair"
+    },
+    {
+      "id": 253,
+      "key": "AppearanceSave_PartFace",
+      "value": "face"
+    },
+    {
+      "id": 254,
+      "key": "AppearanceSave_SwapSameToast",
+      "value": "It's the same as your current {0}, so it can't be swapped."
+    }
+  ]
+}

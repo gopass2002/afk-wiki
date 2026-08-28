@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 30,
+    "schema": "FBDataCookProb",
+    "sourceAsset": "FBDataCookProb",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "cookLevel": 1,
+      "weight": 10430
+    },
+    {
+      "id": 2,
+      "cookLevel": 2,
+      "weight": 8870
+    },
+    {
+      "id": 3,
+      "cookLevel": 3,
+      "weight": 7540
+    },
+    {
+      "id": 4,
+      "cookLevel": 4,
+      "weight": 6410
+    },
+    {
+      "id": 5,
+      "cookLevel": 5,
+      "weight": 5440
+    },
+    {
+      "id": 6,
+      "cookLevel": 6,
+      "weight": 4630
+    },
+    {
+      "id": 7,
+      "cookLevel": 7,
+      "weight": 3930
+    },
+    {
+      "id": 8,
+      "cookLevel": 8,
+      "weight": 3340
+    },
+    {
+      "id": 9,
+      "cookLevel": 9,
+      "weight": 2840
+    },
+    {
+      "id": 10,
+      "cookLevel": 10,
+      "weight": 2420
+    },
+    {
+      "id": 11,
+      "cookLevel": 11,
+      "weight": 2050
+    },
+    {
+      "id": 12,
+      "cookLevel": 12,
+      "weight": 1750
+    },
+    {
+      "id": 13,
+      "cookLevel": 13,
+      "weight": 1480
+    },
+    {
+      "id": 14,
+      "cookLevel": 14,
+      "weight": 1260
+    },
+    {
+      "id": 15,
+      "cookLevel": 15,
+      "weight": 1070
+    },
+    {
+      "id": 16,
+      "cookLevel": 16,
+      "weight": 910
+    },
+    {
+      "id": 17,
+      "cookLevel": 17,
+      "weight": 770
+    },
+    {
+      "id": 18,
+      "cookLevel": 18,
+      "weight": 660
+    },
+    {
+      "id": 19,
+      "cookLevel": 19,
+      "weight": 560
+    },
+    {
+      "id": 20,
+      "cookLevel": 20,
+      "weight": 480
+    },
+    {
+      "id": 21,
+      "cookLevel": 21,
+      "weight": 400
+    },
+    {
+      "id": 22,
+      "cookLevel": 22,
+      "weight": 340
+    },
+    {
+      "id": 23,
+      "cookLevel": 23,
+      "weight": 290
+    },
+    {
+      "id": 24,
+      "cookLevel": 24,
+      "weight": 250
+    },
+    {
+      "id": 25,
+      "cookLevel": 25,
+      "weight": 210
+    },
+    {
+      "id": 26,
+      "cookLevel": 26,
+      "weight": 180
+    },
+    {
+      "id": 27,
+      "cookLevel": 27,
+      "weight": 150
+    },
+    {
+      "id": 28,
+      "cookLevel": 28,
+      "weight": 130
+    },
+    {
+      "id": 29,
+      "cookLevel": 29,
+      "weight": 110
+    },
+    {
+      "id": 30,
+      "cookLevel": 30,
+      "weight": 90
+    }
+  ]
+}

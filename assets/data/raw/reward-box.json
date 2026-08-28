@@ -1,0 +1,4693 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 520,
+    "schema": "FBDataRewardBox",
+    "sourceAsset": "FBDataRewardBox",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 2,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 3,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11210201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 4,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11210301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 5,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11210401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 6,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 21110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 7,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 31110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 8,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 41110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 9,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 51110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 10,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 61110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 11,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 20210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 12,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 30210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 13,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 40210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 14,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 50210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 15,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 60210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 16,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 17,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 18,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 19,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 20,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220501,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 21,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220601,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 22,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220701,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 23,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220801,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 24,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11220901,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 25,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 20220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 26,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 30220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 27,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 40220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 28,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 50220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 29,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 60220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 30,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 31,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 32,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11230201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 33,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11230301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 34,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11230401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 35,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 11230501,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 36,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 21130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 37,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 31130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 38,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 41130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 39,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 51130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 40,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 61130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 41,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 20230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 42,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 30230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 43,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 40230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 44,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 50230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 45,
+      "groupKey": "SkillPool_Gacha_Epic",
+      "targetId": 60230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 46,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 47,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 48,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 49,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 50,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240501,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 51,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 11240601,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 52,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 20240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 53,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 30240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 54,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 40240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 55,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 50240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 56,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 60240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 127,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 20240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 128,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 30240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 129,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 40240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 130,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 50240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 131,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 60240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 57,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 11250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 58,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 11250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 59,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 11250301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 60,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 20250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 61,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 30250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 62,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 40250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 63,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 50250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 64,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 60250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 67,
+      "groupKey": "Cook_Dish_Normal",
+      "targetId": 33101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 68,
+      "groupKey": "Cook_Dish_Normal",
+      "targetId": 34101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 69,
+      "groupKey": "Cook_Dish_Normal",
+      "targetId": 35101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 70,
+      "groupKey": "Cook_Dish_Normal",
+      "targetId": 36101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 73,
+      "groupKey": "Cook_Dish_Rare",
+      "targetId": 33102000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 74,
+      "groupKey": "Cook_Dish_Rare",
+      "targetId": 34102000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 75,
+      "groupKey": "Cook_Dish_Rare",
+      "targetId": 35102000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 76,
+      "groupKey": "Cook_Dish_Rare",
+      "targetId": 36102000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 79,
+      "groupKey": "Cook_Dish_Epic",
+      "targetId": 33103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 80,
+      "groupKey": "Cook_Dish_Epic",
+      "targetId": 34103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 81,
+      "groupKey": "Cook_Dish_Epic",
+      "targetId": 35103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 82,
+      "groupKey": "Cook_Dish_Epic",
+      "targetId": 36103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 85,
+      "groupKey": "Cook_Dish_Unique",
+      "targetId": 33104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 86,
+      "groupKey": "Cook_Dish_Unique",
+      "targetId": 34104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 87,
+      "groupKey": "Cook_Dish_Unique",
+      "targetId": 35104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 88,
+      "groupKey": "Cook_Dish_Unique",
+      "targetId": 36104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 91,
+      "groupKey": "Cook_Dish_Legendary",
+      "targetId": 33105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 92,
+      "groupKey": "Cook_Dish_Legendary",
+      "targetId": 34105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 93,
+      "groupKey": "Cook_Dish_Legendary",
+      "targetId": 35105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 94,
+      "groupKey": "Cook_Dish_Legendary",
+      "targetId": 36105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 95,
+      "groupKey": "Cook_Sub_CookingExp_T1",
+      "targetId": 101,
+      "type": "Exp",
+      "amountMin": 50,
+      "amountMax": 150,
+      "weight": 1
+    },
+    {
+      "id": 96,
+      "groupKey": "Cook_Sub_CookingExp_T2",
+      "targetId": 101,
+      "type": "Exp",
+      "amountMin": 150,
+      "amountMax": 400,
+      "weight": 1
+    },
+    {
+      "id": 97,
+      "groupKey": "Cook_Sub_CookingExp_T3",
+      "targetId": 101,
+      "type": "Exp",
+      "amountMin": 400,
+      "amountMax": 900,
+      "weight": 1
+    },
+    {
+      "id": 98,
+      "groupKey": "Cook_Sub_CookingExp_T4",
+      "targetId": 101,
+      "type": "Exp",
+      "amountMin": 900,
+      "amountMax": 2000,
+      "weight": 1
+    },
+    {
+      "id": 99,
+      "groupKey": "Cook_Sub_Gold_T1",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 30,
+      "amountMax": 80,
+      "weight": 1
+    },
+    {
+      "id": 100,
+      "groupKey": "Cook_Sub_Gold_T2",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 80,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 101,
+      "groupKey": "Cook_Sub_Gold_T3",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 200,
+      "amountMax": 500,
+      "weight": 1
+    },
+    {
+      "id": 102,
+      "groupKey": "Cook_Sub_Gold_T4",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 500,
+      "amountMax": 1200,
+      "weight": 1
+    },
+    {
+      "id": 103,
+      "groupKey": "Cook_Sub_EnhanceMat_T1",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 104,
+      "groupKey": "Cook_Sub_EnhanceMat_T1",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 106,
+      "groupKey": "Cook_Sub_EnhanceMat_T2",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 107,
+      "groupKey": "Cook_Sub_EnhanceMat_T2",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 109,
+      "groupKey": "Cook_Sub_EnhanceMat_T3",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 110,
+      "groupKey": "Cook_Sub_EnhanceMat_T3",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 112,
+      "groupKey": "Cook_Sub_EnhanceMat_T4",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 113,
+      "groupKey": "Cook_Sub_EnhanceMat_T4",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 115,
+      "groupKey": "Cook_Sub_SkillTicket_T1",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 116,
+      "groupKey": "Cook_Sub_SkillTicket_T2",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 117,
+      "groupKey": "Cook_Sub_SkillTicket_T3",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 118,
+      "groupKey": "Cook_Sub_SkillTicket_T4",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 2,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 127,
+      "groupKey": "Box_Attend_M1",
+      "targetId": 12403001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 128,
+      "groupKey": "Box_Attend_M1",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 129,
+      "groupKey": "Box_Attend_M1",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 20000,
+      "amountMax": 20000,
+      "weight": 1
+    },
+    {
+      "id": 130,
+      "groupKey": "Box_Attend_M1",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 131,
+      "groupKey": "Box_Attend_M2",
+      "targetId": 12503000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 132,
+      "groupKey": "Box_Attend_M2",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 133,
+      "groupKey": "Box_Attend_M2",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 300,
+      "amountMax": 300,
+      "weight": 1
+    },
+    {
+      "id": 134,
+      "groupKey": "Box_Attend_M3",
+      "targetId": 12203002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 135,
+      "groupKey": "Box_Attend_M3",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 15,
+      "amountMax": 15,
+      "weight": 1
+    },
+    {
+      "id": 136,
+      "groupKey": "Box_Attend_M3",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 400,
+      "amountMax": 400,
+      "weight": 1
+    },
+    {
+      "id": 137,
+      "groupKey": "Box_Attend_M4",
+      "targetId": 12303002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 138,
+      "groupKey": "Box_Attend_M4",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 500,
+      "amountMax": 500,
+      "weight": 1
+    },
+    {
+      "id": 139,
+      "groupKey": "Box_Attend_M4",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 50000,
+      "amountMax": 50000,
+      "weight": 1
+    },
+    {
+      "id": 140,
+      "groupKey": "Box_Attend_M4",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 500,
+      "amountMax": 500,
+      "weight": 1
+    },
+    {
+      "id": 141,
+      "groupKey": "Box_Gangho_Trove",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 30000,
+      "amountMax": 30000,
+      "weight": 40
+    },
+    {
+      "id": 142,
+      "groupKey": "Box_Gangho_Trove",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 30
+    },
+    {
+      "id": 143,
+      "groupKey": "Box_Gangho_Trove",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 20
+    },
+    {
+      "id": 144,
+      "groupKey": "Box_Gangho_Trove",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 10
+    },
+    {
+      "id": 145,
+      "groupKey": "Box_Murim_Gold",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40
+    },
+    {
+      "id": 146,
+      "groupKey": "Box_Murim_Gold",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 300,
+      "amountMax": 300,
+      "weight": 30
+    },
+    {
+      "id": 147,
+      "groupKey": "Box_Murim_Gold",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 20,
+      "amountMax": 20,
+      "weight": 15
+    },
+    {
+      "id": 148,
+      "groupKey": "Box_Murim_Gold",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 15
+    },
+    {
+      "id": 149,
+      "groupKey": "Box_Weapon_Unique",
+      "targetId": 11104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 150,
+      "groupKey": "Box_Weapon_Unique",
+      "targetId": 11204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 151,
+      "groupKey": "Box_Weapon_Unique",
+      "targetId": 11304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 152,
+      "groupKey": "Box_Weapon_Unique",
+      "targetId": 11404000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 153,
+      "groupKey": "Box_Weapon_Unique",
+      "targetId": 11504000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 154,
+      "groupKey": "Cook_Sub_Potion_T1",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 155,
+      "groupKey": "Cook_Sub_Potion_T2",
+      "targetId": 96000002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 156,
+      "groupKey": "Cook_Sub_Potion_T3",
+      "targetId": 96000003,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 157,
+      "groupKey": "Cook_Sub_Potion_T4",
+      "targetId": 96000004,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 158,
+      "groupKey": "SkillPool_Gacha_Normal",
+      "targetId": 11110201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 159,
+      "groupKey": "SkillPool_Gacha_Rare",
+      "targetId": 11120101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 160,
+      "groupKey": "WebShop_Jade_Gigantic",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 1200,
+      "amountMax": 1200,
+      "weight": 1
+    },
+    {
+      "id": 161,
+      "groupKey": "WebShop_Jade_Huge",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 900,
+      "amountMax": 900,
+      "weight": 1
+    },
+    {
+      "id": 162,
+      "groupKey": "WebShop_Jade_Large",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 330,
+      "amountMax": 330,
+      "weight": 1
+    },
+    {
+      "id": 163,
+      "groupKey": "WebShop_Jade_Medium",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 160,
+      "amountMax": 160,
+      "weight": 1
+    },
+    {
+      "id": 164,
+      "groupKey": "WebShop_Jade_Small",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 105,
+      "amountMax": 105,
+      "weight": 1
+    },
+    {
+      "id": 165,
+      "groupKey": "WebShop_Jade_Tiny",
+      "targetId": 3,
+      "type": "Currency",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 1
+    },
+    {
+      "id": 166,
+      "groupKey": "WebShop_90_Package",
+      "targetId": 96000025,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 167,
+      "groupKey": "WebShop_90_Package",
+      "targetId": 96000026,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 168,
+      "groupKey": "WebShop_90_Package",
+      "targetId": 96000027,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 169,
+      "groupKey": "Box_Attend_M2",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 170,
+      "groupKey": "Box_Attend_M3",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 300,
+      "amountMax": 300,
+      "weight": 1
+    },
+    {
+      "id": 171,
+      "groupKey": "Box_Attend_M4",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 20,
+      "amountMax": 20,
+      "weight": 1
+    },
+    {
+      "id": 172,
+      "groupKey": "Box_Heaven_Gold",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 200000,
+      "amountMax": 200000,
+      "weight": 40
+    },
+    {
+      "id": 173,
+      "groupKey": "Box_Heaven_Gold",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 1500,
+      "amountMax": 1500,
+      "weight": 30
+    },
+    {
+      "id": 174,
+      "groupKey": "Box_Heaven_Gold",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 20
+    },
+    {
+      "id": 175,
+      "groupKey": "Box_Heaven_Gold",
+      "targetId": 90000000,
+      "type": "Item",
+      "amountMin": 20,
+      "amountMax": 20,
+      "weight": 10
+    },
+    {
+      "id": 176,
+      "groupKey": "SystemShop_Jade_Package_01",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 50,
+      "amountMax": 50,
+      "weight": 1
+    },
+    {
+      "id": 177,
+      "groupKey": "SystemShop_Jade_Package_01",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 100000,
+      "amountMax": 100000,
+      "weight": 1
+    },
+    {
+      "id": 178,
+      "groupKey": "SystemShop_Jade_Package_01",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 179,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 12202002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 180,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 12302002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 181,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 12402002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 182,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 12502001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 183,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 91000001,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 184,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 90000000,
+      "type": "Currency",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 1
+    },
+    {
+      "id": 185,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 1000000,
+      "amountMax": 1000000,
+      "weight": 1
+    },
+    {
+      "id": 186,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 96000003,
+      "type": "Item",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 187,
+      "groupKey": "SystemShop_Jade_Package_02",
+      "targetId": 96000002,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 188,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 96000016,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 189,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 300,
+      "amountMax": 300,
+      "weight": 1
+    },
+    {
+      "id": 190,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 91000000,
+      "type": "Currency",
+      "amountMin": 60,
+      "amountMax": 60,
+      "weight": 1
+    },
+    {
+      "id": 191,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 1000000,
+      "amountMax": 1000000,
+      "weight": 1
+    },
+    {
+      "id": 192,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 96000004,
+      "type": "Item",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 193,
+      "groupKey": "Box_Skill_Select",
+      "targetId": 96000019,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 194,
+      "groupKey": "Box_Skill_Select",
+      "targetId": 96000020,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 195,
+      "groupKey": "Box_Skill_Select",
+      "targetId": 96000021,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 196,
+      "groupKey": "Box_Skill_Select",
+      "targetId": 96000022,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 197,
+      "groupKey": "Box_Skill_Select",
+      "targetId": 96000023,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 198,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 199,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 21110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 200,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 201,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 202,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 21130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 203,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 204,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 205,
+      "groupKey": "Box_Skill_Sword",
+      "targetId": 20250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 100
+    },
+    {
+      "id": 206,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 207,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 31110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 208,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 209,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 210,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 31130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 211,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 212,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 213,
+      "groupKey": "Box_Skill_Blade",
+      "targetId": 30250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 100
+    },
+    {
+      "id": 214,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 215,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 41110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 216,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 217,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 218,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 41130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 219,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 220,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 221,
+      "groupKey": "Box_Skill_Spear",
+      "targetId": 40250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 100
+    },
+    {
+      "id": 222,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 223,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 51110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 224,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 225,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 226,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 51130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 227,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 228,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 229,
+      "groupKey": "Box_Skill_Staff",
+      "targetId": 50250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 100
+    },
+    {
+      "id": 230,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60210101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 231,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 61110101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 232,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60220101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 30000
+    },
+    {
+      "id": 233,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60230101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 234,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 61130101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 235,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 236,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 450
+    },
+    {
+      "id": 237,
+      "groupKey": "Box_Skill_Hidden",
+      "targetId": 60250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 100
+    },
+    {
+      "id": 238,
+      "groupKey": "SystemShop_Jade_Package_03",
+      "targetId": 96000018,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 239,
+      "groupKey": "Box_Weapon_Epic",
+      "targetId": 11103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 240,
+      "groupKey": "Box_Weapon_Epic",
+      "targetId": 11203000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 241,
+      "groupKey": "Box_Weapon_Epic",
+      "targetId": 11303000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 242,
+      "groupKey": "Box_Weapon_Epic",
+      "targetId": 11403000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 243,
+      "groupKey": "Box_Weapon_Epic",
+      "targetId": 11503000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 244,
+      "groupKey": "Box_FirstStep_Weapon",
+      "targetId": 96000024,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 245,
+      "groupKey": "Box_FirstStep_Weapon",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 246,
+      "groupKey": "Box_FirstStep_Accessory",
+      "targetId": 13101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 247,
+      "groupKey": "Box_FirstStep_Accessory",
+      "targetId": 13301000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 248,
+      "groupKey": "Box_FirstStep_Accessory",
+      "targetId": 13201000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 249,
+      "groupKey": "Box_FirstStep_Accessory",
+      "targetId": 91000002,
+      "type": "Item",
+      "amountMin": 15,
+      "amountMax": 15,
+      "weight": 1
+    },
+    {
+      "id": 250,
+      "groupKey": "Box_FirstStep_Skill",
+      "targetId": 96000018,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 251,
+      "groupKey": "Box_FirstStep_Skill",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 252,
+      "groupKey": "Box_FirstStep_Skill",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 100000,
+      "amountMax": 100000,
+      "weight": 1
+    },
+    {
+      "id": 253,
+      "groupKey": "Box_FirstStep_Skill",
+      "targetId": 96000001,
+      "type": "Item",
+      "amountMin": 500,
+      "amountMax": 500,
+      "weight": 1
+    },
+    {
+      "id": 263,
+      "groupKey": "ACCOUNT_LINK",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 400,
+      "groupKey": "Box_Weapon_Hyeon",
+      "targetId": 11103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 401,
+      "groupKey": "Box_Weapon_Hyeon",
+      "targetId": 11203000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 402,
+      "groupKey": "Box_Weapon_Hyeon",
+      "targetId": 11303000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 403,
+      "groupKey": "Box_Weapon_Hyeon",
+      "targetId": 11403000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 404,
+      "groupKey": "Box_Weapon_Hyeon",
+      "targetId": 11503000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 405,
+      "groupKey": "Box_Armor_Hyeon",
+      "targetId": 12103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 406,
+      "groupKey": "Box_Armor_Hyeon",
+      "targetId": 12203002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 407,
+      "groupKey": "Box_Armor_Hyeon",
+      "targetId": 12303002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 408,
+      "groupKey": "Box_Armor_Hyeon",
+      "targetId": 12403001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 409,
+      "groupKey": "Box_Armor_Hyeon",
+      "targetId": 12503000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 410,
+      "groupKey": "Box_Acc_Hyeon",
+      "targetId": 13103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 411,
+      "groupKey": "Box_Acc_Hyeon",
+      "targetId": 13203000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 412,
+      "groupKey": "Box_Acc_Hyeon",
+      "targetId": 13303000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 413,
+      "groupKey": "Box_Gear_Hyeon",
+      "targetId": 96000029,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 414,
+      "groupKey": "Box_Gear_Hyeon",
+      "targetId": 96000032,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 415,
+      "groupKey": "Box_Gear_Hyeon",
+      "targetId": 96000035,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 416,
+      "groupKey": "Box_Weapon_Seon",
+      "targetId": 11104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 417,
+      "groupKey": "Box_Weapon_Seon",
+      "targetId": 11204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 418,
+      "groupKey": "Box_Weapon_Seon",
+      "targetId": 11304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 419,
+      "groupKey": "Box_Weapon_Seon",
+      "targetId": 11404000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 420,
+      "groupKey": "Box_Weapon_Seon",
+      "targetId": 11504000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 421,
+      "groupKey": "Box_Armor_Seon",
+      "targetId": 12104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 422,
+      "groupKey": "Box_Armor_Seon",
+      "targetId": 12204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 423,
+      "groupKey": "Box_Armor_Seon",
+      "targetId": 12304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 424,
+      "groupKey": "Box_Armor_Seon",
+      "targetId": 12404000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 425,
+      "groupKey": "Box_Armor_Seon",
+      "targetId": 12504000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 426,
+      "groupKey": "Box_Acc_Seon",
+      "targetId": 13104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 427,
+      "groupKey": "Box_Acc_Seon",
+      "targetId": 13204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 428,
+      "groupKey": "Box_Acc_Seon",
+      "targetId": 13304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 429,
+      "groupKey": "Box_Gear_Seon",
+      "targetId": 96000030,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 430,
+      "groupKey": "Box_Gear_Seon",
+      "targetId": 96000033,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 431,
+      "groupKey": "Box_Gear_Seon",
+      "targetId": 96000036,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 432,
+      "groupKey": "Box_Weapon_Sin",
+      "targetId": 11105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 433,
+      "groupKey": "Box_Weapon_Sin",
+      "targetId": 11205000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 434,
+      "groupKey": "Box_Weapon_Sin",
+      "targetId": 11305000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 435,
+      "groupKey": "Box_Weapon_Sin",
+      "targetId": 11405000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 436,
+      "groupKey": "Box_Weapon_Sin",
+      "targetId": 11505000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 437,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 438,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12205000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 439,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12305000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 440,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12405000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 441,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12505000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 442,
+      "groupKey": "Box_Acc_Sin",
+      "targetId": 13105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 443,
+      "groupKey": "Box_Acc_Sin",
+      "targetId": 13205000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 444,
+      "groupKey": "Box_Acc_Sin",
+      "targetId": 13305000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 445,
+      "groupKey": "Box_Gear_Sin",
+      "targetId": 96000031,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 446,
+      "groupKey": "Box_Gear_Sin",
+      "targetId": 96000034,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 447,
+      "groupKey": "Box_Gear_Sin",
+      "targetId": 96000037,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 448,
+      "groupKey": "Box_Skill_Bijeon_Sword",
+      "targetId": 20250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 449,
+      "groupKey": "Box_Skill_Bijeon_Sword",
+      "targetId": 20240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 450,
+      "groupKey": "Box_Skill_Bijeon_Sword",
+      "targetId": 20240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 451,
+      "groupKey": "Box_Skill_Bijeon_Sword",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 452,
+      "groupKey": "Box_Skill_Bijeon_Sword",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 453,
+      "groupKey": "Box_Skill_Bijeon_Blade",
+      "targetId": 30250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 454,
+      "groupKey": "Box_Skill_Bijeon_Blade",
+      "targetId": 30240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 455,
+      "groupKey": "Box_Skill_Bijeon_Blade",
+      "targetId": 30240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 456,
+      "groupKey": "Box_Skill_Bijeon_Blade",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 457,
+      "groupKey": "Box_Skill_Bijeon_Blade",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 458,
+      "groupKey": "Box_Skill_Bijeon_Spear",
+      "targetId": 40250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 459,
+      "groupKey": "Box_Skill_Bijeon_Spear",
+      "targetId": 40240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 460,
+      "groupKey": "Box_Skill_Bijeon_Spear",
+      "targetId": 40240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 461,
+      "groupKey": "Box_Skill_Bijeon_Spear",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 462,
+      "groupKey": "Box_Skill_Bijeon_Spear",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 463,
+      "groupKey": "Box_Skill_Bijeon_Staff",
+      "targetId": 50250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 464,
+      "groupKey": "Box_Skill_Bijeon_Staff",
+      "targetId": 50240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 465,
+      "groupKey": "Box_Skill_Bijeon_Staff",
+      "targetId": 50240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 466,
+      "groupKey": "Box_Skill_Bijeon_Staff",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 467,
+      "groupKey": "Box_Skill_Bijeon_Staff",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 468,
+      "groupKey": "Box_Skill_Bijeon_Hidden",
+      "targetId": 60250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 469,
+      "groupKey": "Box_Skill_Bijeon_Hidden",
+      "targetId": 60240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 470,
+      "groupKey": "Box_Skill_Bijeon_Hidden",
+      "targetId": 60240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4500
+    },
+    {
+      "id": 471,
+      "groupKey": "Box_Skill_Bijeon_Hidden",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 472,
+      "groupKey": "Box_Skill_Bijeon_Hidden",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 473,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 333
+    },
+    {
+      "id": 474,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 333
+    },
+    {
+      "id": 475,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11250301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 333
+    },
+    {
+      "id": 476,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 477,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 478,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 479,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 480,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240501,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 481,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 11240601,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 482,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 93000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 50000
+    },
+    {
+      "id": 483,
+      "groupKey": "Box_Skill_Bijeon_Cheonma",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 40000
+    },
+    {
+      "id": 484,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000041,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 485,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000042,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 486,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000043,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 487,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000044,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 488,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000045,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 489,
+      "groupKey": "Box_Skill_Bijeon_Select",
+      "targetId": 96000046,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 494,
+      "groupKey": "SystemShop_Jade_Package_04",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 5000000,
+      "amountMax": 5000000,
+      "weight": 1
+    },
+    {
+      "id": 495,
+      "groupKey": "SystemShop_Jade_Package_04",
+      "targetId": 96000004,
+      "type": "Item",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 1
+    },
+    {
+      "id": 496,
+      "groupKey": "SystemShop_Jade_Package_05",
+      "targetId": 4,
+      "type": "Currency",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 1
+    },
+    {
+      "id": 497,
+      "groupKey": "SystemShop_Jade_Package_05",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 1000000,
+      "amountMax": 1000000,
+      "weight": 1
+    },
+    {
+      "id": 498,
+      "groupKey": "SystemShop_Jade_Package_06",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 600,
+      "amountMax": 600,
+      "weight": 1
+    },
+    {
+      "id": 499,
+      "groupKey": "SystemShop_Jade_Package_07",
+      "targetId": 96000038,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 500,
+      "groupKey": "SystemShop_Jade_Package_07",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 1
+    },
+    {
+      "id": 501,
+      "groupKey": "SystemShop_Jade_Package_07",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 8000000,
+      "amountMax": 8000000,
+      "weight": 1
+    },
+    {
+      "id": 502,
+      "groupKey": "SystemShop_Jade_Package_08",
+      "targetId": 96000039,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 503,
+      "groupKey": "SystemShop_Jade_Package_08",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 504,
+      "groupKey": "SystemShop_Jade_Package_08",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 15000000,
+      "amountMax": 15000000,
+      "weight": 1
+    },
+    {
+      "id": 505,
+      "groupKey": "SystemShop_Jade_Package_08",
+      "targetId": 96000004,
+      "type": "Item",
+      "amountMin": 50,
+      "amountMax": 50,
+      "weight": 1
+    },
+    {
+      "id": 506,
+      "groupKey": "SystemShop_Jade_Package_09",
+      "targetId": 96000047,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 507,
+      "groupKey": "SystemShop_Jade_Package_09",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 508,
+      "groupKey": "SystemShop_Jade_Package_09",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 500,
+      "amountMax": 500,
+      "weight": 1
+    },
+    {
+      "id": 509,
+      "groupKey": "SystemShop_Jade_Package_10",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 6500,
+      "amountMax": 6500,
+      "weight": 1
+    },
+    {
+      "id": 510,
+      "groupKey": "SystemShop_Jade_Package_11",
+      "targetId": 96000039,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 511,
+      "groupKey": "SystemShop_Jade_Package_11",
+      "targetId": 96000040,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 512,
+      "groupKey": "SystemShop_Jade_Package_11",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 50000000,
+      "amountMax": 50000000,
+      "weight": 1
+    },
+    {
+      "id": 513,
+      "groupKey": "SystemShop_Jade_Package_12",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 300000000,
+      "amountMax": 300000000,
+      "weight": 1
+    },
+    {
+      "id": 514,
+      "groupKey": "SystemShop_Jade_Package_12",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 1
+    },
+    {
+      "id": 515,
+      "groupKey": "SystemShop_Jade_Package_13",
+      "targetId": 96000040,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 516,
+      "groupKey": "SystemShop_Jade_Package_13",
+      "targetId": 96000039,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 1
+    },
+    {
+      "id": 517,
+      "groupKey": "SystemShop_Jade_Package_13",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 40000,
+      "amountMax": 40000,
+      "weight": 1
+    },
+    {
+      "id": 518,
+      "groupKey": "SystemShop_Jade_Package_14",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 519,
+      "groupKey": "SystemShop_Jade_Package_14",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 520,
+      "groupKey": "SystemShop_Jade_Package_14",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 521,
+      "groupKey": "SystemShop_Jade_Package_14",
+      "targetId": 22101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 522,
+      "groupKey": "SystemShop_Jade_Package_15",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 523,
+      "groupKey": "SystemShop_Jade_Package_15",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 524,
+      "groupKey": "SystemShop_Jade_Package_15",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 400,
+      "amountMax": 400,
+      "weight": 1
+    },
+    {
+      "id": 525,
+      "groupKey": "SystemShop_Jade_Package_16",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 526,
+      "groupKey": "SystemShop_Jade_Package_16",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 527,
+      "groupKey": "SystemShop_Jade_Package_16",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 1
+    },
+    {
+      "id": 528,
+      "groupKey": "SystemShop_Jade_Package_17",
+      "targetId": 22204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 529,
+      "groupKey": "SystemShop_Jade_Package_17",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 530,
+      "groupKey": "SystemShop_Jade_Package_17",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 531,
+      "groupKey": "SystemShop_Jade_Package_18",
+      "targetId": 22103000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 532,
+      "groupKey": "SystemShop_Jade_Package_18",
+      "targetId": 22103001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 533,
+      "groupKey": "SystemShop_Jade_Package_18",
+      "targetId": 22101000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 534,
+      "groupKey": "SystemShop_Jade_Package_18",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 535,
+      "groupKey": "Box_AuctionSellPackage",
+      "targetId": 1,
+      "type": "Entitlement",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 537,
+      "groupKey": "Box_Costume_S1",
+      "targetId": 11,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 538,
+      "groupKey": "Box_Costume_S1",
+      "targetId": 12,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 264,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 265,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 266,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 267,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001010,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 268,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001011,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 269,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001012,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 270,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001020,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 271,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001021,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 272,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001022,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 273,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001030,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 274,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001031,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 275,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001032,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 276,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001040,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 277,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001041,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 278,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001042,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 279,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001050,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 280,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001051,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 281,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001052,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 282,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001060,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 283,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001061,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 284,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001062,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 285,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001070,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 286,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001071,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 287,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001072,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 288,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001080,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 289,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001081,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 290,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001082,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1500
+    },
+    {
+      "id": 291,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001090,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 292,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001091,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 293,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001092,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 294,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001100,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 295,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001101,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 296,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001102,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 297,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001110,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 298,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001111,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 299,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001112,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 300,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001120,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 301,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001121,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 302,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001122,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 303,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001130,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 304,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001131,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 305,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001132,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 306,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001140,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 307,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001141,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 308,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001142,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 309,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001150,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 310,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001151,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 311,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001152,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 312,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001160,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 313,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001161,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 314,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001162,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 315,
+      "groupKey": "HairPool_Gacha",
+      "targetId": 24001900,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1000
+    },
+    {
+      "id": 316,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 317,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001001,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 318,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001002,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 319,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001003,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 320,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001004,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 321,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001005,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 322,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001006,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 323,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001007,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 324,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001008,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 325,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001009,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 326,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001010,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 327,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001011,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 328,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001012,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 329,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001013,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 330,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001014,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 331,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001015,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 332,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001016,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 2000
+    },
+    {
+      "id": 333,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001017,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 334,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001018,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 335,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001019,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 336,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001020,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 337,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001021,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 338,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001022,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 339,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001023,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 340,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001024,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 341,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001025,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 342,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001026,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 343,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001027,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 575,
+      "groupKey": "FacePool_Gacha",
+      "targetId": 25001028,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 3500
+    },
+    {
+      "id": 576,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 11104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19000
+    },
+    {
+      "id": 577,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 11204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19000
+    },
+    {
+      "id": 578,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 11304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19000
+    },
+    {
+      "id": 579,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 11404000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19000
+    },
+    {
+      "id": 580,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 11504000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19000
+    },
+    {
+      "id": 581,
+      "groupKey": "Box_Open_Weapon",
+      "targetId": 96000031,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5000
+    },
+    {
+      "id": 582,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12104000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 583,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12204000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 584,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12304000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 585,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12404000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 586,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12504000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 587,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12604000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 588,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12704000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 589,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12804000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 590,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 12904000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 10555
+    },
+    {
+      "id": 591,
+      "groupKey": "Box_Open_Armor",
+      "targetId": 96000034,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5005
+    },
+    {
+      "id": 598,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12605000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 599,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12705000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 600,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12805000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 601,
+      "groupKey": "Box_Armor_Sin",
+      "targetId": 12905000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 602,
+      "groupKey": "Box_Gear_Sin",
+      "targetId": 14105000,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 612,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 20250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 613,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 30250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 614,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 40250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 615,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 50250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 616,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 60250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 617,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 11250101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 618,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 11250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 619,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 11250301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 620,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 20240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 621,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 20240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 622,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 30240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 623,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 30240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 624,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 40240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 625,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 40240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 626,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 50240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 627,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 50240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 628,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 60240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 629,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 60240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 630,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240101,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 631,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 632,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 633,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240401,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 634,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240501,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 635,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 11240601,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 636,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 96000054,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5600
+    },
+    {
+      "id": 641,
+      "groupKey": "Box_JadeAppearance",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 3000,
+      "amountMax": 3000,
+      "weight": 1
+    },
+    {
+      "id": 642,
+      "groupKey": "Box_JadeAppearance",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 643,
+      "groupKey": "Box_JadeAppearance",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 644,
+      "groupKey": "Box_FirstPay",
+      "targetId": 2,
+      "type": "Item",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 1
+    },
+    {
+      "id": 645,
+      "groupKey": "Box_FirstPay",
+      "targetId": 11,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 646,
+      "groupKey": "Box_FirstPay",
+      "targetId": 12,
+      "type": "Item",
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 1
+    },
+    {
+      "id": 647,
+      "groupKey": "Box_FirstPay",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 648,
+      "groupKey": "EVENT_NAVER_CAFE_VISIT",
+      "targetId": 11,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 649,
+      "groupKey": "EVENT_NAVER_CAFE_VISIT",
+      "targetId": 12,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 650,
+      "groupKey": "EVENT_NAVER_CAFE_VISIT",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 651,
+      "groupKey": "EVENT_GUILD_JOIN",
+      "targetId": 96000003,
+      "type": "Item",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 652,
+      "groupKey": "EVENT_GUILD_JOIN",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 1
+    },
+    {
+      "id": 653,
+      "groupKey": "Box_Sin_Weapon",
+      "targetId": 96000031,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 654,
+      "groupKey": "Box_Sin_Weapon",
+      "targetId": 96000050,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 655,
+      "groupKey": "Box_Sin_Weapon",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 656,
+      "groupKey": "Box_Sin_Armor",
+      "targetId": 96000034,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 657,
+      "groupKey": "Box_Sin_Armor",
+      "targetId": 96000051,
+      "type": "Item",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 658,
+      "groupKey": "Box_Sin_Armor",
+      "targetId": 91000001,
+      "type": "Item",
+      "amountMin": 200,
+      "amountMax": 200,
+      "weight": 1
+    },
+    {
+      "id": 659,
+      "groupKey": "Box_Sin_Skill",
+      "targetId": 96000054,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 660,
+      "groupKey": "Box_Sin_Skill",
+      "targetId": 96000055,
+      "type": "Item",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 1
+    },
+    {
+      "id": 661,
+      "groupKey": "Box_Sin_Skill",
+      "targetId": 10,
+      "type": "Item",
+      "amountMin": 30,
+      "amountMax": 30,
+      "weight": 1
+    },
+    {
+      "id": 662,
+      "groupKey": "Box_Sin_Skill",
+      "targetId": 1,
+      "type": "Item",
+      "amountMin": 10000000,
+      "amountMax": 10000000,
+      "weight": 1
+    }
+  ]
+}

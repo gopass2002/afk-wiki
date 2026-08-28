@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 7,
+    "schema": "FBDataDailyDungeonTimeFieldTier",
+    "sourceAsset": "FBDataDailyDungeonTimeFieldTier",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "tierGroupKey": "WolfField",
+      "tier": 1,
+      "zoneId": 5000001,
+      "unlockLevel": 0,
+      "nameKey": "DIFF_EASY"
+    },
+    {
+      "id": 2,
+      "tierGroupKey": "WolfField",
+      "tier": 2,
+      "zoneId": 5000002,
+      "unlockLevel": 40,
+      "nameKey": "DIFF_NORMAL"
+    },
+    {
+      "id": 3,
+      "tierGroupKey": "WolfField",
+      "tier": 3,
+      "zoneId": 5000003,
+      "unlockLevel": 50,
+      "nameKey": "DIFF_HARD"
+    },
+    {
+      "id": 4,
+      "tierGroupKey": "SimmaField",
+      "tier": 1,
+      "zoneId": 5000004,
+      "unlockLevel": 0,
+      "nameKey": "SIMMA_CH0"
+    },
+    {
+      "id": 5,
+      "tierGroupKey": "SimmaField",
+      "tier": 2,
+      "zoneId": 5000005,
+      "unlockLevel": 60,
+      "nameKey": "SIMMA_CH1"
+    },
+    {
+      "id": 6,
+      "tierGroupKey": "SimmaField",
+      "tier": 3,
+      "zoneId": 5000006,
+      "unlockLevel": 70,
+      "nameKey": "SIMMA_CH2"
+    },
+    {
+      "id": 7,
+      "tierGroupKey": "SimmaField",
+      "tier": 4,
+      "zoneId": 5000007,
+      "unlockLevel": 80,
+      "nameKey": "SIMMA_CH3"
+    }
+  ]
+}

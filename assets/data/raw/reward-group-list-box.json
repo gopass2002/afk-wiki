@@ -1,0 +1,1579 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 261,
+    "schema": "FBDataRewardGroupListBox",
+    "sourceAsset": "FBDataRewardGroupListBox",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "rewardGroup": "SkillPool_Gacha_Normal",
+      "ratio": 60000
+    },
+    {
+      "id": 2,
+      "groupListKey": "SkillGacha_Normal",
+      "rewardGroup": "SkillPool_Gacha_Rare",
+      "ratio": 30000
+    },
+    {
+      "id": 3,
+      "groupListKey": "SkillGacha_Normal",
+      "rewardGroup": "SkillPool_Gacha_Epic",
+      "ratio": 9000
+    },
+    {
+      "id": 4,
+      "groupListKey": "SkillGacha_Normal",
+      "rewardGroup": "SkillPool_Gacha_Unique",
+      "ratio": 900
+    },
+    {
+      "id": 5,
+      "groupListKey": "SkillGacha_Normal",
+      "rewardGroup": "SkillPool_Gacha_Legendary",
+      "ratio": 100
+    },
+    {
+      "id": 6,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 55000
+    },
+    {
+      "id": 7,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 8,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 9,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 10,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 11,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 55000
+    },
+    {
+      "id": 12,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 13,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 14,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 15,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 16,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 52643
+    },
+    {
+      "id": 17,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 2357
+    },
+    {
+      "id": 18,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 19,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 20,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 21,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 22,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 52329
+    },
+    {
+      "id": 23,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 2671
+    },
+    {
+      "id": 24,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 25,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 26,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 27,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 28,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 52014
+    },
+    {
+      "id": 29,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 2986
+    },
+    {
+      "id": 30,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 31,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 32,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 33,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 34,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 51700
+    },
+    {
+      "id": 35,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 3300
+    },
+    {
+      "id": 36,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Sub_CookingExp_T1",
+      "ratio": 23000
+    },
+    {
+      "id": 37,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Sub_Gold_T1",
+      "ratio": 15000
+    },
+    {
+      "id": 38,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 39,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Sub_SkillTicket_T1",
+      "ratio": 1000
+    },
+    {
+      "id": 40,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 49815
+    },
+    {
+      "id": 41,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 3614
+    },
+    {
+      "id": 42,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 1571
+    },
+    {
+      "id": 43,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 44,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 45,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 46,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 47,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 49303
+    },
+    {
+      "id": 48,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 3929
+    },
+    {
+      "id": 49,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 1768
+    },
+    {
+      "id": 50,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 51,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 52,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 53,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 54,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 48793
+    },
+    {
+      "id": 55,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 4243
+    },
+    {
+      "id": 56,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 1964
+    },
+    {
+      "id": 57,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 58,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 59,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 60,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 61,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 48282
+    },
+    {
+      "id": 62,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 4557
+    },
+    {
+      "id": 63,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 2161
+    },
+    {
+      "id": 64,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 65,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 66,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 67,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 68,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 47772
+    },
+    {
+      "id": 69,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 4871
+    },
+    {
+      "id": 70,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 2357
+    },
+    {
+      "id": 71,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 72,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 73,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 74,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 75,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 47260
+    },
+    {
+      "id": 76,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 5186
+    },
+    {
+      "id": 77,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 2554
+    },
+    {
+      "id": 78,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 79,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 80,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 81,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 82,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 46750
+    },
+    {
+      "id": 83,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 5500
+    },
+    {
+      "id": 84,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 2750
+    },
+    {
+      "id": 85,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 86,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 87,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 88,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 89,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 46240
+    },
+    {
+      "id": 90,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 5814
+    },
+    {
+      "id": 91,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 2946
+    },
+    {
+      "id": 92,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Sub_CookingExp_T2",
+      "ratio": 23000
+    },
+    {
+      "id": 93,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Sub_Gold_T2",
+      "ratio": 15000
+    },
+    {
+      "id": 94,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 95,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Sub_SkillTicket_T2",
+      "ratio": 1000
+    },
+    {
+      "id": 96,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 45649
+    },
+    {
+      "id": 97,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 6129
+    },
+    {
+      "id": 98,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 3143
+    },
+    {
+      "id": 99,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 79
+    },
+    {
+      "id": 100,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 101,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 102,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 103,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 104,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 45124
+    },
+    {
+      "id": 105,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 6443
+    },
+    {
+      "id": 106,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 3339
+    },
+    {
+      "id": 107,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 94
+    },
+    {
+      "id": 108,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 109,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 110,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 111,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 112,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 44597
+    },
+    {
+      "id": 113,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 6757
+    },
+    {
+      "id": 114,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 3536
+    },
+    {
+      "id": 115,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 110
+    },
+    {
+      "id": 116,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 117,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 118,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 119,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 120,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 44071
+    },
+    {
+      "id": 121,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 7071
+    },
+    {
+      "id": 122,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 3732
+    },
+    {
+      "id": 123,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 126
+    },
+    {
+      "id": 124,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 125,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 126,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 127,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 128,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 43544
+    },
+    {
+      "id": 129,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 7386
+    },
+    {
+      "id": 130,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 3929
+    },
+    {
+      "id": 131,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 141
+    },
+    {
+      "id": 132,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 133,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 134,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 135,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 136,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 43018
+    },
+    {
+      "id": 137,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 7700
+    },
+    {
+      "id": 138,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 4125
+    },
+    {
+      "id": 139,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 157
+    },
+    {
+      "id": 140,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 141,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 142,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 143,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 144,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 42492
+    },
+    {
+      "id": 145,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 8014
+    },
+    {
+      "id": 146,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 4321
+    },
+    {
+      "id": 147,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 173
+    },
+    {
+      "id": 148,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 149,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 150,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 151,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 152,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 41964
+    },
+    {
+      "id": 153,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 8329
+    },
+    {
+      "id": 154,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 4518
+    },
+    {
+      "id": 155,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 189
+    },
+    {
+      "id": 156,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 157,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 158,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 159,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 160,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 41439
+    },
+    {
+      "id": 161,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 8643
+    },
+    {
+      "id": 162,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 4714
+    },
+    {
+      "id": 163,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 204
+    },
+    {
+      "id": 164,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 165,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 166,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 167,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 168,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 40912
+    },
+    {
+      "id": 169,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 8957
+    },
+    {
+      "id": 170,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 4911
+    },
+    {
+      "id": 171,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 220
+    },
+    {
+      "id": 172,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Sub_CookingExp_T3",
+      "ratio": 23000
+    },
+    {
+      "id": 173,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Sub_Gold_T3",
+      "ratio": 15000
+    },
+    {
+      "id": 174,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 175,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Sub_SkillTicket_T3",
+      "ratio": 1000
+    },
+    {
+      "id": 176,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 40384
+    },
+    {
+      "id": 177,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 9271
+    },
+    {
+      "id": 178,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 5107
+    },
+    {
+      "id": 179,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 236
+    },
+    {
+      "id": 180,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 2
+    },
+    {
+      "id": 181,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 182,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 183,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 184,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 185,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 39856
+    },
+    {
+      "id": 186,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 9586
+    },
+    {
+      "id": 187,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 5304
+    },
+    {
+      "id": 188,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 251
+    },
+    {
+      "id": 189,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 3
+    },
+    {
+      "id": 190,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 191,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 192,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 193,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 194,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 39328
+    },
+    {
+      "id": 195,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 9900
+    },
+    {
+      "id": 196,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 5500
+    },
+    {
+      "id": 197,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 267
+    },
+    {
+      "id": 198,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 5
+    },
+    {
+      "id": 199,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 200,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 201,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 202,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 203,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 38801
+    },
+    {
+      "id": 204,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 10214
+    },
+    {
+      "id": 205,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 5696
+    },
+    {
+      "id": 206,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 283
+    },
+    {
+      "id": 207,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 6
+    },
+    {
+      "id": 208,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 209,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 210,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 211,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 212,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 38271
+    },
+    {
+      "id": 213,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 10529
+    },
+    {
+      "id": 214,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 5893
+    },
+    {
+      "id": 215,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 299
+    },
+    {
+      "id": 216,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 8
+    },
+    {
+      "id": 217,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 218,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 219,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 220,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 221,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Dish_Normal",
+      "ratio": 37745
+    },
+    {
+      "id": 222,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Dish_Rare",
+      "ratio": 10843
+    },
+    {
+      "id": 223,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Dish_Epic",
+      "ratio": 6089
+    },
+    {
+      "id": 224,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Dish_Unique",
+      "ratio": 314
+    },
+    {
+      "id": 225,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Dish_Legendary",
+      "ratio": 9
+    },
+    {
+      "id": 226,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Sub_CookingExp_T4",
+      "ratio": 23000
+    },
+    {
+      "id": 227,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Sub_Gold_T4",
+      "ratio": 15000
+    },
+    {
+      "id": 228,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Sub_EnhanceMat_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 229,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Sub_SkillTicket_T4",
+      "ratio": 1000
+    },
+    {
+      "id": 230,
+      "groupListKey": "Cook_Gacha_Lv1",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 231,
+      "groupListKey": "Cook_Gacha_Lv2",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 232,
+      "groupListKey": "Cook_Gacha_Lv3",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 233,
+      "groupListKey": "Cook_Gacha_Lv4",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 234,
+      "groupListKey": "Cook_Gacha_Lv5",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 235,
+      "groupListKey": "Cook_Gacha_Lv6",
+      "rewardGroup": "Cook_Sub_Potion_T1",
+      "ratio": 2000
+    },
+    {
+      "id": 236,
+      "groupListKey": "Cook_Gacha_Lv7",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 237,
+      "groupListKey": "Cook_Gacha_Lv8",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 238,
+      "groupListKey": "Cook_Gacha_Lv9",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 239,
+      "groupListKey": "Cook_Gacha_Lv10",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 240,
+      "groupListKey": "Cook_Gacha_Lv11",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 241,
+      "groupListKey": "Cook_Gacha_Lv12",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 242,
+      "groupListKey": "Cook_Gacha_Lv13",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 243,
+      "groupListKey": "Cook_Gacha_Lv14",
+      "rewardGroup": "Cook_Sub_Potion_T2",
+      "ratio": 2000
+    },
+    {
+      "id": 244,
+      "groupListKey": "Cook_Gacha_Lv15",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 245,
+      "groupListKey": "Cook_Gacha_Lv16",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 246,
+      "groupListKey": "Cook_Gacha_Lv17",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 247,
+      "groupListKey": "Cook_Gacha_Lv18",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 248,
+      "groupListKey": "Cook_Gacha_Lv19",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 249,
+      "groupListKey": "Cook_Gacha_Lv20",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 250,
+      "groupListKey": "Cook_Gacha_Lv21",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 251,
+      "groupListKey": "Cook_Gacha_Lv22",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 252,
+      "groupListKey": "Cook_Gacha_Lv23",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 253,
+      "groupListKey": "Cook_Gacha_Lv24",
+      "rewardGroup": "Cook_Sub_Potion_T3",
+      "ratio": 2000
+    },
+    {
+      "id": 254,
+      "groupListKey": "Cook_Gacha_Lv25",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 255,
+      "groupListKey": "Cook_Gacha_Lv26",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 256,
+      "groupListKey": "Cook_Gacha_Lv27",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 257,
+      "groupListKey": "Cook_Gacha_Lv28",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 258,
+      "groupListKey": "Cook_Gacha_Lv29",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 259,
+      "groupListKey": "Cook_Gacha_Lv30",
+      "rewardGroup": "Cook_Sub_Potion_T4",
+      "ratio": 2000
+    },
+    {
+      "id": 260,
+      "groupListKey": "HairGacha_Normal",
+      "rewardGroup": "HairPool_Gacha",
+      "ratio": 100000
+    },
+    {
+      "id": 261,
+      "groupListKey": "FaceGacha_Normal",
+      "rewardGroup": "FacePool_Gacha",
+      "ratio": 100000
+    }
+  ]
+}

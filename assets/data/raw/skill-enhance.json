@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 9,
+    "schema": "FBDataSkillEnhance",
+    "sourceAsset": "FBDataSkillEnhance",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 2,
+      "level": 1,
+      "successRate": 100,
+      "materialCount": 1,
+      "cost": 1000
+    },
+    {
+      "id": 3,
+      "level": 2,
+      "successRate": 80,
+      "materialCount": 2,
+      "cost": 50000
+    },
+    {
+      "id": 4,
+      "level": 3,
+      "successRate": 60,
+      "materialCount": 3,
+      "cost": 100000
+    },
+    {
+      "id": 5,
+      "level": 4,
+      "successRate": 40,
+      "materialCount": 5,
+      "cost": 500000
+    },
+    {
+      "id": 6,
+      "level": 5,
+      "successRate": 30,
+      "materialCount": 5,
+      "cost": 500000
+    },
+    {
+      "id": 7,
+      "level": 6,
+      "successRate": 20,
+      "materialCount": 5,
+      "cost": 500000
+    },
+    {
+      "id": 8,
+      "level": 7,
+      "successRate": 13,
+      "materialCount": 5,
+      "cost": 500000
+    },
+    {
+      "id": 9,
+      "level": 8,
+      "successRate": 8,
+      "materialCount": 5,
+      "cost": 500000
+    },
+    {
+      "id": 10,
+      "level": 9,
+      "successRate": 5,
+      "materialCount": 5,
+      "cost": 500000
+    }
+  ]
+}

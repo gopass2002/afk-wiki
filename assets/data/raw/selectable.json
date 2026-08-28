@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 3,
+    "schema": "FBDataSelectable",
+    "sourceAsset": "FBDataSelectable",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "selectableItemId": "Hair",
+      "descriptionKey": "원하는 헤어를 선택하세요",
+      "applyType": "Appearance",
+      "appearanceSlot": "Hair"
+    },
+    {
+      "id": 2,
+      "selectableItemId": "Weapon",
+      "descriptionKey": "원하는 무기를 선택하세요",
+      "applyType": "Equip",
+      "appearanceSlot": "Weapon"
+    },
+    {
+      "id": 3,
+      "selectableItemId": "Food",
+      "descriptionKey": "원하는 음식을 선택하세요",
+      "applyType": "Food",
+      "appearanceSlot": ""
+    }
+  ]
+}

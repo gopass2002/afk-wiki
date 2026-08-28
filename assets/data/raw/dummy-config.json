@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 13,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataDummyConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "DefaultAvatarId",
+      "value": [
+        "1234"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "DefaultZoneId",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "PrologueZoneId",
+      "value": [
+        "3000003"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "AttackCooldown",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "StopRange",
+      "value": [
+        "32"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "ManualIdleTimeout",
+      "value": [
+        "1.5"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "ResendThreshold",
+      "value": [
+        "20"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "WarmupDuration",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "HatcheryUpdateInterval",
+      "value": [
+        "0.1"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "ReviveDelay",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "PlayerSaveInterval",
+      "value": [
+        "60"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "ExpItemDataId",
+      "value": [
+        "100"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "GuestAuthId",
+      "value": [
+        "guest"
+      ]
+    }
+  ]
+}

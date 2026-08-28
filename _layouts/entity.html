@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article class="leaf">
+  {{ content }}
+
+  <footer class="leaf-foot">
+    <p>
+      배포본 <code>{{ site.data.generated_manifest.appVersion }}</code> · 패치 <code>{{ site.data.generated_manifest.patch }}</code> ·
+      <time datetime="{{ site.data.generated_manifest.extractedAt }}">{{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }}</time> 확인.
+      수치는 배포본 데이터를 옮긴 표시값이며, 실제 판정은 서버가 합니다.
+    </p>
+    <p class="leaf-foot__links">
+      <a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }} 전체 보기</a>
+      <a href="{{ '/docs/data/tables/' | relative_url }}">원본 표 열기</a>
+    </p>
+  </footer>
+</article>

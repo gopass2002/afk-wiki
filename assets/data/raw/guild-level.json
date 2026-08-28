@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 10,
+    "schema": "FBDataGuildLevel",
+    "sourceAsset": "FBDataGuildLevel",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "capacity": 10,
+      "requiredExp": 0
+    },
+    {
+      "id": 2,
+      "capacity": 12,
+      "requiredExp": 600
+    },
+    {
+      "id": 3,
+      "capacity": 14,
+      "requiredExp": 2000
+    },
+    {
+      "id": 4,
+      "capacity": 16,
+      "requiredExp": 5000
+    },
+    {
+      "id": 5,
+      "capacity": 18,
+      "requiredExp": 11000
+    },
+    {
+      "id": 6,
+      "capacity": 20,
+      "requiredExp": 21000
+    },
+    {
+      "id": 7,
+      "capacity": 22,
+      "requiredExp": 35000
+    },
+    {
+      "id": 8,
+      "capacity": 24,
+      "requiredExp": 53000
+    },
+    {
+      "id": 9,
+      "capacity": 26,
+      "requiredExp": 77000
+    },
+    {
+      "id": 10,
+      "capacity": 30,
+      "requiredExp": 106000
+    }
+  ]
+}

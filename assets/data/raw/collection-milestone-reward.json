@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 24,
+    "schema": "FBDataCollectionMilestoneReward",
+    "sourceAsset": "FBDataCollectionMilestoneReward",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "rw_ms_eq_1",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 100
+    },
+    {
+      "id": 2,
+      "groupKey": "rw_ms_eq_2",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 150
+    },
+    {
+      "id": 3,
+      "groupKey": "rw_ms_eq_3",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 200
+    },
+    {
+      "id": 4,
+      "groupKey": "rw_ms_eq_4",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 250
+    },
+    {
+      "id": 5,
+      "groupKey": "rw_ms_eq_5",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 300
+    },
+    {
+      "id": 6,
+      "groupKey": "rw_ms_eq_6",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 350
+    },
+    {
+      "id": 7,
+      "groupKey": "rw_ms_eq_7",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 400
+    },
+    {
+      "id": 8,
+      "groupKey": "rw_ms_eq_8",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 450
+    },
+    {
+      "id": 9,
+      "groupKey": "rw_ms_eq_9",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 500
+    },
+    {
+      "id": 10,
+      "groupKey": "rw_ms_eq_10",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 600
+    },
+    {
+      "id": 11,
+      "groupKey": "rw_ms_eq_11",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 700
+    },
+    {
+      "id": 12,
+      "groupKey": "rw_ms_eq_12",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 1000
+    },
+    {
+      "id": 13,
+      "groupKey": "rw_ms_cook_1",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 100
+    },
+    {
+      "id": 14,
+      "groupKey": "rw_ms_cook_2",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 100
+    },
+    {
+      "id": 15,
+      "groupKey": "rw_ms_cook_3",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 150
+    },
+    {
+      "id": 16,
+      "groupKey": "rw_ms_cook_4",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 150
+    },
+    {
+      "id": 17,
+      "groupKey": "rw_ms_cook_5",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 200
+    },
+    {
+      "id": 18,
+      "groupKey": "rw_ms_cook_6",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 200
+    },
+    {
+      "id": 19,
+      "groupKey": "rw_ms_cook_7",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 250
+    },
+    {
+      "id": 20,
+      "groupKey": "rw_ms_cook_8",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 250
+    },
+    {
+      "id": 21,
+      "groupKey": "rw_ms_cook_9",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 300
+    },
+    {
+      "id": 22,
+      "groupKey": "rw_ms_cook_10",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 350
+    },
+    {
+      "id": 23,
+      "groupKey": "rw_ms_cook_11",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 450
+    },
+    {
+      "id": 24,
+      "groupKey": "rw_ms_cook_12",
+      "rewardType": "Currency",
+      "targetId": 2,
+      "amount": 500
+    }
+  ]
+}

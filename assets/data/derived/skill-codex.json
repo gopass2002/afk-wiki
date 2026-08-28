@@ -1,0 +1,1867 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "kind": "skillCodex",
+    "patch": "ebffb",
+    "rowCount": 72,
+    "sources": [
+      "FBDataSkill",
+      "FBDataSkillLevel",
+      "FBDataSkillStat",
+      "FBDataStringSkill_ko",
+      "reward-probabilities.json"
+    ]
+  },
+  "rows": [
+    {
+      "id": 1,
+      "image": "",
+      "name": "평타",
+      "description": "",
+      "grade": "None",
+      "factionType": "",
+      "weaponType": "None",
+      "castType": "Active",
+      "cooldownSeconds": 1,
+      "spCost": 0,
+      "range": 24,
+      "hitCount": 0,
+      "maxLevel": 1,
+      "level1AtkMultiplierRaw": 10000,
+      "maxAtkMultiplierRaw": 10000,
+      "statRanges": [],
+      "skillGachaPercent": null,
+      "iconSource": ""
+    },
+    {
+      "id": 11110101,
+      "image": "/assets/images/game/skills/11110101.png",
+      "name": "천마수",
+      "description": "마기를 실은 손길을 뻗어 정면 {0}M 적 {1}명에게 공격력의 {2}%만큼 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Active",
+      "cooldownSeconds": 22,
+      "spCost": 6,
+      "range": 24,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 15500,
+      "maxAtkMultiplierRaw": 54900,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 25000,
+          "max": 35000
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_A10001"
+    },
+    {
+      "id": 11110201,
+      "image": "/assets/images/game/skills/11110201.png",
+      "name": "천마선와",
+      "description": "마기를 손바닥에 감아 소용돌이로 압축한 뒤 터뜨려, 정면 {0}M 적 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Active",
+      "cooldownSeconds": 24,
+      "spCost": 6,
+      "range": 24,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 6700,
+      "maxAtkMultiplierRaw": 32100,
+      "statRanges": [],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_A10002"
+    },
+    {
+      "id": 11120101,
+      "image": "/assets/images/game/skills/11120101.png",
+      "name": "천마뇌전",
+      "description": "손끝에 뇌전을 모아 꿰뚫어, 정면 {0}M 적 최대 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Active",
+      "cooldownSeconds": 28,
+      "spCost": 10,
+      "range": 48,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 7800,
+      "maxAtkMultiplierRaw": 37500,
+      "statRanges": [],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_A20001"
+    },
+    {
+      "id": 11130101,
+      "image": "/assets/images/game/skills/11130101.png",
+      "name": "천마장",
+      "description": "마기를 손바닥에 모아 자기 중심 {0}M 범위 적 최대 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Active",
+      "cooldownSeconds": 32,
+      "spCost": 15,
+      "range": 72,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 8200,
+      "maxAtkMultiplierRaw": 43800,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 12500,
+          "max": 22500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_A30001"
+    },
+    {
+      "id": 11210101,
+      "image": "/assets/images/game/skills/11210101.png",
+      "name": "천마신공",
+      "description": "천마의 신공으로 근력의 기반을 다져, 힘이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "STR",
+          "min": 3,
+          "max": 15
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P10001"
+    },
+    {
+      "id": 11210201,
+      "image": "/assets/images/game/skills/11210201.png",
+      "name": "천마호체결",
+      "description": "천마의 기로 몸을 두텁게 다져, 체력이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "VIT",
+          "min": 3,
+          "max": 15
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P10002"
+    },
+    {
+      "id": 11210301,
+      "image": "/assets/images/game/skills/11210301.png",
+      "name": "흑풍보",
+      "description": "어둠을 가르는 보법으로, 민첩이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "AGI",
+          "min": 3,
+          "max": 15
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P10003"
+    },
+    {
+      "id": 11210401,
+      "image": "/assets/images/game/skills/11210401.png",
+      "name": "천마정심결",
+      "description": "천마의 호흡으로 단전을 가다듬어, 내력이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SPI",
+          "min": 3,
+          "max": 15
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P10004"
+    },
+    {
+      "id": 11220101,
+      "image": "/assets/images/game/skills/11220101.png",
+      "name": "천마기공",
+      "description": "천마의 기를 운용해, 공격력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK",
+          "min": 5,
+          "max": 50
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20001"
+    },
+    {
+      "id": 11220201,
+      "image": "/assets/images/game/skills/11220201.png",
+      "name": "외공수련",
+      "description": "외공을 단련해, 방어력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "DEF",
+          "min": 5,
+          "max": 50
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20002"
+    },
+    {
+      "id": 11220301,
+      "image": "/assets/images/game/skills/11220301.png",
+      "name": "흑살갑",
+      "description": "흑살의 기를 칼끝에 실어, 관통력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "PEN",
+          "min": 5,
+          "max": 50
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20003"
+    },
+    {
+      "id": 11220401,
+      "image": "/assets/images/game/skills/11220401.png",
+      "name": "천마납토",
+      "description": "천마의 호흡법으로, 최대 생명력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_HP",
+          "min": 50,
+          "max": 500
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20004"
+    },
+    {
+      "id": 11220501,
+      "image": "/assets/images/game/skills/11220501.png",
+      "name": "천마운기",
+      "description": "천마기를 운용해, 최대 정신력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_SP",
+          "min": 50,
+          "max": 500
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20005"
+    },
+    {
+      "id": 11220601,
+      "image": "/assets/images/game/skills/11220601.png",
+      "name": "사혈자생",
+      "description": "사혈을 다스려 스스로 상처를 아물려, 생명력 회복이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "HP_REGEN%",
+          "min": 1000,
+          "max": 10000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20006"
+    },
+    {
+      "id": 11220701,
+      "image": "/assets/images/game/skills/11220701.png",
+      "name": "천마토납",
+      "description": "천마의 토납법으로, 정신력 회복이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SP_REGEN%",
+          "min": 1000,
+          "max": 10000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20007"
+    },
+    {
+      "id": 11220801,
+      "image": "/assets/images/game/skills/11220801.png",
+      "name": "흑살참",
+      "description": "거대한 적의 살을 가르는 흑살의 비기로, 보스 피해가 {0} 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "BOSSDMGBONUS%",
+          "min": 300,
+          "max": 3000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20008"
+    },
+    {
+      "id": 11220901,
+      "image": "/assets/images/game/skills/11220901.png",
+      "name": "마살결",
+      "description": "강호의 적수를 베어 넘기는 마살의 정수로, 대인 피해가 {0} 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "PVPDMGBONUS%",
+          "min": 200,
+          "max": 2000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P20009"
+    },
+    {
+      "id": 11230101,
+      "image": "/assets/images/game/skills/11230101.png",
+      "name": "마안",
+      "description": "붉게 빛나는 마안으로 적의 움직임을 꿰뚫어, 명중이 {0}만큼 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "HIT",
+          "min": 3,
+          "max": 45
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P30001"
+    },
+    {
+      "id": 11230201,
+      "image": "/assets/images/game/skills/11230201.png",
+      "name": "천마잔영",
+      "description": "천마의 잔영을 남기며 공격을 흘려내, 회피가 {0}만큼 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "EVA",
+          "min": 3,
+          "max": 45
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P30002"
+    },
+    {
+      "id": 11230301,
+      "image": "/assets/images/game/skills/11230301.png",
+      "name": "마안급소",
+      "description": "마안으로 적의 급소를 꿰뚫어 보아, 치명타 확률이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_RATE%",
+          "min": 100,
+          "max": 1500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P30003"
+    },
+    {
+      "id": 11230401,
+      "image": "/assets/images/game/skills/11230401.png",
+      "name": "천마호신술",
+      "description": "천마의 호신술을 단련해, 방어력이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "DEF%",
+          "min": 200,
+          "max": 3000
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P30004"
+    },
+    {
+      "id": 11230501,
+      "image": "/assets/images/game/skills/11230501.png",
+      "name": "천마호체대성",
+      "description": "천마호체결의 대성으로, 최대 생명력이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_HP%",
+          "min": 200,
+          "max": 3000
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P30005"
+    },
+    {
+      "id": 11240101,
+      "image": "/assets/images/game/skills/11240101.png",
+      "name": "천마강기",
+      "description": "천마의 강기를 끌어올려, 공격력이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 100,
+          "max": 2000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40001"
+    },
+    {
+      "id": 11240201,
+      "image": "/assets/images/game/skills/11240201.png",
+      "name": "천마회심",
+      "description": "천마의 분노를 한 방에 담아, 치명타 피해가 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_DMG%",
+          "min": 300,
+          "max": 6000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40002"
+    },
+    {
+      "id": 11240301,
+      "image": "/assets/images/game/skills/11240301.png",
+      "name": "천마속행",
+      "description": "천마기를 발끝에 실어, 공격 속도가 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK_SPD%",
+          "min": 100,
+          "max": 2000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40003"
+    },
+    {
+      "id": 11240401,
+      "image": "/assets/images/game/skills/11240401.png",
+      "name": "천마속결",
+      "description": "천마의 호흡을 짧게 끊어, 무공 쿨타임이 {0} 감소한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "COOLDOWN_REDUCE%",
+          "min": 100,
+          "max": 2000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40004"
+    },
+    {
+      "id": 11240501,
+      "image": "/assets/images/game/skills/11240501.png",
+      "name": "천마발경",
+      "description": "천마의 경을 풀어내, 공격 속도가 {0} / 치명타 피해가 {1} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK_SPD%",
+          "min": 50,
+          "max": 1000
+        },
+        {
+          "key": "CRIT_DMG%",
+          "min": 300,
+          "max": 6000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40005"
+    },
+    {
+      "id": 11240601,
+      "image": "/assets/images/game/skills/11240601.png",
+      "name": "천마호신강기",
+      "description": "천마강기로 몸을 둘러, 방어력이 {0} / 최대 생명력이 {1} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "DEF%",
+          "min": 100,
+          "max": 2000
+        },
+        {
+          "key": "MAX_HP%",
+          "min": 500,
+          "max": 10000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40006"
+    },
+    {
+      "id": 11250101,
+      "image": "/assets/images/game/skills/11250101.png",
+      "name": "천마무극",
+      "description": "천마의 무극에 닿아, 모든 무공의 위력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 200,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50001"
+    },
+    {
+      "id": 11250201,
+      "image": "/assets/images/game/skills/11250201.png",
+      "name": "천마살수",
+      "description": "마지막 일격에 천마의 살의를 담아, 최종 피해가 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "FINALDMGBONUS%",
+          "min": 200,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50002"
+    },
+    {
+      "id": 11250301,
+      "image": "/assets/images/game/skills/11250301.png",
+      "name": "천마수렴",
+      "description": "천마의 정수를 끌어모아, 모든 1차 스탯이 {0}만큼 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionHeavenlyDemon",
+      "weaponType": "None",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "STR",
+          "min": 1,
+          "max": 25
+        },
+        {
+          "key": "VIT",
+          "min": 1,
+          "max": 25
+        },
+        {
+          "key": "AGI",
+          "min": 1,
+          "max": 25
+        },
+        {
+          "key": "SPI",
+          "min": 1,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50003"
+    },
+    {
+      "id": 21110101,
+      "image": "/assets/images/game/skills/21110101.png",
+      "name": "매화소",
+      "description": "매화 검로의 기본기로 정면 {0}M 범위 적 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Active",
+      "cooldownSeconds": 18,
+      "spCost": 6,
+      "range": 48,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 7800,
+      "maxAtkMultiplierRaw": 38600,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 11900,
+          "max": 16600
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_A10001"
+    },
+    {
+      "id": 21130101,
+      "image": "/assets/images/game/skills/21130101.png",
+      "name": "칠매검진",
+      "description": "일곱 매화 검진을 펼쳐 정면 {0}M 범위 적 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Epic",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Active",
+      "cooldownSeconds": 30,
+      "spCost": 8,
+      "range": 72,
+      "hitCount": 3,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 10300,
+      "maxAtkMultiplierRaw": 47900,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 9500,
+          "max": 17100
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_A30001"
+    },
+    {
+      "id": 31110101,
+      "image": "/assets/images/game/skills/31110101.png",
+      "name": "팽가단도",
+      "description": "팽가의 단도를 횡으로 베어 정면 {0}M 범위 적 {1}명에게 공격력의 {2}%만큼 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Active",
+      "cooldownSeconds": 25,
+      "spCost": 6,
+      "range": 48,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 23800,
+      "maxAtkMultiplierRaw": 116500,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 27500,
+          "max": 38500
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_A10001"
+    },
+    {
+      "id": 31130101,
+      "image": "/assets/images/game/skills/31130101.png",
+      "name": "오호도법",
+      "description": "다섯 호랑이의 도법으로 횡으로 베어 정면 {0}M 범위 적 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 묵직한 피해를 입힌다.",
+      "grade": "Epic",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Active",
+      "cooldownSeconds": 40,
+      "spCost": 8,
+      "range": 48,
+      "hitCount": 3,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 13500,
+      "maxAtkMultiplierRaw": 67500,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 27500,
+          "max": 49500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_A30001"
+    },
+    {
+      "id": 41110101,
+      "image": "/assets/images/game/skills/41110101.png",
+      "name": "양가창결",
+      "description": "양가창의 기본 직창으로 정면 {0}M 직선상 적 최대 {1}명에게 공격력의 {2}%만큼 꿰뚫는 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Active",
+      "cooldownSeconds": 20,
+      "spCost": 6,
+      "range": 72,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 18000,
+      "maxAtkMultiplierRaw": 72000,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 21200,
+          "max": 29800
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_A10001"
+    },
+    {
+      "id": 41130101,
+      "image": "/assets/images/game/skills/41130101.png",
+      "name": "일창천",
+      "description": "양가창의 절기로 정면 {0}M 직선상 적 최대 {1}명을 공격력의 {2}%만큼 꿰뚫는 일격으로 관통한다.",
+      "grade": "Epic",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Active",
+      "cooldownSeconds": 35,
+      "spCost": 8,
+      "range": 96,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 28800,
+      "maxAtkMultiplierRaw": 144000,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 42500,
+          "max": 76500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_A30001"
+    },
+    {
+      "id": 51110101,
+      "image": "/assets/images/game/skills/51110101.png",
+      "name": "소림곤",
+      "description": "소림 곤법의 기본기로 자기 중심 {0}M 범위 적 최대 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 회전 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Active",
+      "cooldownSeconds": 16,
+      "spCost": 6,
+      "range": 72,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 8800,
+      "maxAtkMultiplierRaw": 28400,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 9400,
+          "max": 13100
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_A10001"
+    },
+    {
+      "id": 51130101,
+      "image": "/assets/images/game/skills/51130101.png",
+      "name": "소림곤법",
+      "description": "소림 곤법으로 자기 중심 {0}M 범위 적 최대 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 회전 피해를 입힌다.",
+      "grade": "Epic",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Active",
+      "cooldownSeconds": 26,
+      "spCost": 8,
+      "range": 72,
+      "hitCount": 2,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 10300,
+      "maxAtkMultiplierRaw": 49000,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 12500,
+          "max": 22500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_A30001"
+    },
+    {
+      "id": 61110101,
+      "image": "/assets/images/game/skills/61110101.png",
+      "name": "당문비도",
+      "description": "당문의 비도를 던져 정면 {0}M 적 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연환 피해를 입힌다.",
+      "grade": "Normal",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Active",
+      "cooldownSeconds": 15,
+      "spCost": 6,
+      "range": 120,
+      "hitCount": 3,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 4700,
+      "maxAtkMultiplierRaw": 20000,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 11200,
+          "max": 15800
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_A10001"
+    },
+    {
+      "id": 61130101,
+      "image": "/assets/images/game/skills/61130101.png",
+      "name": "연환비도",
+      "description": "비도를 연환으로 던져 정면 {0}M 적 최대 {1}명에게 매 타격 공격력의 {2}%만큼 {3}타 연속 피해를 입힌다.",
+      "grade": "Epic",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Active",
+      "cooldownSeconds": 25,
+      "spCost": 8,
+      "range": 120,
+      "hitCount": 6,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 3200,
+      "maxAtkMultiplierRaw": 16300,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 7500,
+          "max": 13500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_A30001"
+    },
+    {
+      "id": 20210101,
+      "image": "/assets/images/game/skills/20210101.png",
+      "name": "검결초식",
+      "description": "검결의 기초를 익혀, 검 장착 시 무공 위력이 {0} 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 400,
+          "max": 1000
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P10001"
+    },
+    {
+      "id": 20220101,
+      "image": "/assets/images/game/skills/20220101.png",
+      "name": "검기응축",
+      "description": "검기에 내공을 응축해, 검 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 500,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P20001"
+    },
+    {
+      "id": 20230101,
+      "image": "/assets/images/game/skills/20230101.png",
+      "name": "매화안식",
+      "description": "매화의 안식으로 검로에 내공을 실어, 검 장착 시 무공 위력이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 600,
+          "max": 1500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P30001"
+    },
+    {
+      "id": 20240101,
+      "image": "/assets/images/game/skills/20240101.png",
+      "name": "검신가호",
+      "description": "검신의 가호로 검로가 빨라져, 검 장착 시 공격 속도가 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK_SPD%",
+          "min": 150,
+          "max": 3000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P40001"
+    },
+    {
+      "id": 20240201,
+      "image": "/assets/images/game/skills/20240201.png",
+      "name": "역근검결",
+      "description": "검 장착 시 힘의 {0}%만큼 공격력이 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P40002"
+    },
+    {
+      "id": 20250101,
+      "image": "/assets/images/game/skills/20250101.png",
+      "name": "검신무극",
+      "description": "검신의 무극에 닿아, 검 장착 시 무공 위력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 900,
+          "max": 2200
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P50001"
+    },
+    {
+      "id": 30210101,
+      "image": "/assets/images/game/skills/30210101.png",
+      "name": "도결입문",
+      "description": "도법의 입문기로 몸을 단련해, 도 장착 시 체력이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "VIT",
+          "min": 5,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P10001"
+    },
+    {
+      "id": 30220101,
+      "image": "/assets/images/game/skills/30220101.png",
+      "name": "도법수련",
+      "description": "도법을 단련해, 도 장착 시 최대 생명력이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_HP",
+          "min": 500,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P20001"
+    },
+    {
+      "id": 30230101,
+      "image": "/assets/images/game/skills/30230101.png",
+      "name": "호안일도",
+      "description": "호랑이의 기세로 굳건히 버텨, 도 장착 시 방어력이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "DEF%",
+          "min": 300,
+          "max": 4500
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P30001"
+    },
+    {
+      "id": 30240101,
+      "image": "/assets/images/game/skills/30240101.png",
+      "name": "패도지경",
+      "description": "패도의 경지에 올라, 도 장착 시 최대 생명력이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_HP%",
+          "min": 300,
+          "max": 6000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P40001"
+    },
+    {
+      "id": 30240201,
+      "image": "/assets/images/game/skills/30240201.png",
+      "name": "웅혼도체",
+      "description": "도 장착 시 체력의 {0}%만큼 공격력이 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P40002"
+    },
+    {
+      "id": 30250101,
+      "image": "/assets/images/game/skills/30250101.png",
+      "name": "도황무극",
+      "description": "도황의 무극에 닿아, 도 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 600,
+          "max": 15000
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P50001"
+    },
+    {
+      "id": 40210101,
+      "image": "/assets/images/game/skills/40210101.png",
+      "name": "창결입문",
+      "description": "창결의 입문기로 직선을 겨눠, 창 장착 시 명중이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "HIT",
+          "min": 5,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P10001"
+    },
+    {
+      "id": 40220101,
+      "image": "/assets/images/game/skills/40220101.png",
+      "name": "창법수련",
+      "description": "창법을 단련해 일선을 꿰뚫어, 창 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 500,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P20001"
+    },
+    {
+      "id": 40230101,
+      "image": "/assets/images/game/skills/40230101.png",
+      "name": "직창정밀",
+      "description": "직창의 정밀함으로 연환 찌르기가 빨라져, 창 장착 시 공격 속도가 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK_SPD%",
+          "min": 150,
+          "max": 2250
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P30001"
+    },
+    {
+      "id": 40240101,
+      "image": "/assets/images/game/skills/40240101.png",
+      "name": "양가법도",
+      "description": "양가의 법도를 따라 일직선을 관통해, 창 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 400,
+          "max": 8000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P40001"
+    },
+    {
+      "id": 40240201,
+      "image": "/assets/images/game/skills/40240201.png",
+      "name": "관기창결",
+      "description": "창 장착 시 내력의 {0}%만큼 공격력이 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P40002"
+    },
+    {
+      "id": 40250101,
+      "image": "/assets/images/game/skills/40250101.png",
+      "name": "창제무극",
+      "description": "창제의 무극에 닿아 한 줄로 꿰뚫어, 창 장착 시 무공 위력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 400,
+          "max": 10000
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P50001"
+    },
+    {
+      "id": 50210101,
+      "image": "/assets/images/game/skills/50210101.png",
+      "name": "곤결입문",
+      "description": "곤결의 입문기로 몸을 다져, 봉 장착 시 체력이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "VIT",
+          "min": 5,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P10001"
+    },
+    {
+      "id": 50220101,
+      "image": "/assets/images/game/skills/50220101.png",
+      "name": "곤법수련",
+      "description": "곤법을 단련해, 봉 장착 시 생명력 회복이 {0}만큼 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "HP_REGEN%",
+          "min": 1000,
+          "max": 10000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P20001"
+    },
+    {
+      "id": 50230101,
+      "image": "/assets/images/game/skills/50230101.png",
+      "name": "강곤지력",
+      "description": "강곤의 호흡으로 끊김 없이 이어가, 봉 장착 시 무공 쿨타임이 {0} 감소한다.",
+      "grade": "Epic",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "COOLDOWN_REDUCE%",
+          "min": 150,
+          "max": 2250
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P30001"
+    },
+    {
+      "id": 50240101,
+      "image": "/assets/images/game/skills/50240101.png",
+      "name": "곤신가호",
+      "description": "곤신의 가호로, 봉 장착 시 최대 생명력이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "MAX_HP%",
+          "min": 300,
+          "max": 6000
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P40001"
+    },
+    {
+      "id": 50240201,
+      "image": "/assets/images/game/skills/50240201.png",
+      "name": "내가곤기",
+      "description": "봉 장착 시 내력의 {0}%만큼 공격력이 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P40002"
+    },
+    {
+      "id": 50250101,
+      "image": "/assets/images/game/skills/50250101.png",
+      "name": "곤제무극",
+      "description": "곤제의 무극에 닿아, 봉 장착 시 무공 쿨타임이 {0} 감소한다.",
+      "grade": "Legendary",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "COOLDOWN_REDUCE%",
+          "min": 300,
+          "max": 7500
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P50001"
+    },
+    {
+      "id": 60210101,
+      "image": "/assets/images/game/skills/60210101.png",
+      "name": "표결입문",
+      "description": "표결의 입문기로 손놀림을 벼려, 암기 장착 시 민첩이 {0}만큼 증가한다.",
+      "grade": "Normal",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "AGI",
+          "min": 5,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 3.75,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P10001"
+    },
+    {
+      "id": 60220101,
+      "image": "/assets/images/game/skills/60220101.png",
+      "name": "암기수련",
+      "description": "암기를 단련해, 암기 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Rare",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 500,
+          "max": 5000
+        }
+      ],
+      "skillGachaPercent": 2,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P20001"
+    },
+    {
+      "id": 60230101,
+      "image": "/assets/images/game/skills/60230101.png",
+      "name": "정확투척",
+      "description": "정확한 투척으로 급소를 노려, 암기 장착 시 치명타 확률이 {0} 증가한다.",
+      "grade": "Epic",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_RATE%",
+          "min": 150,
+          "max": 2250
+        }
+      ],
+      "skillGachaPercent": 0.5625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P30001"
+    },
+    {
+      "id": 60240101,
+      "image": "/assets/images/game/skills/60240101.png",
+      "name": "비도지질",
+      "description": "비도의 빠름으로 급소를 노려, 암기 장착 시 치명타 확률이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_RATE%",
+          "min": 600,
+          "max": 1400
+        }
+      ],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P40001"
+    },
+    {
+      "id": 60240201,
+      "image": "/assets/images/game/skills/60240201.png",
+      "name": "경신비수",
+      "description": "암기 장착 시 민첩의 {0}%만큼 공격력이 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [],
+      "skillGachaPercent": 0.05625,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P40002"
+    },
+    {
+      "id": 60250101,
+      "image": "/assets/images/game/skills/60250101.png",
+      "name": "만독무극",
+      "description": "만독의 무극에 닿아, 암기 장착 시 치명타 피해가 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_DMG%",
+          "min": 3600,
+          "max": 9000
+        }
+      ],
+      "skillGachaPercent": 0.0125,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P50001"
+    }
+  ]
+}

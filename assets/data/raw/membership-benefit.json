@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 3,
+    "schema": "FBDataMembershipBenefit",
+    "sourceAsset": "FBDataMembershipBenefit",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "productKey": "Box_AuctionSellPackage",
+      "titleKey": "UI_Membership_Title_AuctionPass",
+      "icon": "10.UI/99.Resource/Shop_UI/UI_Shop_MembershipTrade",
+      "textKey": "UI_Membership_Benefit_AuctionSlot",
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "productKey": "Box_AuctionSellPackage",
+      "titleKey": "UI_Membership_Title_AuctionPass",
+      "icon": "10.UI/99.Resource/Shop_UI/UI_Shop_MembershipJade",
+      "textKey": "UI_Membership_Benefit_DailyGem",
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "productKey": "Box_AuctionSellPackage",
+      "titleKey": "UI_Membership_Title_AuctionPass",
+      "icon": "10.UI/99.Resource/Shop_UI/UI_Shop_MembershipExp",
+      "textKey": "UI_Membership_Benefit_ExpBoost",
+      "sortOrder": 3
+    }
+  ]
+}

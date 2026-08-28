@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 4,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataPlayerConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "NicknameChangeAmount",
+      "value": [
+        "30"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "NicknameRegex",
+      "value": [
+        "^[a-zA-Z0-9가-힣]{1,8}$"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "DefaultNickNameKey",
+      "value": [
+        "DefaultNickName"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "AttrResetCost",
+      "value": [
+        "100"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 19,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataGuildConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "GuildCreateCostGold",
+      "value": [
+        "500000"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "GuildCreateRequiredLevel",
+      "value": [
+        "30"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "GuildNameMaxLength",
+      "value": [
+        "6"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "GuildIntroMaxLength",
+      "value": [
+        "150"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "GuildApplyMessageMaxLength",
+      "value": [
+        "150"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "GuildApplicationLimit",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "GuildElderCapacity",
+      "value": [
+        "3"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "GuildRejoinCooldownHours",
+      "value": [
+        "24"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "GuildDonationDailyLimit",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "GuildWeeklyContributionCap",
+      "value": [
+        "400"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "GuildDailyLoginContribution",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "GuildPowerWeightTop",
+      "value": [
+        "100"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "GuildPowerWeightMid",
+      "value": [
+        "70"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "GuildPowerWeightLow",
+      "value": [
+        "40"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "GuildPowerTopCount",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "GuildPowerMidCount",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 17,
+      "key": "GuildActiveDays",
+      "value": [
+        "7"
+      ]
+    },
+    {
+      "id": 18,
+      "key": "GuildActiveFactorMin",
+      "value": [
+        "50"
+      ]
+    },
+    {
+      "id": 19,
+      "key": "GuildNpc",
+      "value": [
+        "100033"
+      ]
+    }
+  ]
+}

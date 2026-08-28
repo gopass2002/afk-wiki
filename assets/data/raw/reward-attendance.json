@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 63,
+    "schema": "FBDataRewardAttendance",
+    "sourceAsset": "FBDataRewardAttendance",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "attendance_soso_28",
+      "day": 1,
+      "itemId": 1,
+      "qty": 20000
+    },
+    {
+      "id": 2,
+      "groupKey": "attendance_soso_28",
+      "day": 2,
+      "itemId": 96000010,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "groupKey": "attendance_soso_28",
+      "day": 3,
+      "itemId": 96000001,
+      "qty": 300
+    },
+    {
+      "id": 4,
+      "groupKey": "attendance_soso_28",
+      "day": 4,
+      "itemId": 10,
+      "qty": 5
+    },
+    {
+      "id": 5,
+      "groupKey": "attendance_soso_28",
+      "day": 5,
+      "itemId": 1,
+      "qty": 20000
+    },
+    {
+      "id": 6,
+      "groupKey": "attendance_soso_28",
+      "day": 6,
+      "itemId": 91000000,
+      "qty": 5
+    },
+    {
+      "id": 7,
+      "groupKey": "attendance_soso_28",
+      "day": 7,
+      "itemId": 96000011,
+      "qty": 1
+    },
+    {
+      "id": 8,
+      "groupKey": "attendance_soso_28",
+      "day": 8,
+      "itemId": 2,
+      "qty": 100
+    },
+    {
+      "id": 9,
+      "groupKey": "attendance_soso_28",
+      "day": 9,
+      "itemId": 96000014,
+      "qty": 1
+    },
+    {
+      "id": 10,
+      "groupKey": "attendance_soso_28",
+      "day": 10,
+      "itemId": 10,
+      "qty": 5
+    },
+    {
+      "id": 11,
+      "groupKey": "attendance_soso_28",
+      "day": 11,
+      "itemId": 1,
+      "qty": 30000
+    },
+    {
+      "id": 12,
+      "groupKey": "attendance_soso_28",
+      "day": 12,
+      "itemId": 91000001,
+      "qty": 5
+    },
+    {
+      "id": 13,
+      "groupKey": "attendance_soso_28",
+      "day": 13,
+      "itemId": 96000001,
+      "qty": 500
+    },
+    {
+      "id": 14,
+      "groupKey": "attendance_soso_28",
+      "day": 14,
+      "itemId": 96000012,
+      "qty": 1
+    },
+    {
+      "id": 15,
+      "groupKey": "attendance_soso_28",
+      "day": 15,
+      "itemId": 1,
+      "qty": 30000
+    },
+    {
+      "id": 16,
+      "groupKey": "attendance_soso_28",
+      "day": 16,
+      "itemId": 2,
+      "qty": 150
+    },
+    {
+      "id": 17,
+      "groupKey": "attendance_soso_28",
+      "day": 17,
+      "itemId": 10,
+      "qty": 5
+    },
+    {
+      "id": 18,
+      "groupKey": "attendance_soso_28",
+      "day": 18,
+      "itemId": 96000015,
+      "qty": 1
+    },
+    {
+      "id": 19,
+      "groupKey": "attendance_soso_28",
+      "day": 19,
+      "itemId": 90000000,
+      "qty": 5
+    },
+    {
+      "id": 20,
+      "groupKey": "attendance_soso_28",
+      "day": 20,
+      "itemId": 91000002,
+      "qty": 5
+    },
+    {
+      "id": 21,
+      "groupKey": "attendance_soso_28",
+      "day": 21,
+      "itemId": 96000013,
+      "qty": 1
+    },
+    {
+      "id": 22,
+      "groupKey": "attendance_soso_28",
+      "day": 22,
+      "itemId": 1,
+      "qty": 30000
+    },
+    {
+      "id": 23,
+      "groupKey": "attendance_soso_28",
+      "day": 23,
+      "itemId": 2,
+      "qty": 300
+    },
+    {
+      "id": 24,
+      "groupKey": "attendance_soso_28",
+      "day": 24,
+      "itemId": 10,
+      "qty": 10
+    },
+    {
+      "id": 25,
+      "groupKey": "attendance_soso_28",
+      "day": 25,
+      "itemId": 1,
+      "qty": 50000
+    },
+    {
+      "id": 26,
+      "groupKey": "attendance_soso_28",
+      "day": 26,
+      "itemId": 96000002,
+      "qty": 500
+    },
+    {
+      "id": 27,
+      "groupKey": "attendance_soso_28",
+      "day": 27,
+      "itemId": 96000017,
+      "qty": 1
+    },
+    {
+      "id": 28,
+      "groupKey": "attendance_soso_28",
+      "day": 28,
+      "itemId": 96000016,
+      "qty": 1
+    },
+    {
+      "id": 29,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 1,
+      "itemId": 11,
+      "qty": 1
+    },
+    {
+      "id": 30,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 2,
+      "itemId": 96000049,
+      "qty": 1
+    },
+    {
+      "id": 31,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 3,
+      "itemId": 12,
+      "qty": 1
+    },
+    {
+      "id": 32,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 4,
+      "itemId": 11,
+      "qty": 1
+    },
+    {
+      "id": 33,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 5,
+      "itemId": 96000049,
+      "qty": 1
+    },
+    {
+      "id": 34,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 6,
+      "itemId": 12,
+      "qty": 1
+    },
+    {
+      "id": 35,
+      "groupKey": "attendance_costume_s1_7",
+      "day": 7,
+      "itemId": 96000049,
+      "qty": 3
+    },
+    {
+      "id": 36,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 1,
+      "itemId": 5,
+      "qty": 3
+    },
+    {
+      "id": 37,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 2,
+      "itemId": 5,
+      "qty": 5
+    },
+    {
+      "id": 38,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 3,
+      "itemId": 5,
+      "qty": 3
+    },
+    {
+      "id": 39,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 4,
+      "itemId": 5,
+      "qty": 3
+    },
+    {
+      "id": 40,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 5,
+      "itemId": 5,
+      "qty": 5
+    },
+    {
+      "id": 41,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 6,
+      "itemId": 5,
+      "qty": 3
+    },
+    {
+      "id": 42,
+      "groupKey": "attendance_tradecoin_7",
+      "day": 7,
+      "itemId": 5,
+      "qty": 8
+    },
+    {
+      "id": 43,
+      "groupKey": "attendance_gold_21",
+      "day": 1,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 44,
+      "groupKey": "attendance_gold_21",
+      "day": 2,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 45,
+      "groupKey": "attendance_gold_21",
+      "day": 3,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 46,
+      "groupKey": "attendance_gold_21",
+      "day": 4,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 47,
+      "groupKey": "attendance_gold_21",
+      "day": 5,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 48,
+      "groupKey": "attendance_gold_21",
+      "day": 6,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 49,
+      "groupKey": "attendance_gold_21",
+      "day": 7,
+      "itemId": 1,
+      "qty": 10000000
+    },
+    {
+      "id": 50,
+      "groupKey": "attendance_gold_21",
+      "day": 8,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 51,
+      "groupKey": "attendance_gold_21",
+      "day": 9,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 52,
+      "groupKey": "attendance_gold_21",
+      "day": 10,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 53,
+      "groupKey": "attendance_gold_21",
+      "day": 11,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 54,
+      "groupKey": "attendance_gold_21",
+      "day": 12,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 55,
+      "groupKey": "attendance_gold_21",
+      "day": 13,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 56,
+      "groupKey": "attendance_gold_21",
+      "day": 14,
+      "itemId": 1,
+      "qty": 10000000
+    },
+    {
+      "id": 57,
+      "groupKey": "attendance_gold_21",
+      "day": 15,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 58,
+      "groupKey": "attendance_gold_21",
+      "day": 16,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 59,
+      "groupKey": "attendance_gold_21",
+      "day": 17,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 60,
+      "groupKey": "attendance_gold_21",
+      "day": 18,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 61,
+      "groupKey": "attendance_gold_21",
+      "day": 19,
+      "itemId": 1,
+      "qty": 5000000
+    },
+    {
+      "id": 62,
+      "groupKey": "attendance_gold_21",
+      "day": 20,
+      "itemId": 1,
+      "qty": 3000000
+    },
+    {
+      "id": 63,
+      "groupKey": "attendance_gold_21",
+      "day": 21,
+      "itemId": 1,
+      "qty": 20000000
+    }
+  ]
+}

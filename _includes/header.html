@@ -1,0 +1,64 @@
+<header class="site-header" data-site-header>
+  <a class="site-brand" href="{{ '/' | relative_url }}">
+    <span class="site-brand__seal" aria-hidden="true"><span>飛</span></span>
+    <span class="site-brand__copy">
+      <strong>{{ site.title }}</strong>
+      <small>{{ site.tagline }}</small>
+    </span>
+  </a>
+
+  <div class="site-header__actions">
+    <button class="icon-button search-trigger" type="button" data-search-open aria-haspopup="dialog" aria-label="위키 데이터 검색 열기">
+      <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+        <circle cx="11" cy="11" r="6.5"></circle>
+        <path d="m16 16 4 4"></path>
+      </svg>
+      <span>데이터 검색</span>
+      <kbd aria-hidden="true">/</kbd>
+    </button>
+    <a class="patch-stamp" href="{{ '/docs/data/' | relative_url }}" aria-label="현재 패치 {{ site.data.generated_manifest.patch }}">
+      <span>PATCH</span>
+      <strong>{{ site.data.generated_manifest.patch }}</strong>
+    </a>
+    <button class="icon-button nav-trigger" type="button" data-nav-open aria-controls="site-navigation" aria-expanded="false">
+      <svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22">
+        <path d="M4 7h16M4 12h16M4 17h16"></path>
+      </svg>
+      <span class="visually-hidden">메뉴 열기</span>
+    </button>
+  </div>
+</header>
+
+<dialog class="search-dialog" data-search-dialog aria-labelledby="search-title">
+  <div class="search-dialog__header">
+    <div>
+      <p class="eyebrow">DATA INDEX</p>
+      <h2 id="search-title">위키 데이터 검색</h2>
+    </div>
+    <button class="icon-button" type="button" data-search-close>
+      <span aria-hidden="true">×</span>
+      <span class="visually-hidden">검색 닫기</span>
+    </button>
+  </div>
+  <label class="search-field" for="global-search-input">
+    <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+      <circle cx="11" cy="11" r="6.5"></circle>
+      <path d="m16 16 4 4"></path>
+    </svg>
+    <span class="visually-hidden">데이터 표 검색</span>
+    <input id="global-search-input" type="search" inputmode="search" autocomplete="off" placeholder="무공, 아이템, 몬스터, 확률, 원본 표…" data-global-search>
+  </label>
+  <p class="search-dialog__status" data-search-status aria-live="polite">데이터 표 {{ site.data.generated_manifest.tableCount }}개와 개체 낱장</p>
+  <div class="search-results" data-search-results>
+    {% for table in site.data.generated_manifest.tables %}
+      {% assign result_title = table.title | default: table.sourceAsset %}
+      <a class="search-result" href="{{ '/docs/data/tables/' | append: table.slug | append: '/' | relative_url }}" data-search-entry data-search-text="{{ result_title }} {{ table.sourceAsset }} {{ table.schema }} {{ table.categoryLabel }} {{ table.fields | join: ' ' }}">
+        <span>
+          <strong>{{ result_title }}</strong>
+          <small>{{ table.sourceAsset }}</small>
+        </span>
+        <span class="search-result__meta">{{ table.categoryLabel }} · {{ table.rowCount }}행</span>
+      </a>
+    {% endfor %}
+  </div>
+</dialog>

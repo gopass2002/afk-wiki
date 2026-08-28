@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 34,
+    "schema": "FBDataGuildBadge",
+    "sourceAsset": "FBDataGuildBadge",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 101,
+      "part": 1,
+      "index": 1,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main1",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 102,
+      "part": 1,
+      "index": 2,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main2",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 103,
+      "part": 1,
+      "index": 3,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main3",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 104,
+      "part": 1,
+      "index": 4,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main4",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 105,
+      "part": 1,
+      "index": 5,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main5",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 106,
+      "part": 1,
+      "index": 6,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main6",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 107,
+      "part": 1,
+      "index": 7,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main7",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 108,
+      "part": 1,
+      "index": 8,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main8",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 109,
+      "part": 1,
+      "index": 9,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main9",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 110,
+      "part": 1,
+      "index": 10,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_main10",
+      "spriteSub": "",
+      "color": ""
+    },
+    {
+      "id": 201,
+      "part": 2,
+      "index": 1,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Bg1",
+      "spriteSub": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Frame1",
+      "color": ""
+    },
+    {
+      "id": 202,
+      "part": 2,
+      "index": 2,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Bg2",
+      "spriteSub": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Frame2",
+      "color": ""
+    },
+    {
+      "id": 203,
+      "part": 2,
+      "index": 3,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Bg3",
+      "spriteSub": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Frame3",
+      "color": ""
+    },
+    {
+      "id": 204,
+      "part": 2,
+      "index": 4,
+      "sprite": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Bg4",
+      "spriteSub": "10.UI/99.Resource/0.Common/ClanIcon/ClanIcon_Frame4",
+      "color": ""
+    },
+    {
+      "id": 301,
+      "part": 3,
+      "index": 1,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ffffff"
+    },
+    {
+      "id": 302,
+      "part": 3,
+      "index": 2,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ff9b9b"
+    },
+    {
+      "id": 303,
+      "part": 3,
+      "index": 3,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "bfff94"
+    },
+    {
+      "id": 304,
+      "part": 3,
+      "index": 4,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "aafffc"
+    },
+    {
+      "id": 305,
+      "part": 3,
+      "index": 5,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "b6c5ff"
+    },
+    {
+      "id": 306,
+      "part": 3,
+      "index": 6,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ffbef7"
+    },
+    {
+      "id": 307,
+      "part": 3,
+      "index": 7,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "fff1bb"
+    },
+    {
+      "id": 308,
+      "part": 3,
+      "index": 8,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "23fd58"
+    },
+    {
+      "id": 309,
+      "part": 3,
+      "index": 9,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "23a6fd"
+    },
+    {
+      "id": 310,
+      "part": 3,
+      "index": 10,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "000000"
+    },
+    {
+      "id": 401,
+      "part": 4,
+      "index": 1,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ff3a3a"
+    },
+    {
+      "id": 402,
+      "part": 4,
+      "index": 2,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "9dff5c"
+    },
+    {
+      "id": 403,
+      "part": 4,
+      "index": 3,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "22fff6"
+    },
+    {
+      "id": 404,
+      "part": 4,
+      "index": 4,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "496dff"
+    },
+    {
+      "id": 405,
+      "part": 4,
+      "index": 5,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ff4dea"
+    },
+    {
+      "id": 501,
+      "part": 5,
+      "index": 1,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ff9b9b"
+    },
+    {
+      "id": 502,
+      "part": 5,
+      "index": 2,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "bfff94"
+    },
+    {
+      "id": 503,
+      "part": 5,
+      "index": 3,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "aafffc"
+    },
+    {
+      "id": 504,
+      "part": 5,
+      "index": 4,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "b6c5ff"
+    },
+    {
+      "id": 505,
+      "part": 5,
+      "index": 5,
+      "sprite": "",
+      "spriteSub": "",
+      "color": "ffbef7"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 4,
+    "schema": "FBDataItemUse",
+    "sourceAsset": "FBDataItemUse",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "itemId": 96000001,
+      "useType": "Heal",
+      "useValue": 100
+    },
+    {
+      "itemId": 96000002,
+      "useType": "Heal",
+      "useValue": 300
+    },
+    {
+      "itemId": 96000003,
+      "useType": "Heal",
+      "useValue": 800
+    },
+    {
+      "itemId": 96000004,
+      "useType": "Heal",
+      "useValue": 1500
+    }
+  ]
+}

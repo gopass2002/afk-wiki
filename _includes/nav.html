@@ -1,0 +1,41 @@
+<div class="nav-backdrop" data-nav-backdrop hidden></div>
+<aside class="site-nav" id="site-navigation" data-site-nav aria-label="주요 탐색">
+  <div class="site-nav__mobile-header">
+    <strong>탐색</strong>
+    <button class="icon-button" type="button" data-nav-close>
+      <span aria-hidden="true">×</span>
+      <span class="visually-hidden">메뉴 닫기</span>
+    </button>
+  </div>
+
+  <nav>
+    <a class="nav-home{% if page.url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>
+      <span aria-hidden="true">⌂</span>
+      홈
+    </a>
+    {% for group in site.data.nav %}
+      <section class="nav-group" aria-labelledby="nav-group-{{ forloop.index }}">
+        <h2 id="nav-group-{{ forloop.index }}">{{ group.title }}</h2>
+        <ul>
+          {% for item in group.items %}
+            {% assign current_path = item.url | append: '/' | replace: '//', '/' %}
+            {% assign is_current = false %}
+            {% if page.url == item.url or page.url == current_path %}{% assign is_current = true %}{% endif %}
+            <li>
+              <a class="nav-link{% if is_current %} is-active{% endif %}{% if item.status == 'draft' %} is-draft{% endif %}" href="{{ item.url | relative_url }}"{% if is_current %} aria-current="page"{% endif %}>
+                <span>{{ item.name }}</span>
+                {% if item.status == 'draft' %}<small>준비 중</small>{% endif %}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endfor %}
+
+  </nav>
+
+  <footer class="site-nav__footer">
+    <span class="verification-dot" aria-hidden="true"></span>
+    <span>배포본 {{ site.data.generated_manifest.patch }}<small>{{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }} 추출</small></span>
+  </footer>
+</aside>

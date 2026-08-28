@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "kind": "skillEnhancementProbabilities",
+    "patch": "ebffb",
+    "rowCount": 9,
+    "sources": [
+      "FBDataSkillEnhance",
+      "FBDataSkillConfig",
+      "FBDataItem"
+    ],
+    "formula": "failurePercent = 100 - successRate"
+  },
+  "rows": [
+    {
+      "id": 2,
+      "level": 1,
+      "successPercent": 100,
+      "failurePercent": 0,
+      "sameSkillMaterialCount": 1,
+      "silverCost": 1000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 3,
+      "level": 2,
+      "successPercent": 80,
+      "failurePercent": 20,
+      "sameSkillMaterialCount": 2,
+      "silverCost": 50000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 4,
+      "level": 3,
+      "successPercent": 60,
+      "failurePercent": 40,
+      "sameSkillMaterialCount": 3,
+      "silverCost": 100000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 5,
+      "level": 4,
+      "successPercent": 40,
+      "failurePercent": 60,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 6,
+      "level": 5,
+      "successPercent": 30,
+      "failurePercent": 70,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 7,
+      "level": 6,
+      "successPercent": 20,
+      "failurePercent": 80,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 8,
+      "level": 7,
+      "successPercent": 13,
+      "failurePercent": 87,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 9,
+      "level": 8,
+      "successPercent": 8,
+      "failurePercent": 92,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    },
+    {
+      "id": 10,
+      "level": 9,
+      "successPercent": 5,
+      "failurePercent": 95,
+      "sameSkillMaterialCount": 5,
+      "silverCost": 500000,
+      "universalBookItemId": 93000000,
+      "universalBookName": "범용 수련서",
+      "universalBookImage": "/assets/images/game/items/93000000.png"
+    }
+  ]
+}

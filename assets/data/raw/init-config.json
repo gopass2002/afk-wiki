@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 4,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataInitConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "StartingGiveItemDataIds",
+      "value": []
+    },
+    {
+      "id": 2,
+      "key": "StartingEquipItemDataIds",
+      "value": [
+        "11101000",
+        "12201000",
+        "12301000",
+        "12501000"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "StartingHairDataId",
+      "value": [
+        "24001000"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "StartingFaceDataId",
+      "value": [
+        "25001028"
+      ]
+    }
+  ]
+}

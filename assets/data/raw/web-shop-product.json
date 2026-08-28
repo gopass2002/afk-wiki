@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 7,
+    "schema": "FBDataWebShopProduct",
+    "sourceAsset": "FBDataWebShopProduct",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 9000001,
+      "name": "천옥 1,000 + 200",
+      "price": 99000,
+      "productKey": "WebShop_Jade_Gigantic",
+      "sortOrder": 2,
+      "icon": "Gigantic",
+      "limitCount": 0
+    },
+    {
+      "id": 9000002,
+      "name": "천옥 800 + 100",
+      "price": 75000,
+      "productKey": "WebShop_Jade_Huge",
+      "sortOrder": 3,
+      "icon": "Huge",
+      "limitCount": 0
+    },
+    {
+      "id": 9000003,
+      "name": "천옥 300 + 30",
+      "price": 29000,
+      "productKey": "WebShop_Jade_Large",
+      "sortOrder": 4,
+      "icon": "Large",
+      "limitCount": 0
+    },
+    {
+      "id": 9000004,
+      "name": "천옥 150 + 10",
+      "price": 15000,
+      "productKey": "WebShop_Jade_Medium",
+      "sortOrder": 5,
+      "icon": "Medium",
+      "limitCount": 0
+    },
+    {
+      "id": 9000005,
+      "name": "천옥 100 + 5",
+      "price": 9900,
+      "productKey": "WebShop_Jade_Small",
+      "sortOrder": 6,
+      "icon": "Small",
+      "limitCount": 0
+    },
+    {
+      "id": 9000006,
+      "name": "천옥 30",
+      "price": 3000,
+      "productKey": "WebShop_Jade_Tiny",
+      "sortOrder": 7,
+      "icon": "Tiny",
+      "limitCount": 0
+    },
+    {
+      "id": 9000007,
+      "name": "무사의 첫걸음 패키지",
+      "price": 200,
+      "productKey": "WebShop_90_Package",
+      "sortOrder": 1,
+      "icon": "SosoHotdeal",
+      "limitCount": 1
+    }
+  ]
+}

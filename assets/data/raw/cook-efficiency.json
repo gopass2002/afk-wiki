@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 5,
+    "schema": "FBDataCookEfficiency",
+    "sourceAsset": "FBDataCookEfficiency",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "grade": "Normal",
+      "perLevelEff": 1,
+      "dismantleUnitExp": 1
+    },
+    {
+      "id": 2,
+      "grade": "Rare",
+      "perLevelEff": 1,
+      "dismantleUnitExp": 2
+    },
+    {
+      "id": 3,
+      "grade": "Epic",
+      "perLevelEff": 1,
+      "dismantleUnitExp": 4
+    },
+    {
+      "id": 4,
+      "grade": "Unique",
+      "perLevelEff": 1,
+      "dismantleUnitExp": 7
+    },
+    {
+      "id": 5,
+      "grade": "Legendary",
+      "perLevelEff": 1,
+      "dismantleUnitExp": 10
+    }
+  ]
+}

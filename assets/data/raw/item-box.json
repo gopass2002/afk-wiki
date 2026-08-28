@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 42,
+    "schema": "FBDataItemBox",
+    "sourceAsset": "FBDataItemBox",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 96000010,
+      "useType": "AllBox",
+      "rewardGroup": "Box_Attend_M1",
+      "selectCount": 0
+    },
+    {
+      "id": 96000011,
+      "useType": "AllBox",
+      "rewardGroup": "Box_Attend_M2",
+      "selectCount": 0
+    },
+    {
+      "id": 96000012,
+      "useType": "AllBox",
+      "rewardGroup": "Box_Attend_M3",
+      "selectCount": 0
+    },
+    {
+      "id": 96000013,
+      "useType": "AllBox",
+      "rewardGroup": "Box_Attend_M4",
+      "selectCount": 0
+    },
+    {
+      "id": 96000014,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Gangho_Trove",
+      "selectCount": 0
+    },
+    {
+      "id": 96000015,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Murim_Gold",
+      "selectCount": 0
+    },
+    {
+      "id": 96000016,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Weapon_Unique",
+      "selectCount": 1
+    },
+    {
+      "id": 96000017,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Heaven_Gold",
+      "selectCount": 0
+    },
+    {
+      "id": 96000018,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Skill_Select",
+      "selectCount": 1
+    },
+    {
+      "id": 96000019,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Sword",
+      "selectCount": 0
+    },
+    {
+      "id": 96000020,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Blade",
+      "selectCount": 0
+    },
+    {
+      "id": 96000021,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Spear",
+      "selectCount": 0
+    },
+    {
+      "id": 96000022,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Staff",
+      "selectCount": 0
+    },
+    {
+      "id": 96000023,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Hidden",
+      "selectCount": 0
+    },
+    {
+      "id": 96000024,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Weapon_Epic",
+      "selectCount": 1
+    },
+    {
+      "id": 96000025,
+      "useType": "AllBox",
+      "rewardGroup": "Box_FirstStep_Weapon",
+      "selectCount": 0
+    },
+    {
+      "id": 96000026,
+      "useType": "AllBox",
+      "rewardGroup": "Box_FirstStep_Accessory",
+      "selectCount": 0
+    },
+    {
+      "id": 96000027,
+      "useType": "AllBox",
+      "rewardGroup": "Box_FirstStep_Skill",
+      "selectCount": 0
+    },
+    {
+      "id": 96000029,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Weapon_Hyeon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000030,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Weapon_Seon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000031,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Weapon_Sin",
+      "selectCount": 0
+    },
+    {
+      "id": 96000032,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Armor_Hyeon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000033,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Armor_Seon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000034,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Armor_Sin",
+      "selectCount": 0
+    },
+    {
+      "id": 96000035,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Acc_Hyeon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000036,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Acc_Seon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000037,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Acc_Sin",
+      "selectCount": 0
+    },
+    {
+      "id": 96000038,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Gear_Hyeon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000039,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Gear_Seon",
+      "selectCount": 1
+    },
+    {
+      "id": 96000040,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Gear_Sin",
+      "selectCount": 0
+    },
+    {
+      "id": 96000041,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Sword",
+      "selectCount": 0
+    },
+    {
+      "id": 96000042,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Blade",
+      "selectCount": 0
+    },
+    {
+      "id": 96000043,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Spear",
+      "selectCount": 0
+    },
+    {
+      "id": 96000044,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Staff",
+      "selectCount": 0
+    },
+    {
+      "id": 96000045,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Hidden",
+      "selectCount": 0
+    },
+    {
+      "id": 96000046,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Bijeon_Cheonma",
+      "selectCount": 0
+    },
+    {
+      "id": 96000047,
+      "useType": "SelectBox",
+      "rewardGroup": "Box_Skill_Bijeon_Select",
+      "selectCount": 1
+    },
+    {
+      "id": 96000049,
+      "useType": "AllBox",
+      "rewardGroup": "Box_Costume_S1",
+      "selectCount": 0
+    },
+    {
+      "id": 96000050,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Open_Weapon",
+      "selectCount": 0
+    },
+    {
+      "id": 96000051,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Open_Armor",
+      "selectCount": 0
+    },
+    {
+      "id": 96000054,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Skill_Sin_Select",
+      "selectCount": 0
+    },
+    {
+      "id": 96000055,
+      "useType": "RandomBox",
+      "rewardGroup": "Box_Open_Skill",
+      "selectCount": 0
+    }
+  ]
+}

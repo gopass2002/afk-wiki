@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 8,
+    "schema": "FBDataBagExpansion",
+    "sourceAsset": "FBDataBagExpansion",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "currencyType": "Gold",
+      "amount": 1000
+    },
+    {
+      "id": 2,
+      "currencyType": "Gold",
+      "amount": 5000
+    },
+    {
+      "id": 3,
+      "currencyType": "Gold",
+      "amount": 15000
+    },
+    {
+      "id": 4,
+      "currencyType": "Gold",
+      "amount": 40000
+    },
+    {
+      "id": 5,
+      "currencyType": "Gem",
+      "amount": 50
+    },
+    {
+      "id": 6,
+      "currencyType": "Gem",
+      "amount": 100
+    },
+    {
+      "id": 7,
+      "currencyType": "Gem",
+      "amount": 250
+    },
+    {
+      "id": 8,
+      "currencyType": "Gem",
+      "amount": 500
+    }
+  ]
+}

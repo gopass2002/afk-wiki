@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 4,
+    "schema": "FBDataShop",
+    "sourceAsset": "FBDataShop",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "nameKey": "상점",
+      "productGroupKey": "SystemShop"
+    },
+    {
+      "id": 2,
+      "nameKey": "NPC 상점",
+      "productGroupKey": "NpcShop"
+    },
+    {
+      "id": 3,
+      "nameKey": "변신술",
+      "productGroupKey": "TransformShop"
+    },
+    {
+      "id": 4,
+      "nameKey": "의상실",
+      "productGroupKey": "CostumeShop"
+    }
+  ]
+}

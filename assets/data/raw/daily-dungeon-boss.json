@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 1,
+    "schema": "FBDataDailyDungeonBoss",
+    "sourceAsset": "FBDataDailyDungeonBoss",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "nameKey": "숟가락 할배 습격",
+      "titleKey": "숟가락 할배 습격",
+      "descKey": "평생 숟가락 하나만 파고든 외길 인생 1인자",
+      "zoneId": 4000001,
+      "useTicketId": 20,
+      "bossPortrait": "10.UI/99.Resource/DailyContent/UI_DailyBoss_001",
+      "background": "10.UI/99.Resource/DailyContent/UI_DailyBg_001",
+      "tierGroupKey": "BossGold",
+      "timeLimit": 60000,
+      "hudType": 1
+    }
+  ]
+}

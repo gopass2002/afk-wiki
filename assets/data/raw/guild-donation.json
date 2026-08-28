@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 4,
+    "schema": "FBDataGuildDonation",
+    "sourceAsset": "FBDataGuildDonation",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "costGold": 100000,
+      "contribution": 1,
+      "exp": 1
+    },
+    {
+      "id": 2,
+      "costGold": 600000,
+      "contribution": 2,
+      "exp": 2
+    },
+    {
+      "id": 3,
+      "costGold": 1200000,
+      "contribution": 5,
+      "exp": 5
+    },
+    {
+      "id": 4,
+      "costGold": 2000000,
+      "contribution": 10,
+      "exp": 10
+    }
+  ]
+}

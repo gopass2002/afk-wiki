@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 9,
+    "schema": "FBDataZoneRegion",
+    "sourceAsset": "FBDataZoneRegion",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "actName": "서장",
+      "name": "천마신교 외곽 심산",
+      "posX": -558,
+      "posY": -436,
+      "background": "10.UI/2.Modal/world_map/world_depth_00"
+    },
+    {
+      "id": 2,
+      "actName": "1장",
+      "name": "화산 / 종남산",
+      "posX": -76,
+      "posY": -247,
+      "background": "10.UI/2.Modal/world_map/world_depth_01"
+    },
+    {
+      "id": 3,
+      "actName": "2장",
+      "name": "사천 / 당가 영역",
+      "posX": -490,
+      "posY": 141,
+      "background": "10.UI/2.Modal/world_map/world_depth_02"
+    },
+    {
+      "id": 4,
+      "actName": "3장",
+      "name": "강남 / 장강 수로",
+      "posX": 409,
+      "posY": -666,
+      "background": "10.UI/2.Modal/world_map/world_depth_03"
+    },
+    {
+      "id": 5,
+      "actName": "4장",
+      "name": "숭산 외각",
+      "posX": 454,
+      "posY": 195,
+      "background": "10.UI/2.Modal/world_map/world_depth_04"
+    },
+    {
+      "id": 6,
+      "actName": "5장",
+      "name": "북해 / 빙궁",
+      "posX": -22,
+      "posY": 747,
+      "background": ""
+    },
+    {
+      "id": 7,
+      "actName": "6장",
+      "name": "남만 / 선미방 유적",
+      "posX": -360,
+      "posY": -1188,
+      "background": ""
+    },
+    {
+      "id": 8,
+      "actName": "7장",
+      "name": "식신제 회장",
+      "posX": 578,
+      "posY": -337,
+      "background": ""
+    },
+    {
+      "id": 9,
+      "actName": "8장",
+      "name": "천마신교 내전",
+      "posX": -166,
+      "posY": -758,
+      "background": ""
+    }
+  ]
+}

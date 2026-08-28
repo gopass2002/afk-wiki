@@ -1,0 +1,4009 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 999,
+    "schema": "FBDataPcLevel",
+    "sourceAsset": "FBDataPcLevel",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "requiredExp": "100"
+    },
+    {
+      "id": 2,
+      "requiredExp": "614"
+    },
+    {
+      "id": 3,
+      "requiredExp": "1777"
+    },
+    {
+      "id": 4,
+      "requiredExp": "3776"
+    },
+    {
+      "id": 5,
+      "requiredExp": "6775"
+    },
+    {
+      "id": 6,
+      "requiredExp": "10920"
+    },
+    {
+      "id": 7,
+      "requiredExp": "16360"
+    },
+    {
+      "id": 8,
+      "requiredExp": "23200"
+    },
+    {
+      "id": 9,
+      "requiredExp": "31590"
+    },
+    {
+      "id": 10,
+      "requiredExp": "41630"
+    },
+    {
+      "id": 11,
+      "requiredExp": "48890"
+    },
+    {
+      "id": 12,
+      "requiredExp": "56620"
+    },
+    {
+      "id": 13,
+      "requiredExp": "64800"
+    },
+    {
+      "id": 14,
+      "requiredExp": "73430"
+    },
+    {
+      "id": 15,
+      "requiredExp": "82490"
+    },
+    {
+      "id": 16,
+      "requiredExp": "91970"
+    },
+    {
+      "id": 17,
+      "requiredExp": "101900"
+    },
+    {
+      "id": 18,
+      "requiredExp": "112200"
+    },
+    {
+      "id": 19,
+      "requiredExp": "122900"
+    },
+    {
+      "id": 20,
+      "requiredExp": "134000"
+    },
+    {
+      "id": 21,
+      "requiredExp": "216100"
+    },
+    {
+      "id": 22,
+      "requiredExp": "340900"
+    },
+    {
+      "id": 23,
+      "requiredExp": "527000"
+    },
+    {
+      "id": 24,
+      "requiredExp": "799700"
+    },
+    {
+      "id": 25,
+      "requiredExp": "1193000"
+    },
+    {
+      "id": 26,
+      "requiredExp": "1752000"
+    },
+    {
+      "id": 27,
+      "requiredExp": "2536000"
+    },
+    {
+      "id": 28,
+      "requiredExp": "3622000"
+    },
+    {
+      "id": 29,
+      "requiredExp": "5108000"
+    },
+    {
+      "id": 30,
+      "requiredExp": "7120000"
+    },
+    {
+      "id": 31,
+      "requiredExp": "7432000"
+    },
+    {
+      "id": 32,
+      "requiredExp": "7747000"
+    },
+    {
+      "id": 33,
+      "requiredExp": "8065000"
+    },
+    {
+      "id": 34,
+      "requiredExp": "8385000"
+    },
+    {
+      "id": 35,
+      "requiredExp": "8709000"
+    },
+    {
+      "id": 36,
+      "requiredExp": "9036000"
+    },
+    {
+      "id": 37,
+      "requiredExp": "9365000"
+    },
+    {
+      "id": 38,
+      "requiredExp": "9698000"
+    },
+    {
+      "id": 39,
+      "requiredExp": "10030000"
+    },
+    {
+      "id": 40,
+      "requiredExp": "10370000"
+    },
+    {
+      "id": 41,
+      "requiredExp": "11320000"
+    },
+    {
+      "id": 42,
+      "requiredExp": "12320000"
+    },
+    {
+      "id": 43,
+      "requiredExp": "13390000"
+    },
+    {
+      "id": 44,
+      "requiredExp": "14530000"
+    },
+    {
+      "id": 45,
+      "requiredExp": "15730000"
+    },
+    {
+      "id": 46,
+      "requiredExp": "17000000"
+    },
+    {
+      "id": 47,
+      "requiredExp": "18350000"
+    },
+    {
+      "id": 48,
+      "requiredExp": "19770000"
+    },
+    {
+      "id": 49,
+      "requiredExp": "21260000"
+    },
+    {
+      "id": 50,
+      "requiredExp": "22840000"
+    },
+    {
+      "id": 51,
+      "requiredExp": "24410000"
+    },
+    {
+      "id": 52,
+      "requiredExp": "26050000"
+    },
+    {
+      "id": 53,
+      "requiredExp": "27760000"
+    },
+    {
+      "id": 54,
+      "requiredExp": "29550000"
+    },
+    {
+      "id": 55,
+      "requiredExp": "31430000"
+    },
+    {
+      "id": 56,
+      "requiredExp": "33380000"
+    },
+    {
+      "id": 57,
+      "requiredExp": "35420000"
+    },
+    {
+      "id": 58,
+      "requiredExp": "37550000"
+    },
+    {
+      "id": 59,
+      "requiredExp": "39760000"
+    },
+    {
+      "id": 60,
+      "requiredExp": "42060000"
+    },
+    {
+      "id": 61,
+      "requiredExp": "44880000"
+    },
+    {
+      "id": 62,
+      "requiredExp": "47830000"
+    },
+    {
+      "id": 63,
+      "requiredExp": "50930000"
+    },
+    {
+      "id": 64,
+      "requiredExp": "54180000"
+    },
+    {
+      "id": 65,
+      "requiredExp": "57580000"
+    },
+    {
+      "id": 66,
+      "requiredExp": "61130000"
+    },
+    {
+      "id": 67,
+      "requiredExp": "64850000"
+    },
+    {
+      "id": 68,
+      "requiredExp": "68730000"
+    },
+    {
+      "id": 69,
+      "requiredExp": "72780000"
+    },
+    {
+      "id": 70,
+      "requiredExp": "77010000"
+    },
+    {
+      "id": 71,
+      "requiredExp": "84390000"
+    },
+    {
+      "id": 72,
+      "requiredExp": "92360000"
+    },
+    {
+      "id": 73,
+      "requiredExp": "101000000"
+    },
+    {
+      "id": 74,
+      "requiredExp": "110200000"
+    },
+    {
+      "id": 75,
+      "requiredExp": "120200000"
+    },
+    {
+      "id": 76,
+      "requiredExp": "130900000"
+    },
+    {
+      "id": 77,
+      "requiredExp": "142500000"
+    },
+    {
+      "id": 78,
+      "requiredExp": "154800000"
+    },
+    {
+      "id": 79,
+      "requiredExp": "168100000"
+    },
+    {
+      "id": 80,
+      "requiredExp": "182300000"
+    },
+    {
+      "id": 81,
+      "requiredExp": "192100000"
+    },
+    {
+      "id": 82,
+      "requiredExp": "202200000"
+    },
+    {
+      "id": 83,
+      "requiredExp": "212700000"
+    },
+    {
+      "id": 84,
+      "requiredExp": "223700000"
+    },
+    {
+      "id": 85,
+      "requiredExp": "235100000"
+    },
+    {
+      "id": 86,
+      "requiredExp": "246900000"
+    },
+    {
+      "id": 87,
+      "requiredExp": "259200000"
+    },
+    {
+      "id": 88,
+      "requiredExp": "271900000"
+    },
+    {
+      "id": 89,
+      "requiredExp": "285100000"
+    },
+    {
+      "id": 90,
+      "requiredExp": "298800000"
+    },
+    {
+      "id": 91,
+      "requiredExp": "327700000"
+    },
+    {
+      "id": 92,
+      "requiredExp": "359100000"
+    },
+    {
+      "id": 93,
+      "requiredExp": "393100000"
+    },
+    {
+      "id": 94,
+      "requiredExp": "429900000"
+    },
+    {
+      "id": 95,
+      "requiredExp": "469600000"
+    },
+    {
+      "id": 96,
+      "requiredExp": "512600000"
+    },
+    {
+      "id": 97,
+      "requiredExp": "559000000"
+    },
+    {
+      "id": 98,
+      "requiredExp": "609100000"
+    },
+    {
+      "id": 99,
+      "requiredExp": "663100000"
+    },
+    {
+      "id": 100,
+      "requiredExp": "669731000"
+    },
+    {
+      "id": 101,
+      "requiredExp": "676428000"
+    },
+    {
+      "id": 102,
+      "requiredExp": "683193000"
+    },
+    {
+      "id": 103,
+      "requiredExp": "690025000"
+    },
+    {
+      "id": 104,
+      "requiredExp": "696925000"
+    },
+    {
+      "id": 105,
+      "requiredExp": "703894000"
+    },
+    {
+      "id": 106,
+      "requiredExp": "710933000"
+    },
+    {
+      "id": 107,
+      "requiredExp": "718042000"
+    },
+    {
+      "id": 108,
+      "requiredExp": "725223000"
+    },
+    {
+      "id": 109,
+      "requiredExp": "732475000"
+    },
+    {
+      "id": 110,
+      "requiredExp": "739800000"
+    },
+    {
+      "id": 111,
+      "requiredExp": "747198000"
+    },
+    {
+      "id": 112,
+      "requiredExp": "754670000"
+    },
+    {
+      "id": 113,
+      "requiredExp": "762216000"
+    },
+    {
+      "id": 114,
+      "requiredExp": "769839000"
+    },
+    {
+      "id": 115,
+      "requiredExp": "777537000"
+    },
+    {
+      "id": 116,
+      "requiredExp": "785312000"
+    },
+    {
+      "id": 117,
+      "requiredExp": "793165000"
+    },
+    {
+      "id": 118,
+      "requiredExp": "801097000"
+    },
+    {
+      "id": 119,
+      "requiredExp": "809108000"
+    },
+    {
+      "id": 120,
+      "requiredExp": "817199000"
+    },
+    {
+      "id": 121,
+      "requiredExp": "825371000"
+    },
+    {
+      "id": 122,
+      "requiredExp": "833625000"
+    },
+    {
+      "id": 123,
+      "requiredExp": "841961000"
+    },
+    {
+      "id": 124,
+      "requiredExp": "850381000"
+    },
+    {
+      "id": 125,
+      "requiredExp": "858884000"
+    },
+    {
+      "id": 126,
+      "requiredExp": "867473000"
+    },
+    {
+      "id": 127,
+      "requiredExp": "876148000"
+    },
+    {
+      "id": 128,
+      "requiredExp": "884910000"
+    },
+    {
+      "id": 129,
+      "requiredExp": "893759000"
+    },
+    {
+      "id": 130,
+      "requiredExp": "902696000"
+    },
+    {
+      "id": 131,
+      "requiredExp": "911723000"
+    },
+    {
+      "id": 132,
+      "requiredExp": "920840000"
+    },
+    {
+      "id": 133,
+      "requiredExp": "930049000"
+    },
+    {
+      "id": 134,
+      "requiredExp": "939349000"
+    },
+    {
+      "id": 135,
+      "requiredExp": "948743000"
+    },
+    {
+      "id": 136,
+      "requiredExp": "958230000"
+    },
+    {
+      "id": 137,
+      "requiredExp": "967813000"
+    },
+    {
+      "id": 138,
+      "requiredExp": "977491000"
+    },
+    {
+      "id": 139,
+      "requiredExp": "987266000"
+    },
+    {
+      "id": 140,
+      "requiredExp": "997138000"
+    },
+    {
+      "id": 141,
+      "requiredExp": "1007110000"
+    },
+    {
+      "id": 142,
+      "requiredExp": "1017181000"
+    },
+    {
+      "id": 143,
+      "requiredExp": "1027352000"
+    },
+    {
+      "id": 144,
+      "requiredExp": "1037626000"
+    },
+    {
+      "id": 145,
+      "requiredExp": "1048002000"
+    },
+    {
+      "id": 146,
+      "requiredExp": "1058482000"
+    },
+    {
+      "id": 147,
+      "requiredExp": "1069067000"
+    },
+    {
+      "id": 148,
+      "requiredExp": "1079758000"
+    },
+    {
+      "id": 149,
+      "requiredExp": "1090555000"
+    },
+    {
+      "id": 150,
+      "requiredExp": "1101461000"
+    },
+    {
+      "id": 151,
+      "requiredExp": "1112476000"
+    },
+    {
+      "id": 152,
+      "requiredExp": "1123600000"
+    },
+    {
+      "id": 153,
+      "requiredExp": "1134836000"
+    },
+    {
+      "id": 154,
+      "requiredExp": "1146185000"
+    },
+    {
+      "id": 155,
+      "requiredExp": "1157646000"
+    },
+    {
+      "id": 156,
+      "requiredExp": "1169223000"
+    },
+    {
+      "id": 157,
+      "requiredExp": "1180915000"
+    },
+    {
+      "id": 158,
+      "requiredExp": "1192724000"
+    },
+    {
+      "id": 159,
+      "requiredExp": "1204652000"
+    },
+    {
+      "id": 160,
+      "requiredExp": "1216698000"
+    },
+    {
+      "id": 161,
+      "requiredExp": "1228865000"
+    },
+    {
+      "id": 162,
+      "requiredExp": "1241154000"
+    },
+    {
+      "id": 163,
+      "requiredExp": "1253565000"
+    },
+    {
+      "id": 164,
+      "requiredExp": "1266101000"
+    },
+    {
+      "id": 165,
+      "requiredExp": "1278762000"
+    },
+    {
+      "id": 166,
+      "requiredExp": "1291550000"
+    },
+    {
+      "id": 167,
+      "requiredExp": "1304465000"
+    },
+    {
+      "id": 168,
+      "requiredExp": "1317510000"
+    },
+    {
+      "id": 169,
+      "requiredExp": "1330685000"
+    },
+    {
+      "id": 170,
+      "requiredExp": "1343992000"
+    },
+    {
+      "id": 171,
+      "requiredExp": "1357432000"
+    },
+    {
+      "id": 172,
+      "requiredExp": "1371006000"
+    },
+    {
+      "id": 173,
+      "requiredExp": "1384716000"
+    },
+    {
+      "id": 174,
+      "requiredExp": "1398563000"
+    },
+    {
+      "id": 175,
+      "requiredExp": "1412549000"
+    },
+    {
+      "id": 176,
+      "requiredExp": "1426674000"
+    },
+    {
+      "id": 177,
+      "requiredExp": "1440941000"
+    },
+    {
+      "id": 178,
+      "requiredExp": "1455350000"
+    },
+    {
+      "id": 179,
+      "requiredExp": "1469904000"
+    },
+    {
+      "id": 180,
+      "requiredExp": "1484603000"
+    },
+    {
+      "id": 181,
+      "requiredExp": "1499449000"
+    },
+    {
+      "id": 182,
+      "requiredExp": "1514443000"
+    },
+    {
+      "id": 183,
+      "requiredExp": "1529588000"
+    },
+    {
+      "id": 184,
+      "requiredExp": "1544884000"
+    },
+    {
+      "id": 185,
+      "requiredExp": "1560333000"
+    },
+    {
+      "id": 186,
+      "requiredExp": "1575936000"
+    },
+    {
+      "id": 187,
+      "requiredExp": "1591695000"
+    },
+    {
+      "id": 188,
+      "requiredExp": "1607612000"
+    },
+    {
+      "id": 189,
+      "requiredExp": "1623688000"
+    },
+    {
+      "id": 190,
+      "requiredExp": "1639925000"
+    },
+    {
+      "id": 191,
+      "requiredExp": "1656324000"
+    },
+    {
+      "id": 192,
+      "requiredExp": "1672888000"
+    },
+    {
+      "id": 193,
+      "requiredExp": "1689617000"
+    },
+    {
+      "id": 194,
+      "requiredExp": "1706513000"
+    },
+    {
+      "id": 195,
+      "requiredExp": "1723578000"
+    },
+    {
+      "id": 196,
+      "requiredExp": "1740814000"
+    },
+    {
+      "id": 197,
+      "requiredExp": "1758222000"
+    },
+    {
+      "id": 198,
+      "requiredExp": "1775804000"
+    },
+    {
+      "id": 199,
+      "requiredExp": "1793562000"
+    },
+    {
+      "id": 200,
+      "requiredExp": "1811498000"
+    },
+    {
+      "id": 201,
+      "requiredExp": "1829613000"
+    },
+    {
+      "id": 202,
+      "requiredExp": "1847909000"
+    },
+    {
+      "id": 203,
+      "requiredExp": "1866388000"
+    },
+    {
+      "id": 204,
+      "requiredExp": "1885052000"
+    },
+    {
+      "id": 205,
+      "requiredExp": "1903902000"
+    },
+    {
+      "id": 206,
+      "requiredExp": "1922941000"
+    },
+    {
+      "id": 207,
+      "requiredExp": "1942171000"
+    },
+    {
+      "id": 208,
+      "requiredExp": "1961592000"
+    },
+    {
+      "id": 209,
+      "requiredExp": "1981208000"
+    },
+    {
+      "id": 210,
+      "requiredExp": "2001020000"
+    },
+    {
+      "id": 211,
+      "requiredExp": "2021031000"
+    },
+    {
+      "id": 212,
+      "requiredExp": "2041241000"
+    },
+    {
+      "id": 213,
+      "requiredExp": "2061653000"
+    },
+    {
+      "id": 214,
+      "requiredExp": "2082270000"
+    },
+    {
+      "id": 215,
+      "requiredExp": "2103093000"
+    },
+    {
+      "id": 216,
+      "requiredExp": "2124123000"
+    },
+    {
+      "id": 217,
+      "requiredExp": "2145365000"
+    },
+    {
+      "id": 218,
+      "requiredExp": "2166818000"
+    },
+    {
+      "id": 219,
+      "requiredExp": "2188487000"
+    },
+    {
+      "id": 220,
+      "requiredExp": "2210371000"
+    },
+    {
+      "id": 221,
+      "requiredExp": "2232475000"
+    },
+    {
+      "id": 222,
+      "requiredExp": "2254800000"
+    },
+    {
+      "id": 223,
+      "requiredExp": "2277348000"
+    },
+    {
+      "id": 224,
+      "requiredExp": "2300121000"
+    },
+    {
+      "id": 225,
+      "requiredExp": "2323123000"
+    },
+    {
+      "id": 226,
+      "requiredExp": "2346354000"
+    },
+    {
+      "id": 227,
+      "requiredExp": "2369817000"
+    },
+    {
+      "id": 228,
+      "requiredExp": "2393516000"
+    },
+    {
+      "id": 229,
+      "requiredExp": "2417451000"
+    },
+    {
+      "id": 230,
+      "requiredExp": "2441625000"
+    },
+    {
+      "id": 231,
+      "requiredExp": "2466041000"
+    },
+    {
+      "id": 232,
+      "requiredExp": "2490702000"
+    },
+    {
+      "id": 233,
+      "requiredExp": "2515609000"
+    },
+    {
+      "id": 234,
+      "requiredExp": "2540765000"
+    },
+    {
+      "id": 235,
+      "requiredExp": "2566173000"
+    },
+    {
+      "id": 236,
+      "requiredExp": "2591834000"
+    },
+    {
+      "id": 237,
+      "requiredExp": "2617753000"
+    },
+    {
+      "id": 238,
+      "requiredExp": "2643930000"
+    },
+    {
+      "id": 239,
+      "requiredExp": "2670369000"
+    },
+    {
+      "id": 240,
+      "requiredExp": "2697073000"
+    },
+    {
+      "id": 241,
+      "requiredExp": "2724044000"
+    },
+    {
+      "id": 242,
+      "requiredExp": "2751284000"
+    },
+    {
+      "id": 243,
+      "requiredExp": "2778797000"
+    },
+    {
+      "id": 244,
+      "requiredExp": "2806585000"
+    },
+    {
+      "id": 245,
+      "requiredExp": "2834651000"
+    },
+    {
+      "id": 246,
+      "requiredExp": "2862998000"
+    },
+    {
+      "id": 247,
+      "requiredExp": "2891628000"
+    },
+    {
+      "id": 248,
+      "requiredExp": "2920544000"
+    },
+    {
+      "id": 249,
+      "requiredExp": "2949749000"
+    },
+    {
+      "id": 250,
+      "requiredExp": "2979247000"
+    },
+    {
+      "id": 251,
+      "requiredExp": "3009039000"
+    },
+    {
+      "id": 252,
+      "requiredExp": "3039130000"
+    },
+    {
+      "id": 253,
+      "requiredExp": "3069521000"
+    },
+    {
+      "id": 254,
+      "requiredExp": "3100216000"
+    },
+    {
+      "id": 255,
+      "requiredExp": "3131218000"
+    },
+    {
+      "id": 256,
+      "requiredExp": "3162530000"
+    },
+    {
+      "id": 257,
+      "requiredExp": "3194156000"
+    },
+    {
+      "id": 258,
+      "requiredExp": "3226097000"
+    },
+    {
+      "id": 259,
+      "requiredExp": "3258358000"
+    },
+    {
+      "id": 260,
+      "requiredExp": "3290942000"
+    },
+    {
+      "id": 261,
+      "requiredExp": "3323851000"
+    },
+    {
+      "id": 262,
+      "requiredExp": "3357090000"
+    },
+    {
+      "id": 263,
+      "requiredExp": "3390661000"
+    },
+    {
+      "id": 264,
+      "requiredExp": "3424567000"
+    },
+    {
+      "id": 265,
+      "requiredExp": "3458813000"
+    },
+    {
+      "id": 266,
+      "requiredExp": "3493401000"
+    },
+    {
+      "id": 267,
+      "requiredExp": "3528335000"
+    },
+    {
+      "id": 268,
+      "requiredExp": "3563618000"
+    },
+    {
+      "id": 269,
+      "requiredExp": "3599255000"
+    },
+    {
+      "id": 270,
+      "requiredExp": "3635247000"
+    },
+    {
+      "id": 271,
+      "requiredExp": "3671600000"
+    },
+    {
+      "id": 272,
+      "requiredExp": "3708316000"
+    },
+    {
+      "id": 273,
+      "requiredExp": "3745399000"
+    },
+    {
+      "id": 274,
+      "requiredExp": "3782853000"
+    },
+    {
+      "id": 275,
+      "requiredExp": "3820681000"
+    },
+    {
+      "id": 276,
+      "requiredExp": "3858888000"
+    },
+    {
+      "id": 277,
+      "requiredExp": "3897477000"
+    },
+    {
+      "id": 278,
+      "requiredExp": "3936452000"
+    },
+    {
+      "id": 279,
+      "requiredExp": "3975816000"
+    },
+    {
+      "id": 280,
+      "requiredExp": "4015574000"
+    },
+    {
+      "id": 281,
+      "requiredExp": "4055730000"
+    },
+    {
+      "id": 282,
+      "requiredExp": "4096287000"
+    },
+    {
+      "id": 283,
+      "requiredExp": "4137250000"
+    },
+    {
+      "id": 284,
+      "requiredExp": "4178623000"
+    },
+    {
+      "id": 285,
+      "requiredExp": "4220409000"
+    },
+    {
+      "id": 286,
+      "requiredExp": "4262613000"
+    },
+    {
+      "id": 287,
+      "requiredExp": "4305239000"
+    },
+    {
+      "id": 288,
+      "requiredExp": "4348292000"
+    },
+    {
+      "id": 289,
+      "requiredExp": "4391775000"
+    },
+    {
+      "id": 290,
+      "requiredExp": "4435692000"
+    },
+    {
+      "id": 291,
+      "requiredExp": "4480049000"
+    },
+    {
+      "id": 292,
+      "requiredExp": "4524850000"
+    },
+    {
+      "id": 293,
+      "requiredExp": "4570098000"
+    },
+    {
+      "id": 294,
+      "requiredExp": "4615799000"
+    },
+    {
+      "id": 295,
+      "requiredExp": "4661957000"
+    },
+    {
+      "id": 296,
+      "requiredExp": "4708577000"
+    },
+    {
+      "id": 297,
+      "requiredExp": "4755663000"
+    },
+    {
+      "id": 298,
+      "requiredExp": "4803219000"
+    },
+    {
+      "id": 299,
+      "requiredExp": "4851251000"
+    },
+    {
+      "id": 300,
+      "requiredExp": "4899764000"
+    },
+    {
+      "id": 301,
+      "requiredExp": "4948762000"
+    },
+    {
+      "id": 302,
+      "requiredExp": "4998249000"
+    },
+    {
+      "id": 303,
+      "requiredExp": "5048232000"
+    },
+    {
+      "id": 304,
+      "requiredExp": "5098714000"
+    },
+    {
+      "id": 305,
+      "requiredExp": "5149701000"
+    },
+    {
+      "id": 306,
+      "requiredExp": "5201198000"
+    },
+    {
+      "id": 307,
+      "requiredExp": "5253210000"
+    },
+    {
+      "id": 308,
+      "requiredExp": "5305742000"
+    },
+    {
+      "id": 309,
+      "requiredExp": "5358800000"
+    },
+    {
+      "id": 310,
+      "requiredExp": "5412388000"
+    },
+    {
+      "id": 311,
+      "requiredExp": "5466512000"
+    },
+    {
+      "id": 312,
+      "requiredExp": "5521177000"
+    },
+    {
+      "id": 313,
+      "requiredExp": "5576388000"
+    },
+    {
+      "id": 314,
+      "requiredExp": "5632152000"
+    },
+    {
+      "id": 315,
+      "requiredExp": "5688474000"
+    },
+    {
+      "id": 316,
+      "requiredExp": "5745359000"
+    },
+    {
+      "id": 317,
+      "requiredExp": "5802812000"
+    },
+    {
+      "id": 318,
+      "requiredExp": "5860840000"
+    },
+    {
+      "id": 319,
+      "requiredExp": "5919449000"
+    },
+    {
+      "id": 320,
+      "requiredExp": "5978643000"
+    },
+    {
+      "id": 321,
+      "requiredExp": "6038430000"
+    },
+    {
+      "id": 322,
+      "requiredExp": "6098814000"
+    },
+    {
+      "id": 323,
+      "requiredExp": "6159802000"
+    },
+    {
+      "id": 324,
+      "requiredExp": "6221400000"
+    },
+    {
+      "id": 325,
+      "requiredExp": "6283614000"
+    },
+    {
+      "id": 326,
+      "requiredExp": "6346450000"
+    },
+    {
+      "id": 327,
+      "requiredExp": "6409915000"
+    },
+    {
+      "id": 328,
+      "requiredExp": "6474014000"
+    },
+    {
+      "id": 329,
+      "requiredExp": "6538754000"
+    },
+    {
+      "id": 330,
+      "requiredExp": "6604142000"
+    },
+    {
+      "id": 331,
+      "requiredExp": "6670183000"
+    },
+    {
+      "id": 332,
+      "requiredExp": "6736885000"
+    },
+    {
+      "id": 333,
+      "requiredExp": "6804254000"
+    },
+    {
+      "id": 334,
+      "requiredExp": "6872296000"
+    },
+    {
+      "id": 335,
+      "requiredExp": "6941019000"
+    },
+    {
+      "id": 336,
+      "requiredExp": "7010429000"
+    },
+    {
+      "id": 337,
+      "requiredExp": "7080534000"
+    },
+    {
+      "id": 338,
+      "requiredExp": "7151339000"
+    },
+    {
+      "id": 339,
+      "requiredExp": "7222852000"
+    },
+    {
+      "id": 340,
+      "requiredExp": "7295081000"
+    },
+    {
+      "id": 341,
+      "requiredExp": "7368032000"
+    },
+    {
+      "id": 342,
+      "requiredExp": "7441712000"
+    },
+    {
+      "id": 343,
+      "requiredExp": "7516129000"
+    },
+    {
+      "id": 344,
+      "requiredExp": "7591290000"
+    },
+    {
+      "id": 345,
+      "requiredExp": "7667203000"
+    },
+    {
+      "id": 346,
+      "requiredExp": "7743875000"
+    },
+    {
+      "id": 347,
+      "requiredExp": "7821314000"
+    },
+    {
+      "id": 348,
+      "requiredExp": "7899527000"
+    },
+    {
+      "id": 349,
+      "requiredExp": "7978522000"
+    },
+    {
+      "id": 350,
+      "requiredExp": "8058308000"
+    },
+    {
+      "id": 351,
+      "requiredExp": "8138891000"
+    },
+    {
+      "id": 352,
+      "requiredExp": "8220280000"
+    },
+    {
+      "id": 353,
+      "requiredExp": "8302482000"
+    },
+    {
+      "id": 354,
+      "requiredExp": "8385507000"
+    },
+    {
+      "id": 355,
+      "requiredExp": "8469362000"
+    },
+    {
+      "id": 356,
+      "requiredExp": "8554056000"
+    },
+    {
+      "id": 357,
+      "requiredExp": "8639597000"
+    },
+    {
+      "id": 358,
+      "requiredExp": "8725993000"
+    },
+    {
+      "id": 359,
+      "requiredExp": "8813252000"
+    },
+    {
+      "id": 360,
+      "requiredExp": "8901385000"
+    },
+    {
+      "id": 361,
+      "requiredExp": "8990399000"
+    },
+    {
+      "id": 362,
+      "requiredExp": "9080303000"
+    },
+    {
+      "id": 363,
+      "requiredExp": "9171106000"
+    },
+    {
+      "id": 364,
+      "requiredExp": "9262817000"
+    },
+    {
+      "id": 365,
+      "requiredExp": "9355445000"
+    },
+    {
+      "id": 366,
+      "requiredExp": "9449000000"
+    },
+    {
+      "id": 367,
+      "requiredExp": "9543490000"
+    },
+    {
+      "id": 368,
+      "requiredExp": "9638924000"
+    },
+    {
+      "id": 369,
+      "requiredExp": "9735314000"
+    },
+    {
+      "id": 370,
+      "requiredExp": "9832667000"
+    },
+    {
+      "id": 371,
+      "requiredExp": "9930993000"
+    },
+    {
+      "id": 372,
+      "requiredExp": "10030303000"
+    },
+    {
+      "id": 373,
+      "requiredExp": "10130606000"
+    },
+    {
+      "id": 374,
+      "requiredExp": "10231913000"
+    },
+    {
+      "id": 375,
+      "requiredExp": "10334232000"
+    },
+    {
+      "id": 376,
+      "requiredExp": "10437574000"
+    },
+    {
+      "id": 377,
+      "requiredExp": "10541950000"
+    },
+    {
+      "id": 378,
+      "requiredExp": "10647369000"
+    },
+    {
+      "id": 379,
+      "requiredExp": "10753843000"
+    },
+    {
+      "id": 380,
+      "requiredExp": "10861381000"
+    },
+    {
+      "id": 381,
+      "requiredExp": "10969995000"
+    },
+    {
+      "id": 382,
+      "requiredExp": "11079695000"
+    },
+    {
+      "id": 383,
+      "requiredExp": "11190492000"
+    },
+    {
+      "id": 384,
+      "requiredExp": "11302397000"
+    },
+    {
+      "id": 385,
+      "requiredExp": "11415421000"
+    },
+    {
+      "id": 386,
+      "requiredExp": "11529575000"
+    },
+    {
+      "id": 387,
+      "requiredExp": "11644871000"
+    },
+    {
+      "id": 388,
+      "requiredExp": "11761320000"
+    },
+    {
+      "id": 389,
+      "requiredExp": "11878933000"
+    },
+    {
+      "id": 390,
+      "requiredExp": "11997722000"
+    },
+    {
+      "id": 391,
+      "requiredExp": "12117699000"
+    },
+    {
+      "id": 392,
+      "requiredExp": "12238876000"
+    },
+    {
+      "id": 393,
+      "requiredExp": "12361265000"
+    },
+    {
+      "id": 394,
+      "requiredExp": "12484878000"
+    },
+    {
+      "id": 395,
+      "requiredExp": "12609727000"
+    },
+    {
+      "id": 396,
+      "requiredExp": "12735824000"
+    },
+    {
+      "id": 397,
+      "requiredExp": "12863182000"
+    },
+    {
+      "id": 398,
+      "requiredExp": "12991814000"
+    },
+    {
+      "id": 399,
+      "requiredExp": "13121732000"
+    },
+    {
+      "id": 400,
+      "requiredExp": "13252949000"
+    },
+    {
+      "id": 401,
+      "requiredExp": "13385479000"
+    },
+    {
+      "id": 402,
+      "requiredExp": "13519334000"
+    },
+    {
+      "id": 403,
+      "requiredExp": "13654527000"
+    },
+    {
+      "id": 404,
+      "requiredExp": "13791072000"
+    },
+    {
+      "id": 405,
+      "requiredExp": "13928983000"
+    },
+    {
+      "id": 406,
+      "requiredExp": "14068273000"
+    },
+    {
+      "id": 407,
+      "requiredExp": "14208955000"
+    },
+    {
+      "id": 408,
+      "requiredExp": "14351045000"
+    },
+    {
+      "id": 409,
+      "requiredExp": "14494555000"
+    },
+    {
+      "id": 410,
+      "requiredExp": "14639501000"
+    },
+    {
+      "id": 411,
+      "requiredExp": "14785896000"
+    },
+    {
+      "id": 412,
+      "requiredExp": "14933755000"
+    },
+    {
+      "id": 413,
+      "requiredExp": "15083093000"
+    },
+    {
+      "id": 414,
+      "requiredExp": "15233923000"
+    },
+    {
+      "id": 415,
+      "requiredExp": "15386263000"
+    },
+    {
+      "id": 416,
+      "requiredExp": "15540125000"
+    },
+    {
+      "id": 417,
+      "requiredExp": "15695527000"
+    },
+    {
+      "id": 418,
+      "requiredExp": "15852482000"
+    },
+    {
+      "id": 419,
+      "requiredExp": "16011007000"
+    },
+    {
+      "id": 420,
+      "requiredExp": "16171117000"
+    },
+    {
+      "id": 421,
+      "requiredExp": "16332828000"
+    },
+    {
+      "id": 422,
+      "requiredExp": "16496156000"
+    },
+    {
+      "id": 423,
+      "requiredExp": "16661118000"
+    },
+    {
+      "id": 424,
+      "requiredExp": "16827729000"
+    },
+    {
+      "id": 425,
+      "requiredExp": "16996006000"
+    },
+    {
+      "id": 426,
+      "requiredExp": "17165966000"
+    },
+    {
+      "id": 427,
+      "requiredExp": "17337626000"
+    },
+    {
+      "id": 428,
+      "requiredExp": "17511002000"
+    },
+    {
+      "id": 429,
+      "requiredExp": "17686112000"
+    },
+    {
+      "id": 430,
+      "requiredExp": "17862973000"
+    },
+    {
+      "id": 431,
+      "requiredExp": "18041603000"
+    },
+    {
+      "id": 432,
+      "requiredExp": "18222019000"
+    },
+    {
+      "id": 433,
+      "requiredExp": "18404239000"
+    },
+    {
+      "id": 434,
+      "requiredExp": "18588282000"
+    },
+    {
+      "id": 435,
+      "requiredExp": "18774165000"
+    },
+    {
+      "id": 436,
+      "requiredExp": "18961906000"
+    },
+    {
+      "id": 437,
+      "requiredExp": "19151525000"
+    },
+    {
+      "id": 438,
+      "requiredExp": "19343040000"
+    },
+    {
+      "id": 439,
+      "requiredExp": "19536471000"
+    },
+    {
+      "id": 440,
+      "requiredExp": "19731836000"
+    },
+    {
+      "id": 441,
+      "requiredExp": "19929154000"
+    },
+    {
+      "id": 442,
+      "requiredExp": "20128445000"
+    },
+    {
+      "id": 443,
+      "requiredExp": "20329730000"
+    },
+    {
+      "id": 444,
+      "requiredExp": "20533027000"
+    },
+    {
+      "id": 445,
+      "requiredExp": "20738357000"
+    },
+    {
+      "id": 446,
+      "requiredExp": "20945741000"
+    },
+    {
+      "id": 447,
+      "requiredExp": "21155198000"
+    },
+    {
+      "id": 448,
+      "requiredExp": "21366750000"
+    },
+    {
+      "id": 449,
+      "requiredExp": "21580418000"
+    },
+    {
+      "id": 450,
+      "requiredExp": "21796222000"
+    },
+    {
+      "id": 451,
+      "requiredExp": "22014184000"
+    },
+    {
+      "id": 452,
+      "requiredExp": "22234326000"
+    },
+    {
+      "id": 453,
+      "requiredExp": "22456669000"
+    },
+    {
+      "id": 454,
+      "requiredExp": "22681236000"
+    },
+    {
+      "id": 455,
+      "requiredExp": "22908049000"
+    },
+    {
+      "id": 456,
+      "requiredExp": "23137129000"
+    },
+    {
+      "id": 457,
+      "requiredExp": "23368500000"
+    },
+    {
+      "id": 458,
+      "requiredExp": "23602185000"
+    },
+    {
+      "id": 459,
+      "requiredExp": "23838207000"
+    },
+    {
+      "id": 460,
+      "requiredExp": "24076589000"
+    },
+    {
+      "id": 461,
+      "requiredExp": "24317355000"
+    },
+    {
+      "id": 462,
+      "requiredExp": "24560529000"
+    },
+    {
+      "id": 463,
+      "requiredExp": "24806134000"
+    },
+    {
+      "id": 464,
+      "requiredExp": "25054195000"
+    },
+    {
+      "id": 465,
+      "requiredExp": "25304737000"
+    },
+    {
+      "id": 466,
+      "requiredExp": "25557785000"
+    },
+    {
+      "id": 467,
+      "requiredExp": "25813362000"
+    },
+    {
+      "id": 468,
+      "requiredExp": "26071496000"
+    },
+    {
+      "id": 469,
+      "requiredExp": "26332211000"
+    },
+    {
+      "id": 470,
+      "requiredExp": "26595533000"
+    },
+    {
+      "id": 471,
+      "requiredExp": "26861489000"
+    },
+    {
+      "id": 472,
+      "requiredExp": "27130103000"
+    },
+    {
+      "id": 473,
+      "requiredExp": "27401404000"
+    },
+    {
+      "id": 474,
+      "requiredExp": "27675418000"
+    },
+    {
+      "id": 475,
+      "requiredExp": "27952173000"
+    },
+    {
+      "id": 476,
+      "requiredExp": "28231694000"
+    },
+    {
+      "id": 477,
+      "requiredExp": "28514011000"
+    },
+    {
+      "id": 478,
+      "requiredExp": "28799151000"
+    },
+    {
+      "id": 479,
+      "requiredExp": "29087143000"
+    },
+    {
+      "id": 480,
+      "requiredExp": "29378014000"
+    },
+    {
+      "id": 481,
+      "requiredExp": "29671795000"
+    },
+    {
+      "id": 482,
+      "requiredExp": "29968512000"
+    },
+    {
+      "id": 483,
+      "requiredExp": "30268198000"
+    },
+    {
+      "id": 484,
+      "requiredExp": "30570880000"
+    },
+    {
+      "id": 485,
+      "requiredExp": "30876588000"
+    },
+    {
+      "id": 486,
+      "requiredExp": "31185354000"
+    },
+    {
+      "id": 487,
+      "requiredExp": "31497208000"
+    },
+    {
+      "id": 488,
+      "requiredExp": "31812180000"
+    },
+    {
+      "id": 489,
+      "requiredExp": "32130302000"
+    },
+    {
+      "id": 490,
+      "requiredExp": "32451605000"
+    },
+    {
+      "id": 491,
+      "requiredExp": "32776121000"
+    },
+    {
+      "id": 492,
+      "requiredExp": "33103882000"
+    },
+    {
+      "id": 493,
+      "requiredExp": "33434921000"
+    },
+    {
+      "id": 494,
+      "requiredExp": "33769270000"
+    },
+    {
+      "id": 495,
+      "requiredExp": "34106963000"
+    },
+    {
+      "id": 496,
+      "requiredExp": "34448032000"
+    },
+    {
+      "id": 497,
+      "requiredExp": "34792513000"
+    },
+    {
+      "id": 498,
+      "requiredExp": "35140438000"
+    },
+    {
+      "id": 499,
+      "requiredExp": "35491842000"
+    },
+    {
+      "id": 500,
+      "requiredExp": "35846761000"
+    },
+    {
+      "id": 501,
+      "requiredExp": "36205228000"
+    },
+    {
+      "id": 502,
+      "requiredExp": "36567280000"
+    },
+    {
+      "id": 503,
+      "requiredExp": "36932953000"
+    },
+    {
+      "id": 504,
+      "requiredExp": "37302283000"
+    },
+    {
+      "id": 505,
+      "requiredExp": "37675306000"
+    },
+    {
+      "id": 506,
+      "requiredExp": "38052059000"
+    },
+    {
+      "id": 507,
+      "requiredExp": "38432579000"
+    },
+    {
+      "id": 508,
+      "requiredExp": "38816905000"
+    },
+    {
+      "id": 509,
+      "requiredExp": "39205074000"
+    },
+    {
+      "id": 510,
+      "requiredExp": "39597125000"
+    },
+    {
+      "id": 511,
+      "requiredExp": "39993096000"
+    },
+    {
+      "id": 512,
+      "requiredExp": "40393027000"
+    },
+    {
+      "id": 513,
+      "requiredExp": "40796957000"
+    },
+    {
+      "id": 514,
+      "requiredExp": "41204927000"
+    },
+    {
+      "id": 515,
+      "requiredExp": "41616976000"
+    },
+    {
+      "id": 516,
+      "requiredExp": "42033146000"
+    },
+    {
+      "id": 517,
+      "requiredExp": "42453477000"
+    },
+    {
+      "id": 518,
+      "requiredExp": "42878012000"
+    },
+    {
+      "id": 519,
+      "requiredExp": "43306792000"
+    },
+    {
+      "id": 520,
+      "requiredExp": "43739860000"
+    },
+    {
+      "id": 521,
+      "requiredExp": "44177259000"
+    },
+    {
+      "id": 522,
+      "requiredExp": "44619031000"
+    },
+    {
+      "id": 523,
+      "requiredExp": "45065222000"
+    },
+    {
+      "id": 524,
+      "requiredExp": "45515874000"
+    },
+    {
+      "id": 525,
+      "requiredExp": "45971033000"
+    },
+    {
+      "id": 526,
+      "requiredExp": "46430743000"
+    },
+    {
+      "id": 527,
+      "requiredExp": "46895050000"
+    },
+    {
+      "id": 528,
+      "requiredExp": "47364001000"
+    },
+    {
+      "id": 529,
+      "requiredExp": "47837641000"
+    },
+    {
+      "id": 530,
+      "requiredExp": "48316017000"
+    },
+    {
+      "id": 531,
+      "requiredExp": "48799177000"
+    },
+    {
+      "id": 532,
+      "requiredExp": "49287169000"
+    },
+    {
+      "id": 533,
+      "requiredExp": "49780041000"
+    },
+    {
+      "id": 534,
+      "requiredExp": "50277841000"
+    },
+    {
+      "id": 535,
+      "requiredExp": "50780620000"
+    },
+    {
+      "id": 536,
+      "requiredExp": "51288426000"
+    },
+    {
+      "id": 537,
+      "requiredExp": "51801310000"
+    },
+    {
+      "id": 538,
+      "requiredExp": "52319323000"
+    },
+    {
+      "id": 539,
+      "requiredExp": "52842517000"
+    },
+    {
+      "id": 540,
+      "requiredExp": "53370942000"
+    },
+    {
+      "id": 541,
+      "requiredExp": "53904651000"
+    },
+    {
+      "id": 542,
+      "requiredExp": "54443698000"
+    },
+    {
+      "id": 543,
+      "requiredExp": "54988135000"
+    },
+    {
+      "id": 544,
+      "requiredExp": "55538016000"
+    },
+    {
+      "id": 545,
+      "requiredExp": "56093396000"
+    },
+    {
+      "id": 546,
+      "requiredExp": "56654330000"
+    },
+    {
+      "id": 547,
+      "requiredExp": "57220873000"
+    },
+    {
+      "id": 548,
+      "requiredExp": "57793082000"
+    },
+    {
+      "id": 549,
+      "requiredExp": "58371013000"
+    },
+    {
+      "id": 550,
+      "requiredExp": "58954723000"
+    },
+    {
+      "id": 551,
+      "requiredExp": "59544270000"
+    },
+    {
+      "id": 552,
+      "requiredExp": "60139713000"
+    },
+    {
+      "id": 553,
+      "requiredExp": "60741110000"
+    },
+    {
+      "id": 554,
+      "requiredExp": "61348521000"
+    },
+    {
+      "id": 555,
+      "requiredExp": "61962006000"
+    },
+    {
+      "id": 556,
+      "requiredExp": "62581627000"
+    },
+    {
+      "id": 557,
+      "requiredExp": "63207443000"
+    },
+    {
+      "id": 558,
+      "requiredExp": "63839517000"
+    },
+    {
+      "id": 559,
+      "requiredExp": "64477912000"
+    },
+    {
+      "id": 560,
+      "requiredExp": "65122692000"
+    },
+    {
+      "id": 561,
+      "requiredExp": "65773918000"
+    },
+    {
+      "id": 562,
+      "requiredExp": "66431658000"
+    },
+    {
+      "id": 563,
+      "requiredExp": "67095974000"
+    },
+    {
+      "id": 564,
+      "requiredExp": "67766934000"
+    },
+    {
+      "id": 565,
+      "requiredExp": "68444603000"
+    },
+    {
+      "id": 566,
+      "requiredExp": "69129049000"
+    },
+    {
+      "id": 567,
+      "requiredExp": "69820340000"
+    },
+    {
+      "id": 568,
+      "requiredExp": "70518543000"
+    },
+    {
+      "id": 569,
+      "requiredExp": "71223729000"
+    },
+    {
+      "id": 570,
+      "requiredExp": "71935966000"
+    },
+    {
+      "id": 571,
+      "requiredExp": "72655326000"
+    },
+    {
+      "id": 572,
+      "requiredExp": "73381879000"
+    },
+    {
+      "id": 573,
+      "requiredExp": "74115698000"
+    },
+    {
+      "id": 574,
+      "requiredExp": "74856855000"
+    },
+    {
+      "id": 575,
+      "requiredExp": "75605423000"
+    },
+    {
+      "id": 576,
+      "requiredExp": "76361477000"
+    },
+    {
+      "id": 577,
+      "requiredExp": "77125092000"
+    },
+    {
+      "id": 578,
+      "requiredExp": "77896343000"
+    },
+    {
+      "id": 579,
+      "requiredExp": "78675307000"
+    },
+    {
+      "id": 580,
+      "requiredExp": "79462060000"
+    },
+    {
+      "id": 581,
+      "requiredExp": "80256680000"
+    },
+    {
+      "id": 582,
+      "requiredExp": "81059247000"
+    },
+    {
+      "id": 583,
+      "requiredExp": "81869839000"
+    },
+    {
+      "id": 584,
+      "requiredExp": "82688538000"
+    },
+    {
+      "id": 585,
+      "requiredExp": "83515423000"
+    },
+    {
+      "id": 586,
+      "requiredExp": "84350577000"
+    },
+    {
+      "id": 587,
+      "requiredExp": "85194083000"
+    },
+    {
+      "id": 588,
+      "requiredExp": "86046024000"
+    },
+    {
+      "id": 589,
+      "requiredExp": "86906484000"
+    },
+    {
+      "id": 590,
+      "requiredExp": "87775549000"
+    },
+    {
+      "id": 591,
+      "requiredExp": "88653305000"
+    },
+    {
+      "id": 592,
+      "requiredExp": "89539838000"
+    },
+    {
+      "id": 593,
+      "requiredExp": "90435236000"
+    },
+    {
+      "id": 594,
+      "requiredExp": "91339588000"
+    },
+    {
+      "id": 595,
+      "requiredExp": "92252984000"
+    },
+    {
+      "id": 596,
+      "requiredExp": "93175514000"
+    },
+    {
+      "id": 597,
+      "requiredExp": "94107269000"
+    },
+    {
+      "id": 598,
+      "requiredExp": "95048342000"
+    },
+    {
+      "id": 599,
+      "requiredExp": "95998825000"
+    },
+    {
+      "id": 600,
+      "requiredExp": "96958814000"
+    },
+    {
+      "id": 601,
+      "requiredExp": "97928402000"
+    },
+    {
+      "id": 602,
+      "requiredExp": "98907686000"
+    },
+    {
+      "id": 603,
+      "requiredExp": "99896763000"
+    },
+    {
+      "id": 604,
+      "requiredExp": "100895730000"
+    },
+    {
+      "id": 605,
+      "requiredExp": "101904688000"
+    },
+    {
+      "id": 606,
+      "requiredExp": "102923734000"
+    },
+    {
+      "id": 607,
+      "requiredExp": "103952972000"
+    },
+    {
+      "id": 608,
+      "requiredExp": "104992502000"
+    },
+    {
+      "id": 609,
+      "requiredExp": "106042427000"
+    },
+    {
+      "id": 610,
+      "requiredExp": "107102851000"
+    },
+    {
+      "id": 611,
+      "requiredExp": "108173879000"
+    },
+    {
+      "id": 612,
+      "requiredExp": "109255618000"
+    },
+    {
+      "id": 613,
+      "requiredExp": "110348174000"
+    },
+    {
+      "id": 614,
+      "requiredExp": "111451656000"
+    },
+    {
+      "id": 615,
+      "requiredExp": "112566173000"
+    },
+    {
+      "id": 616,
+      "requiredExp": "113691834000"
+    },
+    {
+      "id": 617,
+      "requiredExp": "114828753000"
+    },
+    {
+      "id": 618,
+      "requiredExp": "115977040000"
+    },
+    {
+      "id": 619,
+      "requiredExp": "117136811000"
+    },
+    {
+      "id": 620,
+      "requiredExp": "118308179000"
+    },
+    {
+      "id": 621,
+      "requiredExp": "119491260000"
+    },
+    {
+      "id": 622,
+      "requiredExp": "120686173000"
+    },
+    {
+      "id": 623,
+      "requiredExp": "121893035000"
+    },
+    {
+      "id": 624,
+      "requiredExp": "123111965000"
+    },
+    {
+      "id": 625,
+      "requiredExp": "124343085000"
+    },
+    {
+      "id": 626,
+      "requiredExp": "125586516000"
+    },
+    {
+      "id": 627,
+      "requiredExp": "126842381000"
+    },
+    {
+      "id": 628,
+      "requiredExp": "128110805000"
+    },
+    {
+      "id": 629,
+      "requiredExp": "129391913000"
+    },
+    {
+      "id": 630,
+      "requiredExp": "130685832000"
+    },
+    {
+      "id": 631,
+      "requiredExp": "131992690000"
+    },
+    {
+      "id": 632,
+      "requiredExp": "133312617000"
+    },
+    {
+      "id": 633,
+      "requiredExp": "134645743000"
+    },
+    {
+      "id": 634,
+      "requiredExp": "135992201000"
+    },
+    {
+      "id": 635,
+      "requiredExp": "137352123000"
+    },
+    {
+      "id": 636,
+      "requiredExp": "138725644000"
+    },
+    {
+      "id": 637,
+      "requiredExp": "140112900000"
+    },
+    {
+      "id": 638,
+      "requiredExp": "141514029000"
+    },
+    {
+      "id": 639,
+      "requiredExp": "142929170000"
+    },
+    {
+      "id": 640,
+      "requiredExp": "144358461000"
+    },
+    {
+      "id": 641,
+      "requiredExp": "145802046000"
+    },
+    {
+      "id": 642,
+      "requiredExp": "147260066000"
+    },
+    {
+      "id": 643,
+      "requiredExp": "148732667000"
+    },
+    {
+      "id": 644,
+      "requiredExp": "150219994000"
+    },
+    {
+      "id": 645,
+      "requiredExp": "151722194000"
+    },
+    {
+      "id": 646,
+      "requiredExp": "153239416000"
+    },
+    {
+      "id": 647,
+      "requiredExp": "154771810000"
+    },
+    {
+      "id": 648,
+      "requiredExp": "156319528000"
+    },
+    {
+      "id": 649,
+      "requiredExp": "157882723000"
+    },
+    {
+      "id": 650,
+      "requiredExp": "159461550000"
+    },
+    {
+      "id": 651,
+      "requiredExp": "161056166000"
+    },
+    {
+      "id": 652,
+      "requiredExp": "162666728000"
+    },
+    {
+      "id": 653,
+      "requiredExp": "164293395000"
+    },
+    {
+      "id": 654,
+      "requiredExp": "165936329000"
+    },
+    {
+      "id": 655,
+      "requiredExp": "167595692000"
+    },
+    {
+      "id": 656,
+      "requiredExp": "169271649000"
+    },
+    {
+      "id": 657,
+      "requiredExp": "170964365000"
+    },
+    {
+      "id": 658,
+      "requiredExp": "172674009000"
+    },
+    {
+      "id": 659,
+      "requiredExp": "174400749000"
+    },
+    {
+      "id": 660,
+      "requiredExp": "176144757000"
+    },
+    {
+      "id": 661,
+      "requiredExp": "177906204000"
+    },
+    {
+      "id": 662,
+      "requiredExp": "179685266000"
+    },
+    {
+      "id": 663,
+      "requiredExp": "181482119000"
+    },
+    {
+      "id": 664,
+      "requiredExp": "183296940000"
+    },
+    {
+      "id": 665,
+      "requiredExp": "185129910000"
+    },
+    {
+      "id": 666,
+      "requiredExp": "186981209000"
+    },
+    {
+      "id": 667,
+      "requiredExp": "188851021000"
+    },
+    {
+      "id": 668,
+      "requiredExp": "190739531000"
+    },
+    {
+      "id": 669,
+      "requiredExp": "192646926000"
+    },
+    {
+      "id": 670,
+      "requiredExp": "194573395000"
+    },
+    {
+      "id": 671,
+      "requiredExp": "196519129000"
+    },
+    {
+      "id": 672,
+      "requiredExp": "198484321000"
+    },
+    {
+      "id": 673,
+      "requiredExp": "200469164000"
+    },
+    {
+      "id": 674,
+      "requiredExp": "202473856000"
+    },
+    {
+      "id": 675,
+      "requiredExp": "204498594000"
+    },
+    {
+      "id": 676,
+      "requiredExp": "206543580000"
+    },
+    {
+      "id": 677,
+      "requiredExp": "208609016000"
+    },
+    {
+      "id": 678,
+      "requiredExp": "210695106000"
+    },
+    {
+      "id": 679,
+      "requiredExp": "212802057000"
+    },
+    {
+      "id": 680,
+      "requiredExp": "214930078000"
+    },
+    {
+      "id": 681,
+      "requiredExp": "217079378000"
+    },
+    {
+      "id": 682,
+      "requiredExp": "219250172000"
+    },
+    {
+      "id": 683,
+      "requiredExp": "221442674000"
+    },
+    {
+      "id": 684,
+      "requiredExp": "223657101000"
+    },
+    {
+      "id": 685,
+      "requiredExp": "225893672000"
+    },
+    {
+      "id": 686,
+      "requiredExp": "228152608000"
+    },
+    {
+      "id": 687,
+      "requiredExp": "230434134000"
+    },
+    {
+      "id": 688,
+      "requiredExp": "232738476000"
+    },
+    {
+      "id": 689,
+      "requiredExp": "235065861000"
+    },
+    {
+      "id": 690,
+      "requiredExp": "237416519000"
+    },
+    {
+      "id": 691,
+      "requiredExp": "239790684000"
+    },
+    {
+      "id": 692,
+      "requiredExp": "242188591000"
+    },
+    {
+      "id": 693,
+      "requiredExp": "244610477000"
+    },
+    {
+      "id": 694,
+      "requiredExp": "247056582000"
+    },
+    {
+      "id": 695,
+      "requiredExp": "249527148000"
+    },
+    {
+      "id": 696,
+      "requiredExp": "252022419000"
+    },
+    {
+      "id": 697,
+      "requiredExp": "254542643000"
+    },
+    {
+      "id": 698,
+      "requiredExp": "257088070000"
+    },
+    {
+      "id": 699,
+      "requiredExp": "259658951000"
+    },
+    {
+      "id": 700,
+      "requiredExp": "262255540000"
+    },
+    {
+      "id": 701,
+      "requiredExp": "264878095000"
+    },
+    {
+      "id": 702,
+      "requiredExp": "267526876000"
+    },
+    {
+      "id": 703,
+      "requiredExp": "270202145000"
+    },
+    {
+      "id": 704,
+      "requiredExp": "272904167000"
+    },
+    {
+      "id": 705,
+      "requiredExp": "275633208000"
+    },
+    {
+      "id": 706,
+      "requiredExp": "278389540000"
+    },
+    {
+      "id": 707,
+      "requiredExp": "281173436000"
+    },
+    {
+      "id": 708,
+      "requiredExp": "283985170000"
+    },
+    {
+      "id": 709,
+      "requiredExp": "286825022000"
+    },
+    {
+      "id": 710,
+      "requiredExp": "289693272000"
+    },
+    {
+      "id": 711,
+      "requiredExp": "292590205000"
+    },
+    {
+      "id": 712,
+      "requiredExp": "295516107000"
+    },
+    {
+      "id": 713,
+      "requiredExp": "298471268000"
+    },
+    {
+      "id": 714,
+      "requiredExp": "301455981000"
+    },
+    {
+      "id": 715,
+      "requiredExp": "304470540000"
+    },
+    {
+      "id": 716,
+      "requiredExp": "307515246000"
+    },
+    {
+      "id": 717,
+      "requiredExp": "310590398000"
+    },
+    {
+      "id": 718,
+      "requiredExp": "313696302000"
+    },
+    {
+      "id": 719,
+      "requiredExp": "316833265000"
+    },
+    {
+      "id": 720,
+      "requiredExp": "320001598000"
+    },
+    {
+      "id": 721,
+      "requiredExp": "323201614000"
+    },
+    {
+      "id": 722,
+      "requiredExp": "326433630000"
+    },
+    {
+      "id": 723,
+      "requiredExp": "329697966000"
+    },
+    {
+      "id": 724,
+      "requiredExp": "332994946000"
+    },
+    {
+      "id": 725,
+      "requiredExp": "336324895000"
+    },
+    {
+      "id": 726,
+      "requiredExp": "339688144000"
+    },
+    {
+      "id": 727,
+      "requiredExp": "343085026000"
+    },
+    {
+      "id": 728,
+      "requiredExp": "346515876000"
+    },
+    {
+      "id": 729,
+      "requiredExp": "349981035000"
+    },
+    {
+      "id": 730,
+      "requiredExp": "353480845000"
+    },
+    {
+      "id": 731,
+      "requiredExp": "357015654000"
+    },
+    {
+      "id": 732,
+      "requiredExp": "360585810000"
+    },
+    {
+      "id": 733,
+      "requiredExp": "364191668000"
+    },
+    {
+      "id": 734,
+      "requiredExp": "367833585000"
+    },
+    {
+      "id": 735,
+      "requiredExp": "371511921000"
+    },
+    {
+      "id": 736,
+      "requiredExp": "375227040000"
+    },
+    {
+      "id": 737,
+      "requiredExp": "378979310000"
+    },
+    {
+      "id": 738,
+      "requiredExp": "382769104000"
+    },
+    {
+      "id": 739,
+      "requiredExp": "386596795000"
+    },
+    {
+      "id": 740,
+      "requiredExp": "390462763000"
+    },
+    {
+      "id": 741,
+      "requiredExp": "394367390000"
+    },
+    {
+      "id": 742,
+      "requiredExp": "398311064000"
+    },
+    {
+      "id": 743,
+      "requiredExp": "402294175000"
+    },
+    {
+      "id": 744,
+      "requiredExp": "406317116000"
+    },
+    {
+      "id": 745,
+      "requiredExp": "410380288000"
+    },
+    {
+      "id": 746,
+      "requiredExp": "414484090000"
+    },
+    {
+      "id": 747,
+      "requiredExp": "418628931000"
+    },
+    {
+      "id": 748,
+      "requiredExp": "422815221000"
+    },
+    {
+      "id": 749,
+      "requiredExp": "427043373000"
+    },
+    {
+      "id": 750,
+      "requiredExp": "431313807000"
+    },
+    {
+      "id": 751,
+      "requiredExp": "435626945000"
+    },
+    {
+      "id": 752,
+      "requiredExp": "439983214000"
+    },
+    {
+      "id": 753,
+      "requiredExp": "444383046000"
+    },
+    {
+      "id": 754,
+      "requiredExp": "448826877000"
+    },
+    {
+      "id": 755,
+      "requiredExp": "453315146000"
+    },
+    {
+      "id": 756,
+      "requiredExp": "457848297000"
+    },
+    {
+      "id": 757,
+      "requiredExp": "462426780000"
+    },
+    {
+      "id": 758,
+      "requiredExp": "467051048000"
+    },
+    {
+      "id": 759,
+      "requiredExp": "471721558000"
+    },
+    {
+      "id": 760,
+      "requiredExp": "476438774000"
+    },
+    {
+      "id": 761,
+      "requiredExp": "481203162000"
+    },
+    {
+      "id": 762,
+      "requiredExp": "486015193000"
+    },
+    {
+      "id": 763,
+      "requiredExp": "490875345000"
+    },
+    {
+      "id": 764,
+      "requiredExp": "495784099000"
+    },
+    {
+      "id": 765,
+      "requiredExp": "500741940000"
+    },
+    {
+      "id": 766,
+      "requiredExp": "505749359000"
+    },
+    {
+      "id": 767,
+      "requiredExp": "510806853000"
+    },
+    {
+      "id": 768,
+      "requiredExp": "515914921000"
+    },
+    {
+      "id": 769,
+      "requiredExp": "521074070000"
+    },
+    {
+      "id": 770,
+      "requiredExp": "526284811000"
+    },
+    {
+      "id": 771,
+      "requiredExp": "531547659000"
+    },
+    {
+      "id": 772,
+      "requiredExp": "536863136000"
+    },
+    {
+      "id": 773,
+      "requiredExp": "542231767000"
+    },
+    {
+      "id": 774,
+      "requiredExp": "547654085000"
+    },
+    {
+      "id": 775,
+      "requiredExp": "553130626000"
+    },
+    {
+      "id": 776,
+      "requiredExp": "558661932000"
+    },
+    {
+      "id": 777,
+      "requiredExp": "564248551000"
+    },
+    {
+      "id": 778,
+      "requiredExp": "569891037000"
+    },
+    {
+      "id": 779,
+      "requiredExp": "575589947000"
+    },
+    {
+      "id": 780,
+      "requiredExp": "581345846000"
+    },
+    {
+      "id": 781,
+      "requiredExp": "587159305000"
+    },
+    {
+      "id": 782,
+      "requiredExp": "593030898000"
+    },
+    {
+      "id": 783,
+      "requiredExp": "598961207000"
+    },
+    {
+      "id": 784,
+      "requiredExp": "604950819000"
+    },
+    {
+      "id": 785,
+      "requiredExp": "611000327000"
+    },
+    {
+      "id": 786,
+      "requiredExp": "617110330000"
+    },
+    {
+      "id": 787,
+      "requiredExp": "623281434000"
+    },
+    {
+      "id": 788,
+      "requiredExp": "629514248000"
+    },
+    {
+      "id": 789,
+      "requiredExp": "635809391000"
+    },
+    {
+      "id": 790,
+      "requiredExp": "642167484000"
+    },
+    {
+      "id": 791,
+      "requiredExp": "648589159000"
+    },
+    {
+      "id": 792,
+      "requiredExp": "655075051000"
+    },
+    {
+      "id": 793,
+      "requiredExp": "661625801000"
+    },
+    {
+      "id": 794,
+      "requiredExp": "668242059000"
+    },
+    {
+      "id": 795,
+      "requiredExp": "674924480000"
+    },
+    {
+      "id": 796,
+      "requiredExp": "681673725000"
+    },
+    {
+      "id": 797,
+      "requiredExp": "688490462000"
+    },
+    {
+      "id": 798,
+      "requiredExp": "695375367000"
+    },
+    {
+      "id": 799,
+      "requiredExp": "702329120000"
+    },
+    {
+      "id": 800,
+      "requiredExp": "709352412000"
+    },
+    {
+      "id": 801,
+      "requiredExp": "716445936000"
+    },
+    {
+      "id": 802,
+      "requiredExp": "723610395000"
+    },
+    {
+      "id": 803,
+      "requiredExp": "730846499000"
+    },
+    {
+      "id": 804,
+      "requiredExp": "738154964000"
+    },
+    {
+      "id": 805,
+      "requiredExp": "745536514000"
+    },
+    {
+      "id": 806,
+      "requiredExp": "752991879000"
+    },
+    {
+      "id": 807,
+      "requiredExp": "760521798000"
+    },
+    {
+      "id": 808,
+      "requiredExp": "768127016000"
+    },
+    {
+      "id": 809,
+      "requiredExp": "775808286000"
+    },
+    {
+      "id": 810,
+      "requiredExp": "783566369000"
+    },
+    {
+      "id": 811,
+      "requiredExp": "791402032000"
+    },
+    {
+      "id": 812,
+      "requiredExp": "799316053000"
+    },
+    {
+      "id": 813,
+      "requiredExp": "807309213000"
+    },
+    {
+      "id": 814,
+      "requiredExp": "815382305000"
+    },
+    {
+      "id": 815,
+      "requiredExp": "823536128000"
+    },
+    {
+      "id": 816,
+      "requiredExp": "831771490000"
+    },
+    {
+      "id": 817,
+      "requiredExp": "840089204000"
+    },
+    {
+      "id": 818,
+      "requiredExp": "848490096000"
+    },
+    {
+      "id": 819,
+      "requiredExp": "856974997000"
+    },
+    {
+      "id": 820,
+      "requiredExp": "865544747000"
+    },
+    {
+      "id": 821,
+      "requiredExp": "874200195000"
+    },
+    {
+      "id": 822,
+      "requiredExp": "882942197000"
+    },
+    {
+      "id": 823,
+      "requiredExp": "891771619000"
+    },
+    {
+      "id": 824,
+      "requiredExp": "900689335000"
+    },
+    {
+      "id": 825,
+      "requiredExp": "909696228000"
+    },
+    {
+      "id": 826,
+      "requiredExp": "918793191000"
+    },
+    {
+      "id": 827,
+      "requiredExp": "927981123000"
+    },
+    {
+      "id": 828,
+      "requiredExp": "937260934000"
+    },
+    {
+      "id": 829,
+      "requiredExp": "946633543000"
+    },
+    {
+      "id": 830,
+      "requiredExp": "956099879000"
+    },
+    {
+      "id": 831,
+      "requiredExp": "965660877000"
+    },
+    {
+      "id": 832,
+      "requiredExp": "975317486000"
+    },
+    {
+      "id": 833,
+      "requiredExp": "985070661000"
+    },
+    {
+      "id": 834,
+      "requiredExp": "994921368000"
+    },
+    {
+      "id": 835,
+      "requiredExp": "1004870581000"
+    },
+    {
+      "id": 836,
+      "requiredExp": "1014919287000"
+    },
+    {
+      "id": 837,
+      "requiredExp": "1025068480000"
+    },
+    {
+      "id": 838,
+      "requiredExp": "1035319165000"
+    },
+    {
+      "id": 839,
+      "requiredExp": "1045672356000"
+    },
+    {
+      "id": 840,
+      "requiredExp": "1056129080000"
+    },
+    {
+      "id": 841,
+      "requiredExp": "1066690371000"
+    },
+    {
+      "id": 842,
+      "requiredExp": "1077357274000"
+    },
+    {
+      "id": 843,
+      "requiredExp": "1088130847000"
+    },
+    {
+      "id": 844,
+      "requiredExp": "1099012156000"
+    },
+    {
+      "id": 845,
+      "requiredExp": "1110002277000"
+    },
+    {
+      "id": 846,
+      "requiredExp": "1121102300000"
+    },
+    {
+      "id": 847,
+      "requiredExp": "1132313323000"
+    },
+    {
+      "id": 848,
+      "requiredExp": "1143636456000"
+    },
+    {
+      "id": 849,
+      "requiredExp": "1155072821000"
+    },
+    {
+      "id": 850,
+      "requiredExp": "1166623549000"
+    },
+    {
+      "id": 851,
+      "requiredExp": "1178289784000"
+    },
+    {
+      "id": 852,
+      "requiredExp": "1190072682000"
+    },
+    {
+      "id": 853,
+      "requiredExp": "1201973409000"
+    },
+    {
+      "id": 854,
+      "requiredExp": "1213993143000"
+    },
+    {
+      "id": 855,
+      "requiredExp": "1226133075000"
+    },
+    {
+      "id": 856,
+      "requiredExp": "1238394405000"
+    },
+    {
+      "id": 857,
+      "requiredExp": "1250778349000"
+    },
+    {
+      "id": 858,
+      "requiredExp": "1263286133000"
+    },
+    {
+      "id": 859,
+      "requiredExp": "1275918994000"
+    },
+    {
+      "id": 860,
+      "requiredExp": "1288678184000"
+    },
+    {
+      "id": 861,
+      "requiredExp": "1301564966000"
+    },
+    {
+      "id": 862,
+      "requiredExp": "1314580616000"
+    },
+    {
+      "id": 863,
+      "requiredExp": "1327726422000"
+    },
+    {
+      "id": 864,
+      "requiredExp": "1341003686000"
+    },
+    {
+      "id": 865,
+      "requiredExp": "1354413723000"
+    },
+    {
+      "id": 866,
+      "requiredExp": "1367957860000"
+    },
+    {
+      "id": 867,
+      "requiredExp": "1381637439000"
+    },
+    {
+      "id": 868,
+      "requiredExp": "1395453813000"
+    },
+    {
+      "id": 869,
+      "requiredExp": "1409408351000"
+    },
+    {
+      "id": 870,
+      "requiredExp": "1423502435000"
+    },
+    {
+      "id": 871,
+      "requiredExp": "1437737459000"
+    },
+    {
+      "id": 872,
+      "requiredExp": "1452114834000"
+    },
+    {
+      "id": 873,
+      "requiredExp": "1466635982000"
+    },
+    {
+      "id": 874,
+      "requiredExp": "1481302342000"
+    },
+    {
+      "id": 875,
+      "requiredExp": "1496115365000"
+    },
+    {
+      "id": 876,
+      "requiredExp": "1511076519000"
+    },
+    {
+      "id": 877,
+      "requiredExp": "1526187284000"
+    },
+    {
+      "id": 878,
+      "requiredExp": "1541449157000"
+    },
+    {
+      "id": 879,
+      "requiredExp": "1556863649000"
+    },
+    {
+      "id": 880,
+      "requiredExp": "1572432285000"
+    },
+    {
+      "id": 881,
+      "requiredExp": "1588156608000"
+    },
+    {
+      "id": 882,
+      "requiredExp": "1604038174000"
+    },
+    {
+      "id": 883,
+      "requiredExp": "1620078556000"
+    },
+    {
+      "id": 884,
+      "requiredExp": "1636279341000"
+    },
+    {
+      "id": 885,
+      "requiredExp": "1652642135000"
+    },
+    {
+      "id": 886,
+      "requiredExp": "1669168556000"
+    },
+    {
+      "id": 887,
+      "requiredExp": "1685860242000"
+    },
+    {
+      "id": 888,
+      "requiredExp": "1702718844000"
+    },
+    {
+      "id": 889,
+      "requiredExp": "1719746033000"
+    },
+    {
+      "id": 890,
+      "requiredExp": "1736943493000"
+    },
+    {
+      "id": 891,
+      "requiredExp": "1754312928000"
+    },
+    {
+      "id": 892,
+      "requiredExp": "1771856057000"
+    },
+    {
+      "id": 893,
+      "requiredExp": "1789574618000"
+    },
+    {
+      "id": 894,
+      "requiredExp": "1807470364000"
+    },
+    {
+      "id": 895,
+      "requiredExp": "1825545067000"
+    },
+    {
+      "id": 896,
+      "requiredExp": "1843800518000"
+    },
+    {
+      "id": 897,
+      "requiredExp": "1862238523000"
+    },
+    {
+      "id": 898,
+      "requiredExp": "1880860909000"
+    },
+    {
+      "id": 899,
+      "requiredExp": "1899669518000"
+    },
+    {
+      "id": 900,
+      "requiredExp": "1918666213000"
+    },
+    {
+      "id": 901,
+      "requiredExp": "1937852875000"
+    },
+    {
+      "id": 902,
+      "requiredExp": "1957231404000"
+    },
+    {
+      "id": 903,
+      "requiredExp": "1976803718000"
+    },
+    {
+      "id": 904,
+      "requiredExp": "1996571755000"
+    },
+    {
+      "id": 905,
+      "requiredExp": "2016537472000"
+    },
+    {
+      "id": 906,
+      "requiredExp": "2036702847000"
+    },
+    {
+      "id": 907,
+      "requiredExp": "2057069876000"
+    },
+    {
+      "id": 908,
+      "requiredExp": "2077640574000"
+    },
+    {
+      "id": 909,
+      "requiredExp": "2098416980000"
+    },
+    {
+      "id": 910,
+      "requiredExp": "2119401150000"
+    },
+    {
+      "id": 911,
+      "requiredExp": "2140595161000"
+    },
+    {
+      "id": 912,
+      "requiredExp": "2162001113000"
+    },
+    {
+      "id": 913,
+      "requiredExp": "2183621124000"
+    },
+    {
+      "id": 914,
+      "requiredExp": "2205457335000"
+    },
+    {
+      "id": 915,
+      "requiredExp": "2227511909000"
+    },
+    {
+      "id": 916,
+      "requiredExp": "2249787028000"
+    },
+    {
+      "id": 917,
+      "requiredExp": "2272284898000"
+    },
+    {
+      "id": 918,
+      "requiredExp": "2295007747000"
+    },
+    {
+      "id": 919,
+      "requiredExp": "2317957825000"
+    },
+    {
+      "id": 920,
+      "requiredExp": "2341137403000"
+    },
+    {
+      "id": 921,
+      "requiredExp": "2364548777000"
+    },
+    {
+      "id": 922,
+      "requiredExp": "2388194265000"
+    },
+    {
+      "id": 923,
+      "requiredExp": "2412076207000"
+    },
+    {
+      "id": 924,
+      "requiredExp": "2436196969000"
+    },
+    {
+      "id": 925,
+      "requiredExp": "2460558939000"
+    },
+    {
+      "id": 926,
+      "requiredExp": "2485164528000"
+    },
+    {
+      "id": 927,
+      "requiredExp": "2510016174000"
+    },
+    {
+      "id": 928,
+      "requiredExp": "2535116335000"
+    },
+    {
+      "id": 929,
+      "requiredExp": "2560467499000"
+    },
+    {
+      "id": 930,
+      "requiredExp": "2586072174000"
+    },
+    {
+      "id": 931,
+      "requiredExp": "2611932896000"
+    },
+    {
+      "id": 932,
+      "requiredExp": "2638052224000"
+    },
+    {
+      "id": 933,
+      "requiredExp": "2664432747000"
+    },
+    {
+      "id": 934,
+      "requiredExp": "2691077074000"
+    },
+    {
+      "id": 935,
+      "requiredExp": "2717987845000"
+    },
+    {
+      "id": 936,
+      "requiredExp": "2745167723000"
+    },
+    {
+      "id": 937,
+      "requiredExp": "2772619401000"
+    },
+    {
+      "id": 938,
+      "requiredExp": "2800345595000"
+    },
+    {
+      "id": 939,
+      "requiredExp": "2828349051000"
+    },
+    {
+      "id": 940,
+      "requiredExp": "2856632541000"
+    },
+    {
+      "id": 941,
+      "requiredExp": "2885198866000"
+    },
+    {
+      "id": 942,
+      "requiredExp": "2914050855000"
+    },
+    {
+      "id": 943,
+      "requiredExp": "2943191364000"
+    },
+    {
+      "id": 944,
+      "requiredExp": "2972623277000"
+    },
+    {
+      "id": 945,
+      "requiredExp": "3002349510000"
+    },
+    {
+      "id": 946,
+      "requiredExp": "3032373005000"
+    },
+    {
+      "id": 947,
+      "requiredExp": "3062696735000"
+    },
+    {
+      "id": 948,
+      "requiredExp": "3093323703000"
+    },
+    {
+      "id": 949,
+      "requiredExp": "3124256940000"
+    },
+    {
+      "id": 950,
+      "requiredExp": "3155499509000"
+    },
+    {
+      "id": 951,
+      "requiredExp": "3187054504000"
+    },
+    {
+      "id": 952,
+      "requiredExp": "3218925049000"
+    },
+    {
+      "id": 953,
+      "requiredExp": "3251114300000"
+    },
+    {
+      "id": 954,
+      "requiredExp": "3283625443000"
+    },
+    {
+      "id": 955,
+      "requiredExp": "3316461697000"
+    },
+    {
+      "id": 956,
+      "requiredExp": "3349626314000"
+    },
+    {
+      "id": 957,
+      "requiredExp": "3383122577000"
+    },
+    {
+      "id": 958,
+      "requiredExp": "3416953803000"
+    },
+    {
+      "id": 959,
+      "requiredExp": "3451123341000"
+    },
+    {
+      "id": 960,
+      "requiredExp": "3485634574000"
+    },
+    {
+      "id": 961,
+      "requiredExp": "3520490920000"
+    },
+    {
+      "id": 962,
+      "requiredExp": "3555695829000"
+    },
+    {
+      "id": 963,
+      "requiredExp": "3591252788000"
+    },
+    {
+      "id": 964,
+      "requiredExp": "3627165316000"
+    },
+    {
+      "id": 965,
+      "requiredExp": "3663436969000"
+    },
+    {
+      "id": 966,
+      "requiredExp": "3700071338000"
+    },
+    {
+      "id": 967,
+      "requiredExp": "3737072052000"
+    },
+    {
+      "id": 968,
+      "requiredExp": "3774442772000"
+    },
+    {
+      "id": 969,
+      "requiredExp": "3812187200000"
+    },
+    {
+      "id": 970,
+      "requiredExp": "3850309072000"
+    },
+    {
+      "id": 971,
+      "requiredExp": "3888812163000"
+    },
+    {
+      "id": 972,
+      "requiredExp": "3927700284000"
+    },
+    {
+      "id": 973,
+      "requiredExp": "3966977287000"
+    },
+    {
+      "id": 974,
+      "requiredExp": "4006647060000"
+    },
+    {
+      "id": 975,
+      "requiredExp": "4046713531000"
+    },
+    {
+      "id": 976,
+      "requiredExp": "4087180666000"
+    },
+    {
+      "id": 977,
+      "requiredExp": "4128052473000"
+    },
+    {
+      "id": 978,
+      "requiredExp": "4169332997000"
+    },
+    {
+      "id": 979,
+      "requiredExp": "4211026327000"
+    },
+    {
+      "id": 980,
+      "requiredExp": "4253136591000"
+    },
+    {
+      "id": 981,
+      "requiredExp": "4295667957000"
+    },
+    {
+      "id": 982,
+      "requiredExp": "4338624636000"
+    },
+    {
+      "id": 983,
+      "requiredExp": "4382010882000"
+    },
+    {
+      "id": 984,
+      "requiredExp": "4425830991000"
+    },
+    {
+      "id": 985,
+      "requiredExp": "4470089301000"
+    },
+    {
+      "id": 986,
+      "requiredExp": "4514790194000"
+    },
+    {
+      "id": 987,
+      "requiredExp": "4559938096000"
+    },
+    {
+      "id": 988,
+      "requiredExp": "4605537477000"
+    },
+    {
+      "id": 989,
+      "requiredExp": "4651592852000"
+    },
+    {
+      "id": 990,
+      "requiredExp": "4698108780000"
+    },
+    {
+      "id": 991,
+      "requiredExp": "4745089868000"
+    },
+    {
+      "id": 992,
+      "requiredExp": "4792540767000"
+    },
+    {
+      "id": 993,
+      "requiredExp": "4840466175000"
+    },
+    {
+      "id": 994,
+      "requiredExp": "4888870836000"
+    },
+    {
+      "id": 995,
+      "requiredExp": "4937759545000"
+    },
+    {
+      "id": 996,
+      "requiredExp": "4987137140000"
+    },
+    {
+      "id": 997,
+      "requiredExp": "5037008511000"
+    },
+    {
+      "id": 998,
+      "requiredExp": "5087378597000"
+    },
+    {
+      "id": 999,
+      "requiredExp": "5138252383000"
+    }
+  ]
+}

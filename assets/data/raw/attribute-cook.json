@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 20,
+    "schema": "FBDataAttribute",
+    "sourceAsset": "FBDataAttributeCook",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 11,
+      "key": "cooking_str_normal",
+      "attrKey": [
+        "STR"
+      ],
+      "attrValue": [
+        2
+      ],
+      "attrValueArray": [
+        2
+      ]
+    },
+    {
+      "id": 12,
+      "key": "cooking_str_rare",
+      "attrKey": [
+        "STR"
+      ],
+      "attrValue": [
+        32
+      ],
+      "attrValueArray": [
+        32
+      ]
+    },
+    {
+      "id": 13,
+      "key": "cooking_str_epic",
+      "attrKey": [
+        "STR"
+      ],
+      "attrValue": [
+        62
+      ],
+      "attrValueArray": [
+        62
+      ]
+    },
+    {
+      "id": 14,
+      "key": "cooking_str_unique",
+      "attrKey": [
+        "STR"
+      ],
+      "attrValue": [
+        92
+      ],
+      "attrValueArray": [
+        92
+      ]
+    },
+    {
+      "id": 15,
+      "key": "cooking_str_legend",
+      "attrKey": [
+        "STR"
+      ],
+      "attrValue": [
+        122
+      ],
+      "attrValueArray": [
+        122
+      ]
+    },
+    {
+      "id": 16,
+      "key": "cooking_vit_normal",
+      "attrKey": [
+        "VIT"
+      ],
+      "attrValue": [
+        2
+      ],
+      "attrValueArray": [
+        2
+      ]
+    },
+    {
+      "id": 17,
+      "key": "cooking_vit_rare",
+      "attrKey": [
+        "VIT"
+      ],
+      "attrValue": [
+        32
+      ],
+      "attrValueArray": [
+        32
+      ]
+    },
+    {
+      "id": 18,
+      "key": "cooking_vit_epic",
+      "attrKey": [
+        "VIT"
+      ],
+      "attrValue": [
+        62
+      ],
+      "attrValueArray": [
+        62
+      ]
+    },
+    {
+      "id": 19,
+      "key": "cooking_vit_unique",
+      "attrKey": [
+        "VIT"
+      ],
+      "attrValue": [
+        92
+      ],
+      "attrValueArray": [
+        92
+      ]
+    },
+    {
+      "id": 20,
+      "key": "cooking_vit_legend",
+      "attrKey": [
+        "VIT"
+      ],
+      "attrValue": [
+        122
+      ],
+      "attrValueArray": [
+        122
+      ]
+    },
+    {
+      "id": 21,
+      "key": "cooking_agi_normal",
+      "attrKey": [
+        "AGI"
+      ],
+      "attrValue": [
+        2
+      ],
+      "attrValueArray": [
+        2
+      ]
+    },
+    {
+      "id": 22,
+      "key": "cooking_agi_rare",
+      "attrKey": [
+        "AGI"
+      ],
+      "attrValue": [
+        32
+      ],
+      "attrValueArray": [
+        32
+      ]
+    },
+    {
+      "id": 23,
+      "key": "cooking_agi_epic",
+      "attrKey": [
+        "AGI"
+      ],
+      "attrValue": [
+        62
+      ],
+      "attrValueArray": [
+        62
+      ]
+    },
+    {
+      "id": 24,
+      "key": "cooking_agi_unique",
+      "attrKey": [
+        "AGI"
+      ],
+      "attrValue": [
+        92
+      ],
+      "attrValueArray": [
+        92
+      ]
+    },
+    {
+      "id": 25,
+      "key": "cooking_agi_legend",
+      "attrKey": [
+        "AGI"
+      ],
+      "attrValue": [
+        122
+      ],
+      "attrValueArray": [
+        122
+      ]
+    },
+    {
+      "id": 26,
+      "key": "cooking_spi_normal",
+      "attrKey": [
+        "SPI"
+      ],
+      "attrValue": [
+        2
+      ],
+      "attrValueArray": [
+        2
+      ]
+    },
+    {
+      "id": 27,
+      "key": "cooking_spi_rare",
+      "attrKey": [
+        "SPI"
+      ],
+      "attrValue": [
+        32
+      ],
+      "attrValueArray": [
+        32
+      ]
+    },
+    {
+      "id": 28,
+      "key": "cooking_spi_epic",
+      "attrKey": [
+        "SPI"
+      ],
+      "attrValue": [
+        62
+      ],
+      "attrValueArray": [
+        62
+      ]
+    },
+    {
+      "id": 29,
+      "key": "cooking_spi_unique",
+      "attrKey": [
+        "SPI"
+      ],
+      "attrValue": [
+        92
+      ],
+      "attrValueArray": [
+        92
+      ]
+    },
+    {
+      "id": 30,
+      "key": "cooking_spi_legend",
+      "attrKey": [
+        "SPI"
+      ],
+      "attrValue": [
+        122
+      ],
+      "attrValueArray": [
+        122
+      ]
+    }
+  ]
+}

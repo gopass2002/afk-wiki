@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 1,
+    "schema": "FBDataAttribute",
+    "sourceAsset": "FBDataAttributePC",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "statsetattribute_A_1",
+      "attrKey": [
+        "STR",
+        "VIT",
+        "AGI",
+        "SPI",
+        "MAX_HP",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED",
+        "ATK",
+        "HP_REGEN",
+        "MAX_SP",
+        "SP_REGEN",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        1,
+        1,
+        1,
+        1,
+        140,
+        9,
+        10,
+        8,
+        1,
+        100,
+        1,
+        10000,
+        7,
+        5,
+        84,
+        2,
+        2
+      ],
+      "attrValueArray": [
+        1,
+        1,
+        1,
+        1,
+        140,
+        9,
+        10,
+        8,
+        1,
+        100,
+        1,
+        10000,
+        7,
+        5,
+        84,
+        2,
+        2
+      ]
+    }
+  ]
+}

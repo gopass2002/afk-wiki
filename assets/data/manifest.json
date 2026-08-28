@@ -1,0 +1,2197 @@
+{
+  "appVersion": "1.260827.0",
+  "extractedAt": "2026-08-28T14:27:46.816Z",
+  "failedTableCount": 0,
+  "origin": "https://afk.icecatgames.net/",
+  "patch": "ebffb",
+  "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json",
+  "successfulTableCount": 118,
+  "tableCount": 118,
+  "totalRows": 21917,
+  "tables": [
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "titleKey",
+        "descKey"
+      ],
+      "file": "root.json",
+      "rowCount": 5,
+      "schema": "FBData",
+      "slug": "root",
+      "sourceAsset": "FBData",
+      "status": "ok",
+      "title": "데이터 루트"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "groupKey",
+        "textKey"
+      ],
+      "file": "absorb-text.json",
+      "rowCount": 410,
+      "schema": "FBDataAbsorbText",
+      "slug": "absorb-text",
+      "sourceAsset": "FBDataAbsorbText",
+      "status": "ok",
+      "title": "AbsorbText"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "type",
+        "prefab",
+        "name",
+        "level",
+        "boss",
+        "aggressive",
+        "attackSfx",
+        "hitSfx",
+        "deathSfx",
+        "auraVfx",
+        "deathVfx",
+        "deathDelay",
+        "tint",
+        "statKey",
+        "bodyType",
+        "absorbTextGroupKey"
+      ],
+      "file": "actor-monster.json",
+      "rowCount": 117,
+      "schema": "FBDataActorMonster",
+      "slug": "actor-monster",
+      "sourceAsset": "FBDataActorMonster",
+      "status": "ok",
+      "title": "몬스터"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "prefab",
+        "name",
+        "talkGroupKey",
+        "defaultDialogGroupId",
+        "shopId"
+      ],
+      "file": "actor-npc.json",
+      "rowCount": 33,
+      "schema": "FBDataActorNPC",
+      "slug": "actor-npc",
+      "sourceAsset": "FBDataActorNPC",
+      "status": "ok",
+      "title": "ActorNPC"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "groupKey",
+        "textKey"
+      ],
+      "file": "actor-npc-talk.json",
+      "rowCount": 81,
+      "schema": "FBDataActorNpcTalk",
+      "slug": "actor-npc-talk",
+      "sourceAsset": "FBDataActorNpcTalk",
+      "status": "ok",
+      "title": "ActorNpcTalk"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "prefab",
+        "attackSfx",
+        "statKey"
+      ],
+      "file": "actor-pc.json",
+      "rowCount": 1,
+      "schema": "FBDataActorPC",
+      "slug": "actor-pc",
+      "sourceAsset": "FBDataActorPC",
+      "status": "ok",
+      "title": "ActorPC"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "currencyType",
+        "amount"
+      ],
+      "file": "appearance-save-expansion.json",
+      "rowCount": 25,
+      "schema": "FBDataAppearanceSaveExpansion",
+      "slug": "appearance-save-expansion",
+      "sourceAsset": "FBDataAppearanceSaveExpansion",
+      "status": "ok",
+      "title": "AppearanceSaveExpansion"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "itemId",
+        "badge",
+        "highlighted",
+        "sortOrder",
+        "featured"
+      ],
+      "file": "appearance-shop-display.json",
+      "rowCount": 3,
+      "schema": "FBDataAppearanceShopDisplay",
+      "slug": "appearance-shop-display",
+      "sourceAsset": "FBDataAppearanceShopDisplay",
+      "status": "ok",
+      "title": "AppearanceShopDisplay"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "targetAttr",
+        "str",
+        "vit",
+        "agi",
+        "spi"
+      ],
+      "file": "attr-derivation.json",
+      "rowCount": 11,
+      "schema": "FBDataAttrDerivation",
+      "slug": "attr-derivation",
+      "sourceAsset": "FBDataAttrDerivation",
+      "status": "ok",
+      "title": "AttrDerivation"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "key",
+        "sourceAttr",
+        "targetAttr",
+        "rate",
+        "rateArray"
+      ],
+      "file": "attr-derivation-skill.json",
+      "rowCount": 50,
+      "schema": "FBDataAttrDerivationSkill",
+      "slug": "attr-derivation-skill",
+      "sourceAsset": "FBDataAttrDerivationSkill",
+      "status": "ok",
+      "title": "AttrDerivationSkill"
+    },
+    {
+      "category": "food",
+      "categoryLabel": "음식·요리",
+      "fields": [
+        "id",
+        "key",
+        "attrKey",
+        "attrValue",
+        "attrValueArray"
+      ],
+      "file": "attribute-cook.json",
+      "rowCount": 20,
+      "schema": "FBDataAttribute",
+      "slug": "attribute-cook",
+      "sourceAsset": "FBDataAttributeCook",
+      "status": "ok",
+      "title": "AttributeCook"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "key",
+        "attrKey",
+        "attrValue",
+        "attrValueArray"
+      ],
+      "file": "attribute-item.json",
+      "rowCount": 100,
+      "schema": "FBDataAttribute",
+      "slug": "attribute-item",
+      "sourceAsset": "FBDataAttributeItem",
+      "status": "ok",
+      "title": "AttributeItem"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "type",
+        "visible",
+        "sortOrder",
+        "divisor",
+        "battlePowerWeight",
+        "icon"
+      ],
+      "file": "attribute-list.json",
+      "rowCount": 35,
+      "schema": "FBDataAttributeList",
+      "slug": "attribute-list",
+      "sourceAsset": "FBDataAttributeList",
+      "status": "ok",
+      "title": "AttributeList"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "attrKey",
+        "attrValue",
+        "attrValueArray"
+      ],
+      "file": "attribute-monster.json",
+      "rowCount": 109,
+      "schema": "FBDataAttribute",
+      "slug": "attribute-monster",
+      "sourceAsset": "FBDataAttributeMonster",
+      "status": "ok",
+      "title": "AttributeMonster"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "attrKey",
+        "attrValue",
+        "attrValueArray"
+      ],
+      "file": "attribute-pc.json",
+      "rowCount": 1,
+      "schema": "FBDataAttribute",
+      "slug": "attribute-pc",
+      "sourceAsset": "FBDataAttributePC",
+      "status": "ok",
+      "title": "AttributePC"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "key",
+        "attrKey",
+        "attrValue"
+      ],
+      "file": "attribute-skill.json",
+      "rowCount": 520,
+      "schema": "FBDataAttributeSkill",
+      "slug": "attribute-skill",
+      "sourceAsset": "FBDataAttributeSkill",
+      "status": "ok",
+      "title": "AttributeSkill"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "auction-config.json",
+      "rowCount": 16,
+      "schema": "FBDataConfig",
+      "slug": "auction-config",
+      "sourceAsset": "FBDataAuctionConfig",
+      "status": "ok",
+      "title": "AuctionConfig"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "level",
+        "multiplier"
+      ],
+      "file": "auction-enhance-curve.json",
+      "rowCount": 21,
+      "schema": "FBDataAuctionEnhanceCurve",
+      "slug": "auction-enhance-curve",
+      "sourceAsset": "FBDataAuctionEnhanceCurve",
+      "status": "ok",
+      "title": "AuctionEnhanceCurve"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "mainType",
+        "subType",
+        "grade",
+        "basePrice"
+      ],
+      "file": "auction-price-group.json",
+      "rowCount": 94,
+      "schema": "FBDataAuctionPriceGroup",
+      "slug": "auction-price-group",
+      "sourceAsset": "FBDataAuctionPriceGroup",
+      "status": "ok",
+      "title": "AuctionPriceGroup"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "word",
+        "type"
+      ],
+      "file": "bad-word.json",
+      "rowCount": 7192,
+      "schema": "FBDataBadWord",
+      "slug": "bad-word",
+      "sourceAsset": "FBDataBadWord",
+      "status": "ok",
+      "title": "BadWord"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "bag-config.json",
+      "rowCount": 3,
+      "schema": "FBDataConfig",
+      "slug": "bag-config",
+      "sourceAsset": "FBDataBagConfig",
+      "status": "ok",
+      "title": "BagConfig"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "id",
+        "currencyType",
+        "amount"
+      ],
+      "file": "bag-expansion.json",
+      "rowCount": 8,
+      "schema": "FBDataBagExpansion",
+      "slug": "bag-expansion",
+      "sourceAsset": "FBDataBagExpansion",
+      "status": "ok",
+      "title": "BagExpansion"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "camera-config.json",
+      "rowCount": 1,
+      "schema": "FBDataConfig",
+      "slug": "camera-config",
+      "sourceAsset": "FBDataCameraConfig",
+      "status": "ok",
+      "title": "CameraConfig"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "chat-config.json",
+      "rowCount": 5,
+      "schema": "FBDataConfig",
+      "slug": "chat-config",
+      "sourceAsset": "FBDataChatConfig",
+      "status": "ok",
+      "title": "ChatConfig"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "name",
+        "category",
+        "rewardAttributeType",
+        "value",
+        "valueArray"
+      ],
+      "file": "collection.json",
+      "rowCount": 561,
+      "schema": "FBDataCollection",
+      "slug": "collection",
+      "sourceAsset": "FBDataCollection",
+      "status": "ok",
+      "title": "도감 항목"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "category",
+        "requiredCount",
+        "rewardGroupKey"
+      ],
+      "file": "collection-milestone.json",
+      "rowCount": 24,
+      "schema": "FBDataCollectionMilestone",
+      "slug": "collection-milestone",
+      "sourceAsset": "FBDataCollectionMilestone",
+      "status": "ok",
+      "title": "도감 단계"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "groupKey",
+        "rewardType",
+        "targetId",
+        "amount"
+      ],
+      "file": "collection-milestone-reward.json",
+      "rowCount": 24,
+      "schema": "FBDataCollectionMilestoneReward",
+      "slug": "collection-milestone-reward",
+      "sourceAsset": "FBDataCollectionMilestoneReward",
+      "status": "ok",
+      "title": "도감 단계 보상"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "collectionId",
+        "targetType",
+        "targetId",
+        "enhanceLevel",
+        "requiredCount"
+      ],
+      "file": "collection-registry.json",
+      "rowCount": 1228,
+      "schema": "FBDataCollectionRegistry",
+      "slug": "collection-registry",
+      "sourceAsset": "FBDataCollectionRegistry",
+      "status": "ok",
+      "title": "도감 등록 규칙"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "color-config.json",
+      "rowCount": 22,
+      "schema": "FBDataConfig",
+      "slug": "color-config",
+      "sourceAsset": "FBDataColorConfig",
+      "status": "ok",
+      "title": "ColorConfig"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "combat-config.json",
+      "rowCount": 3,
+      "schema": "FBDataConfig",
+      "slug": "combat-config",
+      "sourceAsset": "FBDataCombatConfig",
+      "status": "ok",
+      "title": "CombatConfig"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "contentKey",
+        "triggerType",
+        "triggerValue",
+        "descKey",
+        "notReady"
+      ],
+      "file": "content-unlock.json",
+      "rowCount": 40,
+      "schema": "FBDataContentUnlock",
+      "slug": "content-unlock",
+      "sourceAsset": "FBDataContentUnlock",
+      "status": "ok",
+      "title": "ContentUnlock"
+    },
+    {
+      "category": "food",
+      "categoryLabel": "음식·요리",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "cook-config.json",
+      "rowCount": 9,
+      "schema": "FBDataConfig",
+      "slug": "cook-config",
+      "sourceAsset": "FBDataCookConfig",
+      "status": "ok",
+      "title": "CookConfig"
+    },
+    {
+      "category": "food",
+      "categoryLabel": "음식·요리",
+      "fields": [
+        "id",
+        "grade",
+        "perLevelEff",
+        "dismantleUnitExp"
+      ],
+      "file": "cook-efficiency.json",
+      "rowCount": 5,
+      "schema": "FBDataCookEfficiency",
+      "slug": "cook-efficiency",
+      "sourceAsset": "FBDataCookEfficiency",
+      "status": "ok",
+      "title": "요리 효율"
+    },
+    {
+      "category": "food",
+      "categoryLabel": "음식·요리",
+      "fields": [
+        "id",
+        "requiredCookingExp",
+        "rewardItemId",
+        "rewardAmount",
+        "maxKeepGrade",
+        "maxSparkStage",
+        "subRewardExpBonus",
+        "durationMs"
+      ],
+      "file": "cook-level.json",
+      "rowCount": 30,
+      "schema": "FBDataCookLevel",
+      "slug": "cook-level",
+      "sourceAsset": "FBDataCookLevel",
+      "status": "ok",
+      "title": "요리 레벨"
+    },
+    {
+      "category": "food",
+      "categoryLabel": "음식·요리",
+      "fields": [
+        "id",
+        "cookLevel",
+        "weight"
+      ],
+      "file": "cook-prob.json",
+      "rowCount": 30,
+      "schema": "FBDataCookProb",
+      "slug": "cook-prob",
+      "sourceAsset": "FBDataCookProb",
+      "status": "ok",
+      "title": "요리 확률"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "nameKey",
+        "titleKey",
+        "descKey",
+        "zoneId",
+        "useTicketId",
+        "bossPortrait",
+        "background",
+        "tierGroupKey",
+        "timeLimit",
+        "hudType"
+      ],
+      "file": "daily-dungeon-boss.json",
+      "rowCount": 1,
+      "schema": "FBDataDailyDungeonBoss",
+      "slug": "daily-dungeon-boss",
+      "sourceAsset": "FBDataDailyDungeonBoss",
+      "status": "ok",
+      "title": "DailyDungeonBoss"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "rewardGroupKey",
+        "itemId",
+        "itemAmount"
+      ],
+      "file": "daily-dungeon-boss-reward.json",
+      "rowCount": 100,
+      "schema": "FBDataDailyDungeonBossReward",
+      "slug": "daily-dungeon-boss-reward",
+      "sourceAsset": "FBDataDailyDungeonBossReward",
+      "status": "ok",
+      "title": "DailyDungeonBossReward"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "tierGroupKey",
+        "tier",
+        "attrScale",
+        "rewardGroupKey"
+      ],
+      "file": "daily-dungeon-boss-tier.json",
+      "rowCount": 100,
+      "schema": "FBDataDailyDungeonBossTier",
+      "slug": "daily-dungeon-boss-tier",
+      "sourceAsset": "FBDataDailyDungeonBossTier",
+      "status": "ok",
+      "title": "DailyDungeonBossTier"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "rewardGroupKey",
+        "itemId",
+        "amountMin",
+        "amountMax",
+        "weight"
+      ],
+      "file": "daily-dungeon-reward.json",
+      "rowCount": 7,
+      "schema": "FBDataDailyDungeonReward",
+      "slug": "daily-dungeon-reward",
+      "sourceAsset": "FBDataDailyDungeonReward",
+      "status": "ok",
+      "title": "DailyDungeonReward"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "nameKey",
+        "titleKey",
+        "descKey",
+        "contentKey",
+        "rewardIcon",
+        "bossPortrait",
+        "background",
+        "tierGroupKey",
+        "dailyTime"
+      ],
+      "file": "daily-dungeon-time-field.json",
+      "rowCount": 2,
+      "schema": "FBDataDailyDungeonTimeField",
+      "slug": "daily-dungeon-time-field",
+      "sourceAsset": "FBDataDailyDungeonTimeField",
+      "status": "ok",
+      "title": "DailyDungeonTimeField"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "tierGroupKey",
+        "tier",
+        "zoneId",
+        "unlockLevel",
+        "nameKey"
+      ],
+      "file": "daily-dungeon-time-field-tier.json",
+      "rowCount": 7,
+      "schema": "FBDataDailyDungeonTimeFieldTier",
+      "slug": "daily-dungeon-time-field-tier",
+      "sourceAsset": "FBDataDailyDungeonTimeFieldTier",
+      "status": "ok",
+      "title": "DailyDungeonTimeFieldTier"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "groupKey",
+        "order",
+        "text",
+        "sfx",
+        "portraitKey",
+        "visualAid"
+      ],
+      "file": "dialog.json",
+      "rowCount": 2154,
+      "schema": "FBDataDialog",
+      "slug": "dialog",
+      "sourceAsset": "FBDataDialog",
+      "status": "ok",
+      "title": "Dialog"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "portraitKey",
+        "speakerActorId",
+        "path"
+      ],
+      "file": "dialog-portrait.json",
+      "rowCount": 52,
+      "schema": "FBDataDialogPortrait",
+      "slug": "dialog-portrait",
+      "sourceAsset": "FBDataDialogPortrait",
+      "status": "ok",
+      "title": "DialogPortrait"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "triggerType",
+        "triggerValue",
+        "requireQuestId",
+        "instanceZoneId",
+        "completeZoneId",
+        "actionFile",
+        "skipable"
+      ],
+      "file": "directing.json",
+      "rowCount": 33,
+      "schema": "FBDataDirecting",
+      "slug": "directing",
+      "sourceAsset": "FBDataDirecting",
+      "status": "ok",
+      "title": "Directing"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "dropGroup",
+        "exp",
+        "goldMin",
+        "goldMax"
+      ],
+      "file": "drop-currency.json",
+      "rowCount": 98,
+      "schema": "FBDataDropCurrency",
+      "slug": "drop-currency",
+      "sourceAsset": "FBDataDropCurrency",
+      "status": "ok",
+      "title": "DropCurrency"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "dropGroup",
+        "seedGroup",
+        "dropRate"
+      ],
+      "file": "drop-group.json",
+      "rowCount": 868,
+      "schema": "FBDataDropGroup",
+      "slug": "drop-group",
+      "sourceAsset": "FBDataDropGroup",
+      "status": "ok",
+      "title": "드롭 그룹"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "seedGroup",
+        "itemId",
+        "amountMin",
+        "amountMax",
+        "weight"
+      ],
+      "file": "drop-item.json",
+      "rowCount": 217,
+      "schema": "FBDataDropItem",
+      "slug": "drop-item",
+      "sourceAsset": "FBDataDropItem",
+      "status": "ok",
+      "title": "아이템 드롭"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "dummy-config.json",
+      "rowCount": 13,
+      "schema": "FBDataConfig",
+      "slug": "dummy-config",
+      "sourceAsset": "FBDataDummyConfig",
+      "status": "ok",
+      "title": "DummyConfig"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "mainType",
+        "level",
+        "successRate",
+        "dropOnFail",
+        "breakRate",
+        "materialKey",
+        "attrBoostPercent",
+        "fxMaterial"
+      ],
+      "file": "enhance.json",
+      "rowCount": 80,
+      "schema": "FBDataEnhance",
+      "slug": "enhance",
+      "sourceAsset": "FBDataEnhance",
+      "status": "ok",
+      "title": "장비 강화"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "enhance-config.json",
+      "rowCount": 1,
+      "schema": "FBDataConfig",
+      "slug": "enhance-config",
+      "sourceAsset": "FBDataEnhanceConfig",
+      "status": "ok",
+      "title": "EnhanceConfig"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "subType",
+        "prefab"
+      ],
+      "file": "enhance-fx.json",
+      "rowCount": 5,
+      "schema": "FBDataEnhanceFx",
+      "slug": "enhance-fx",
+      "sourceAsset": "FBDataEnhanceFx",
+      "status": "ok",
+      "title": "EnhanceFx"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "groupKey",
+        "itemId",
+        "amount"
+      ],
+      "file": "enhance-material.json",
+      "rowCount": 160,
+      "schema": "FBDataEnhanceMaterial",
+      "slug": "enhance-material",
+      "sourceAsset": "FBDataEnhanceMaterial",
+      "status": "ok",
+      "title": "강화 재료"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "groupKey",
+        "step",
+        "objectiveType",
+        "objectiveTarget",
+        "objectiveCount"
+      ],
+      "file": "event-mission.json",
+      "rowCount": 2,
+      "schema": "FBDataEventMission",
+      "slug": "event-mission",
+      "sourceAsset": "FBDataEventMission",
+      "status": "ok",
+      "title": "EventMission"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "gachaType",
+        "nameKey",
+        "groupListKey",
+        "pullCount",
+        "costItemId",
+        "costAmount"
+      ],
+      "file": "gacha-product.json",
+      "rowCount": 6,
+      "schema": "FBDataGachaProduct",
+      "slug": "gacha-product",
+      "sourceAsset": "FBDataGachaProduct",
+      "status": "ok",
+      "title": "GachaProduct"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "part",
+        "index",
+        "sprite",
+        "spriteSub",
+        "color"
+      ],
+      "file": "guild-badge.json",
+      "rowCount": 34,
+      "schema": "FBDataGuildBadge",
+      "slug": "guild-badge",
+      "sourceAsset": "FBDataGuildBadge",
+      "status": "ok",
+      "title": "GuildBadge"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "guild-config.json",
+      "rowCount": 19,
+      "schema": "FBDataConfig",
+      "slug": "guild-config",
+      "sourceAsset": "FBDataGuildConfig",
+      "status": "ok",
+      "title": "GuildConfig"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "costGold",
+        "contribution",
+        "exp"
+      ],
+      "file": "guild-donation.json",
+      "rowCount": 4,
+      "schema": "FBDataGuildDonation",
+      "slug": "guild-donation",
+      "sourceAsset": "FBDataGuildDonation",
+      "status": "ok",
+      "title": "GuildDonation"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "capacity",
+        "requiredExp"
+      ],
+      "file": "guild-level.json",
+      "rowCount": 10,
+      "schema": "FBDataGuildLevel",
+      "slug": "guild-level",
+      "sourceAsset": "FBDataGuildLevel",
+      "status": "ok",
+      "title": "GuildLevel"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "init-config.json",
+      "rowCount": 4,
+      "schema": "FBDataConfig",
+      "slug": "init-config",
+      "sourceAsset": "FBDataInitConfig",
+      "status": "ok",
+      "title": "InitConfig"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "id",
+        "mainType",
+        "name",
+        "subType",
+        "slotType",
+        "prefab",
+        "dropResource",
+        "icon",
+        "stack",
+        "grade",
+        "hideHair",
+        "attrKey",
+        "description",
+        "sellPrice",
+        "undiscardable",
+        "unsellable",
+        "untradable"
+      ],
+      "file": "item.json",
+      "rowCount": 679,
+      "schema": "FBDataItem",
+      "slug": "item",
+      "sourceAsset": "FBDataItem",
+      "status": "ok",
+      "title": "전체 아이템"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "id",
+        "useType",
+        "rewardGroup",
+        "selectCount"
+      ],
+      "file": "item-box.json",
+      "rowCount": 42,
+      "schema": "FBDataItemBox",
+      "slug": "item-box",
+      "sourceAsset": "FBDataItemBox",
+      "status": "ok",
+      "title": "ItemBox"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "itemId",
+        "useType",
+        "useValue"
+      ],
+      "file": "item-use.json",
+      "rowCount": 4,
+      "schema": "FBDataItemUse",
+      "slug": "item-use",
+      "sourceAsset": "FBDataItemUse",
+      "status": "ok",
+      "title": "ItemUse"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "titleKey",
+        "descKey"
+      ],
+      "file": "loading-tip.json",
+      "rowCount": 26,
+      "schema": "FBDataLoadingTip",
+      "slug": "loading-tip",
+      "sourceAsset": "FBDataLoadingTip",
+      "status": "ok",
+      "title": "LoadingTip"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "mail-config.json",
+      "rowCount": 1,
+      "schema": "FBDataConfig",
+      "slug": "mail-config",
+      "sourceAsset": "FBDataMailConfig",
+      "status": "ok",
+      "title": "MailConfig"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "productKey",
+        "titleKey",
+        "icon",
+        "textKey",
+        "sortOrder"
+      ],
+      "file": "membership-benefit.json",
+      "rowCount": 3,
+      "schema": "FBDataMembershipBenefit",
+      "slug": "membership-benefit",
+      "sourceAsset": "FBDataMembershipBenefit",
+      "status": "ok",
+      "title": "MembershipBenefit"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "category",
+        "requiredCount",
+        "rewardGroupKey"
+      ],
+      "file": "milestone.json",
+      "rowCount": 1,
+      "schema": "FBDataMilestone",
+      "slug": "milestone",
+      "sourceAsset": "FBDataMilestone",
+      "status": "ok",
+      "title": "Milestone"
+    },
+    {
+      "category": "collection",
+      "categoryLabel": "도감",
+      "fields": [
+        "id",
+        "groupKey",
+        "rewardType",
+        "itemId",
+        "amount"
+      ],
+      "file": "milestone-item.json",
+      "rowCount": 2,
+      "schema": "FBDataMilestoneItem",
+      "slug": "milestone-item",
+      "sourceAsset": "FBDataMilestoneItem",
+      "status": "ok",
+      "title": "MilestoneItem"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "requiredExp"
+      ],
+      "file": "pc-level.json",
+      "rowCount": 999,
+      "schema": "FBDataPcLevel",
+      "slug": "pc-level",
+      "sourceAsset": "FBDataPcLevel",
+      "status": "ok",
+      "title": "PcLevel"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "player-config.json",
+      "rowCount": 4,
+      "schema": "FBDataConfig",
+      "slug": "player-config",
+      "sourceAsset": "FBDataPlayerConfig",
+      "status": "ok",
+      "title": "PlayerConfig"
+    },
+    {
+      "category": "items",
+      "categoryLabel": "아이템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "potion-config.json",
+      "rowCount": 2,
+      "schema": "FBDataConfig",
+      "slug": "potion-config",
+      "sourceAsset": "FBDataPotionConfig",
+      "status": "ok",
+      "title": "PotionConfig"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "groupKey",
+        "type",
+        "targetId",
+        "amountMin",
+        "amountMax",
+        "ratio"
+      ],
+      "file": "promissory-note-quest.json",
+      "rowCount": 613,
+      "schema": "FBDataPromissoryNoteQuest",
+      "slug": "promissory-note-quest",
+      "sourceAsset": "FBDataPromissoryNoteQuest",
+      "status": "ok",
+      "title": "PromissoryNoteQuest"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "groupKey",
+        "name",
+        "description",
+        "recommendedPower",
+        "requiredQuestId",
+        "zoneId",
+        "atkSpd",
+        "skillSlotCount",
+        "timeLimit"
+      ],
+      "file": "promotion-grade.json",
+      "rowCount": 18,
+      "schema": "FBDataPromotionGrade",
+      "slug": "promotion-grade",
+      "sourceAsset": "FBDataPromotionGrade",
+      "status": "ok",
+      "title": "PromotionGrade"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "name",
+        "conditionType",
+        "conditionValue",
+        "objectiveType",
+        "objectiveTarget",
+        "objectiveCount",
+        "objectiveDesc",
+        "zoneId",
+        "rewardGroupKey",
+        "acceptDialogGroupKey",
+        "completeDialogGroupKey"
+      ],
+      "file": "quest.json",
+      "rowCount": 214,
+      "schema": "FBDataQuest",
+      "slug": "quest",
+      "sourceAsset": "FBDataQuest",
+      "status": "ok",
+      "title": "Quest"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "itemSubType",
+        "itemGrade",
+        "attrKey",
+        "attrValue",
+        "attrValueArray"
+      ],
+      "file": "refine.json",
+      "rowCount": 90,
+      "schema": "FBDataRefine",
+      "slug": "refine",
+      "sourceAsset": "FBDataRefine",
+      "status": "ok",
+      "title": "장비 제련"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "cost"
+      ],
+      "file": "refine-attempt.json",
+      "rowCount": 5,
+      "schema": "FBDataRefineAttempt",
+      "slug": "refine-attempt",
+      "sourceAsset": "FBDataRefineAttempt",
+      "status": "ok",
+      "title": "제련 시도"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "attrType",
+        "grade",
+        "min",
+        "max"
+      ],
+      "file": "refine-attribute.json",
+      "rowCount": 160,
+      "schema": "FBDataRefineAttribute",
+      "slug": "refine-attribute",
+      "sourceAsset": "FBDataRefineAttribute",
+      "status": "ok",
+      "title": "제련 능력치"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "refine-config.json",
+      "rowCount": 2,
+      "schema": "FBDataConfig",
+      "slug": "refine-config",
+      "sourceAsset": "FBDataRefineConfig",
+      "status": "ok",
+      "title": "RefineConfig"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "itemGrade",
+        "slotId",
+        "weightD",
+        "weightC",
+        "weightB",
+        "weightA",
+        "weightS"
+      ],
+      "file": "refine-grade-pool.json",
+      "rowCount": 15,
+      "schema": "FBDataRefineGradePool",
+      "slug": "refine-grade-pool",
+      "sourceAsset": "FBDataRefineGradePool",
+      "status": "ok",
+      "title": "제련 등급 풀"
+    },
+    {
+      "category": "equipment",
+      "categoryLabel": "장비·성장",
+      "fields": [
+        "id",
+        "unlockRate"
+      ],
+      "file": "refine-slot.json",
+      "rowCount": 3,
+      "schema": "FBDataRefineSlot",
+      "slug": "refine-slot",
+      "sourceAsset": "FBDataRefineSlot",
+      "status": "ok",
+      "title": "제련 슬롯"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "groupKey",
+        "day",
+        "itemId",
+        "qty"
+      ],
+      "file": "reward-attendance.json",
+      "rowCount": 63,
+      "schema": "FBDataRewardAttendance",
+      "slug": "reward-attendance",
+      "sourceAsset": "FBDataRewardAttendance",
+      "status": "ok",
+      "title": "RewardAttendance"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "groupKey",
+        "targetId",
+        "type",
+        "amountMin",
+        "amountMax",
+        "weight"
+      ],
+      "file": "reward-box.json",
+      "rowCount": 520,
+      "schema": "FBDataRewardBox",
+      "slug": "reward-box",
+      "sourceAsset": "FBDataRewardBox",
+      "status": "ok",
+      "title": "RewardBox"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "groupListKey",
+        "rewardGroup",
+        "ratio"
+      ],
+      "file": "reward-group-list-box.json",
+      "rowCount": 261,
+      "schema": "FBDataRewardGroupListBox",
+      "slug": "reward-group-list-box",
+      "sourceAsset": "FBDataRewardGroupListBox",
+      "status": "ok",
+      "title": "RewardGroupListBox"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "selectableItemId",
+        "descriptionKey",
+        "applyType",
+        "appearanceSlot"
+      ],
+      "file": "selectable.json",
+      "rowCount": 3,
+      "schema": "FBDataSelectable",
+      "slug": "selectable",
+      "sourceAsset": "FBDataSelectable",
+      "status": "ok",
+      "title": "Selectable"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "groupKey",
+        "itemId"
+      ],
+      "file": "selectable-item.json",
+      "rowCount": 12,
+      "schema": "FBDataSelectableItem",
+      "slug": "selectable-item",
+      "sourceAsset": "FBDataSelectableItem",
+      "status": "ok",
+      "title": "SelectableItem"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "nameKey",
+        "productGroupKey"
+      ],
+      "file": "shop.json",
+      "rowCount": 4,
+      "schema": "FBDataShop",
+      "slug": "shop",
+      "sourceAsset": "FBDataShop",
+      "status": "ok",
+      "title": "Shop"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "shop-config.json",
+      "rowCount": 16,
+      "schema": "FBDataConfig",
+      "slug": "shop-config",
+      "sourceAsset": "FBDataShopConfig",
+      "status": "ok",
+      "title": "ShopConfig"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "productGroupKey",
+        "mainCategory",
+        "subCategory",
+        "itemId",
+        "amount",
+        "costItemId",
+        "costAmount",
+        "nameKey",
+        "descriptionKey",
+        "icon",
+        "rewardGroupKey",
+        "sortOrder",
+        "limitType",
+        "limitCount",
+        "active",
+        "badgeKey"
+      ],
+      "file": "shop-product.json",
+      "rowCount": 72,
+      "schema": "FBDataShopProduct",
+      "slug": "shop-product",
+      "sourceAsset": "FBDataShopProduct",
+      "status": "ok",
+      "title": "ShopProduct"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "productId",
+        "requireLevel",
+        "triggerType",
+        "triggerValue",
+        "descKey"
+      ],
+      "file": "shop-product-unlock.json",
+      "rowCount": 24,
+      "schema": "FBDataShopProductUnlock",
+      "slug": "shop-product-unlock",
+      "sourceAsset": "FBDataShopProductUnlock",
+      "status": "ok",
+      "title": "ShopProductUnlock"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "levelKey",
+        "nameKey",
+        "descKey",
+        "weaponType",
+        "castType",
+        "grade",
+        "factionType",
+        "cooldown",
+        "spCost",
+        "hitDelayMs",
+        "animType",
+        "range",
+        "applyOrigin",
+        "applyCount",
+        "applyRange",
+        "hitCount",
+        "hitInterval",
+        "iconPath",
+        "vfx",
+        "hitVfx",
+        "sfx"
+      ],
+      "file": "skill.json",
+      "rowCount": 72,
+      "schema": "FBDataSkill",
+      "slug": "skill",
+      "sourceAsset": "FBDataSkill",
+      "status": "ok",
+      "title": "무공"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "skill-config.json",
+      "rowCount": 3,
+      "schema": "FBDataConfig",
+      "slug": "skill-config",
+      "sourceAsset": "FBDataSkillConfig",
+      "status": "ok",
+      "title": "SkillConfig"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "level",
+        "successRate",
+        "materialCount",
+        "cost"
+      ],
+      "file": "skill-enhance.json",
+      "rowCount": 9,
+      "schema": "FBDataSkillEnhance",
+      "slug": "skill-enhance",
+      "sourceAsset": "FBDataSkillEnhance",
+      "status": "ok",
+      "title": "SkillEnhance"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "groupKey",
+        "level",
+        "atkMultiplier",
+        "attrKey",
+        "derivationKey"
+      ],
+      "file": "skill-level.json",
+      "rowCount": 711,
+      "schema": "FBDataSkillLevel",
+      "slug": "skill-level",
+      "sourceAsset": "FBDataSkillLevel",
+      "status": "ok",
+      "title": "SkillLevel"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "skillId",
+        "statKey",
+        "minValue",
+        "maxValue"
+      ],
+      "file": "skill-stat.json",
+      "rowCount": 69,
+      "schema": "FBDataSkillStat",
+      "slug": "skill-stat",
+      "sourceAsset": "FBDataSkillStat",
+      "status": "ok",
+      "title": "SkillStat"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "sound-config.json",
+      "rowCount": 25,
+      "schema": "FBDataConfig",
+      "slug": "sound-config",
+      "sourceAsset": "FBDataSoundConfig",
+      "status": "ok",
+      "title": "SoundConfig"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-attribute-list-en.json",
+      "rowCount": 24,
+      "schema": "FBDataStringAttributeList",
+      "slug": "string-attribute-list-en",
+      "sourceAsset": "FBDataStringAttributeList_en",
+      "status": "ok",
+      "title": "StringAttributeList_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-attribute-list-ko.json",
+      "rowCount": 35,
+      "schema": "FBDataStringAttributeList",
+      "slug": "string-attribute-list-ko",
+      "sourceAsset": "FBDataStringAttributeList_ko",
+      "status": "ok",
+      "title": "StringAttributeList_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-collection-en.json",
+      "rowCount": 297,
+      "schema": "FBDataStringCollection",
+      "slug": "string-collection-en",
+      "sourceAsset": "FBDataStringCollection_en",
+      "status": "ok",
+      "title": "StringCollection_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-collection-ko.json",
+      "rowCount": 561,
+      "schema": "FBDataStringCollection",
+      "slug": "string-collection-ko",
+      "sourceAsset": "FBDataStringCollection_ko",
+      "status": "ok",
+      "title": "StringCollection_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [],
+      "file": "string-item-en.json",
+      "rowCount": 0,
+      "schema": "FBDataStringItem",
+      "slug": "string-item-en",
+      "sourceAsset": "FBDataStringItem_en",
+      "status": "ok",
+      "title": "StringItem_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-item-ko.json",
+      "rowCount": 55,
+      "schema": "FBDataStringItem",
+      "slug": "string-item-ko",
+      "sourceAsset": "FBDataStringItem_ko",
+      "status": "ok",
+      "title": "StringItem_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-monster-en.json",
+      "rowCount": 101,
+      "schema": "FBDataStringMonster",
+      "slug": "string-monster-en",
+      "sourceAsset": "FBDataStringMonster_en",
+      "status": "ok",
+      "title": "StringMonster_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-monster-ko.json",
+      "rowCount": 101,
+      "schema": "FBDataStringMonster",
+      "slug": "string-monster-ko",
+      "sourceAsset": "FBDataStringMonster_ko",
+      "status": "ok",
+      "title": "StringMonster_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [],
+      "file": "string-promotion-grade-en.json",
+      "rowCount": 0,
+      "schema": "FBDataStringPromotionGrade",
+      "slug": "string-promotion-grade-en",
+      "sourceAsset": "FBDataStringPromotionGrade_en",
+      "status": "ok",
+      "title": "StringPromotionGrade_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-promotion-grade-ko.json",
+      "rowCount": 15,
+      "schema": "FBDataStringPromotionGrade",
+      "slug": "string-promotion-grade-ko",
+      "sourceAsset": "FBDataStringPromotionGrade_ko",
+      "status": "ok",
+      "title": "StringPromotionGrade_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [],
+      "file": "string-skill-en.json",
+      "rowCount": 0,
+      "schema": "FBDataStringSkill",
+      "slug": "string-skill-en",
+      "sourceAsset": "FBDataStringSkill_en",
+      "status": "ok",
+      "title": "StringSkill_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-skill-ko.json",
+      "rowCount": 155,
+      "schema": "FBDataStringSkill",
+      "slug": "string-skill-ko",
+      "sourceAsset": "FBDataStringSkill_ko",
+      "status": "ok",
+      "title": "StringSkill_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-status-en.json",
+      "rowCount": 117,
+      "schema": "FBDataStringStatus",
+      "slug": "string-status-en",
+      "sourceAsset": "FBDataStringStatus_en",
+      "status": "ok",
+      "title": "StringStatus_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-status-ko.json",
+      "rowCount": 130,
+      "schema": "FBDataStringStatus",
+      "slug": "string-status-ko",
+      "sourceAsset": "FBDataStringStatus_ko",
+      "status": "ok",
+      "title": "StringStatus_ko"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-ui-en.json",
+      "rowCount": 54,
+      "schema": "FBDataStringUI",
+      "slug": "string-ui-en",
+      "sourceAsset": "FBDataStringUI_en",
+      "status": "ok",
+      "title": "StringUI_en"
+    },
+    {
+      "category": "localization",
+      "categoryLabel": "문자열",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "string-ui-ko.json",
+      "rowCount": 268,
+      "schema": "FBDataStringUI",
+      "slug": "string-ui-ko",
+      "sourceAsset": "FBDataStringUI_ko",
+      "status": "ok",
+      "title": "StringUI_ko"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "system-config.json",
+      "rowCount": 5,
+      "schema": "FBDataConfig",
+      "slug": "system-config",
+      "sourceAsset": "FBDataSystemConfig",
+      "status": "ok",
+      "title": "SystemConfig"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "groupKey",
+        "step",
+        "stepType",
+        "triggerType",
+        "triggerValue",
+        "anchorKey",
+        "anchorValue",
+        "dialog"
+      ],
+      "file": "tutorial.json",
+      "rowCount": 117,
+      "schema": "FBDataTutorial",
+      "slug": "tutorial",
+      "sourceAsset": "FBDataTutorial",
+      "status": "ok",
+      "title": "Tutorial"
+    },
+    {
+      "category": "system",
+      "categoryLabel": "시스템",
+      "fields": [
+        "id",
+        "key",
+        "value"
+      ],
+      "file": "uiconfig.json",
+      "rowCount": 8,
+      "schema": "FBDataConfig",
+      "slug": "uiconfig",
+      "sourceAsset": "FBDataUIConfig",
+      "status": "ok",
+      "title": "UIConfig"
+    },
+    {
+      "category": "skills",
+      "categoryLabel": "무공",
+      "fields": [
+        "id",
+        "weaponType",
+        "icon"
+      ],
+      "file": "uiskill.json",
+      "rowCount": 6,
+      "schema": "FBDataUISkill",
+      "slug": "uiskill",
+      "sourceAsset": "FBDataUISkill",
+      "status": "ok",
+      "title": "UISkill"
+    },
+    {
+      "category": "economy",
+      "categoryLabel": "경제·보상",
+      "fields": [
+        "id",
+        "name",
+        "price",
+        "productKey",
+        "sortOrder",
+        "icon",
+        "limitCount"
+      ],
+      "file": "web-shop-product.json",
+      "rowCount": 7,
+      "schema": "FBDataWebShopProduct",
+      "slug": "web-shop-product",
+      "sourceAsset": "FBDataWebShopProduct",
+      "status": "ok",
+      "title": "WebShopProduct"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "type",
+        "name",
+        "tmx",
+        "bgm",
+        "maxPlayer",
+        "spawnKey",
+        "regionId",
+        "posX",
+        "posY"
+      ],
+      "file": "zone.json",
+      "rowCount": 129,
+      "schema": "FBDataZone",
+      "slug": "zone",
+      "sourceAsset": "FBDataZone",
+      "status": "ok",
+      "title": "지역·스테이지"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "actName",
+        "name",
+        "posX",
+        "posY",
+        "background"
+      ],
+      "file": "zone-region.json",
+      "rowCount": 9,
+      "schema": "FBDataZoneRegion",
+      "slug": "zone-region",
+      "sourceAsset": "FBDataZoneRegion",
+      "status": "ok",
+      "title": "지도 지역"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "key",
+        "type",
+        "actorDataId",
+        "count",
+        "spawnObject",
+        "respawnMin",
+        "respawnMax",
+        "dropGroup"
+      ],
+      "file": "zone-spawn.json",
+      "rowCount": 162,
+      "schema": "FBDataZoneSpawn",
+      "slug": "zone-spawn",
+      "sourceAsset": "FBDataZoneSpawn",
+      "status": "ok",
+      "title": "스테이지 출현 정보"
+    }
+  ],
+  "derived": {
+    "rewardProbabilities": {
+      "formula": "(group ratio / group-list ratio sum) × (term weight / reward-group weight sum); duplicate type+target outcomes are summed",
+      "groupCount": 33,
+      "rowCount": 748,
+      "runtimeEvidence": "GachaProbability.computeGachaOdds"
+    },
+    "skillCodex": {
+      "rowCount": 72
+    },
+    "skillEnhancementProbabilities": {
+      "rowCount": 9,
+      "formula": "failurePercent = 100 - successRate"
+    },
+    "equipmentEnhancementProbabilities": {
+      "rowCount": 80,
+      "formula": "failure = 100 - successRate; destruction = dropOnFail ? round(failure × breakRate / 100) : 0"
+    },
+    "itemCodex": {
+      "rowCount": 679
+    },
+    "itemAcquisitionProbabilities": {
+      "rowCount": 677,
+      "formula": "(group ratio / group-list ratio sum) × (term weight / reward-group weight sum); duplicate type+target outcomes are summed",
+      "runtimeEvidence": "GachaProbability.computeGachaOdds"
+    },
+    "itemDropWeights": {
+      "rowCount": 217,
+      "warning": "normalizedWeightSharePercent is not an absolute monster-drop probability"
+    },
+    "monsterCodex": {
+      "rowCount": 117,
+      "warning": "dropItems lists seedGroup candidates, not per-kill drop odds"
+    },
+    "monsterDropSeeds": {
+      "rowCount": 868,
+      "formula": "topItemSharePercent = top candidate weight / Σ seedGroup candidate weights",
+      "warning": "dropRateRaw is a client value of unconfirmed unit; it is not multiplied into a per-kill probability"
+    },
+    "zoneAtlas": {
+      "rowCount": 129,
+      "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
+    },
+    "collectionCodex": {
+      "rowCount": 561
+    },
+    "collectionMilestones": {
+      "rowCount": 24
+    },
+    "cookingLevels": {
+      "rowCount": 30,
+      "runtimeEvidence": "GachaProbability.computeGachaOdds",
+      "warning": "cookProbWeightSharePercent normalizes FBDataCookProb weights; the client preview uses the Cook_Gacha_Lv* reward pools"
+    },
+    "refineAttributeValues": {
+      "rowCount": 160,
+      "warning": "grade D–S maps to FBDataRefineAttribute.grade 1–5 in ascending order; displayMin/displayMax divide the raw value by FBDataAttributeList.divisor"
+    },
+    "refineOptions": {
+      "rowCount": 90,
+      "formula": "pickPercent = optionWeight / Σ optionWeight; gradeOdds.percent = gradeWeight / Σ gradeWeight; slot unlock uses FBDataRefineSlot.unlockRate"
+    }
+  }
+}

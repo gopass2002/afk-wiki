@@ -1,0 +1,1749 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 217,
+    "schema": "FBDataDropItem",
+    "sourceAsset": "FBDataDropItem",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 700000,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 11101000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700003,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 11102000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700006,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 11103000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19
+    },
+    {
+      "id": 700009,
+      "seedGroup": "Seed_Equip_T4",
+      "itemId": 11104000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700011,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 11201000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700014,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 11202000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700017,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 11203000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19
+    },
+    {
+      "id": 700020,
+      "seedGroup": "Seed_Equip_T4",
+      "itemId": 11204000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700022,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 11301000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700025,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 11302000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700028,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 11303000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19
+    },
+    {
+      "id": 700031,
+      "seedGroup": "Seed_Equip_T4",
+      "itemId": 11304000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700033,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 11401000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700036,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 11402000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700039,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 11403000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19
+    },
+    {
+      "id": 700042,
+      "seedGroup": "Seed_Equip_T4",
+      "itemId": 11404000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700044,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 11501000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700047,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 11502000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 17
+    },
+    {
+      "id": 700050,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 11503000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 19
+    },
+    {
+      "id": 700053,
+      "seedGroup": "Seed_Equip_T4",
+      "itemId": 11504000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700055,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12101000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700058,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12102000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700061,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12103000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700062,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12103001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700063,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12103002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700066,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12201000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700067,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12201001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700068,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12201002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700069,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12202000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700070,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12202001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700071,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12202002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700072,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12203000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700073,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12203001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700074,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12203002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700077,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12301000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700078,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12301001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700079,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12301002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700080,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12302000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700081,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12302001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700082,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12302002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700083,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12303000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700084,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12303001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700085,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12303002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700088,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12401000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700089,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12401001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700090,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12401002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700091,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12402000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700092,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12402001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700093,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12402002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700094,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12403000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700095,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12403001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700096,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12403002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700099,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12501000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700100,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12501001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700101,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12501002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700102,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12502000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700103,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12502001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700104,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12502002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700105,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12503000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700106,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12503001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700107,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12503002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700110,
+      "seedGroup": "Seed_Mat_Scroll",
+      "itemId": 91000000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700111,
+      "seedGroup": "Seed_Mat_Scroll",
+      "itemId": 91000001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5
+    },
+    {
+      "id": 700113,
+      "seedGroup": "Seed_Mat_Stone",
+      "itemId": 90000000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700115,
+      "seedGroup": "Seed_Food_1000002001",
+      "itemId": 94000100,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700119,
+      "seedGroup": "Seed_Food_1000002002",
+      "itemId": 94000102,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700123,
+      "seedGroup": "Seed_Food_1000003001",
+      "itemId": 94000104,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700127,
+      "seedGroup": "Seed_Food_1000003002",
+      "itemId": 94000106,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700131,
+      "seedGroup": "Seed_Food_1000003901",
+      "itemId": 94000108,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700135,
+      "seedGroup": "Seed_Food_1000004001",
+      "itemId": 94000110,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700139,
+      "seedGroup": "Seed_Food_1000004002",
+      "itemId": 94000112,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700143,
+      "seedGroup": "Seed_Food_1000005001",
+      "itemId": 94000114,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700147,
+      "seedGroup": "Seed_Food_1000005002",
+      "itemId": 94000116,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700151,
+      "seedGroup": "Seed_Food_1000005901",
+      "itemId": 94000118,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700155,
+      "seedGroup": "Seed_Food_1000006001",
+      "itemId": 94000120,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700159,
+      "seedGroup": "Seed_Food_1000006002",
+      "itemId": 94000122,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700163,
+      "seedGroup": "Seed_Food_1000007001",
+      "itemId": 94000124,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700167,
+      "seedGroup": "Seed_Food_1000007002",
+      "itemId": 94000126,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700171,
+      "seedGroup": "Seed_Food_1000008001",
+      "itemId": 94000128,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700175,
+      "seedGroup": "Seed_Food_1000008002",
+      "itemId": 94000130,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700179,
+      "seedGroup": "Seed_Food_1000008901",
+      "itemId": 94000132,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700183,
+      "seedGroup": "Seed_Food_1001001001",
+      "itemId": 94000134,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700187,
+      "seedGroup": "Seed_Food_1001001002",
+      "itemId": 94000136,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700191,
+      "seedGroup": "Seed_Food_1001002001",
+      "itemId": 94000138,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700195,
+      "seedGroup": "Seed_Food_1001002002",
+      "itemId": 94000140,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700199,
+      "seedGroup": "Seed_Food_1001003001",
+      "itemId": 94000142,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700203,
+      "seedGroup": "Seed_Food_1001003002",
+      "itemId": 94000144,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700207,
+      "seedGroup": "Seed_Food_1001003901",
+      "itemId": 94000146,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700211,
+      "seedGroup": "Seed_Food_1001004001",
+      "itemId": 94000148,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700215,
+      "seedGroup": "Seed_Food_1001004002",
+      "itemId": 94000150,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700219,
+      "seedGroup": "Seed_Food_1001005001",
+      "itemId": 94000152,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700223,
+      "seedGroup": "Seed_Food_1001005002",
+      "itemId": 94000154,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700227,
+      "seedGroup": "Seed_Food_1001006001",
+      "itemId": 94000156,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700231,
+      "seedGroup": "Seed_Food_1001006002",
+      "itemId": 94000158,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700235,
+      "seedGroup": "Seed_Food_1001006901",
+      "itemId": 94000160,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700239,
+      "seedGroup": "Seed_Food_1001007001",
+      "itemId": 94000162,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700243,
+      "seedGroup": "Seed_Food_1001007002",
+      "itemId": 94000164,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700247,
+      "seedGroup": "Seed_Food_1001008001",
+      "itemId": 94000166,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700251,
+      "seedGroup": "Seed_Food_1001008002",
+      "itemId": 94000168,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700255,
+      "seedGroup": "Seed_Food_1001009001",
+      "itemId": 94000170,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700259,
+      "seedGroup": "Seed_Food_1001009002",
+      "itemId": 94000172,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700263,
+      "seedGroup": "Seed_Food_1001009901",
+      "itemId": 94000174,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700267,
+      "seedGroup": "Seed_Food_1002001001",
+      "itemId": 94000176,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700271,
+      "seedGroup": "Seed_Food_1002001002",
+      "itemId": 94000178,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700275,
+      "seedGroup": "Seed_Food_1002002001",
+      "itemId": 94000180,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700279,
+      "seedGroup": "Seed_Food_1002002002",
+      "itemId": 94000182,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700283,
+      "seedGroup": "Seed_Food_1002003001",
+      "itemId": 94000184,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700287,
+      "seedGroup": "Seed_Food_1002003002",
+      "itemId": 94000186,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700291,
+      "seedGroup": "Seed_Food_1002003901",
+      "itemId": 94000188,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700295,
+      "seedGroup": "Seed_Food_1002004001",
+      "itemId": 94000190,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700299,
+      "seedGroup": "Seed_Food_1002004002",
+      "itemId": 94000192,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700303,
+      "seedGroup": "Seed_Food_1002005001",
+      "itemId": 94000194,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700307,
+      "seedGroup": "Seed_Food_1002005002",
+      "itemId": 94000196,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700311,
+      "seedGroup": "Seed_Food_1002006001",
+      "itemId": 94000198,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700315,
+      "seedGroup": "Seed_Food_1002006002",
+      "itemId": 94000200,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700319,
+      "seedGroup": "Seed_Food_1002006901",
+      "itemId": 94000202,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700323,
+      "seedGroup": "Seed_Food_1002007001",
+      "itemId": 94000204,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700327,
+      "seedGroup": "Seed_Food_1002007002",
+      "itemId": 94000206,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700331,
+      "seedGroup": "Seed_Food_1002008001",
+      "itemId": 94000208,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700335,
+      "seedGroup": "Seed_Food_1002008002",
+      "itemId": 94000210,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700339,
+      "seedGroup": "Seed_Food_1002009001",
+      "itemId": 94000212,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700343,
+      "seedGroup": "Seed_Food_1002009002",
+      "itemId": 94000214,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700347,
+      "seedGroup": "Seed_Food_1002009901",
+      "itemId": 94000216,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700351,
+      "seedGroup": "Seed_Food_1003001001",
+      "itemId": 94000218,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700355,
+      "seedGroup": "Seed_Food_1003001002",
+      "itemId": 94000220,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700359,
+      "seedGroup": "Seed_Food_1003002001",
+      "itemId": 94000222,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700363,
+      "seedGroup": "Seed_Food_1003002002",
+      "itemId": 94000224,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700367,
+      "seedGroup": "Seed_Food_1003003001",
+      "itemId": 94000226,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700371,
+      "seedGroup": "Seed_Food_1003003002",
+      "itemId": 94000228,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700375,
+      "seedGroup": "Seed_Food_1003003901",
+      "itemId": 94000230,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700379,
+      "seedGroup": "Seed_Food_1003004001",
+      "itemId": 94000232,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700383,
+      "seedGroup": "Seed_Food_1003004002",
+      "itemId": 94000234,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700387,
+      "seedGroup": "Seed_Food_1003005001",
+      "itemId": 94000236,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700391,
+      "seedGroup": "Seed_Food_1003005002",
+      "itemId": 94000238,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700395,
+      "seedGroup": "Seed_Food_1003006001",
+      "itemId": 94000240,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700399,
+      "seedGroup": "Seed_Food_1003006002",
+      "itemId": 94000242,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700403,
+      "seedGroup": "Seed_Food_1003006901",
+      "itemId": 94000244,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700407,
+      "seedGroup": "Seed_Food_1003007001",
+      "itemId": 94000246,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700411,
+      "seedGroup": "Seed_Food_1003007002",
+      "itemId": 94000248,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700415,
+      "seedGroup": "Seed_Food_1003008001",
+      "itemId": 94000250,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700419,
+      "seedGroup": "Seed_Food_1003008002",
+      "itemId": 94000252,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700423,
+      "seedGroup": "Seed_Food_1003009001",
+      "itemId": 94000254,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700427,
+      "seedGroup": "Seed_Food_1003009002",
+      "itemId": 94000256,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700431,
+      "seedGroup": "Seed_Food_1003009901",
+      "itemId": 94000258,
+      "amountMin": 1,
+      "amountMax": 2,
+      "weight": 1
+    },
+    {
+      "id": 700855,
+      "seedGroup": "Seed_Spark",
+      "itemId": 4,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700857,
+      "seedGroup": "Seed_Spark_Boss",
+      "itemId": 4,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700858,
+      "seedGroup": "Seed_Acc_T1",
+      "itemId": 13101000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700859,
+      "seedGroup": "Seed_Acc_T1",
+      "itemId": 13201000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700860,
+      "seedGroup": "Seed_Acc_T1",
+      "itemId": 13301000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700861,
+      "seedGroup": "Seed_Acc_T2",
+      "itemId": 13102000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700862,
+      "seedGroup": "Seed_Acc_T2",
+      "itemId": 13202000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700863,
+      "seedGroup": "Seed_Acc_T2",
+      "itemId": 13302000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700864,
+      "seedGroup": "Seed_Acc_T3",
+      "itemId": 13103000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700865,
+      "seedGroup": "Seed_Acc_T3",
+      "itemId": 13203000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700866,
+      "seedGroup": "Seed_Acc_T3",
+      "itemId": 13303000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700867,
+      "seedGroup": "Seed_Acc_T4",
+      "itemId": 13104000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700868,
+      "seedGroup": "Seed_Acc_T4",
+      "itemId": 13204000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700869,
+      "seedGroup": "Seed_Acc_T4",
+      "itemId": 13304000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700870,
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "itemId": 91000002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700871,
+      "seedGroup": "Seed_Acc_Legend",
+      "itemId": 13105000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700872,
+      "seedGroup": "Seed_Acc_Legend",
+      "itemId": 13205000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700873,
+      "seedGroup": "Seed_Acc_Legend",
+      "itemId": 13305000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700874,
+      "seedGroup": "Seed_Orb_T1",
+      "itemId": 14101000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700875,
+      "seedGroup": "Seed_Orb_T2",
+      "itemId": 14102000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700876,
+      "seedGroup": "Seed_Orb_T3",
+      "itemId": 14103000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700877,
+      "seedGroup": "Seed_Orb_T4",
+      "itemId": 14104000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700878,
+      "seedGroup": "Seed_Orb_Legend",
+      "itemId": 14105000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700879,
+      "seedGroup": "Seed_Mat_Scroll_Special",
+      "itemId": 91000003,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700880,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12601000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700881,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12701000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700882,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12801000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700883,
+      "seedGroup": "Seed_Equip_T1",
+      "itemId": 12901000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700884,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12602000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700885,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12702000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700886,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12802000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700887,
+      "seedGroup": "Seed_Equip_T2",
+      "itemId": 12902000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 13
+    },
+    {
+      "id": 700888,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12603000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700889,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12703000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700890,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12803000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700891,
+      "seedGroup": "Seed_Equip_T3",
+      "itemId": 12903000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 15
+    },
+    {
+      "id": 700892,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12604000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700893,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12704000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700894,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12804000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700895,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12904000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700896,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12104000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700897,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12104001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700898,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12204000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700899,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12204001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700900,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12204002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700901,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12304000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700902,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12304001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700903,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12304002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700904,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12404000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700905,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12404001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700906,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12404002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700907,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12504000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700908,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12504001,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700909,
+      "seedGroup": "Seed_Equip_T4_Armor",
+      "itemId": 12504002,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700910,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 11105000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700911,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 11205000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700912,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 11305000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700913,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 11405000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700914,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 11505000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700915,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12105000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700916,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12205000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700917,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12305000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700918,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12405000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700919,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12505000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700920,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12605000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700921,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12705000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700922,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12805000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700923,
+      "seedGroup": "Seed_Equip_Legend",
+      "itemId": 12905000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 700924,
+      "seedGroup": "Seed_HyeopJeon",
+      "itemId": 5,
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 8000
+    },
+    {
+      "id": 700925,
+      "seedGroup": "Seed_HyeopJeon",
+      "itemId": 5,
+      "amountMin": 2,
+      "amountMax": 2,
+      "weight": 1200
+    },
+    {
+      "id": 700926,
+      "seedGroup": "Seed_HyeopJeon",
+      "itemId": 5,
+      "amountMin": 3,
+      "amountMax": 3,
+      "weight": 500
+    },
+    {
+      "id": 700927,
+      "seedGroup": "Seed_HyeopJeon",
+      "itemId": 5,
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 200
+    },
+    {
+      "id": 700928,
+      "seedGroup": "Seed_HyeopJeon",
+      "itemId": 5,
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 100
+    }
+  ]
+}

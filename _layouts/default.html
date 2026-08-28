@@ -1,0 +1,32 @@
+<!doctype html>
+<html class="no-js" lang="{{ site.lang | default: 'ko' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#132129">
+    <meta name="color-scheme" content="light dark">
+    <script>document.documentElement.classList.replace("no-js", "js");</script>
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <script defer src="{{ '/assets/js/wiki.js' | relative_url }}"></script>
+    {% if page.data_file %}<script defer src="{{ '/assets/js/data-explorer.js' | relative_url }}"></script>{% endif %}
+    {% for script in page.page_scripts %}<script defer src="{{ script | relative_url }}"></script>{% endfor %}
+  </head>
+  <body data-baseurl="{{ site.baseurl }}">
+    <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
+    {% include header.html %}
+    <div class="site-frame">
+      {% include nav.html %}
+      <main id="main-content" class="site-main" tabindex="-1">
+        {% include breadcrumbs.html %}
+        <article class="page{% if page.data_file %} page--data{% endif %}">
+          {{ content }}
+        </article>
+        {% include footer.html %}
+      </main>
+    </div>
+    <button class="back-to-top" type="button" data-back-to-top aria-label="맨 위로">
+      <span aria-hidden="true">↑</span>
+    </button>
+  </body>
+</html>

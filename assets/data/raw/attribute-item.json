@@ -1,0 +1,1598 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 100,
+    "schema": "FBDataAttribute",
+    "sourceAsset": "FBDataAttributeItem",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "item_11101000",
+      "attrKey": [
+        "ATK",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        8,
+        800
+      ],
+      "attrValueArray": [
+        8,
+        800
+      ]
+    },
+    {
+      "id": 2,
+      "key": "item_11102000",
+      "attrKey": [
+        "ATK",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        12,
+        1000
+      ],
+      "attrValueArray": [
+        12,
+        1000
+      ]
+    },
+    {
+      "id": 3,
+      "key": "item_11103000",
+      "attrKey": [
+        "ATK",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        18,
+        1300
+      ],
+      "attrValueArray": [
+        18,
+        1300
+      ]
+    },
+    {
+      "id": 4,
+      "key": "item_11104000",
+      "attrKey": [
+        "ATK",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        26,
+        1500
+      ],
+      "attrValueArray": [
+        26,
+        1500
+      ]
+    },
+    {
+      "id": 5,
+      "key": "item_11105000",
+      "attrKey": [
+        "ATK",
+        "SKILL_AMP"
+      ],
+      "attrValue": [
+        39,
+        1900
+      ],
+      "attrValueArray": [
+        39,
+        1900
+      ]
+    },
+    {
+      "id": 6,
+      "key": "item_11201000",
+      "attrKey": [
+        "ATK",
+        "DEF"
+      ],
+      "attrValue": [
+        10,
+        12
+      ],
+      "attrValueArray": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": 7,
+      "key": "item_11202000",
+      "attrKey": [
+        "ATK",
+        "DEF"
+      ],
+      "attrValue": [
+        14,
+        16
+      ],
+      "attrValueArray": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": 8,
+      "key": "item_11203000",
+      "attrKey": [
+        "ATK",
+        "DEF"
+      ],
+      "attrValue": [
+        22,
+        19
+      ],
+      "attrValueArray": [
+        22,
+        19
+      ]
+    },
+    {
+      "id": 9,
+      "key": "item_11204000",
+      "attrKey": [
+        "ATK",
+        "DEF"
+      ],
+      "attrValue": [
+        31,
+        24
+      ],
+      "attrValueArray": [
+        31,
+        24
+      ]
+    },
+    {
+      "id": 10,
+      "key": "item_11205000",
+      "attrKey": [
+        "ATK",
+        "DEF"
+      ],
+      "attrValue": [
+        47,
+        30
+      ],
+      "attrValueArray": [
+        47,
+        30
+      ]
+    },
+    {
+      "id": 11,
+      "key": "item_11301000",
+      "attrKey": [
+        "ATK",
+        "PEN"
+      ],
+      "attrValue": [
+        9,
+        15
+      ],
+      "attrValueArray": [
+        9,
+        15
+      ]
+    },
+    {
+      "id": 12,
+      "key": "item_11302000",
+      "attrKey": [
+        "ATK",
+        "PEN"
+      ],
+      "attrValue": [
+        13,
+        21
+      ],
+      "attrValueArray": [
+        13,
+        21
+      ]
+    },
+    {
+      "id": 13,
+      "key": "item_11303000",
+      "attrKey": [
+        "ATK",
+        "PEN"
+      ],
+      "attrValue": [
+        20,
+        30
+      ],
+      "attrValueArray": [
+        20,
+        30
+      ]
+    },
+    {
+      "id": 14,
+      "key": "item_11304000",
+      "attrKey": [
+        "ATK",
+        "PEN"
+      ],
+      "attrValue": [
+        29,
+        37
+      ],
+      "attrValueArray": [
+        29,
+        37
+      ]
+    },
+    {
+      "id": 15,
+      "key": "item_11305000",
+      "attrKey": [
+        "ATK",
+        "PEN"
+      ],
+      "attrValue": [
+        43,
+        47
+      ],
+      "attrValueArray": [
+        43,
+        47
+      ]
+    },
+    {
+      "id": 16,
+      "key": "item_11401000",
+      "attrKey": [
+        "ATK",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        7,
+        300
+      ],
+      "attrValueArray": [
+        7,
+        300
+      ]
+    },
+    {
+      "id": 17,
+      "key": "item_11402000",
+      "attrKey": [
+        "ATK",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        10,
+        400
+      ],
+      "attrValueArray": [
+        10,
+        400
+      ]
+    },
+    {
+      "id": 18,
+      "key": "item_11403000",
+      "attrKey": [
+        "ATK",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        17,
+        500
+      ],
+      "attrValueArray": [
+        17,
+        500
+      ]
+    },
+    {
+      "id": 19,
+      "key": "item_11404000",
+      "attrKey": [
+        "ATK",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        23,
+        700
+      ],
+      "attrValueArray": [
+        23,
+        700
+      ]
+    },
+    {
+      "id": 20,
+      "key": "item_11405000",
+      "attrKey": [
+        "ATK",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        35,
+        900
+      ],
+      "attrValueArray": [
+        35,
+        900
+      ]
+    },
+    {
+      "id": 21,
+      "key": "item_11501000",
+      "attrKey": [
+        "ATK",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        4,
+        400
+      ],
+      "attrValueArray": [
+        4,
+        400
+      ]
+    },
+    {
+      "id": 22,
+      "key": "item_11502000",
+      "attrKey": [
+        "ATK",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        7,
+        500
+      ],
+      "attrValueArray": [
+        7,
+        500
+      ]
+    },
+    {
+      "id": 23,
+      "key": "item_11503000",
+      "attrKey": [
+        "ATK",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        12,
+        600
+      ],
+      "attrValueArray": [
+        12,
+        600
+      ]
+    },
+    {
+      "id": 24,
+      "key": "item_11504000",
+      "attrKey": [
+        "ATK",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        17,
+        800
+      ],
+      "attrValueArray": [
+        17,
+        800
+      ]
+    },
+    {
+      "id": 25,
+      "key": "item_11505000",
+      "attrKey": [
+        "ATK",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        25,
+        1000
+      ],
+      "attrValueArray": [
+        25,
+        1000
+      ]
+    },
+    {
+      "id": 26,
+      "key": "item_12101000",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        2,
+        6
+      ],
+      "attrValueArray": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 27,
+      "key": "item_12102000",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        3,
+        10
+      ],
+      "attrValueArray": [
+        3,
+        10
+      ]
+    },
+    {
+      "id": 28,
+      "key": "item_12103000",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        4,
+        16
+      ],
+      "attrValueArray": [
+        4,
+        16
+      ]
+    },
+    {
+      "id": 29,
+      "key": "item_12104000",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        5,
+        26
+      ],
+      "attrValueArray": [
+        5,
+        26
+      ]
+    },
+    {
+      "id": 30,
+      "key": "item_12105000",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        8,
+        46
+      ],
+      "attrValueArray": [
+        8,
+        46
+      ]
+    },
+    {
+      "id": 31,
+      "key": "item_12201000",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        2,
+        100
+      ],
+      "attrValueArray": [
+        2,
+        100
+      ]
+    },
+    {
+      "id": 32,
+      "key": "item_12202000",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        3,
+        200
+      ],
+      "attrValueArray": [
+        3,
+        200
+      ]
+    },
+    {
+      "id": 33,
+      "key": "item_12203000",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        4,
+        300
+      ],
+      "attrValueArray": [
+        4,
+        300
+      ]
+    },
+    {
+      "id": 34,
+      "key": "item_12204000",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 35,
+      "key": "item_12205000",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        8,
+        500
+      ],
+      "attrValueArray": [
+        8,
+        500
+      ]
+    },
+    {
+      "id": 36,
+      "key": "item_12301000",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        2,
+        6
+      ],
+      "attrValueArray": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 37,
+      "key": "item_12302000",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        3,
+        10
+      ],
+      "attrValueArray": [
+        3,
+        10
+      ]
+    },
+    {
+      "id": 38,
+      "key": "item_12303000",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        4,
+        16
+      ],
+      "attrValueArray": [
+        4,
+        16
+      ]
+    },
+    {
+      "id": 39,
+      "key": "item_12304000",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        5,
+        26
+      ],
+      "attrValueArray": [
+        5,
+        26
+      ]
+    },
+    {
+      "id": 40,
+      "key": "item_12305000",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        8,
+        46
+      ],
+      "attrValueArray": [
+        8,
+        46
+      ]
+    },
+    {
+      "id": 41,
+      "key": "item_12401000",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        2,
+        100
+      ],
+      "attrValueArray": [
+        2,
+        100
+      ]
+    },
+    {
+      "id": 42,
+      "key": "item_12402000",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        3,
+        200
+      ],
+      "attrValueArray": [
+        3,
+        200
+      ]
+    },
+    {
+      "id": 43,
+      "key": "item_12403000",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        4,
+        300
+      ],
+      "attrValueArray": [
+        4,
+        300
+      ]
+    },
+    {
+      "id": 44,
+      "key": "item_12404000",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 45,
+      "key": "item_12405000",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        8,
+        500
+      ],
+      "attrValueArray": [
+        8,
+        500
+      ]
+    },
+    {
+      "id": 46,
+      "key": "item_12501000",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2,
+        300
+      ],
+      "attrValueArray": [
+        2,
+        300
+      ]
+    },
+    {
+      "id": 47,
+      "key": "item_12502000",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        3,
+        400
+      ],
+      "attrValueArray": [
+        3,
+        400
+      ]
+    },
+    {
+      "id": 48,
+      "key": "item_12503000",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        4,
+        500
+      ],
+      "attrValueArray": [
+        4,
+        500
+      ]
+    },
+    {
+      "id": 49,
+      "key": "item_12504000",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 50,
+      "key": "item_12505000",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        8,
+        800
+      ],
+      "attrValueArray": [
+        8,
+        800
+      ]
+    },
+    {
+      "id": 51,
+      "key": "item_11101003",
+      "attrKey": [
+        "ATK",
+        "HIT"
+      ],
+      "attrValue": [
+        60,
+        3
+      ],
+      "attrValueArray": [
+        60,
+        3
+      ]
+    },
+    {
+      "id": 52,
+      "key": "item_13101000",
+      "attrKey": [
+        "HIT",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        5,
+        300
+      ],
+      "attrValueArray": [
+        5,
+        300
+      ]
+    },
+    {
+      "id": 53,
+      "key": "item_13102000",
+      "attrKey": [
+        "HIT",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        10,
+        400
+      ],
+      "attrValueArray": [
+        10,
+        400
+      ]
+    },
+    {
+      "id": 54,
+      "key": "item_13103000",
+      "attrKey": [
+        "HIT",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        20,
+        600
+      ],
+      "attrValueArray": [
+        20,
+        600
+      ]
+    },
+    {
+      "id": 55,
+      "key": "item_13104000",
+      "attrKey": [
+        "HIT",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        35,
+        700
+      ],
+      "attrValueArray": [
+        35,
+        700
+      ]
+    },
+    {
+      "id": 56,
+      "key": "item_13105000",
+      "attrKey": [
+        "HIT",
+        "CRIT_RATE"
+      ],
+      "attrValue": [
+        60,
+        900
+      ],
+      "attrValueArray": [
+        60,
+        900
+      ]
+    },
+    {
+      "id": 57,
+      "key": "item_13201000",
+      "attrKey": [
+        "HIT",
+        "CRIT_DMG"
+      ],
+      "attrValue": [
+        5,
+        2500
+      ],
+      "attrValueArray": [
+        5,
+        2500
+      ]
+    },
+    {
+      "id": 58,
+      "key": "item_13202000",
+      "attrKey": [
+        "HIT",
+        "CRIT_DMG"
+      ],
+      "attrValue": [
+        10,
+        3500
+      ],
+      "attrValueArray": [
+        10,
+        3500
+      ]
+    },
+    {
+      "id": 59,
+      "key": "item_13203000",
+      "attrKey": [
+        "HIT",
+        "CRIT_DMG"
+      ],
+      "attrValue": [
+        20,
+        4500
+      ],
+      "attrValueArray": [
+        20,
+        4500
+      ]
+    },
+    {
+      "id": 60,
+      "key": "item_13204000",
+      "attrKey": [
+        "HIT",
+        "CRIT_DMG"
+      ],
+      "attrValue": [
+        35,
+        5500
+      ],
+      "attrValueArray": [
+        35,
+        5500
+      ]
+    },
+    {
+      "id": 61,
+      "key": "item_13205000",
+      "attrKey": [
+        "HIT",
+        "CRIT_DMG"
+      ],
+      "attrValue": [
+        60,
+        7000
+      ],
+      "attrValueArray": [
+        60,
+        7000
+      ]
+    },
+    {
+      "id": 62,
+      "key": "item_13301000",
+      "attrKey": [
+        "HIT",
+        "PEN"
+      ],
+      "attrValue": [
+        5,
+        12
+      ],
+      "attrValueArray": [
+        5,
+        12
+      ]
+    },
+    {
+      "id": 63,
+      "key": "item_13302000",
+      "attrKey": [
+        "HIT",
+        "PEN"
+      ],
+      "attrValue": [
+        10,
+        18
+      ],
+      "attrValueArray": [
+        10,
+        18
+      ]
+    },
+    {
+      "id": 64,
+      "key": "item_13303000",
+      "attrKey": [
+        "HIT",
+        "PEN"
+      ],
+      "attrValue": [
+        20,
+        26
+      ],
+      "attrValueArray": [
+        20,
+        26
+      ]
+    },
+    {
+      "id": 65,
+      "key": "item_13304000",
+      "attrKey": [
+        "HIT",
+        "PEN"
+      ],
+      "attrValue": [
+        35,
+        36
+      ],
+      "attrValueArray": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": 66,
+      "key": "item_13305000",
+      "attrKey": [
+        "HIT",
+        "PEN"
+      ],
+      "attrValue": [
+        60,
+        48
+      ],
+      "attrValueArray": [
+        60,
+        48
+      ]
+    },
+    {
+      "id": 67,
+      "key": "item_12601000",
+      "attrKey": [
+        "DEF",
+        "BOSS_DMG_BONUS"
+      ],
+      "attrValue": [
+        2,
+        100
+      ],
+      "attrValueArray": [
+        2,
+        100
+      ]
+    },
+    {
+      "id": 68,
+      "key": "item_12602000",
+      "attrKey": [
+        "DEF",
+        "BOSS_DMG_BONUS"
+      ],
+      "attrValue": [
+        3,
+        200
+      ],
+      "attrValueArray": [
+        3,
+        200
+      ]
+    },
+    {
+      "id": 69,
+      "key": "item_12603000",
+      "attrKey": [
+        "DEF",
+        "BOSS_DMG_BONUS"
+      ],
+      "attrValue": [
+        4,
+        400
+      ],
+      "attrValueArray": [
+        4,
+        400
+      ]
+    },
+    {
+      "id": 70,
+      "key": "item_12604000",
+      "attrKey": [
+        "DEF",
+        "BOSS_DMG_BONUS"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 71,
+      "key": "item_12605000",
+      "attrKey": [
+        "DEF",
+        "BOSS_DMG_BONUS"
+      ],
+      "attrValue": [
+        8,
+        800
+      ],
+      "attrValueArray": [
+        8,
+        800
+      ]
+    },
+    {
+      "id": 72,
+      "key": "item_12701000",
+      "attrKey": [
+        "DEF",
+        "POTION_BONUS"
+      ],
+      "attrValue": [
+        2,
+        100
+      ],
+      "attrValueArray": [
+        2,
+        100
+      ]
+    },
+    {
+      "id": 73,
+      "key": "item_12702000",
+      "attrKey": [
+        "DEF",
+        "POTION_BONUS"
+      ],
+      "attrValue": [
+        3,
+        200
+      ],
+      "attrValueArray": [
+        3,
+        200
+      ]
+    },
+    {
+      "id": 74,
+      "key": "item_12703000",
+      "attrKey": [
+        "DEF",
+        "POTION_BONUS"
+      ],
+      "attrValue": [
+        4,
+        400
+      ],
+      "attrValueArray": [
+        4,
+        400
+      ]
+    },
+    {
+      "id": 75,
+      "key": "item_12704000",
+      "attrKey": [
+        "DEF",
+        "POTION_BONUS"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 76,
+      "key": "item_12705000",
+      "attrKey": [
+        "DEF",
+        "POTION_BONUS"
+      ],
+      "attrValue": [
+        8,
+        800
+      ],
+      "attrValueArray": [
+        8,
+        800
+      ]
+    },
+    {
+      "id": 77,
+      "key": "item_12801000",
+      "attrKey": [
+        "DEF",
+        "COOLDOWN_REDUCE"
+      ],
+      "attrValue": [
+        2,
+        100
+      ],
+      "attrValueArray": [
+        2,
+        100
+      ]
+    },
+    {
+      "id": 78,
+      "key": "item_12802000",
+      "attrKey": [
+        "DEF",
+        "COOLDOWN_REDUCE"
+      ],
+      "attrValue": [
+        3,
+        200
+      ],
+      "attrValueArray": [
+        3,
+        200
+      ]
+    },
+    {
+      "id": 79,
+      "key": "item_12803000",
+      "attrKey": [
+        "DEF",
+        "COOLDOWN_REDUCE"
+      ],
+      "attrValue": [
+        4,
+        400
+      ],
+      "attrValueArray": [
+        4,
+        400
+      ]
+    },
+    {
+      "id": 80,
+      "key": "item_12804000",
+      "attrKey": [
+        "DEF",
+        "COOLDOWN_REDUCE"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 81,
+      "key": "item_12805000",
+      "attrKey": [
+        "DEF",
+        "COOLDOWN_REDUCE"
+      ],
+      "attrValue": [
+        8,
+        800
+      ],
+      "attrValueArray": [
+        8,
+        800
+      ]
+    },
+    {
+      "id": 82,
+      "key": "item_12901000",
+      "attrKey": [
+        "DEF",
+        "MAX_SP"
+      ],
+      "attrValue": [
+        2,
+        5
+      ],
+      "attrValueArray": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": 83,
+      "key": "item_12902000",
+      "attrKey": [
+        "DEF",
+        "MAX_SP"
+      ],
+      "attrValue": [
+        3,
+        8
+      ],
+      "attrValueArray": [
+        3,
+        8
+      ]
+    },
+    {
+      "id": 84,
+      "key": "item_12903000",
+      "attrKey": [
+        "DEF",
+        "MAX_SP"
+      ],
+      "attrValue": [
+        4,
+        12
+      ],
+      "attrValueArray": [
+        4,
+        12
+      ]
+    },
+    {
+      "id": 85,
+      "key": "item_12904000",
+      "attrKey": [
+        "DEF",
+        "MAX_SP"
+      ],
+      "attrValue": [
+        5,
+        16
+      ],
+      "attrValueArray": [
+        5,
+        16
+      ]
+    },
+    {
+      "id": 86,
+      "key": "item_12905000",
+      "attrKey": [
+        "DEF",
+        "MAX_SP"
+      ],
+      "attrValue": [
+        8,
+        24
+      ],
+      "attrValueArray": [
+        8,
+        24
+      ]
+    },
+    {
+      "id": 87,
+      "key": "item_14101000",
+      "attrKey": [
+        "EXP_BONUS"
+      ],
+      "attrValue": [
+        100
+      ],
+      "attrValueArray": [
+        100
+      ]
+    },
+    {
+      "id": 88,
+      "key": "item_14102000",
+      "attrKey": [
+        "EXP_BONUS"
+      ],
+      "attrValue": [
+        200
+      ],
+      "attrValueArray": [
+        200
+      ]
+    },
+    {
+      "id": 89,
+      "key": "item_14103000",
+      "attrKey": [
+        "EXP_BONUS"
+      ],
+      "attrValue": [
+        400
+      ],
+      "attrValueArray": [
+        400
+      ]
+    },
+    {
+      "id": 90,
+      "key": "item_14104000",
+      "attrKey": [
+        "EXP_BONUS"
+      ],
+      "attrValue": [
+        600
+      ],
+      "attrValueArray": [
+        600
+      ]
+    },
+    {
+      "id": 91,
+      "key": "item_14105000",
+      "attrKey": [
+        "EXP_BONUS"
+      ],
+      "attrValue": [
+        800
+      ],
+      "attrValueArray": [
+        800
+      ]
+    },
+    {
+      "id": 92,
+      "key": "item_12204001",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 93,
+      "key": "item_12204002",
+      "attrKey": [
+        "DEF",
+        "MAX_HP_PER"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 94,
+      "key": "item_12304001",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        5,
+        26
+      ],
+      "attrValueArray": [
+        5,
+        26
+      ]
+    },
+    {
+      "id": 95,
+      "key": "item_12304002",
+      "attrKey": [
+        "DEF",
+        "EVA"
+      ],
+      "attrValue": [
+        5,
+        26
+      ],
+      "attrValueArray": [
+        5,
+        26
+      ]
+    },
+    {
+      "id": 96,
+      "key": "item_12404001",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 97,
+      "key": "item_12404002",
+      "attrKey": [
+        "DEF",
+        "ATK_SPD"
+      ],
+      "attrValue": [
+        5,
+        400
+      ],
+      "attrValueArray": [
+        5,
+        400
+      ]
+    },
+    {
+      "id": 98,
+      "key": "item_12504001",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 99,
+      "key": "item_12504002",
+      "attrKey": [
+        "DEF",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        5,
+        600
+      ],
+      "attrValueArray": [
+        5,
+        600
+      ]
+    },
+    {
+      "id": 100,
+      "key": "item_12104001",
+      "attrKey": [
+        "DEF",
+        "HIT"
+      ],
+      "attrValue": [
+        5,
+        26
+      ],
+      "attrValueArray": [
+        5,
+        26
+      ]
+    }
+  ]
+}

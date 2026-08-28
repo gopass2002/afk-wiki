@@ -1,0 +1,24 @@
+<aside class="evidence-rail" aria-label="데이터 검증 정보">
+  <div class="evidence-rail__mark" aria-hidden="true"></div>
+  <dl>
+    <div>
+      <dt>패치</dt>
+      <dd><code>{{ site.data.generated_manifest.patch }}</code></dd>
+    </div>
+    <div>
+      <dt>확인일</dt>
+      <dd><time datetime="{{ site.data.generated_manifest.extractedAt }}">{{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }}</time></dd>
+    </div>
+    {% if page.data_schema %}
+    <div>
+      <dt>스키마</dt>
+      <dd><code>{{ page.data_schema }}</code></dd>
+    </div>
+    {% endif %}
+    <div>
+      <dt>상태</dt>
+      <dd><span class="status-badge status-badge--verified"><span aria-hidden="true">✓</span> 추출 확인</span></dd>
+    </div>
+  </dl>
+  <a class="evidence-rail__source" href="{{ site.data.generated_manifest.sourceConfig }}" target="_blank" rel="noreferrer">원본 매니페스트 <span aria-hidden="true">↗</span></a>
+</aside>

@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 24,
+    "schema": "FBDataShopProductUnlock",
+    "sourceAsset": "FBDataShopProductUnlock",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "productId": 14,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 2,
+      "productId": 15,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 3,
+      "productId": 16,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 4,
+      "productId": 17,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 5,
+      "productId": 18,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 6,
+      "productId": 19,
+      "requireLevel": 1,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 7,
+      "productId": 20,
+      "requireLevel": 3,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 8,
+      "productId": 21,
+      "requireLevel": 3,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 9,
+      "productId": 22,
+      "requireLevel": 3,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 10,
+      "productId": 23,
+      "requireLevel": 3,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 11,
+      "productId": 24,
+      "requireLevel": 5,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 12,
+      "productId": 25,
+      "requireLevel": 5,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 13,
+      "productId": 26,
+      "requireLevel": 8,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 14,
+      "productId": 27,
+      "requireLevel": 5,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 15,
+      "productId": 28,
+      "requireLevel": 35,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 16,
+      "productId": 29,
+      "requireLevel": 35,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 17,
+      "productId": 30,
+      "requireLevel": 35,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 18,
+      "productId": 31,
+      "requireLevel": 35,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 19,
+      "productId": 32,
+      "requireLevel": 35,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 20,
+      "productId": 33,
+      "requireLevel": 0,
+      "triggerType": "QuestAccept",
+      "triggerValue": 86,
+      "descKey": "ContentUnlockQuestAccept"
+    },
+    {
+      "id": 21,
+      "productId": 34,
+      "requireLevel": 30,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 22,
+      "productId": 35,
+      "requireLevel": 40,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 23,
+      "productId": 36,
+      "requireLevel": 50,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    },
+    {
+      "id": 24,
+      "productId": 63,
+      "requireLevel": 10,
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "ShopUnlockLevel"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 15,
+    "schema": "FBDataRefineGradePool",
+    "sourceAsset": "FBDataRefineGradePool",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "itemGrade": 1,
+      "slotId": 1,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 2,
+      "itemGrade": 1,
+      "slotId": 2,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 3,
+      "itemGrade": 1,
+      "slotId": 3,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 4,
+      "itemGrade": 2,
+      "slotId": 1,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 5,
+      "itemGrade": 2,
+      "slotId": 2,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 6,
+      "itemGrade": 2,
+      "slotId": 3,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 7,
+      "itemGrade": 3,
+      "slotId": 1,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 8,
+      "itemGrade": 3,
+      "slotId": 2,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 9,
+      "itemGrade": 3,
+      "slotId": 3,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 10,
+      "itemGrade": 4,
+      "slotId": 1,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 11,
+      "itemGrade": 4,
+      "slotId": 2,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 12,
+      "itemGrade": 4,
+      "slotId": 3,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 13,
+      "itemGrade": 5,
+      "slotId": 1,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 14,
+      "itemGrade": 5,
+      "slotId": 2,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    },
+    {
+      "id": 15,
+      "itemGrade": 5,
+      "slotId": 3,
+      "weightD": 4000,
+      "weightC": 3000,
+      "weightB": 1800,
+      "weightA": 900,
+      "weightS": 300
+    }
+  ]
+}

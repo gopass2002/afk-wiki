@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 30,
+    "schema": "FBDataCookLevel",
+    "sourceAsset": "FBDataCookLevel",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "requiredCookingExp": 100,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Normal",
+      "maxSparkStage": 1,
+      "subRewardExpBonus": 10,
+      "durationMs": 3000
+    },
+    {
+      "id": 2,
+      "requiredCookingExp": 300,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Normal",
+      "maxSparkStage": 1,
+      "subRewardExpBonus": 20,
+      "durationMs": 10000
+    },
+    {
+      "id": 3,
+      "requiredCookingExp": 700,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Rare",
+      "maxSparkStage": 1,
+      "subRewardExpBonus": 30,
+      "durationMs": 32000
+    },
+    {
+      "id": 4,
+      "requiredCookingExp": 2250,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Rare",
+      "maxSparkStage": 1,
+      "subRewardExpBonus": 40,
+      "durationMs": 58000
+    },
+    {
+      "id": 5,
+      "requiredCookingExp": 4500,
+      "rewardItemId": 12102000,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Rare",
+      "maxSparkStage": 2,
+      "subRewardExpBonus": 50,
+      "durationMs": 105000
+    },
+    {
+      "id": 6,
+      "requiredCookingExp": 6750,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Rare",
+      "maxSparkStage": 2,
+      "subRewardExpBonus": 60,
+      "durationMs": 189000
+    },
+    {
+      "id": 7,
+      "requiredCookingExp": 10050,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 2,
+      "subRewardExpBonus": 70,
+      "durationMs": 340000
+    },
+    {
+      "id": 8,
+      "requiredCookingExp": 15000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 2,
+      "subRewardExpBonus": 80,
+      "durationMs": 612000
+    },
+    {
+      "id": 9,
+      "requiredCookingExp": 22500,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 2,
+      "subRewardExpBonus": 90,
+      "durationMs": 1102000
+    },
+    {
+      "id": 10,
+      "requiredCookingExp": 34500,
+      "rewardItemId": 12202002,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 100,
+      "durationMs": 1984000
+    },
+    {
+      "id": 11,
+      "requiredCookingExp": 54000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 110,
+      "durationMs": 3570000
+    },
+    {
+      "id": 12,
+      "requiredCookingExp": 81000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 120,
+      "durationMs": 6427000
+    },
+    {
+      "id": 13,
+      "requiredCookingExp": 124500,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 130,
+      "durationMs": 7200000
+    },
+    {
+      "id": 14,
+      "requiredCookingExp": 195000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Epic",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 140,
+      "durationMs": 7200000
+    },
+    {
+      "id": 15,
+      "requiredCookingExp": 300000,
+      "rewardItemId": 12302002,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 150,
+      "durationMs": 7200000
+    },
+    {
+      "id": 16,
+      "requiredCookingExp": 465000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 3,
+      "subRewardExpBonus": 160,
+      "durationMs": 7200000
+    },
+    {
+      "id": 17,
+      "requiredCookingExp": 720000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 170,
+      "durationMs": 7200000
+    },
+    {
+      "id": 18,
+      "requiredCookingExp": 1110000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 180,
+      "durationMs": 7200000
+    },
+    {
+      "id": 19,
+      "requiredCookingExp": 1800000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 190,
+      "durationMs": 7200000
+    },
+    {
+      "id": 20,
+      "requiredCookingExp": 2700000,
+      "rewardItemId": 12402002,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 200,
+      "durationMs": 7200000
+    },
+    {
+      "id": 21,
+      "requiredCookingExp": 4350000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 210,
+      "durationMs": 7200000
+    },
+    {
+      "id": 22,
+      "requiredCookingExp": 6750000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 220,
+      "durationMs": 7200000
+    },
+    {
+      "id": 23,
+      "requiredCookingExp": 10800000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 5,
+      "subRewardExpBonus": 230,
+      "durationMs": 7200000
+    },
+    {
+      "id": 24,
+      "requiredCookingExp": 16500000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Unique",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 240,
+      "durationMs": 7200000
+    },
+    {
+      "id": 25,
+      "requiredCookingExp": 27000000,
+      "rewardItemId": 12502001,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 250,
+      "durationMs": 7200000
+    },
+    {
+      "id": 26,
+      "requiredCookingExp": 43500000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 260,
+      "durationMs": 7200000
+    },
+    {
+      "id": 27,
+      "requiredCookingExp": 70500000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 270,
+      "durationMs": 7200000
+    },
+    {
+      "id": 28,
+      "requiredCookingExp": 112500000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 280,
+      "durationMs": 7200000
+    },
+    {
+      "id": 29,
+      "requiredCookingExp": 183000000,
+      "rewardItemId": 4,
+      "rewardAmount": 0,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 290,
+      "durationMs": 7200000
+    },
+    {
+      "id": 30,
+      "requiredCookingExp": 226500000,
+      "rewardItemId": 96000024,
+      "rewardAmount": 1,
+      "maxKeepGrade": "Legendary",
+      "maxSparkStage": 8,
+      "subRewardExpBonus": 300,
+      "durationMs": 7200000
+    }
+  ]
+}

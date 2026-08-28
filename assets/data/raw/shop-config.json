@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 16,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataShopConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "RebuyFee",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "MaxRebuyCount",
+      "value": [
+        "20"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "ExchangeGemCost",
+      "value": [
+        "10"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "ExchangeGemGain",
+      "value": [
+        "8"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "ExchangeDailyLimit",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "CurrentHairTicket",
+      "value": [
+        "11"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "CurrentFaceTicket",
+      "value": [
+        "12"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "HairGachaProduct",
+      "value": [
+        "5"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "FaceGachaProduct",
+      "value": [
+        "6"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "CostumeShopGroup",
+      "value": [
+        "CostumeShop"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "AppearanceNpcTransform",
+      "value": [
+        "100031"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "AppearanceNpcCostume",
+      "value": [
+        "100030"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "AppearanceNpcMirror",
+      "value": [
+        "100032"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "AppearanceSaveDefaultSlot",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "AppearanceSaveSlotPerExpansion",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "TicketExchangeGold",
+      "value": [
+        "10000"
+      ]
+    }
+  ]
+}

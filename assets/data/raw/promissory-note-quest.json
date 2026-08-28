@@ -1,0 +1,5530 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 613,
+    "schema": "FBDataPromissoryNoteQuest",
+    "sourceAsset": "FBDataPromissoryNoteQuest",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 9000001,
+      "groupKey": "cook_3",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000002,
+      "groupKey": "cook_3",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000101,
+      "groupKey": "cook_5",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000102,
+      "groupKey": "cook_5",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000201,
+      "groupKey": "cook_8",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000202,
+      "groupKey": "cook_8",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000301,
+      "groupKey": "cook_intro",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000302,
+      "groupKey": "cook_intro",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000401,
+      "groupKey": "cook_lv2",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000402,
+      "groupKey": "cook_lv2",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000501,
+      "groupKey": "cook_lv3",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 9000502,
+      "groupKey": "cook_lv3",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 9000601,
+      "groupKey": "quest_1",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9000602,
+      "groupKey": "quest_1",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9000603,
+      "groupKey": "quest_1",
+      "type": "Skill",
+      "targetId": 11110101,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9000604,
+      "groupKey": "quest_1",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9000701,
+      "groupKey": "quest_2",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9000702,
+      "groupKey": "quest_2",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9000801,
+      "groupKey": "quest_3",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 25,
+      "amountMax": 25,
+      "ratio": 0
+    },
+    {
+      "id": 9000802,
+      "groupKey": "quest_3",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 60,
+      "amountMax": 60,
+      "ratio": 0
+    },
+    {
+      "id": 9000901,
+      "groupKey": "quest_4",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9000902,
+      "groupKey": "quest_4",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 601,
+      "groupKey": "quest_5",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 602,
+      "groupKey": "quest_5",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001001,
+      "groupKey": "quest_6",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001002,
+      "groupKey": "quest_6",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001003,
+      "groupKey": "quest_6",
+      "type": "Item",
+      "targetId": 94000102,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 9001101,
+      "groupKey": "quest_7",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001102,
+      "groupKey": "quest_7",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001103,
+      "groupKey": "quest_7",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9001201,
+      "groupKey": "quest_8",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001202,
+      "groupKey": "quest_8",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001301,
+      "groupKey": "quest_9",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001302,
+      "groupKey": "quest_9",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001401,
+      "groupKey": "quest_10",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001402,
+      "groupKey": "quest_10",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001501,
+      "groupKey": "quest_11",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001502,
+      "groupKey": "quest_11",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001503,
+      "groupKey": "quest_11",
+      "type": "Exp",
+      "targetId": 101,
+      "amountMin": 100,
+      "amountMax": 100,
+      "ratio": 0
+    },
+    {
+      "id": 9001601,
+      "groupKey": "quest_12",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001602,
+      "groupKey": "quest_12",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001701,
+      "groupKey": "quest_13",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001702,
+      "groupKey": "quest_13",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001801,
+      "groupKey": "quest_14",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001802,
+      "groupKey": "quest_14",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9001803,
+      "groupKey": "quest_14",
+      "type": "Item",
+      "targetId": 90000000,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 9001804,
+      "groupKey": "quest_14",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9001901,
+      "groupKey": "quest_15",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9001902,
+      "groupKey": "quest_15",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002001,
+      "groupKey": "quest_16",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002002,
+      "groupKey": "quest_16",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002101,
+      "groupKey": "quest_17",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002102,
+      "groupKey": "quest_17",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002103,
+      "groupKey": "quest_17",
+      "type": "Exp",
+      "targetId": 101,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 9002201,
+      "groupKey": "quest_18",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002202,
+      "groupKey": "quest_18",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002301,
+      "groupKey": "quest_19",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002302,
+      "groupKey": "quest_19",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002401,
+      "groupKey": "quest_20",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002402,
+      "groupKey": "quest_20",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002501,
+      "groupKey": "quest_21",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002502,
+      "groupKey": "quest_21",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002601,
+      "groupKey": "quest_22",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002602,
+      "groupKey": "quest_22",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002701,
+      "groupKey": "quest_23",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002702,
+      "groupKey": "quest_23",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002703,
+      "groupKey": "quest_23",
+      "type": "Item",
+      "targetId": 94000118,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9002704,
+      "groupKey": "quest_23",
+      "type": "Item",
+      "targetId": 94000118,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9002801,
+      "groupKey": "quest_24",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9002802,
+      "groupKey": "quest_24",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9002803,
+      "groupKey": "quest_24",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 7,
+      "amountMax": 7,
+      "ratio": 0
+    },
+    {
+      "id": 9003001,
+      "groupKey": "quest_25",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003002,
+      "groupKey": "quest_25",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003003,
+      "groupKey": "quest_25",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 9003101,
+      "groupKey": "quest_26",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003102,
+      "groupKey": "quest_26",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003201,
+      "groupKey": "quest_27",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003202,
+      "groupKey": "quest_27",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003301,
+      "groupKey": "quest_28",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003302,
+      "groupKey": "quest_28",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003303,
+      "groupKey": "quest_28",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9003401,
+      "groupKey": "quest_29",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003402,
+      "groupKey": "quest_29",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003501,
+      "groupKey": "quest_30",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003502,
+      "groupKey": "quest_30",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003601,
+      "groupKey": "quest_31",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003602,
+      "groupKey": "quest_31",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003701,
+      "groupKey": "quest_32",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003702,
+      "groupKey": "quest_32",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003801,
+      "groupKey": "quest_33",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003802,
+      "groupKey": "quest_33",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9003901,
+      "groupKey": "quest_34",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9003902,
+      "groupKey": "quest_34",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9004001,
+      "groupKey": "quest_35",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9004002,
+      "groupKey": "quest_35",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9004101,
+      "groupKey": "quest_36",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9004102,
+      "groupKey": "quest_36",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 4401,
+      "groupKey": "quest_40",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 4402,
+      "groupKey": "quest_40",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 9004201,
+      "groupKey": "quest_filler",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9004301,
+      "groupKey": "quest_promote_lv10",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 200,
+      "amountMax": 200,
+      "ratio": 0
+    },
+    {
+      "id": 9004302,
+      "groupKey": "quest_promote_lv10",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 500,
+      "amountMax": 500,
+      "ratio": 0
+    },
+    {
+      "id": 101,
+      "groupKey": "sjq1",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 102,
+      "groupKey": "sjq1",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 201,
+      "groupKey": "sjq2",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 202,
+      "groupKey": "sjq2",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 80,
+      "amountMax": 80,
+      "ratio": 0
+    },
+    {
+      "id": 301,
+      "groupKey": "sjq3",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 302,
+      "groupKey": "sjq3",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 110,
+      "amountMax": 110,
+      "ratio": 0
+    },
+    {
+      "id": 401,
+      "groupKey": "sjq4",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 402,
+      "groupKey": "sjq4",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 140,
+      "amountMax": 140,
+      "ratio": 0
+    },
+    {
+      "id": 701,
+      "groupKey": "sjq5",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 702,
+      "groupKey": "sjq5",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 170,
+      "amountMax": 170,
+      "ratio": 0
+    },
+    {
+      "id": 801,
+      "groupKey": "sjq6",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 802,
+      "groupKey": "sjq6",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 200,
+      "amountMax": 200,
+      "ratio": 0
+    },
+    {
+      "id": 803,
+      "groupKey": "sjq6",
+      "type": "Skill",
+      "targetId": 11110101,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9004401,
+      "groupKey": "sjq8",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 9004402,
+      "groupKey": "sjq8",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 260,
+      "amountMax": 260,
+      "ratio": 0
+    },
+    {
+      "id": 9004403,
+      "groupKey": "sjq8",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9004501,
+      "groupKey": "sjq10",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 9004502,
+      "groupKey": "sjq10",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 320,
+      "amountMax": 320,
+      "ratio": 0
+    },
+    {
+      "id": 9004503,
+      "groupKey": "sjq10",
+      "type": "Skill",
+      "targetId": 11110101,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 1101,
+      "groupKey": "sjq11",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 1102,
+      "groupKey": "sjq11",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 350,
+      "amountMax": 350,
+      "ratio": 0
+    },
+    {
+      "id": 1201,
+      "groupKey": "sjq12",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 1202,
+      "groupKey": "sjq12",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 380,
+      "amountMax": 380,
+      "ratio": 0
+    },
+    {
+      "id": 1203,
+      "groupKey": "sjq20",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 1401,
+      "groupKey": "sjq14",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 1402,
+      "groupKey": "sjq14",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 440,
+      "amountMax": 440,
+      "ratio": 0
+    },
+    {
+      "id": 1601,
+      "groupKey": "sjq16",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 1602,
+      "groupKey": "sjq16",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 500,
+      "amountMax": 500,
+      "ratio": 0
+    },
+    {
+      "id": 1603,
+      "groupKey": "sjq16",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 1701,
+      "groupKey": "sjq17",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 1702,
+      "groupKey": "sjq17",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 530,
+      "amountMax": 530,
+      "ratio": 0
+    },
+    {
+      "id": 1801,
+      "groupKey": "sjq18",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 1802,
+      "groupKey": "sjq18",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 560,
+      "amountMax": 560,
+      "ratio": 0
+    },
+    {
+      "id": 1901,
+      "groupKey": "sjq19",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 1902,
+      "groupKey": "sjq19",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 590,
+      "amountMax": 590,
+      "ratio": 0
+    },
+    {
+      "id": 2001,
+      "groupKey": "sjq20",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2002,
+      "groupKey": "sjq20",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 620,
+      "amountMax": 620,
+      "ratio": 0
+    },
+    {
+      "id": 2003,
+      "groupKey": "sjq12",
+      "type": "Item",
+      "targetId": 91000000,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 2101,
+      "groupKey": "sjq21",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2102,
+      "groupKey": "sjq21",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 650,
+      "amountMax": 650,
+      "ratio": 0
+    },
+    {
+      "id": 2201,
+      "groupKey": "sjq22",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2202,
+      "groupKey": "sjq22",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 680,
+      "amountMax": 680,
+      "ratio": 0
+    },
+    {
+      "id": 2203,
+      "groupKey": "sjq22",
+      "type": "Item",
+      "targetId": 90000000,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 2301,
+      "groupKey": "sjq23",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2302,
+      "groupKey": "sjq23",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 710,
+      "amountMax": 710,
+      "ratio": 0
+    },
+    {
+      "id": 2401,
+      "groupKey": "sjq24",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2402,
+      "groupKey": "sjq24",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 740,
+      "amountMax": 740,
+      "ratio": 0
+    },
+    {
+      "id": 2501,
+      "groupKey": "sjq25",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2502,
+      "groupKey": "sjq25",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 770,
+      "amountMax": 770,
+      "ratio": 0
+    },
+    {
+      "id": 2601,
+      "groupKey": "sjq26",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 2602,
+      "groupKey": "sjq26",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 800,
+      "amountMax": 800,
+      "ratio": 0
+    },
+    {
+      "id": 9004601,
+      "groupKey": "sjq28",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 9004602,
+      "groupKey": "sjq28",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 860,
+      "amountMax": 860,
+      "ratio": 0
+    },
+    {
+      "id": 9004603,
+      "groupKey": "sjq28",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 8,
+      "amountMax": 8,
+      "ratio": 0
+    },
+    {
+      "id": 9004701,
+      "groupKey": "sjq30",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 9004702,
+      "groupKey": "sjq30",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 920,
+      "amountMax": 920,
+      "ratio": 0
+    },
+    {
+      "id": 9004703,
+      "groupKey": "sjq30",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 3001,
+      "groupKey": "sjq31",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 3002,
+      "groupKey": "sjq31",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 950,
+      "amountMax": 950,
+      "ratio": 0
+    },
+    {
+      "id": 3101,
+      "groupKey": "sjq32",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 3102,
+      "groupKey": "sjq32",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 980,
+      "amountMax": 980,
+      "ratio": 0
+    },
+    {
+      "id": 3201,
+      "groupKey": "sjq33",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 3202,
+      "groupKey": "sjq33",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1010,
+      "amountMax": 1010,
+      "ratio": 0
+    },
+    {
+      "id": 3301,
+      "groupKey": "sjq34",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 3302,
+      "groupKey": "sjq34",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1040,
+      "amountMax": 1040,
+      "ratio": 0
+    },
+    {
+      "id": 3401,
+      "groupKey": "sjq35",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3402,
+      "groupKey": "sjq35",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1070,
+      "amountMax": 1070,
+      "ratio": 0
+    },
+    {
+      "id": 3601,
+      "groupKey": "sjq37",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3602,
+      "groupKey": "sjq37",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1130,
+      "amountMax": 1130,
+      "ratio": 0
+    },
+    {
+      "id": 3701,
+      "groupKey": "sjq38",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3702,
+      "groupKey": "sjq38",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1160,
+      "amountMax": 1160,
+      "ratio": 0
+    },
+    {
+      "id": 3801,
+      "groupKey": "sjq39",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3802,
+      "groupKey": "sjq39",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1190,
+      "amountMax": 1190,
+      "ratio": 0
+    },
+    {
+      "id": 3901,
+      "groupKey": "sjq40",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3902,
+      "groupKey": "sjq40",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1220,
+      "amountMax": 1220,
+      "ratio": 0
+    },
+    {
+      "id": 9004801,
+      "groupKey": "sjq41",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9004802,
+      "groupKey": "sjq41",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1250,
+      "amountMax": 1250,
+      "ratio": 0
+    },
+    {
+      "id": 9004901,
+      "groupKey": "sjq42",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9004902,
+      "groupKey": "sjq42",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1280,
+      "amountMax": 1280,
+      "ratio": 0
+    },
+    {
+      "id": 9004903,
+      "groupKey": "sjq42",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9005001,
+      "groupKey": "sjq43",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9005002,
+      "groupKey": "sjq43",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1310,
+      "amountMax": 1310,
+      "ratio": 0
+    },
+    {
+      "id": 9005101,
+      "groupKey": "sjq44",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9005102,
+      "groupKey": "sjq44",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1340,
+      "amountMax": 1340,
+      "ratio": 0
+    },
+    {
+      "id": 9005201,
+      "groupKey": "sjq45",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9005202,
+      "groupKey": "sjq45",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1370,
+      "amountMax": 1370,
+      "ratio": 0
+    },
+    {
+      "id": 4001,
+      "groupKey": "sjq46",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 4002,
+      "groupKey": "sjq46",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1400,
+      "amountMax": 1400,
+      "ratio": 0
+    },
+    {
+      "id": 9005301,
+      "groupKey": "sjq47",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 9005302,
+      "groupKey": "sjq47",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1430,
+      "amountMax": 1430,
+      "ratio": 0
+    },
+    {
+      "id": 9005303,
+      "groupKey": "sjq47",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 8,
+      "amountMax": 8,
+      "ratio": 0
+    },
+    {
+      "id": 9005401,
+      "groupKey": "sjq48",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 9005402,
+      "groupKey": "sjq48",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1460,
+      "amountMax": 1460,
+      "ratio": 0
+    },
+    {
+      "id": 9005501,
+      "groupKey": "sjq49",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 9005502,
+      "groupKey": "sjq49",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1490,
+      "amountMax": 1490,
+      "ratio": 0
+    },
+    {
+      "id": 4101,
+      "groupKey": "sjq50",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 4102,
+      "groupKey": "sjq50",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1520,
+      "amountMax": 1520,
+      "ratio": 0
+    },
+    {
+      "id": 4201,
+      "groupKey": "sjq51",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1800,
+      "amountMax": 1800,
+      "ratio": 0
+    },
+    {
+      "id": 4202,
+      "groupKey": "sjq51",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1550,
+      "amountMax": 1550,
+      "ratio": 0
+    },
+    {
+      "id": 4501,
+      "groupKey": "sjq52",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2200,
+      "amountMax": 2200,
+      "ratio": 0
+    },
+    {
+      "id": 4502,
+      "groupKey": "sjq52",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1580,
+      "amountMax": 1580,
+      "ratio": 0
+    },
+    {
+      "id": 1501,
+      "groupKey": "sjq15",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 1502,
+      "groupKey": "sjq15",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 470,
+      "amountMax": 470,
+      "ratio": 0
+    },
+    {
+      "id": 1503,
+      "groupKey": "sjq15",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 901,
+      "groupKey": "sjq7",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 150,
+      "amountMax": 150,
+      "ratio": 0
+    },
+    {
+      "id": 902,
+      "groupKey": "sjq7",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 230,
+      "amountMax": 230,
+      "ratio": 0
+    },
+    {
+      "id": 903,
+      "groupKey": "sjq7",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 1301,
+      "groupKey": "sjq13",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 1302,
+      "groupKey": "sjq13",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 410,
+      "amountMax": 410,
+      "ratio": 0
+    },
+    {
+      "id": 1303,
+      "groupKey": "sjq13",
+      "type": "Exp",
+      "targetId": 101,
+      "amountMin": 100,
+      "amountMax": 100,
+      "ratio": 0
+    },
+    {
+      "id": 2801,
+      "groupKey": "sjq27",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 2802,
+      "groupKey": "sjq27",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 830,
+      "amountMax": 830,
+      "ratio": 0
+    },
+    {
+      "id": 2803,
+      "groupKey": "sjq27",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 2901,
+      "groupKey": "sjq29",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 700,
+      "amountMax": 700,
+      "ratio": 0
+    },
+    {
+      "id": 2902,
+      "groupKey": "sjq29",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 890,
+      "amountMax": 890,
+      "ratio": 0
+    },
+    {
+      "id": 2903,
+      "groupKey": "sjq29",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 3501,
+      "groupKey": "sjq36",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 3502,
+      "groupKey": "sjq36",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1100,
+      "amountMax": 1100,
+      "ratio": 0
+    },
+    {
+      "id": 3503,
+      "groupKey": "sjq36",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9005503,
+      "groupKey": "quest_41",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 20,
+      "amountMax": 20,
+      "ratio": 0
+    },
+    {
+      "id": 9005504,
+      "groupKey": "quest_41",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 50,
+      "amountMax": 50,
+      "ratio": 0
+    },
+    {
+      "id": 1001,
+      "groupKey": "sjq9",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40,
+      "amountMax": 40,
+      "ratio": 0
+    },
+    {
+      "id": 1002,
+      "groupKey": "sjq9",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "ratio": 0
+    },
+    {
+      "id": 1003,
+      "groupKey": "sjq9",
+      "type": "Skill",
+      "targetId": 11110101,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 4601,
+      "groupKey": "quest_44",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2300,
+      "amountMax": 2300,
+      "ratio": 0
+    },
+    {
+      "id": 4602,
+      "groupKey": "quest_44",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1840,
+      "amountMax": 1840,
+      "ratio": 0
+    },
+    {
+      "id": 4701,
+      "groupKey": "quest_45",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2450,
+      "amountMax": 2450,
+      "ratio": 0
+    },
+    {
+      "id": 4702,
+      "groupKey": "quest_45",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1960,
+      "amountMax": 1960,
+      "ratio": 0
+    },
+    {
+      "id": 4801,
+      "groupKey": "quest_46",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2600,
+      "amountMax": 2600,
+      "ratio": 0
+    },
+    {
+      "id": 4802,
+      "groupKey": "quest_46",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2080,
+      "amountMax": 2080,
+      "ratio": 0
+    },
+    {
+      "id": 4901,
+      "groupKey": "quest_47",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2750,
+      "amountMax": 2750,
+      "ratio": 0
+    },
+    {
+      "id": 4902,
+      "groupKey": "quest_47",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2200,
+      "amountMax": 2200,
+      "ratio": 0
+    },
+    {
+      "id": 5001,
+      "groupKey": "quest_48",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2900,
+      "amountMax": 2900,
+      "ratio": 0
+    },
+    {
+      "id": 5002,
+      "groupKey": "quest_48",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2320,
+      "amountMax": 2320,
+      "ratio": 0
+    },
+    {
+      "id": 5101,
+      "groupKey": "quest_49",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3050,
+      "amountMax": 3050,
+      "ratio": 0
+    },
+    {
+      "id": 5102,
+      "groupKey": "quest_49",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2440,
+      "amountMax": 2440,
+      "ratio": 0
+    },
+    {
+      "id": 5201,
+      "groupKey": "quest_50",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3200,
+      "amountMax": 3200,
+      "ratio": 0
+    },
+    {
+      "id": 5202,
+      "groupKey": "quest_50",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2560,
+      "amountMax": 2560,
+      "ratio": 0
+    },
+    {
+      "id": 5301,
+      "groupKey": "quest_51",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3350,
+      "amountMax": 3350,
+      "ratio": 0
+    },
+    {
+      "id": 5302,
+      "groupKey": "quest_51",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2680,
+      "amountMax": 2680,
+      "ratio": 0
+    },
+    {
+      "id": 5401,
+      "groupKey": "quest_52",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3500,
+      "amountMax": 3500,
+      "ratio": 0
+    },
+    {
+      "id": 5402,
+      "groupKey": "quest_52",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2800,
+      "amountMax": 2800,
+      "ratio": 0
+    },
+    {
+      "id": 5501,
+      "groupKey": "quest_53",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 7300,
+      "amountMax": 7300,
+      "ratio": 0
+    },
+    {
+      "id": 5502,
+      "groupKey": "quest_53",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5840,
+      "amountMax": 5840,
+      "ratio": 0
+    },
+    {
+      "id": 5601,
+      "groupKey": "quest_54",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3800,
+      "amountMax": 3800,
+      "ratio": 0
+    },
+    {
+      "id": 5602,
+      "groupKey": "quest_54",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3040,
+      "amountMax": 3040,
+      "ratio": 0
+    },
+    {
+      "id": 5701,
+      "groupKey": "quest_55",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3950,
+      "amountMax": 3950,
+      "ratio": 0
+    },
+    {
+      "id": 5702,
+      "groupKey": "quest_55",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3160,
+      "amountMax": 3160,
+      "ratio": 0
+    },
+    {
+      "id": 5801,
+      "groupKey": "quest_56",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4100,
+      "amountMax": 4100,
+      "ratio": 0
+    },
+    {
+      "id": 5802,
+      "groupKey": "quest_56",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3280,
+      "amountMax": 3280,
+      "ratio": 0
+    },
+    {
+      "id": 5901,
+      "groupKey": "quest_57",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4250,
+      "amountMax": 4250,
+      "ratio": 0
+    },
+    {
+      "id": 5902,
+      "groupKey": "quest_57",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3400,
+      "amountMax": 3400,
+      "ratio": 0
+    },
+    {
+      "id": 6001,
+      "groupKey": "quest_58",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4400,
+      "amountMax": 4400,
+      "ratio": 0
+    },
+    {
+      "id": 6002,
+      "groupKey": "quest_58",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3520,
+      "amountMax": 3520,
+      "ratio": 0
+    },
+    {
+      "id": 6101,
+      "groupKey": "quest_59",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4550,
+      "amountMax": 4550,
+      "ratio": 0
+    },
+    {
+      "id": 6102,
+      "groupKey": "quest_59",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3640,
+      "amountMax": 3640,
+      "ratio": 0
+    },
+    {
+      "id": 6201,
+      "groupKey": "quest_60",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4700,
+      "amountMax": 4700,
+      "ratio": 0
+    },
+    {
+      "id": 6202,
+      "groupKey": "quest_60",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3760,
+      "amountMax": 3760,
+      "ratio": 0
+    },
+    {
+      "id": 6301,
+      "groupKey": "quest_61",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4850,
+      "amountMax": 4850,
+      "ratio": 0
+    },
+    {
+      "id": 6302,
+      "groupKey": "quest_61",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3880,
+      "amountMax": 3880,
+      "ratio": 0
+    },
+    {
+      "id": 6401,
+      "groupKey": "quest_62",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5000,
+      "amountMax": 5000,
+      "ratio": 0
+    },
+    {
+      "id": 6402,
+      "groupKey": "quest_62",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4000,
+      "amountMax": 4000,
+      "ratio": 0
+    },
+    {
+      "id": 6501,
+      "groupKey": "quest_63",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5150,
+      "amountMax": 5150,
+      "ratio": 0
+    },
+    {
+      "id": 6502,
+      "groupKey": "quest_63",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4120,
+      "amountMax": 4120,
+      "ratio": 0
+    },
+    {
+      "id": 6601,
+      "groupKey": "quest_64",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5300,
+      "amountMax": 5300,
+      "ratio": 0
+    },
+    {
+      "id": 6602,
+      "groupKey": "quest_64",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4240,
+      "amountMax": 4240,
+      "ratio": 0
+    },
+    {
+      "id": 6701,
+      "groupKey": "quest_65",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5450,
+      "amountMax": 5450,
+      "ratio": 0
+    },
+    {
+      "id": 6702,
+      "groupKey": "quest_65",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4360,
+      "amountMax": 4360,
+      "ratio": 0
+    },
+    {
+      "id": 6801,
+      "groupKey": "quest_66",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11200,
+      "amountMax": 11200,
+      "ratio": 0
+    },
+    {
+      "id": 6802,
+      "groupKey": "quest_66",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8960,
+      "amountMax": 8960,
+      "ratio": 0
+    },
+    {
+      "id": 6901,
+      "groupKey": "quest_67",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5750,
+      "amountMax": 5750,
+      "ratio": 0
+    },
+    {
+      "id": 6902,
+      "groupKey": "quest_67",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4600,
+      "amountMax": 4600,
+      "ratio": 0
+    },
+    {
+      "id": 7001,
+      "groupKey": "quest_68",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5900,
+      "amountMax": 5900,
+      "ratio": 0
+    },
+    {
+      "id": 7002,
+      "groupKey": "quest_68",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4720,
+      "amountMax": 4720,
+      "ratio": 0
+    },
+    {
+      "id": 7101,
+      "groupKey": "quest_69",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6050,
+      "amountMax": 6050,
+      "ratio": 0
+    },
+    {
+      "id": 7102,
+      "groupKey": "quest_69",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4840,
+      "amountMax": 4840,
+      "ratio": 0
+    },
+    {
+      "id": 7201,
+      "groupKey": "quest_70",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6200,
+      "amountMax": 6200,
+      "ratio": 0
+    },
+    {
+      "id": 7202,
+      "groupKey": "quest_70",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4960,
+      "amountMax": 4960,
+      "ratio": 0
+    },
+    {
+      "id": 7301,
+      "groupKey": "quest_71",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6350,
+      "amountMax": 6350,
+      "ratio": 0
+    },
+    {
+      "id": 7302,
+      "groupKey": "quest_71",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5080,
+      "amountMax": 5080,
+      "ratio": 0
+    },
+    {
+      "id": 7401,
+      "groupKey": "quest_72",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6500,
+      "amountMax": 6500,
+      "ratio": 0
+    },
+    {
+      "id": 7402,
+      "groupKey": "quest_72",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5200,
+      "amountMax": 5200,
+      "ratio": 0
+    },
+    {
+      "id": 7501,
+      "groupKey": "quest_73",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6650,
+      "amountMax": 6650,
+      "ratio": 0
+    },
+    {
+      "id": 7502,
+      "groupKey": "quest_73",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5320,
+      "amountMax": 5320,
+      "ratio": 0
+    },
+    {
+      "id": 7601,
+      "groupKey": "quest_74",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6800,
+      "amountMax": 6800,
+      "ratio": 0
+    },
+    {
+      "id": 7602,
+      "groupKey": "quest_74",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5440,
+      "amountMax": 5440,
+      "ratio": 0
+    },
+    {
+      "id": 7701,
+      "groupKey": "quest_75",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6950,
+      "amountMax": 6950,
+      "ratio": 0
+    },
+    {
+      "id": 7702,
+      "groupKey": "quest_75",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5560,
+      "amountMax": 5560,
+      "ratio": 0
+    },
+    {
+      "id": 7801,
+      "groupKey": "quest_76",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 7100,
+      "amountMax": 7100,
+      "ratio": 0
+    },
+    {
+      "id": 7802,
+      "groupKey": "quest_76",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5680,
+      "amountMax": 5680,
+      "ratio": 0
+    },
+    {
+      "id": 7901,
+      "groupKey": "quest_77",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 7250,
+      "amountMax": 7250,
+      "ratio": 0
+    },
+    {
+      "id": 7902,
+      "groupKey": "quest_77",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5800,
+      "amountMax": 5800,
+      "ratio": 0
+    },
+    {
+      "id": 8001,
+      "groupKey": "quest_78",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 7400,
+      "amountMax": 7400,
+      "ratio": 0
+    },
+    {
+      "id": 8002,
+      "groupKey": "quest_78",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5920,
+      "amountMax": 5920,
+      "ratio": 0
+    },
+    {
+      "id": 8101,
+      "groupKey": "quest_79",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 8102,
+      "groupKey": "quest_79",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12080,
+      "amountMax": 12080,
+      "ratio": 0
+    },
+    {
+      "id": 8201,
+      "groupKey": "quest_80",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 23100,
+      "amountMax": 23100,
+      "ratio": 0
+    },
+    {
+      "id": 8202,
+      "groupKey": "quest_80",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 18480,
+      "amountMax": 18480,
+      "ratio": 0
+    },
+    {
+      "id": 4403,
+      "groupKey": "quest_42",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2000,
+      "amountMax": 2000,
+      "ratio": 0
+    },
+    {
+      "id": 4404,
+      "groupKey": "quest_42",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1600,
+      "amountMax": 1600,
+      "ratio": 0
+    },
+    {
+      "id": 4503,
+      "groupKey": "quest_43",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2150,
+      "amountMax": 2150,
+      "ratio": 0
+    },
+    {
+      "id": 4504,
+      "groupKey": "quest_43",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 1720,
+      "amountMax": 1720,
+      "ratio": 0
+    },
+    {
+      "id": 8301,
+      "groupKey": "quest_81",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 8000,
+      "amountMax": 8000,
+      "ratio": 0
+    },
+    {
+      "id": 8302,
+      "groupKey": "quest_81",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 6500,
+      "amountMax": 6500,
+      "ratio": 0
+    },
+    {
+      "id": 4803,
+      "groupKey": "quest_48",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 5703,
+      "groupKey": "quest_57",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 6303,
+      "groupKey": "quest_63",
+      "type": "Item",
+      "targetId": 12102000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006051,
+      "groupKey": "whasan_mission",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 100,
+      "amountMax": 100,
+      "ratio": 0
+    },
+    {
+      "id": 9006052,
+      "groupKey": "whasan_mission",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 200,
+      "amountMax": 200,
+      "ratio": 0
+    },
+    {
+      "id": 9006071,
+      "groupKey": "trial_blade",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 200,
+      "amountMax": 200,
+      "ratio": 0
+    },
+    {
+      "id": 9006072,
+      "groupKey": "trial_blade",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 400,
+      "amountMax": 400,
+      "ratio": 0
+    },
+    {
+      "id": 9006011,
+      "groupKey": "lesson_blade",
+      "type": "Item",
+      "targetId": 11201000,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006012,
+      "groupKey": "lesson_blade",
+      "type": "Skill",
+      "targetId": 31110101,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006073,
+      "groupKey": "sjq86",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 300,
+      "amountMax": 300,
+      "ratio": 0
+    },
+    {
+      "id": 9006074,
+      "groupKey": "sjq86",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 100,
+      "amountMax": 100,
+      "ratio": 0
+    },
+    {
+      "id": 9006075,
+      "groupKey": "quest_200",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006076,
+      "groupKey": "quest_200",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006077,
+      "groupKey": "quest_201",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006078,
+      "groupKey": "quest_201",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006079,
+      "groupKey": "quest_202",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006080,
+      "groupKey": "quest_202",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006081,
+      "groupKey": "quest_203",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006082,
+      "groupKey": "quest_203",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006083,
+      "groupKey": "quest_204",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006084,
+      "groupKey": "quest_204",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006085,
+      "groupKey": "quest_205",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9800,
+      "amountMax": 9800,
+      "ratio": 0
+    },
+    {
+      "id": 9006086,
+      "groupKey": "quest_205",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7800,
+      "amountMax": 7800,
+      "ratio": 0
+    },
+    {
+      "id": 9006087,
+      "groupKey": "quest_206",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9800,
+      "amountMax": 9800,
+      "ratio": 0
+    },
+    {
+      "id": 9006088,
+      "groupKey": "quest_206",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7800,
+      "amountMax": 7800,
+      "ratio": 0
+    },
+    {
+      "id": 9006089,
+      "groupKey": "quest_207",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9800,
+      "amountMax": 9800,
+      "ratio": 0
+    },
+    {
+      "id": 9006090,
+      "groupKey": "quest_207",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7800,
+      "amountMax": 7800,
+      "ratio": 0
+    },
+    {
+      "id": 9006091,
+      "groupKey": "quest_208",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 24500,
+      "amountMax": 24500,
+      "ratio": 0
+    },
+    {
+      "id": 9006092,
+      "groupKey": "quest_208",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 19600,
+      "amountMax": 19600,
+      "ratio": 0
+    },
+    {
+      "id": 9006093,
+      "groupKey": "quest_208",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006094,
+      "groupKey": "quest_209",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 10700,
+      "amountMax": 10700,
+      "ratio": 0
+    },
+    {
+      "id": 9006095,
+      "groupKey": "quest_209",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8600,
+      "amountMax": 8600,
+      "ratio": 0
+    },
+    {
+      "id": 9006096,
+      "groupKey": "quest_210",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 10700,
+      "amountMax": 10700,
+      "ratio": 0
+    },
+    {
+      "id": 9006097,
+      "groupKey": "quest_210",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8600,
+      "amountMax": 8600,
+      "ratio": 0
+    },
+    {
+      "id": 9006098,
+      "groupKey": "quest_211",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 10700,
+      "amountMax": 10700,
+      "ratio": 0
+    },
+    {
+      "id": 9006099,
+      "groupKey": "quest_211",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8600,
+      "amountMax": 8600,
+      "ratio": 0
+    },
+    {
+      "id": 9006100,
+      "groupKey": "quest_212",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 10700,
+      "amountMax": 10700,
+      "ratio": 0
+    },
+    {
+      "id": 9006101,
+      "groupKey": "quest_212",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8600,
+      "amountMax": 8600,
+      "ratio": 0
+    },
+    {
+      "id": 9006102,
+      "groupKey": "quest_213",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 26800,
+      "amountMax": 26800,
+      "ratio": 0
+    },
+    {
+      "id": 9006103,
+      "groupKey": "quest_213",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21400,
+      "amountMax": 21400,
+      "ratio": 0
+    },
+    {
+      "id": 9006104,
+      "groupKey": "quest_214",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006105,
+      "groupKey": "quest_214",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006106,
+      "groupKey": "quest_215",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006107,
+      "groupKey": "quest_215",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006108,
+      "groupKey": "quest_216",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006109,
+      "groupKey": "quest_216",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006110,
+      "groupKey": "quest_217",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006111,
+      "groupKey": "quest_217",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006112,
+      "groupKey": "quest_218",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006113,
+      "groupKey": "quest_218",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006114,
+      "groupKey": "quest_219",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 12700,
+      "amountMax": 12700,
+      "ratio": 0
+    },
+    {
+      "id": 9006115,
+      "groupKey": "quest_219",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 10200,
+      "amountMax": 10200,
+      "ratio": 0
+    },
+    {
+      "id": 9006116,
+      "groupKey": "quest_220",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 12700,
+      "amountMax": 12700,
+      "ratio": 0
+    },
+    {
+      "id": 9006117,
+      "groupKey": "quest_220",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 10200,
+      "amountMax": 10200,
+      "ratio": 0
+    },
+    {
+      "id": 9006118,
+      "groupKey": "quest_221",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 12700,
+      "amountMax": 12700,
+      "ratio": 0
+    },
+    {
+      "id": 9006119,
+      "groupKey": "quest_221",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 10200,
+      "amountMax": 10200,
+      "ratio": 0
+    },
+    {
+      "id": 9006120,
+      "groupKey": "quest_222",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 31800,
+      "amountMax": 31800,
+      "ratio": 0
+    },
+    {
+      "id": 9006121,
+      "groupKey": "quest_222",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 25400,
+      "amountMax": 25400,
+      "ratio": 0
+    },
+    {
+      "id": 9006122,
+      "groupKey": "quest_222",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006123,
+      "groupKey": "quest_223",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13900,
+      "amountMax": 13900,
+      "ratio": 0
+    },
+    {
+      "id": 9006124,
+      "groupKey": "quest_223",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 11100,
+      "amountMax": 11100,
+      "ratio": 0
+    },
+    {
+      "id": 9006125,
+      "groupKey": "quest_224",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13900,
+      "amountMax": 13900,
+      "ratio": 0
+    },
+    {
+      "id": 9006126,
+      "groupKey": "quest_224",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 11100,
+      "amountMax": 11100,
+      "ratio": 0
+    },
+    {
+      "id": 9006127,
+      "groupKey": "quest_225",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13900,
+      "amountMax": 13900,
+      "ratio": 0
+    },
+    {
+      "id": 9006128,
+      "groupKey": "quest_225",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 11100,
+      "amountMax": 11100,
+      "ratio": 0
+    },
+    {
+      "id": 9006129,
+      "groupKey": "quest_226",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13900,
+      "amountMax": 13900,
+      "ratio": 0
+    },
+    {
+      "id": 9006130,
+      "groupKey": "quest_226",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 11100,
+      "amountMax": 11100,
+      "ratio": 0
+    },
+    {
+      "id": 9006131,
+      "groupKey": "quest_227",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 34800,
+      "amountMax": 34800,
+      "ratio": 0
+    },
+    {
+      "id": 9006132,
+      "groupKey": "quest_227",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 27800,
+      "amountMax": 27800,
+      "ratio": 0
+    },
+    {
+      "id": 9006133,
+      "groupKey": "quest_228",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 9006134,
+      "groupKey": "quest_228",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12100,
+      "amountMax": 12100,
+      "ratio": 0
+    },
+    {
+      "id": 9006135,
+      "groupKey": "quest_229",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 9006136,
+      "groupKey": "quest_229",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12100,
+      "amountMax": 12100,
+      "ratio": 0
+    },
+    {
+      "id": 9006137,
+      "groupKey": "quest_230",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 9006138,
+      "groupKey": "quest_230",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12100,
+      "amountMax": 12100,
+      "ratio": 0
+    },
+    {
+      "id": 9006139,
+      "groupKey": "quest_231",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 9006140,
+      "groupKey": "quest_231",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12100,
+      "amountMax": 12100,
+      "ratio": 0
+    },
+    {
+      "id": 9006141,
+      "groupKey": "quest_232",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 15100,
+      "amountMax": 15100,
+      "ratio": 0
+    },
+    {
+      "id": 9006142,
+      "groupKey": "quest_232",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 12100,
+      "amountMax": 12100,
+      "ratio": 0
+    },
+    {
+      "id": 9006143,
+      "groupKey": "quest_233",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 16500,
+      "amountMax": 16500,
+      "ratio": 0
+    },
+    {
+      "id": 9006144,
+      "groupKey": "quest_233",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 13200,
+      "amountMax": 13200,
+      "ratio": 0
+    },
+    {
+      "id": 9006145,
+      "groupKey": "quest_234",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 16500,
+      "amountMax": 16500,
+      "ratio": 0
+    },
+    {
+      "id": 9006146,
+      "groupKey": "quest_234",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 13200,
+      "amountMax": 13200,
+      "ratio": 0
+    },
+    {
+      "id": 9006147,
+      "groupKey": "quest_235",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 16500,
+      "amountMax": 16500,
+      "ratio": 0
+    },
+    {
+      "id": 9006148,
+      "groupKey": "quest_235",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 13200,
+      "amountMax": 13200,
+      "ratio": 0
+    },
+    {
+      "id": 9006149,
+      "groupKey": "quest_236",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 41200,
+      "amountMax": 41200,
+      "ratio": 0
+    },
+    {
+      "id": 9006150,
+      "groupKey": "quest_236",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 33000,
+      "amountMax": 33000,
+      "ratio": 0
+    },
+    {
+      "id": 9006151,
+      "groupKey": "quest_236",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006152,
+      "groupKey": "quest_237",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 18000,
+      "amountMax": 18000,
+      "ratio": 0
+    },
+    {
+      "id": 9006153,
+      "groupKey": "quest_237",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14400,
+      "amountMax": 14400,
+      "ratio": 0
+    },
+    {
+      "id": 9006154,
+      "groupKey": "quest_238",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 18000,
+      "amountMax": 18000,
+      "ratio": 0
+    },
+    {
+      "id": 9006155,
+      "groupKey": "quest_238",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14400,
+      "amountMax": 14400,
+      "ratio": 0
+    },
+    {
+      "id": 9006156,
+      "groupKey": "quest_239",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 18000,
+      "amountMax": 18000,
+      "ratio": 0
+    },
+    {
+      "id": 9006157,
+      "groupKey": "quest_239",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14400,
+      "amountMax": 14400,
+      "ratio": 0
+    },
+    {
+      "id": 9006158,
+      "groupKey": "quest_240",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 18000,
+      "amountMax": 18000,
+      "ratio": 0
+    },
+    {
+      "id": 9006159,
+      "groupKey": "quest_240",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14400,
+      "amountMax": 14400,
+      "ratio": 0
+    },
+    {
+      "id": 9006160,
+      "groupKey": "quest_241",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45000,
+      "amountMax": 45000,
+      "ratio": 0
+    },
+    {
+      "id": 9006161,
+      "groupKey": "quest_241",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36000,
+      "amountMax": 36000,
+      "ratio": 0
+    },
+    {
+      "id": 9006162,
+      "groupKey": "quest_242",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45000,
+      "amountMax": 45000,
+      "ratio": 0
+    },
+    {
+      "id": 9006163,
+      "groupKey": "quest_242",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36000,
+      "amountMax": 36000,
+      "ratio": 0
+    },
+    {
+      "id": 9006164,
+      "groupKey": "quest_242",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006165,
+      "groupKey": "quest_300",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006166,
+      "groupKey": "quest_300",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006167,
+      "groupKey": "quest_301",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006168,
+      "groupKey": "quest_301",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006169,
+      "groupKey": "quest_302",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006170,
+      "groupKey": "quest_302",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006171,
+      "groupKey": "quest_303",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006172,
+      "groupKey": "quest_303",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006173,
+      "groupKey": "quest_304",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006174,
+      "groupKey": "quest_304",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006175,
+      "groupKey": "quest_305",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 29400,
+      "amountMax": 29400,
+      "ratio": 0
+    },
+    {
+      "id": 9006176,
+      "groupKey": "quest_305",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 23500,
+      "amountMax": 23500,
+      "ratio": 0
+    },
+    {
+      "id": 9006177,
+      "groupKey": "quest_306",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 29400,
+      "amountMax": 29400,
+      "ratio": 0
+    },
+    {
+      "id": 9006178,
+      "groupKey": "quest_306",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 23500,
+      "amountMax": 23500,
+      "ratio": 0
+    },
+    {
+      "id": 9006179,
+      "groupKey": "quest_307",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 29400,
+      "amountMax": 29400,
+      "ratio": 0
+    },
+    {
+      "id": 9006180,
+      "groupKey": "quest_307",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 23500,
+      "amountMax": 23500,
+      "ratio": 0
+    },
+    {
+      "id": 9006181,
+      "groupKey": "quest_308",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 73500,
+      "amountMax": 73500,
+      "ratio": 0
+    },
+    {
+      "id": 9006182,
+      "groupKey": "quest_308",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 58800,
+      "amountMax": 58800,
+      "ratio": 0
+    },
+    {
+      "id": 9006183,
+      "groupKey": "quest_308",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006184,
+      "groupKey": "quest_309",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 32100,
+      "amountMax": 32100,
+      "ratio": 0
+    },
+    {
+      "id": 9006185,
+      "groupKey": "quest_309",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 25700,
+      "amountMax": 25700,
+      "ratio": 0
+    },
+    {
+      "id": 9006186,
+      "groupKey": "quest_310",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 32100,
+      "amountMax": 32100,
+      "ratio": 0
+    },
+    {
+      "id": 9006187,
+      "groupKey": "quest_310",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 25700,
+      "amountMax": 25700,
+      "ratio": 0
+    },
+    {
+      "id": 9006188,
+      "groupKey": "quest_311",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 32100,
+      "amountMax": 32100,
+      "ratio": 0
+    },
+    {
+      "id": 9006189,
+      "groupKey": "quest_311",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 25700,
+      "amountMax": 25700,
+      "ratio": 0
+    },
+    {
+      "id": 9006190,
+      "groupKey": "quest_312",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 80200,
+      "amountMax": 80200,
+      "ratio": 0
+    },
+    {
+      "id": 9006191,
+      "groupKey": "quest_312",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 64200,
+      "amountMax": 64200,
+      "ratio": 0
+    },
+    {
+      "id": 9006192,
+      "groupKey": "quest_313",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 35000,
+      "amountMax": 35000,
+      "ratio": 0
+    },
+    {
+      "id": 9006193,
+      "groupKey": "quest_313",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 28000,
+      "amountMax": 28000,
+      "ratio": 0
+    },
+    {
+      "id": 9006194,
+      "groupKey": "quest_314",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 35000,
+      "amountMax": 35000,
+      "ratio": 0
+    },
+    {
+      "id": 9006195,
+      "groupKey": "quest_314",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 28000,
+      "amountMax": 28000,
+      "ratio": 0
+    },
+    {
+      "id": 9006196,
+      "groupKey": "quest_315",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 35000,
+      "amountMax": 35000,
+      "ratio": 0
+    },
+    {
+      "id": 9006197,
+      "groupKey": "quest_315",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 28000,
+      "amountMax": 28000,
+      "ratio": 0
+    },
+    {
+      "id": 9006198,
+      "groupKey": "quest_316",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 35000,
+      "amountMax": 35000,
+      "ratio": 0
+    },
+    {
+      "id": 9006199,
+      "groupKey": "quest_316",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 28000,
+      "amountMax": 28000,
+      "ratio": 0
+    },
+    {
+      "id": 9006200,
+      "groupKey": "quest_317",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 35000,
+      "amountMax": 35000,
+      "ratio": 0
+    },
+    {
+      "id": 9006201,
+      "groupKey": "quest_317",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 28000,
+      "amountMax": 28000,
+      "ratio": 0
+    },
+    {
+      "id": 9006202,
+      "groupKey": "quest_318",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 38200,
+      "amountMax": 38200,
+      "ratio": 0
+    },
+    {
+      "id": 9006203,
+      "groupKey": "quest_318",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 30600,
+      "amountMax": 30600,
+      "ratio": 0
+    },
+    {
+      "id": 9006204,
+      "groupKey": "quest_319",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 38200,
+      "amountMax": 38200,
+      "ratio": 0
+    },
+    {
+      "id": 9006205,
+      "groupKey": "quest_319",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 30600,
+      "amountMax": 30600,
+      "ratio": 0
+    },
+    {
+      "id": 9006206,
+      "groupKey": "quest_320",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 38200,
+      "amountMax": 38200,
+      "ratio": 0
+    },
+    {
+      "id": 9006207,
+      "groupKey": "quest_320",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 30600,
+      "amountMax": 30600,
+      "ratio": 0
+    },
+    {
+      "id": 9006208,
+      "groupKey": "quest_321",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 95500,
+      "amountMax": 95500,
+      "ratio": 0
+    },
+    {
+      "id": 9006209,
+      "groupKey": "quest_321",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 76400,
+      "amountMax": 76400,
+      "ratio": 0
+    },
+    {
+      "id": 9006210,
+      "groupKey": "quest_321",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006211,
+      "groupKey": "quest_322",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 41600,
+      "amountMax": 41600,
+      "ratio": 0
+    },
+    {
+      "id": 9006212,
+      "groupKey": "quest_322",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 33300,
+      "amountMax": 33300,
+      "ratio": 0
+    },
+    {
+      "id": 9006213,
+      "groupKey": "quest_323",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 41600,
+      "amountMax": 41600,
+      "ratio": 0
+    },
+    {
+      "id": 9006214,
+      "groupKey": "quest_323",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 33300,
+      "amountMax": 33300,
+      "ratio": 0
+    },
+    {
+      "id": 9006215,
+      "groupKey": "quest_324",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 41600,
+      "amountMax": 41600,
+      "ratio": 0
+    },
+    {
+      "id": 9006216,
+      "groupKey": "quest_324",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 33300,
+      "amountMax": 33300,
+      "ratio": 0
+    },
+    {
+      "id": 9006217,
+      "groupKey": "quest_325",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 104000,
+      "amountMax": 104000,
+      "ratio": 0
+    },
+    {
+      "id": 9006218,
+      "groupKey": "quest_325",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 83200,
+      "amountMax": 83200,
+      "ratio": 0
+    },
+    {
+      "id": 9006219,
+      "groupKey": "quest_326",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 41600,
+      "amountMax": 41600,
+      "ratio": 0
+    },
+    {
+      "id": 9006220,
+      "groupKey": "quest_326",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 33300,
+      "amountMax": 33300,
+      "ratio": 0
+    },
+    {
+      "id": 9006221,
+      "groupKey": "quest_327",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45400,
+      "amountMax": 45400,
+      "ratio": 0
+    },
+    {
+      "id": 9006222,
+      "groupKey": "quest_327",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36300,
+      "amountMax": 36300,
+      "ratio": 0
+    },
+    {
+      "id": 9006223,
+      "groupKey": "quest_328",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45400,
+      "amountMax": 45400,
+      "ratio": 0
+    },
+    {
+      "id": 9006224,
+      "groupKey": "quest_328",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36300,
+      "amountMax": 36300,
+      "ratio": 0
+    },
+    {
+      "id": 9006225,
+      "groupKey": "quest_329",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45400,
+      "amountMax": 45400,
+      "ratio": 0
+    },
+    {
+      "id": 9006226,
+      "groupKey": "quest_329",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36300,
+      "amountMax": 36300,
+      "ratio": 0
+    },
+    {
+      "id": 9006227,
+      "groupKey": "quest_330",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45400,
+      "amountMax": 45400,
+      "ratio": 0
+    },
+    {
+      "id": 9006228,
+      "groupKey": "quest_330",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36300,
+      "amountMax": 36300,
+      "ratio": 0
+    },
+    {
+      "id": 9006229,
+      "groupKey": "quest_331",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 45400,
+      "amountMax": 45400,
+      "ratio": 0
+    },
+    {
+      "id": 9006230,
+      "groupKey": "quest_331",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 36300,
+      "amountMax": 36300,
+      "ratio": 0
+    },
+    {
+      "id": 9006231,
+      "groupKey": "quest_332",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 49500,
+      "amountMax": 49500,
+      "ratio": 0
+    },
+    {
+      "id": 9006232,
+      "groupKey": "quest_332",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 39600,
+      "amountMax": 39600,
+      "ratio": 0
+    },
+    {
+      "id": 9006233,
+      "groupKey": "quest_333",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 49500,
+      "amountMax": 49500,
+      "ratio": 0
+    },
+    {
+      "id": 9006234,
+      "groupKey": "quest_333",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 39600,
+      "amountMax": 39600,
+      "ratio": 0
+    },
+    {
+      "id": 9006235,
+      "groupKey": "quest_334",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 49500,
+      "amountMax": 49500,
+      "ratio": 0
+    },
+    {
+      "id": 9006236,
+      "groupKey": "quest_334",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 39600,
+      "amountMax": 39600,
+      "ratio": 0
+    },
+    {
+      "id": 9006237,
+      "groupKey": "quest_335",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 123800,
+      "amountMax": 123800,
+      "ratio": 0
+    },
+    {
+      "id": 9006238,
+      "groupKey": "quest_335",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 99000,
+      "amountMax": 99000,
+      "ratio": 0
+    },
+    {
+      "id": 9006239,
+      "groupKey": "quest_335",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006240,
+      "groupKey": "quest_336",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 54000,
+      "amountMax": 54000,
+      "ratio": 0
+    },
+    {
+      "id": 9006241,
+      "groupKey": "quest_336",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 43200,
+      "amountMax": 43200,
+      "ratio": 0
+    },
+    {
+      "id": 9006242,
+      "groupKey": "quest_337",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 54000,
+      "amountMax": 54000,
+      "ratio": 0
+    },
+    {
+      "id": 9006243,
+      "groupKey": "quest_337",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 43200,
+      "amountMax": 43200,
+      "ratio": 0
+    },
+    {
+      "id": 9006244,
+      "groupKey": "quest_338",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 54000,
+      "amountMax": 54000,
+      "ratio": 0
+    },
+    {
+      "id": 9006245,
+      "groupKey": "quest_338",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 43200,
+      "amountMax": 43200,
+      "ratio": 0
+    },
+    {
+      "id": 9006246,
+      "groupKey": "quest_339",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 135000,
+      "amountMax": 135000,
+      "ratio": 0
+    },
+    {
+      "id": 9006247,
+      "groupKey": "quest_339",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 108000,
+      "amountMax": 108000,
+      "ratio": 0
+    },
+    {
+      "id": 9006248,
+      "groupKey": "quest_340",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 135000,
+      "amountMax": 135000,
+      "ratio": 0
+    },
+    {
+      "id": 9006249,
+      "groupKey": "quest_340",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 108000,
+      "amountMax": 108000,
+      "ratio": 0
+    },
+    {
+      "id": 9006250,
+      "groupKey": "quest_340",
+      "type": "Currency",
+      "targetId": 4,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006251,
+      "groupKey": "quest_341",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 135000,
+      "amountMax": 135000,
+      "ratio": 0
+    },
+    {
+      "id": 9006252,
+      "groupKey": "quest_341",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 108000,
+      "amountMax": 108000,
+      "ratio": 0
+    },
+    {
+      "id": 9006253,
+      "groupKey": "quest_341",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006254,
+      "groupKey": "quest_90",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 3950,
+      "amountMax": 3950,
+      "ratio": 0
+    },
+    {
+      "id": 9006255,
+      "groupKey": "quest_90",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3160,
+      "amountMax": 3160,
+      "ratio": 0
+    },
+    {
+      "id": 9006256,
+      "groupKey": "quest_87",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4400,
+      "amountMax": 4400,
+      "ratio": 0
+    },
+    {
+      "id": 9006257,
+      "groupKey": "quest_87",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3520,
+      "amountMax": 3520,
+      "ratio": 0
+    },
+    {
+      "id": 9006258,
+      "groupKey": "quest_89",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4400,
+      "amountMax": 4400,
+      "ratio": 0
+    },
+    {
+      "id": 9006259,
+      "groupKey": "quest_89",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3520,
+      "amountMax": 3520,
+      "ratio": 0
+    },
+    {
+      "id": 9006260,
+      "groupKey": "quest_89",
+      "type": "Currency",
+      "targetId": 20,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006261,
+      "groupKey": "quest_91",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 5300,
+      "amountMax": 5300,
+      "ratio": 0
+    },
+    {
+      "id": 9006262,
+      "groupKey": "quest_91",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4240,
+      "amountMax": 4240,
+      "ratio": 0
+    },
+    {
+      "id": 9006263,
+      "groupKey": "quest_92",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6350,
+      "amountMax": 6350,
+      "ratio": 0
+    },
+    {
+      "id": 9006264,
+      "groupKey": "quest_92",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5080,
+      "amountMax": 5080,
+      "ratio": 0
+    },
+    {
+      "id": 9006265,
+      "groupKey": "quest_93",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 7100,
+      "amountMax": 7100,
+      "ratio": 0
+    },
+    {
+      "id": 9006266,
+      "groupKey": "quest_93",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5680,
+      "amountMax": 5680,
+      "ratio": 0
+    },
+    {
+      "id": 9006267,
+      "groupKey": "quest_400",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2800,
+      "amountMax": 2800,
+      "ratio": 0
+    },
+    {
+      "id": 9006268,
+      "groupKey": "quest_400",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2200,
+      "amountMax": 2200,
+      "ratio": 0
+    },
+    {
+      "id": 9006269,
+      "groupKey": "quest_401",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2800,
+      "amountMax": 2800,
+      "ratio": 0
+    },
+    {
+      "id": 9006270,
+      "groupKey": "quest_401",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2200,
+      "amountMax": 2200,
+      "ratio": 0
+    },
+    {
+      "id": 9006271,
+      "groupKey": "quest_401",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006272,
+      "groupKey": "quest_402",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 2800,
+      "amountMax": 2800,
+      "ratio": 0
+    },
+    {
+      "id": 9006273,
+      "groupKey": "quest_402",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 2200,
+      "amountMax": 2200,
+      "ratio": 0
+    },
+    {
+      "id": 9006274,
+      "groupKey": "quest_403",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4200,
+      "amountMax": 4200,
+      "ratio": 0
+    },
+    {
+      "id": 9006275,
+      "groupKey": "quest_403",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3400,
+      "amountMax": 3400,
+      "ratio": 0
+    },
+    {
+      "id": 9006276,
+      "groupKey": "quest_404",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 4900,
+      "amountMax": 4900,
+      "ratio": 0
+    },
+    {
+      "id": 9006277,
+      "groupKey": "quest_404",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 3900,
+      "amountMax": 3900,
+      "ratio": 0
+    },
+    {
+      "id": 9006278,
+      "groupKey": "quest_405",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6800,
+      "amountMax": 6800,
+      "ratio": 0
+    },
+    {
+      "id": 9006279,
+      "groupKey": "quest_405",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5400,
+      "amountMax": 5400,
+      "ratio": 0
+    },
+    {
+      "id": 9006280,
+      "groupKey": "quest_406",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6800,
+      "amountMax": 6800,
+      "ratio": 0
+    },
+    {
+      "id": 9006281,
+      "groupKey": "quest_406",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5400,
+      "amountMax": 5400,
+      "ratio": 0
+    },
+    {
+      "id": 9006282,
+      "groupKey": "quest_406",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006283,
+      "groupKey": "quest_407",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6000,
+      "amountMax": 6000,
+      "ratio": 0
+    },
+    {
+      "id": 9006284,
+      "groupKey": "quest_407",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4800,
+      "amountMax": 4800,
+      "ratio": 0
+    },
+    {
+      "id": 9006285,
+      "groupKey": "quest_408",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6000,
+      "amountMax": 6000,
+      "ratio": 0
+    },
+    {
+      "id": 9006286,
+      "groupKey": "quest_408",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4800,
+      "amountMax": 4800,
+      "ratio": 0
+    },
+    {
+      "id": 9006287,
+      "groupKey": "quest_409",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6700,
+      "amountMax": 6700,
+      "ratio": 0
+    },
+    {
+      "id": 9006288,
+      "groupKey": "quest_409",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 5400,
+      "amountMax": 5400,
+      "ratio": 0
+    },
+    {
+      "id": 9006289,
+      "groupKey": "quest_409",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006290,
+      "groupKey": "quest_410",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 8800,
+      "amountMax": 8800,
+      "ratio": 0
+    },
+    {
+      "id": 9006291,
+      "groupKey": "quest_410",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7000,
+      "amountMax": 7000,
+      "ratio": 0
+    },
+    {
+      "id": 9006292,
+      "groupKey": "quest_411",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 8800,
+      "amountMax": 8800,
+      "ratio": 0
+    },
+    {
+      "id": 9006293,
+      "groupKey": "quest_411",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7000,
+      "amountMax": 7000,
+      "ratio": 0
+    },
+    {
+      "id": 9006294,
+      "groupKey": "quest_412",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13500,
+      "amountMax": 13500,
+      "ratio": 0
+    },
+    {
+      "id": 9006295,
+      "groupKey": "quest_412",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 10800,
+      "amountMax": 10800,
+      "ratio": 0
+    },
+    {
+      "id": 9006296,
+      "groupKey": "quest_413",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13500,
+      "amountMax": 13500,
+      "ratio": 0
+    },
+    {
+      "id": 9006297,
+      "groupKey": "quest_413",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 10800,
+      "amountMax": 10800,
+      "ratio": 0
+    },
+    {
+      "id": 9006298,
+      "groupKey": "quest_413",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006299,
+      "groupKey": "quest_414",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 13900,
+      "amountMax": 13900,
+      "ratio": 0
+    },
+    {
+      "id": 9006300,
+      "groupKey": "quest_414",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 11100,
+      "amountMax": 11100,
+      "ratio": 0
+    },
+    {
+      "id": 9006301,
+      "groupKey": "quest_415",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11700,
+      "amountMax": 11700,
+      "ratio": 0
+    },
+    {
+      "id": 9006302,
+      "groupKey": "quest_415",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 9400,
+      "amountMax": 9400,
+      "ratio": 0
+    },
+    {
+      "id": 9006303,
+      "groupKey": "quest_416",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 17500,
+      "amountMax": 17500,
+      "ratio": 0
+    },
+    {
+      "id": 9006304,
+      "groupKey": "quest_416",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14000,
+      "amountMax": 14000,
+      "ratio": 0
+    },
+    {
+      "id": 9006305,
+      "groupKey": "quest_417",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 17500,
+      "amountMax": 17500,
+      "ratio": 0
+    },
+    {
+      "id": 9006306,
+      "groupKey": "quest_417",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14000,
+      "amountMax": 14000,
+      "ratio": 0
+    },
+    {
+      "id": 9006307,
+      "groupKey": "quest_417",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006308,
+      "groupKey": "quest_418",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 18100,
+      "amountMax": 18100,
+      "ratio": 0
+    },
+    {
+      "id": 9006309,
+      "groupKey": "quest_418",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 14500,
+      "amountMax": 14500,
+      "ratio": 0
+    },
+    {
+      "id": 9006310,
+      "groupKey": "quest_419",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 22700,
+      "amountMax": 22700,
+      "ratio": 0
+    },
+    {
+      "id": 9006311,
+      "groupKey": "quest_419",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 18200,
+      "amountMax": 18200,
+      "ratio": 0
+    },
+    {
+      "id": 9006312,
+      "groupKey": "quest_420",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 22700,
+      "amountMax": 22700,
+      "ratio": 0
+    },
+    {
+      "id": 9006313,
+      "groupKey": "quest_420",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 18200,
+      "amountMax": 18200,
+      "ratio": 0
+    },
+    {
+      "id": 9006314,
+      "groupKey": "quest_421",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 27000,
+      "amountMax": 27000,
+      "ratio": 0
+    },
+    {
+      "id": 9006315,
+      "groupKey": "quest_421",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 21600,
+      "amountMax": 21600,
+      "ratio": 0
+    },
+    {
+      "id": 9006316,
+      "groupKey": "quest_421",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006317,
+      "groupKey": "quest_422",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40400,
+      "amountMax": 40400,
+      "ratio": 0
+    },
+    {
+      "id": 9006318,
+      "groupKey": "quest_422",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 32300,
+      "amountMax": 32300,
+      "ratio": 0
+    },
+    {
+      "id": 9006319,
+      "groupKey": "quest_423",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 40400,
+      "amountMax": 40400,
+      "ratio": 0
+    },
+    {
+      "id": 9006320,
+      "groupKey": "quest_423",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 32300,
+      "amountMax": 32300,
+      "ratio": 0
+    },
+    {
+      "id": 9006321,
+      "groupKey": "quest_423",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006322,
+      "groupKey": "quest_424",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 44100,
+      "amountMax": 44100,
+      "ratio": 0
+    },
+    {
+      "id": 9006323,
+      "groupKey": "quest_424",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 35300,
+      "amountMax": 35300,
+      "ratio": 0
+    },
+    {
+      "id": 9006324,
+      "groupKey": "quest_425",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 44100,
+      "amountMax": 44100,
+      "ratio": 0
+    },
+    {
+      "id": 9006325,
+      "groupKey": "quest_425",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 35300,
+      "amountMax": 35300,
+      "ratio": 0
+    },
+    {
+      "id": 9006326,
+      "groupKey": "quest_426",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 52500,
+      "amountMax": 52500,
+      "ratio": 0
+    },
+    {
+      "id": 9006327,
+      "groupKey": "quest_426",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 42000,
+      "amountMax": 42000,
+      "ratio": 0
+    },
+    {
+      "id": 9006328,
+      "groupKey": "quest_427",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 52500,
+      "amountMax": 52500,
+      "ratio": 0
+    },
+    {
+      "id": 9006329,
+      "groupKey": "quest_427",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 42000,
+      "amountMax": 42000,
+      "ratio": 0
+    },
+    {
+      "id": 9006330,
+      "groupKey": "quest_428",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 54100,
+      "amountMax": 54100,
+      "ratio": 0
+    },
+    {
+      "id": 9006331,
+      "groupKey": "quest_428",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 43300,
+      "amountMax": 43300,
+      "ratio": 0
+    },
+    {
+      "id": 9006332,
+      "groupKey": "quest_428",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006333,
+      "groupKey": "quest_429",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 68100,
+      "amountMax": 68100,
+      "ratio": 0
+    },
+    {
+      "id": 9006334,
+      "groupKey": "quest_429",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 54500,
+      "amountMax": 54500,
+      "ratio": 0
+    },
+    {
+      "id": 9006335,
+      "groupKey": "quest_430",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 68100,
+      "amountMax": 68100,
+      "ratio": 0
+    },
+    {
+      "id": 9006336,
+      "groupKey": "quest_430",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 54500,
+      "amountMax": 54500,
+      "ratio": 0
+    },
+    {
+      "id": 9006337,
+      "groupKey": "quest_430",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006338,
+      "groupKey": "quest_431",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 94500,
+      "amountMax": 94500,
+      "ratio": 0
+    },
+    {
+      "id": 9006339,
+      "groupKey": "quest_431",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 75600,
+      "amountMax": 75600,
+      "ratio": 0
+    },
+    {
+      "id": 9006340,
+      "groupKey": "quest_432",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 94500,
+      "amountMax": 94500,
+      "ratio": 0
+    },
+    {
+      "id": 9006341,
+      "groupKey": "quest_432",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 75600,
+      "amountMax": 75600,
+      "ratio": 0
+    },
+    {
+      "id": 9006342,
+      "groupKey": "quest_88",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 8800,
+      "amountMax": 8800,
+      "ratio": 0
+    },
+    {
+      "id": 9006343,
+      "groupKey": "quest_88",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7040,
+      "amountMax": 7040,
+      "ratio": 0
+    },
+    {
+      "id": 9006344,
+      "groupKey": "quest_88",
+      "type": "Currency",
+      "targetId": 20,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006345,
+      "groupKey": "quest_434",
+      "type": "Item",
+      "targetId": 94000471,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006346,
+      "groupKey": "quest_435",
+      "type": "Item",
+      "targetId": 94000472,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006347,
+      "groupKey": "quest_433",
+      "type": "Item",
+      "targetId": 94000470,
+      "amountMin": 1,
+      "amountMax": 1,
+      "ratio": 0
+    },
+    {
+      "id": 9006348,
+      "groupKey": "quest_433",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 6000,
+      "amountMax": 6000,
+      "ratio": 0
+    },
+    {
+      "id": 9006349,
+      "groupKey": "quest_433",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 4800,
+      "amountMax": 4800,
+      "ratio": 0
+    },
+    {
+      "id": 9006350,
+      "groupKey": "quest_434",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006351,
+      "groupKey": "quest_434",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    },
+    {
+      "id": 9006352,
+      "groupKey": "quest_435",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 11000,
+      "amountMax": 11000,
+      "ratio": 0
+    },
+    {
+      "id": 9006353,
+      "groupKey": "quest_435",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8800,
+      "amountMax": 8800,
+      "ratio": 0
+    },
+    {
+      "id": 9006354,
+      "groupKey": "quest_436",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 10000,
+      "amountMax": 10000,
+      "ratio": 0
+    },
+    {
+      "id": 9006355,
+      "groupKey": "quest_436",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 8000,
+      "amountMax": 8000,
+      "ratio": 0
+    },
+    {
+      "id": 9006356,
+      "groupKey": "quest_400",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 9006357,
+      "groupKey": "quest_52",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 2,
+      "amountMax": 2,
+      "ratio": 0
+    },
+    {
+      "id": 9006358,
+      "groupKey": "quest_405",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 4,
+      "amountMax": 4,
+      "ratio": 0
+    },
+    {
+      "id": 9006359,
+      "groupKey": "quest_74",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006360,
+      "groupKey": "quest_412",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006361,
+      "groupKey": "quest_211",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006362,
+      "groupKey": "quest_416",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 6,
+      "amountMax": 6,
+      "ratio": 0
+    },
+    {
+      "id": 9006363,
+      "groupKey": "quest_231",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 5,
+      "amountMax": 5,
+      "ratio": 0
+    },
+    {
+      "id": 9006364,
+      "groupKey": "quest_434",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 8,
+      "amountMax": 8,
+      "ratio": 0
+    },
+    {
+      "id": 9006365,
+      "groupKey": "quest_422",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006366,
+      "groupKey": "quest_316",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 10,
+      "amountMax": 10,
+      "ratio": 0
+    },
+    {
+      "id": 9006367,
+      "groupKey": "quest_326",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 12,
+      "amountMax": 12,
+      "ratio": 0
+    },
+    {
+      "id": 9006368,
+      "groupKey": "quest_429",
+      "type": "Currency",
+      "targetId": 10,
+      "amountMin": 14,
+      "amountMax": 14,
+      "ratio": 0
+    },
+    {
+      "id": 9006369,
+      "groupKey": "quest_437",
+      "type": "Exp",
+      "targetId": 100,
+      "amountMin": 9000,
+      "amountMax": 9000,
+      "ratio": 0
+    },
+    {
+      "id": 9006370,
+      "groupKey": "quest_437",
+      "type": "Currency",
+      "targetId": 1,
+      "amountMin": 7200,
+      "amountMax": 7200,
+      "ratio": 0
+    }
+  ]
+}

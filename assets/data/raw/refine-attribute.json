@@ -1,0 +1,1133 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 160,
+    "schema": "FBDataRefineAttribute",
+    "sourceAsset": "FBDataRefineAttribute",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "attrType": "STR",
+      "grade": 1,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": 2,
+      "attrType": "STR",
+      "grade": 2,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 3,
+      "attrType": "STR",
+      "grade": 3,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 4,
+      "attrType": "STR",
+      "grade": 4,
+      "min": 18,
+      "max": 18
+    },
+    {
+      "id": 5,
+      "attrType": "STR",
+      "grade": 5,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 6,
+      "attrType": "VIT",
+      "grade": 1,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": 7,
+      "attrType": "VIT",
+      "grade": 2,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 8,
+      "attrType": "VIT",
+      "grade": 3,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 9,
+      "attrType": "VIT",
+      "grade": 4,
+      "min": 18,
+      "max": 18
+    },
+    {
+      "id": 10,
+      "attrType": "VIT",
+      "grade": 5,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 11,
+      "attrType": "AGI",
+      "grade": 1,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": 12,
+      "attrType": "AGI",
+      "grade": 2,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 13,
+      "attrType": "AGI",
+      "grade": 3,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 14,
+      "attrType": "AGI",
+      "grade": 4,
+      "min": 18,
+      "max": 18
+    },
+    {
+      "id": 15,
+      "attrType": "AGI",
+      "grade": 5,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 16,
+      "attrType": "SPI",
+      "grade": 1,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": 17,
+      "attrType": "SPI",
+      "grade": 2,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 18,
+      "attrType": "SPI",
+      "grade": 3,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 19,
+      "attrType": "SPI",
+      "grade": 4,
+      "min": 18,
+      "max": 18
+    },
+    {
+      "id": 20,
+      "attrType": "SPI",
+      "grade": 5,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 21,
+      "attrType": "ATK",
+      "grade": 1,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "id": 22,
+      "attrType": "ATK",
+      "grade": 2,
+      "min": 20,
+      "max": 20
+    },
+    {
+      "id": 23,
+      "attrType": "ATK",
+      "grade": 3,
+      "min": 40,
+      "max": 40
+    },
+    {
+      "id": 24,
+      "attrType": "ATK",
+      "grade": 4,
+      "min": 60,
+      "max": 60
+    },
+    {
+      "id": 25,
+      "attrType": "ATK",
+      "grade": 5,
+      "min": 80,
+      "max": 80
+    },
+    {
+      "id": 26,
+      "attrType": "DEF",
+      "grade": 1,
+      "min": 10,
+      "max": 10
+    },
+    {
+      "id": 27,
+      "attrType": "DEF",
+      "grade": 2,
+      "min": 20,
+      "max": 20
+    },
+    {
+      "id": 28,
+      "attrType": "DEF",
+      "grade": 3,
+      "min": 40,
+      "max": 40
+    },
+    {
+      "id": 29,
+      "attrType": "DEF",
+      "grade": 4,
+      "min": 60,
+      "max": 60
+    },
+    {
+      "id": 30,
+      "attrType": "DEF",
+      "grade": 5,
+      "min": 80,
+      "max": 80
+    },
+    {
+      "id": 31,
+      "attrType": "PEN",
+      "grade": 1,
+      "min": 13,
+      "max": 13
+    },
+    {
+      "id": 32,
+      "attrType": "PEN",
+      "grade": 2,
+      "min": 26,
+      "max": 26
+    },
+    {
+      "id": 33,
+      "attrType": "PEN",
+      "grade": 3,
+      "min": 52,
+      "max": 52
+    },
+    {
+      "id": 34,
+      "attrType": "PEN",
+      "grade": 4,
+      "min": 78,
+      "max": 78
+    },
+    {
+      "id": 35,
+      "attrType": "PEN",
+      "grade": 5,
+      "min": 104,
+      "max": 104
+    },
+    {
+      "id": 36,
+      "attrType": "HIT",
+      "grade": 1,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 37,
+      "attrType": "HIT",
+      "grade": 2,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 38,
+      "attrType": "HIT",
+      "grade": 3,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 39,
+      "attrType": "HIT",
+      "grade": 4,
+      "min": 36,
+      "max": 36
+    },
+    {
+      "id": 40,
+      "attrType": "HIT",
+      "grade": 5,
+      "min": 48,
+      "max": 48
+    },
+    {
+      "id": 41,
+      "attrType": "EVA",
+      "grade": 1,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 42,
+      "attrType": "EVA",
+      "grade": 2,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 43,
+      "attrType": "EVA",
+      "grade": 3,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 44,
+      "attrType": "EVA",
+      "grade": 4,
+      "min": 36,
+      "max": 36
+    },
+    {
+      "id": 45,
+      "attrType": "EVA",
+      "grade": 5,
+      "min": 48,
+      "max": 48
+    },
+    {
+      "id": 46,
+      "attrType": "MAX_HP",
+      "grade": 1,
+      "min": 100,
+      "max": 100
+    },
+    {
+      "id": 47,
+      "attrType": "MAX_HP",
+      "grade": 2,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 48,
+      "attrType": "MAX_HP",
+      "grade": 3,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 49,
+      "attrType": "MAX_HP",
+      "grade": 4,
+      "min": 600,
+      "max": 600
+    },
+    {
+      "id": 50,
+      "attrType": "MAX_HP",
+      "grade": 5,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 51,
+      "attrType": "MAX_SP",
+      "grade": 1,
+      "min": 15,
+      "max": 15
+    },
+    {
+      "id": 52,
+      "attrType": "MAX_SP",
+      "grade": 2,
+      "min": 30,
+      "max": 30
+    },
+    {
+      "id": 53,
+      "attrType": "MAX_SP",
+      "grade": 3,
+      "min": 60,
+      "max": 60
+    },
+    {
+      "id": 54,
+      "attrType": "MAX_SP",
+      "grade": 4,
+      "min": 90,
+      "max": 90
+    },
+    {
+      "id": 55,
+      "attrType": "MAX_SP",
+      "grade": 5,
+      "min": 120,
+      "max": 120
+    },
+    {
+      "id": 56,
+      "attrType": "HP_REGEN",
+      "grade": 1,
+      "min": 15,
+      "max": 15
+    },
+    {
+      "id": 57,
+      "attrType": "HP_REGEN",
+      "grade": 2,
+      "min": 30,
+      "max": 30
+    },
+    {
+      "id": 58,
+      "attrType": "HP_REGEN",
+      "grade": 3,
+      "min": 60,
+      "max": 60
+    },
+    {
+      "id": 59,
+      "attrType": "HP_REGEN",
+      "grade": 4,
+      "min": 90,
+      "max": 90
+    },
+    {
+      "id": 60,
+      "attrType": "HP_REGEN",
+      "grade": 5,
+      "min": 120,
+      "max": 120
+    },
+    {
+      "id": 61,
+      "attrType": "SP_REGEN",
+      "grade": 1,
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": 62,
+      "attrType": "SP_REGEN",
+      "grade": 2,
+      "min": 6,
+      "max": 6
+    },
+    {
+      "id": 63,
+      "attrType": "SP_REGEN",
+      "grade": 3,
+      "min": 12,
+      "max": 12
+    },
+    {
+      "id": 64,
+      "attrType": "SP_REGEN",
+      "grade": 4,
+      "min": 18,
+      "max": 18
+    },
+    {
+      "id": 65,
+      "attrType": "SP_REGEN",
+      "grade": 5,
+      "min": 24,
+      "max": 24
+    },
+    {
+      "id": 66,
+      "attrType": "CRIT_RATE",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 67,
+      "attrType": "CRIT_RATE",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 68,
+      "attrType": "CRIT_RATE",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 69,
+      "attrType": "CRIT_RATE",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 70,
+      "attrType": "CRIT_RATE",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 71,
+      "attrType": "CRIT_DMG",
+      "grade": 1,
+      "min": 1000,
+      "max": 1000
+    },
+    {
+      "id": 72,
+      "attrType": "CRIT_DMG",
+      "grade": 2,
+      "min": 2000,
+      "max": 2000
+    },
+    {
+      "id": 73,
+      "attrType": "CRIT_DMG",
+      "grade": 3,
+      "min": 4000,
+      "max": 4000
+    },
+    {
+      "id": 74,
+      "attrType": "CRIT_DMG",
+      "grade": 4,
+      "min": 6000,
+      "max": 6000
+    },
+    {
+      "id": 75,
+      "attrType": "CRIT_DMG",
+      "grade": 5,
+      "min": 8000,
+      "max": 8000
+    },
+    {
+      "id": 76,
+      "attrType": "SKILL_AMP",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 77,
+      "attrType": "SKILL_AMP",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 78,
+      "attrType": "SKILL_AMP",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 79,
+      "attrType": "SKILL_AMP",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 80,
+      "attrType": "SKILL_AMP",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 81,
+      "attrType": "ATK_SPD",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 82,
+      "attrType": "ATK_SPD",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 83,
+      "attrType": "ATK_SPD",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 84,
+      "attrType": "ATK_SPD",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 85,
+      "attrType": "ATK_SPD",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 86,
+      "attrType": "FINAL_DMG_BONUS",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 87,
+      "attrType": "FINAL_DMG_BONUS",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 88,
+      "attrType": "FINAL_DMG_BONUS",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 89,
+      "attrType": "FINAL_DMG_BONUS",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 90,
+      "attrType": "FINAL_DMG_BONUS",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 91,
+      "attrType": "BOSS_DMG_BONUS",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 92,
+      "attrType": "BOSS_DMG_BONUS",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 93,
+      "attrType": "BOSS_DMG_BONUS",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 94,
+      "attrType": "BOSS_DMG_BONUS",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 95,
+      "attrType": "BOSS_DMG_BONUS",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 96,
+      "attrType": "PVP_DMG_BONUS",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 97,
+      "attrType": "PVP_DMG_BONUS",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 98,
+      "attrType": "PVP_DMG_BONUS",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 99,
+      "attrType": "PVP_DMG_BONUS",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 100,
+      "attrType": "PVP_DMG_BONUS",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 101,
+      "attrType": "EXP_BONUS",
+      "grade": 1,
+      "min": 300,
+      "max": 300
+    },
+    {
+      "id": 102,
+      "attrType": "EXP_BONUS",
+      "grade": 2,
+      "min": 500,
+      "max": 500
+    },
+    {
+      "id": 103,
+      "attrType": "EXP_BONUS",
+      "grade": 3,
+      "min": 1000,
+      "max": 1000
+    },
+    {
+      "id": 104,
+      "attrType": "EXP_BONUS",
+      "grade": 4,
+      "min": 1500,
+      "max": 1500
+    },
+    {
+      "id": 105,
+      "attrType": "EXP_BONUS",
+      "grade": 5,
+      "min": 2000,
+      "max": 2000
+    },
+    {
+      "id": 106,
+      "attrType": "GOLD_BONUS",
+      "grade": 1,
+      "min": 300,
+      "max": 300
+    },
+    {
+      "id": 107,
+      "attrType": "GOLD_BONUS",
+      "grade": 2,
+      "min": 500,
+      "max": 500
+    },
+    {
+      "id": 108,
+      "attrType": "GOLD_BONUS",
+      "grade": 3,
+      "min": 1000,
+      "max": 1000
+    },
+    {
+      "id": 109,
+      "attrType": "GOLD_BONUS",
+      "grade": 4,
+      "min": 1500,
+      "max": 1500
+    },
+    {
+      "id": 110,
+      "attrType": "GOLD_BONUS",
+      "grade": 5,
+      "min": 2000,
+      "max": 2000
+    },
+    {
+      "id": 111,
+      "attrType": "COOLDOWN_REDUCE",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 112,
+      "attrType": "COOLDOWN_REDUCE",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 113,
+      "attrType": "COOLDOWN_REDUCE",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 114,
+      "attrType": "COOLDOWN_REDUCE",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 115,
+      "attrType": "COOLDOWN_REDUCE",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 116,
+      "attrType": "POTION_BONUS",
+      "grade": 1,
+      "min": 300,
+      "max": 300
+    },
+    {
+      "id": 117,
+      "attrType": "POTION_BONUS",
+      "grade": 2,
+      "min": 500,
+      "max": 500
+    },
+    {
+      "id": 118,
+      "attrType": "POTION_BONUS",
+      "grade": 3,
+      "min": 1000,
+      "max": 1000
+    },
+    {
+      "id": 119,
+      "attrType": "POTION_BONUS",
+      "grade": 4,
+      "min": 1500,
+      "max": 1500
+    },
+    {
+      "id": 120,
+      "attrType": "POTION_BONUS",
+      "grade": 5,
+      "min": 2000,
+      "max": 2000
+    },
+    {
+      "id": 121,
+      "attrType": "STR_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 122,
+      "attrType": "STR_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 123,
+      "attrType": "STR_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 124,
+      "attrType": "STR_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 125,
+      "attrType": "STR_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 126,
+      "attrType": "VIT_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 127,
+      "attrType": "VIT_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 128,
+      "attrType": "VIT_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 129,
+      "attrType": "VIT_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 130,
+      "attrType": "VIT_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 131,
+      "attrType": "AGI_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 132,
+      "attrType": "AGI_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 133,
+      "attrType": "AGI_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 134,
+      "attrType": "AGI_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 135,
+      "attrType": "AGI_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 136,
+      "attrType": "SPI_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 137,
+      "attrType": "SPI_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 138,
+      "attrType": "SPI_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 139,
+      "attrType": "SPI_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 140,
+      "attrType": "SPI_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 141,
+      "attrType": "ATK_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 142,
+      "attrType": "ATK_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 143,
+      "attrType": "ATK_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 144,
+      "attrType": "ATK_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 145,
+      "attrType": "ATK_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 146,
+      "attrType": "DEF_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 147,
+      "attrType": "DEF_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 148,
+      "attrType": "DEF_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 149,
+      "attrType": "DEF_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 150,
+      "attrType": "DEF_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 151,
+      "attrType": "MAX_HP_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 152,
+      "attrType": "MAX_HP_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 153,
+      "attrType": "MAX_HP_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 154,
+      "attrType": "MAX_HP_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 155,
+      "attrType": "MAX_HP_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    },
+    {
+      "id": 156,
+      "attrType": "MAX_SP_PER",
+      "grade": 1,
+      "min": 200,
+      "max": 200
+    },
+    {
+      "id": 157,
+      "attrType": "MAX_SP_PER",
+      "grade": 2,
+      "min": 400,
+      "max": 400
+    },
+    {
+      "id": 158,
+      "attrType": "MAX_SP_PER",
+      "grade": 3,
+      "min": 800,
+      "max": 800
+    },
+    {
+      "id": 159,
+      "attrType": "MAX_SP_PER",
+      "grade": 4,
+      "min": 1200,
+      "max": 1200
+    },
+    {
+      "id": 160,
+      "attrType": "MAX_SP_PER",
+      "grade": 5,
+      "min": 1600,
+      "max": 1600
+    }
+  ]
+}

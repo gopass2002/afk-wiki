@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 8,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataUIConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "DamageFontPlayerNormal",
+      "value": [
+        "10.UI/4.WorldSpace/damage_font/damage_font_p_hit"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "DamageFontPlayerDefense",
+      "value": [
+        "10.UI/4.WorldSpace/damage_font/damage_font_p_defence"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "DamageFontMonsterNormal",
+      "value": [
+        "10.UI/4.WorldSpace/damage_font/damage_font_e_hit"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "DamageFontMonsterCritical",
+      "value": [
+        "10.UI/4.WorldSpace/damage_font/damage_font_e_cirtical"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "DamageFontMonsterMiss",
+      "value": [
+        "10.UI/4.WorldSpace/damage_font/damage_font_e_miss"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "DamageFontPlayerXOffset",
+      "value": [
+        "40"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "DamageFontPlayerYOffset",
+      "value": [
+        "0"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "DamageFontMonsterYOffset",
+      "value": [
+        "60"
+      ]
+    }
+  ]
+}

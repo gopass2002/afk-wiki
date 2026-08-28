@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 24,
+    "schema": "FBDataCollectionMilestone",
+    "sourceAsset": "FBDataCollectionMilestone",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "category": "Equipment",
+      "requiredCount": 3,
+      "rewardGroupKey": "rw_ms_eq_1"
+    },
+    {
+      "id": 2,
+      "category": "Equipment",
+      "requiredCount": 5,
+      "rewardGroupKey": "rw_ms_eq_2"
+    },
+    {
+      "id": 3,
+      "category": "Equipment",
+      "requiredCount": 10,
+      "rewardGroupKey": "rw_ms_eq_3"
+    },
+    {
+      "id": 4,
+      "category": "Equipment",
+      "requiredCount": 15,
+      "rewardGroupKey": "rw_ms_eq_4"
+    },
+    {
+      "id": 5,
+      "category": "Equipment",
+      "requiredCount": 30,
+      "rewardGroupKey": "rw_ms_eq_5"
+    },
+    {
+      "id": 6,
+      "category": "Equipment",
+      "requiredCount": 50,
+      "rewardGroupKey": "rw_ms_eq_6"
+    },
+    {
+      "id": 7,
+      "category": "Equipment",
+      "requiredCount": 75,
+      "rewardGroupKey": "rw_ms_eq_7"
+    },
+    {
+      "id": 8,
+      "category": "Equipment",
+      "requiredCount": 100,
+      "rewardGroupKey": "rw_ms_eq_8"
+    },
+    {
+      "id": 9,
+      "category": "Equipment",
+      "requiredCount": 120,
+      "rewardGroupKey": "rw_ms_eq_9"
+    },
+    {
+      "id": 10,
+      "category": "Equipment",
+      "requiredCount": 140,
+      "rewardGroupKey": "rw_ms_eq_10"
+    },
+    {
+      "id": 11,
+      "category": "Equipment",
+      "requiredCount": 155,
+      "rewardGroupKey": "rw_ms_eq_11"
+    },
+    {
+      "id": 12,
+      "category": "Equipment",
+      "requiredCount": 167,
+      "rewardGroupKey": "rw_ms_eq_12"
+    },
+    {
+      "id": 13,
+      "category": "Cook",
+      "requiredCount": 3,
+      "rewardGroupKey": "rw_ms_cook_1"
+    },
+    {
+      "id": 14,
+      "category": "Cook",
+      "requiredCount": 5,
+      "rewardGroupKey": "rw_ms_cook_2"
+    },
+    {
+      "id": 15,
+      "category": "Cook",
+      "requiredCount": 10,
+      "rewardGroupKey": "rw_ms_cook_3"
+    },
+    {
+      "id": 16,
+      "category": "Cook",
+      "requiredCount": 15,
+      "rewardGroupKey": "rw_ms_cook_4"
+    },
+    {
+      "id": 17,
+      "category": "Cook",
+      "requiredCount": 30,
+      "rewardGroupKey": "rw_ms_cook_5"
+    },
+    {
+      "id": 18,
+      "category": "Cook",
+      "requiredCount": 45,
+      "rewardGroupKey": "rw_ms_cook_6"
+    },
+    {
+      "id": 19,
+      "category": "Cook",
+      "requiredCount": 60,
+      "rewardGroupKey": "rw_ms_cook_7"
+    },
+    {
+      "id": 20,
+      "category": "Cook",
+      "requiredCount": 75,
+      "rewardGroupKey": "rw_ms_cook_8"
+    },
+    {
+      "id": 21,
+      "category": "Cook",
+      "requiredCount": 90,
+      "rewardGroupKey": "rw_ms_cook_9"
+    },
+    {
+      "id": 22,
+      "category": "Cook",
+      "requiredCount": 105,
+      "rewardGroupKey": "rw_ms_cook_10"
+    },
+    {
+      "id": 23,
+      "category": "Cook",
+      "requiredCount": 120,
+      "rewardGroupKey": "rw_ms_cook_11"
+    },
+    {
+      "id": 24,
+      "category": "Cook",
+      "requiredCount": 130,
+      "rewardGroupKey": "rw_ms_cook_12"
+    }
+  ]
+}

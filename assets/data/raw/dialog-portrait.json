@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 52,
+    "schema": "FBDataDialogPortrait",
+    "sourceAsset": "FBDataDialogPortrait",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "portraitKey": "player_idle",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_idle"
+    },
+    {
+      "id": 2,
+      "portraitKey": "player_smile",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_smile"
+    },
+    {
+      "id": 3,
+      "portraitKey": "player_confident",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_confident"
+    },
+    {
+      "id": 4,
+      "portraitKey": "player_greedy",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_greedy"
+    },
+    {
+      "id": 5,
+      "portraitKey": "player_none",
+      "speakerActorId": 0,
+      "path": ""
+    },
+    {
+      "id": 6,
+      "portraitKey": "demonlord_idle",
+      "speakerActorId": 100002,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonlord_idle"
+    },
+    {
+      "id": 7,
+      "portraitKey": "demonelder_idle",
+      "speakerActorId": 100001,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonelder_idle"
+    },
+    {
+      "id": 8,
+      "portraitKey": "hwasan_younglord_idle",
+      "speakerActorId": 100004,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_younglord_idle"
+    },
+    {
+      "id": 9,
+      "portraitKey": "hwasan_younglord_smile",
+      "speakerActorId": 100004,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_younglord_smile"
+    },
+    {
+      "id": 10,
+      "portraitKey": "jangro_none",
+      "speakerActorId": 100005,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_jangro_idle"
+    },
+    {
+      "id": 11,
+      "portraitKey": "dlg_illust_pc_idle",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_idle"
+    },
+    {
+      "id": 12,
+      "portraitKey": "dlg_illust_demonelder_idle",
+      "speakerActorId": 100001,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonelder_idle"
+    },
+    {
+      "id": 13,
+      "portraitKey": "dlg_illust_demonelder_face",
+      "speakerActorId": 100001,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonelder_face"
+    },
+    {
+      "id": 14,
+      "portraitKey": "elder_none",
+      "speakerActorId": 100001,
+      "path": ""
+    },
+    {
+      "id": 15,
+      "portraitKey": "bandit_none",
+      "speakerActorId": 100009,
+      "path": ""
+    },
+    {
+      "id": 16,
+      "portraitKey": "dlg_illust_pc_face",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_face"
+    },
+    {
+      "id": 17,
+      "portraitKey": "dlg_illust_yujung_idle",
+      "speakerActorId": 100007,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_yujung_idle"
+    },
+    {
+      "id": 18,
+      "portraitKey": "dlg_illust_swordsaint_idle",
+      "speakerActorId": 100006,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_widam_idle"
+    },
+    {
+      "id": 19,
+      "portraitKey": "dlg_illust_pc_smile",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_smile"
+    },
+    {
+      "id": 20,
+      "portraitKey": "dlg_illust_pc_confident",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_confident"
+    },
+    {
+      "id": 21,
+      "portraitKey": "dlg_illust_pc_greedy",
+      "speakerActorId": 0,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_pc_greedy"
+    },
+    {
+      "id": 22,
+      "portraitKey": "dlg_illust_hwasan_younglord_idle",
+      "speakerActorId": 100004,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_younglord_idle"
+    },
+    {
+      "id": 23,
+      "portraitKey": "dlg_illust_hwasan_younglord_smile",
+      "speakerActorId": 100004,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_younglord_smile"
+    },
+    {
+      "id": 24,
+      "portraitKey": "dlg_illust_hwasan_jangro_idle",
+      "speakerActorId": 100005,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_jangro_idle"
+    },
+    {
+      "id": 25,
+      "portraitKey": "dlg_illust_demonlord_idle",
+      "speakerActorId": 100002,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonlord_idle"
+    },
+    {
+      "id": 26,
+      "portraitKey": "dlg_illust_townmerchant_idle",
+      "speakerActorId": 100008,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_townmerchant_idle"
+    },
+    {
+      "id": 27,
+      "portraitKey": "dlg_illust_hwasan_younglord_face",
+      "speakerActorId": 100004,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_younglord_face"
+    },
+    {
+      "id": 28,
+      "portraitKey": "dlg_illust_yujung_face",
+      "speakerActorId": 100007,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_yujung_face"
+    },
+    {
+      "id": 29,
+      "portraitKey": "dlg_illust_widam_face",
+      "speakerActorId": 100006,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_widam_face"
+    },
+    {
+      "id": 30,
+      "portraitKey": "dlg_illust_hwasan_jangro_face",
+      "speakerActorId": 100005,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_hwasan_jangro_face"
+    },
+    {
+      "id": 31,
+      "portraitKey": "dlg_illust_demonlord_face",
+      "speakerActorId": 100002,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_demonlord_face"
+    },
+    {
+      "id": 32,
+      "portraitKey": "dlg_illust_townmerchant_face",
+      "speakerActorId": 100008,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_townmerchant_face"
+    },
+    {
+      "id": 33,
+      "portraitKey": "dokgochul_none",
+      "speakerActorId": 100010,
+      "path": ""
+    },
+    {
+      "id": 34,
+      "portraitKey": "dlg_illust_dokgocheol_face",
+      "speakerActorId": 100010,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dokgocheol_face"
+    },
+    {
+      "id": 35,
+      "portraitKey": "yeodumok_none",
+      "speakerActorId": 100011,
+      "path": ""
+    },
+    {
+      "id": 36,
+      "portraitKey": "dokyung_none",
+      "speakerActorId": 100012,
+      "path": ""
+    },
+    {
+      "id": 37,
+      "portraitKey": "gwangpoongdo_none",
+      "speakerActorId": 100013,
+      "path": ""
+    },
+    {
+      "id": 38,
+      "portraitKey": "spoongrandpa_none",
+      "speakerActorId": 100014,
+      "path": ""
+    },
+    {
+      "id": 39,
+      "portraitKey": "dangsoryung_none",
+      "speakerActorId": 100016,
+      "path": ""
+    },
+    {
+      "id": 40,
+      "portraitKey": "dangsojin_none",
+      "speakerActorId": 100015,
+      "path": ""
+    },
+    {
+      "id": 41,
+      "portraitKey": "dlg_illust_gwangpungdo_idle",
+      "speakerActorId": 100013,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_gwangpungdo_idle"
+    },
+    {
+      "id": 42,
+      "portraitKey": "dlg_illust_gwangpungdo_face",
+      "speakerActorId": 100013,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_gwangpungdo_face"
+    },
+    {
+      "id": 43,
+      "portraitKey": "dlg_illust_gwangpungdo_laugh",
+      "speakerActorId": 100013,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_gwangpungdo_laugh"
+    },
+    {
+      "id": 44,
+      "portraitKey": "dlg_illust_1003006901_idle",
+      "speakerActorId": 100011,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_1003006901_idle"
+    },
+    {
+      "id": 45,
+      "portraitKey": "dlg_illust_1003006901_face",
+      "speakerActorId": 100011,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_1003006901_face"
+    },
+    {
+      "id": 46,
+      "portraitKey": "dlg_illust_dokyung_idle",
+      "speakerActorId": 100012,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dokyung_idle"
+    },
+    {
+      "id": 47,
+      "portraitKey": "dlg_illust_dokyung_face",
+      "speakerActorId": 100012,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dokyung_face"
+    },
+    {
+      "id": 48,
+      "portraitKey": "dlg_illust_dangsoryung_idle",
+      "speakerActorId": 100016,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dangsoryung_idle"
+    },
+    {
+      "id": 49,
+      "portraitKey": "dlg_illust_dangsoryung_face",
+      "speakerActorId": 100016,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dangsoryung_face"
+    },
+    {
+      "id": 50,
+      "portraitKey": "dlg_illust_dangsojin_idle",
+      "speakerActorId": 100015,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dangsojin_idle"
+    },
+    {
+      "id": 51,
+      "portraitKey": "dlg_illust_dangsojin_face",
+      "speakerActorId": 100015,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dangsojin_face"
+    },
+    {
+      "id": 52,
+      "portraitKey": "dlg_illust_dangsojin_smile",
+      "speakerActorId": 100015,
+      "path": "10.UI/3.Overlay/dialog/dlg_illust_dangsojin_smile"
+    }
+  ]
+}

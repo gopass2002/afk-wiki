@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 5,
+    "schema": "FBDataConfig",
+    "sourceAsset": "FBDataSystemConfig",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "SystemOpenPWAQuestId",
+      "value": [
+        "6"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "SystemShopId",
+      "value": [
+        "1"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "SosoHotDealOpenQuestId",
+      "value": [
+        "11"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "SosoHotDealCloseQuestId",
+      "value": [
+        "411"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "SosoHotDealProductId",
+      "value": [
+        "9000007"
+      ]
+    }
+  ]
+}

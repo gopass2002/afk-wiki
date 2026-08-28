@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 100,
+    "schema": "FBDataDailyDungeonBossTier",
+    "sourceAsset": "FBDataDailyDungeonBossTier",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "tierGroupKey": "BossGold",
+      "tier": 1,
+      "attrScale": 100,
+      "rewardGroupKey": "gold_tier_1"
+    },
+    {
+      "id": 2,
+      "tierGroupKey": "BossGold",
+      "tier": 2,
+      "attrScale": 104,
+      "rewardGroupKey": "gold_tier_2"
+    },
+    {
+      "id": 3,
+      "tierGroupKey": "BossGold",
+      "tier": 3,
+      "attrScale": 108,
+      "rewardGroupKey": "gold_tier_3"
+    },
+    {
+      "id": 4,
+      "tierGroupKey": "BossGold",
+      "tier": 4,
+      "attrScale": 112,
+      "rewardGroupKey": "gold_tier_4"
+    },
+    {
+      "id": 5,
+      "tierGroupKey": "BossGold",
+      "tier": 5,
+      "attrScale": 117,
+      "rewardGroupKey": "gold_tier_5"
+    },
+    {
+      "id": 6,
+      "tierGroupKey": "BossGold",
+      "tier": 6,
+      "attrScale": 122,
+      "rewardGroupKey": "gold_tier_6"
+    },
+    {
+      "id": 7,
+      "tierGroupKey": "BossGold",
+      "tier": 7,
+      "attrScale": 127,
+      "rewardGroupKey": "gold_tier_7"
+    },
+    {
+      "id": 8,
+      "tierGroupKey": "BossGold",
+      "tier": 8,
+      "attrScale": 132,
+      "rewardGroupKey": "gold_tier_8"
+    },
+    {
+      "id": 9,
+      "tierGroupKey": "BossGold",
+      "tier": 9,
+      "attrScale": 137,
+      "rewardGroupKey": "gold_tier_9"
+    },
+    {
+      "id": 10,
+      "tierGroupKey": "BossGold",
+      "tier": 10,
+      "attrScale": 142,
+      "rewardGroupKey": "gold_tier_10"
+    },
+    {
+      "id": 11,
+      "tierGroupKey": "BossGold",
+      "tier": 11,
+      "attrScale": 148,
+      "rewardGroupKey": "gold_tier_11"
+    },
+    {
+      "id": 12,
+      "tierGroupKey": "BossGold",
+      "tier": 12,
+      "attrScale": 154,
+      "rewardGroupKey": "gold_tier_12"
+    },
+    {
+      "id": 13,
+      "tierGroupKey": "BossGold",
+      "tier": 13,
+      "attrScale": 160,
+      "rewardGroupKey": "gold_tier_13"
+    },
+    {
+      "id": 14,
+      "tierGroupKey": "BossGold",
+      "tier": 14,
+      "attrScale": 167,
+      "rewardGroupKey": "gold_tier_14"
+    },
+    {
+      "id": 15,
+      "tierGroupKey": "BossGold",
+      "tier": 15,
+      "attrScale": 173,
+      "rewardGroupKey": "gold_tier_15"
+    },
+    {
+      "id": 16,
+      "tierGroupKey": "BossGold",
+      "tier": 16,
+      "attrScale": 180,
+      "rewardGroupKey": "gold_tier_16"
+    },
+    {
+      "id": 17,
+      "tierGroupKey": "BossGold",
+      "tier": 17,
+      "attrScale": 187,
+      "rewardGroupKey": "gold_tier_17"
+    },
+    {
+      "id": 18,
+      "tierGroupKey": "BossGold",
+      "tier": 18,
+      "attrScale": 195,
+      "rewardGroupKey": "gold_tier_18"
+    },
+    {
+      "id": 19,
+      "tierGroupKey": "BossGold",
+      "tier": 19,
+      "attrScale": 203,
+      "rewardGroupKey": "gold_tier_19"
+    },
+    {
+      "id": 20,
+      "tierGroupKey": "BossGold",
+      "tier": 20,
+      "attrScale": 211,
+      "rewardGroupKey": "gold_tier_20"
+    },
+    {
+      "id": 21,
+      "tierGroupKey": "BossGold",
+      "tier": 21,
+      "attrScale": 219,
+      "rewardGroupKey": "gold_tier_21"
+    },
+    {
+      "id": 22,
+      "tierGroupKey": "BossGold",
+      "tier": 22,
+      "attrScale": 228,
+      "rewardGroupKey": "gold_tier_22"
+    },
+    {
+      "id": 23,
+      "tierGroupKey": "BossGold",
+      "tier": 23,
+      "attrScale": 237,
+      "rewardGroupKey": "gold_tier_23"
+    },
+    {
+      "id": 24,
+      "tierGroupKey": "BossGold",
+      "tier": 24,
+      "attrScale": 246,
+      "rewardGroupKey": "gold_tier_24"
+    },
+    {
+      "id": 25,
+      "tierGroupKey": "BossGold",
+      "tier": 25,
+      "attrScale": 256,
+      "rewardGroupKey": "gold_tier_25"
+    },
+    {
+      "id": 26,
+      "tierGroupKey": "BossGold",
+      "tier": 26,
+      "attrScale": 267,
+      "rewardGroupKey": "gold_tier_26"
+    },
+    {
+      "id": 27,
+      "tierGroupKey": "BossGold",
+      "tier": 27,
+      "attrScale": 277,
+      "rewardGroupKey": "gold_tier_27"
+    },
+    {
+      "id": 28,
+      "tierGroupKey": "BossGold",
+      "tier": 28,
+      "attrScale": 288,
+      "rewardGroupKey": "gold_tier_28"
+    },
+    {
+      "id": 29,
+      "tierGroupKey": "BossGold",
+      "tier": 29,
+      "attrScale": 300,
+      "rewardGroupKey": "gold_tier_29"
+    },
+    {
+      "id": 30,
+      "tierGroupKey": "BossGold",
+      "tier": 30,
+      "attrScale": 312,
+      "rewardGroupKey": "gold_tier_30"
+    },
+    {
+      "id": 31,
+      "tierGroupKey": "BossGold",
+      "tier": 31,
+      "attrScale": 324,
+      "rewardGroupKey": "gold_tier_31"
+    },
+    {
+      "id": 32,
+      "tierGroupKey": "BossGold",
+      "tier": 32,
+      "attrScale": 337,
+      "rewardGroupKey": "gold_tier_32"
+    },
+    {
+      "id": 33,
+      "tierGroupKey": "BossGold",
+      "tier": 33,
+      "attrScale": 351,
+      "rewardGroupKey": "gold_tier_33"
+    },
+    {
+      "id": 34,
+      "tierGroupKey": "BossGold",
+      "tier": 34,
+      "attrScale": 365,
+      "rewardGroupKey": "gold_tier_34"
+    },
+    {
+      "id": 35,
+      "tierGroupKey": "BossGold",
+      "tier": 35,
+      "attrScale": 379,
+      "rewardGroupKey": "gold_tier_35"
+    },
+    {
+      "id": 36,
+      "tierGroupKey": "BossGold",
+      "tier": 36,
+      "attrScale": 395,
+      "rewardGroupKey": "gold_tier_36"
+    },
+    {
+      "id": 37,
+      "tierGroupKey": "BossGold",
+      "tier": 37,
+      "attrScale": 410,
+      "rewardGroupKey": "gold_tier_37"
+    },
+    {
+      "id": 38,
+      "tierGroupKey": "BossGold",
+      "tier": 38,
+      "attrScale": 427,
+      "rewardGroupKey": "gold_tier_38"
+    },
+    {
+      "id": 39,
+      "tierGroupKey": "BossGold",
+      "tier": 39,
+      "attrScale": 444,
+      "rewardGroupKey": "gold_tier_39"
+    },
+    {
+      "id": 40,
+      "tierGroupKey": "BossGold",
+      "tier": 40,
+      "attrScale": 462,
+      "rewardGroupKey": "gold_tier_40"
+    },
+    {
+      "id": 41,
+      "tierGroupKey": "BossGold",
+      "tier": 41,
+      "attrScale": 480,
+      "rewardGroupKey": "gold_tier_41"
+    },
+    {
+      "id": 42,
+      "tierGroupKey": "BossGold",
+      "tier": 42,
+      "attrScale": 499,
+      "rewardGroupKey": "gold_tier_42"
+    },
+    {
+      "id": 43,
+      "tierGroupKey": "BossGold",
+      "tier": 43,
+      "attrScale": 519,
+      "rewardGroupKey": "gold_tier_43"
+    },
+    {
+      "id": 44,
+      "tierGroupKey": "BossGold",
+      "tier": 44,
+      "attrScale": 540,
+      "rewardGroupKey": "gold_tier_44"
+    },
+    {
+      "id": 45,
+      "tierGroupKey": "BossGold",
+      "tier": 45,
+      "attrScale": 562,
+      "rewardGroupKey": "gold_tier_45"
+    },
+    {
+      "id": 46,
+      "tierGroupKey": "BossGold",
+      "tier": 46,
+      "attrScale": 584,
+      "rewardGroupKey": "gold_tier_46"
+    },
+    {
+      "id": 47,
+      "tierGroupKey": "BossGold",
+      "tier": 47,
+      "attrScale": 607,
+      "rewardGroupKey": "gold_tier_47"
+    },
+    {
+      "id": 48,
+      "tierGroupKey": "BossGold",
+      "tier": 48,
+      "attrScale": 632,
+      "rewardGroupKey": "gold_tier_48"
+    },
+    {
+      "id": 49,
+      "tierGroupKey": "BossGold",
+      "tier": 49,
+      "attrScale": 657,
+      "rewardGroupKey": "gold_tier_49"
+    },
+    {
+      "id": 50,
+      "tierGroupKey": "BossGold",
+      "tier": 50,
+      "attrScale": 683,
+      "rewardGroupKey": "gold_tier_50"
+    },
+    {
+      "id": 51,
+      "tierGroupKey": "BossGold",
+      "tier": 51,
+      "attrScale": 745,
+      "rewardGroupKey": "gold_tier_51"
+    },
+    {
+      "id": 52,
+      "tierGroupKey": "BossGold",
+      "tier": 52,
+      "attrScale": 812,
+      "rewardGroupKey": "gold_tier_52"
+    },
+    {
+      "id": 53,
+      "tierGroupKey": "BossGold",
+      "tier": 53,
+      "attrScale": 885,
+      "rewardGroupKey": "gold_tier_53"
+    },
+    {
+      "id": 54,
+      "tierGroupKey": "BossGold",
+      "tier": 54,
+      "attrScale": 965,
+      "rewardGroupKey": "gold_tier_54"
+    },
+    {
+      "id": 55,
+      "tierGroupKey": "BossGold",
+      "tier": 55,
+      "attrScale": 1051,
+      "rewardGroupKey": "gold_tier_55"
+    },
+    {
+      "id": 56,
+      "tierGroupKey": "BossGold",
+      "tier": 56,
+      "attrScale": 1146,
+      "rewardGroupKey": "gold_tier_56"
+    },
+    {
+      "id": 57,
+      "tierGroupKey": "BossGold",
+      "tier": 57,
+      "attrScale": 1249,
+      "rewardGroupKey": "gold_tier_57"
+    },
+    {
+      "id": 58,
+      "tierGroupKey": "BossGold",
+      "tier": 58,
+      "attrScale": 1362,
+      "rewardGroupKey": "gold_tier_58"
+    },
+    {
+      "id": 59,
+      "tierGroupKey": "BossGold",
+      "tier": 59,
+      "attrScale": 1484,
+      "rewardGroupKey": "gold_tier_59"
+    },
+    {
+      "id": 60,
+      "tierGroupKey": "BossGold",
+      "tier": 60,
+      "attrScale": 1618,
+      "rewardGroupKey": "gold_tier_60"
+    },
+    {
+      "id": 61,
+      "tierGroupKey": "BossGold",
+      "tier": 61,
+      "attrScale": 1763,
+      "rewardGroupKey": "gold_tier_61"
+    },
+    {
+      "id": 62,
+      "tierGroupKey": "BossGold",
+      "tier": 62,
+      "attrScale": 1922,
+      "rewardGroupKey": "gold_tier_62"
+    },
+    {
+      "id": 63,
+      "tierGroupKey": "BossGold",
+      "tier": 63,
+      "attrScale": 2095,
+      "rewardGroupKey": "gold_tier_63"
+    },
+    {
+      "id": 64,
+      "tierGroupKey": "BossGold",
+      "tier": 64,
+      "attrScale": 2284,
+      "rewardGroupKey": "gold_tier_64"
+    },
+    {
+      "id": 65,
+      "tierGroupKey": "BossGold",
+      "tier": 65,
+      "attrScale": 2489,
+      "rewardGroupKey": "gold_tier_65"
+    },
+    {
+      "id": 66,
+      "tierGroupKey": "BossGold",
+      "tier": 66,
+      "attrScale": 2713,
+      "rewardGroupKey": "gold_tier_66"
+    },
+    {
+      "id": 67,
+      "tierGroupKey": "BossGold",
+      "tier": 67,
+      "attrScale": 2957,
+      "rewardGroupKey": "gold_tier_67"
+    },
+    {
+      "id": 68,
+      "tierGroupKey": "BossGold",
+      "tier": 68,
+      "attrScale": 3223,
+      "rewardGroupKey": "gold_tier_68"
+    },
+    {
+      "id": 69,
+      "tierGroupKey": "BossGold",
+      "tier": 69,
+      "attrScale": 3513,
+      "rewardGroupKey": "gold_tier_69"
+    },
+    {
+      "id": 70,
+      "tierGroupKey": "BossGold",
+      "tier": 70,
+      "attrScale": 3830,
+      "rewardGroupKey": "gold_tier_70"
+    },
+    {
+      "id": 71,
+      "tierGroupKey": "BossGold",
+      "tier": 71,
+      "attrScale": 4174,
+      "rewardGroupKey": "gold_tier_71"
+    },
+    {
+      "id": 72,
+      "tierGroupKey": "BossGold",
+      "tier": 72,
+      "attrScale": 4550,
+      "rewardGroupKey": "gold_tier_72"
+    },
+    {
+      "id": 73,
+      "tierGroupKey": "BossGold",
+      "tier": 73,
+      "attrScale": 4960,
+      "rewardGroupKey": "gold_tier_73"
+    },
+    {
+      "id": 74,
+      "tierGroupKey": "BossGold",
+      "tier": 74,
+      "attrScale": 5406,
+      "rewardGroupKey": "gold_tier_74"
+    },
+    {
+      "id": 75,
+      "tierGroupKey": "BossGold",
+      "tier": 75,
+      "attrScale": 5892,
+      "rewardGroupKey": "gold_tier_75"
+    },
+    {
+      "id": 76,
+      "tierGroupKey": "BossGold",
+      "tier": 76,
+      "attrScale": 6423,
+      "rewardGroupKey": "gold_tier_76"
+    },
+    {
+      "id": 77,
+      "tierGroupKey": "BossGold",
+      "tier": 77,
+      "attrScale": 7001,
+      "rewardGroupKey": "gold_tier_77"
+    },
+    {
+      "id": 78,
+      "tierGroupKey": "BossGold",
+      "tier": 78,
+      "attrScale": 7631,
+      "rewardGroupKey": "gold_tier_78"
+    },
+    {
+      "id": 79,
+      "tierGroupKey": "BossGold",
+      "tier": 79,
+      "attrScale": 8318,
+      "rewardGroupKey": "gold_tier_79"
+    },
+    {
+      "id": 80,
+      "tierGroupKey": "BossGold",
+      "tier": 80,
+      "attrScale": 9066,
+      "rewardGroupKey": "gold_tier_80"
+    },
+    {
+      "id": 81,
+      "tierGroupKey": "BossGold",
+      "tier": 81,
+      "attrScale": 9882,
+      "rewardGroupKey": "gold_tier_81"
+    },
+    {
+      "id": 82,
+      "tierGroupKey": "BossGold",
+      "tier": 82,
+      "attrScale": 10772,
+      "rewardGroupKey": "gold_tier_82"
+    },
+    {
+      "id": 83,
+      "tierGroupKey": "BossGold",
+      "tier": 83,
+      "attrScale": 11741,
+      "rewardGroupKey": "gold_tier_83"
+    },
+    {
+      "id": 84,
+      "tierGroupKey": "BossGold",
+      "tier": 84,
+      "attrScale": 12798,
+      "rewardGroupKey": "gold_tier_84"
+    },
+    {
+      "id": 85,
+      "tierGroupKey": "BossGold",
+      "tier": 85,
+      "attrScale": 13950,
+      "rewardGroupKey": "gold_tier_85"
+    },
+    {
+      "id": 86,
+      "tierGroupKey": "BossGold",
+      "tier": 86,
+      "attrScale": 15205,
+      "rewardGroupKey": "gold_tier_86"
+    },
+    {
+      "id": 87,
+      "tierGroupKey": "BossGold",
+      "tier": 87,
+      "attrScale": 16573,
+      "rewardGroupKey": "gold_tier_87"
+    },
+    {
+      "id": 88,
+      "tierGroupKey": "BossGold",
+      "tier": 88,
+      "attrScale": 18065,
+      "rewardGroupKey": "gold_tier_88"
+    },
+    {
+      "id": 89,
+      "tierGroupKey": "BossGold",
+      "tier": 89,
+      "attrScale": 19691,
+      "rewardGroupKey": "gold_tier_89"
+    },
+    {
+      "id": 90,
+      "tierGroupKey": "BossGold",
+      "tier": 90,
+      "attrScale": 21463,
+      "rewardGroupKey": "gold_tier_90"
+    },
+    {
+      "id": 91,
+      "tierGroupKey": "BossGold",
+      "tier": 91,
+      "attrScale": 23395,
+      "rewardGroupKey": "gold_tier_91"
+    },
+    {
+      "id": 92,
+      "tierGroupKey": "BossGold",
+      "tier": 92,
+      "attrScale": 25500,
+      "rewardGroupKey": "gold_tier_92"
+    },
+    {
+      "id": 93,
+      "tierGroupKey": "BossGold",
+      "tier": 93,
+      "attrScale": 27795,
+      "rewardGroupKey": "gold_tier_93"
+    },
+    {
+      "id": 94,
+      "tierGroupKey": "BossGold",
+      "tier": 94,
+      "attrScale": 30297,
+      "rewardGroupKey": "gold_tier_94"
+    },
+    {
+      "id": 95,
+      "tierGroupKey": "BossGold",
+      "tier": 95,
+      "attrScale": 33024,
+      "rewardGroupKey": "gold_tier_95"
+    },
+    {
+      "id": 96,
+      "tierGroupKey": "BossGold",
+      "tier": 96,
+      "attrScale": 35996,
+      "rewardGroupKey": "gold_tier_96"
+    },
+    {
+      "id": 97,
+      "tierGroupKey": "BossGold",
+      "tier": 97,
+      "attrScale": 39235,
+      "rewardGroupKey": "gold_tier_97"
+    },
+    {
+      "id": 98,
+      "tierGroupKey": "BossGold",
+      "tier": 98,
+      "attrScale": 42767,
+      "rewardGroupKey": "gold_tier_98"
+    },
+    {
+      "id": 99,
+      "tierGroupKey": "BossGold",
+      "tier": 99,
+      "attrScale": 46616,
+      "rewardGroupKey": "gold_tier_99"
+    },
+    {
+      "id": 100,
+      "tierGroupKey": "BossGold",
+      "tier": 100,
+      "attrScale": 50811,
+      "rewardGroupKey": "gold_tier_100"
+    }
+  ]
+}

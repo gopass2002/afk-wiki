@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 117,
+    "schema": "FBDataStringStatus",
+    "sourceAsset": "FBDataStringStatus_en",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "1100",
+      "value": "You can't equip this item."
+    },
+    {
+      "id": 2,
+      "key": "1200",
+      "value": "You're a little short on currency."
+    },
+    {
+      "id": 3,
+      "key": "1203",
+      "value": "You're a little short on Silver."
+    },
+    {
+      "id": 4,
+      "key": "1301",
+      "value": "Your bag can't be expanded any further."
+    },
+    {
+      "id": 5,
+      "key": "1400",
+      "value": "That nickname is already taken."
+    },
+    {
+      "id": 6,
+      "key": "1410",
+      "value": "That nickname can't be used."
+    },
+    {
+      "id": 7,
+      "key": "1502",
+      "value": "Already at the max enhancement level."
+    },
+    {
+      "id": 8,
+      "key": "1001",
+      "value": "You need a little more {0}."
+    },
+    {
+      "id": 9,
+      "key": "1600",
+      "value": "Quests with cutscenes can't be skipped."
+    },
+    {
+      "id": 10,
+      "key": "1701",
+      "value": "This item can't be refined."
+    },
+    {
+      "id": 11,
+      "key": "1901",
+      "value": "This martial art is on cooldown."
+    },
+    {
+      "id": 12,
+      "key": "1902",
+      "value": "You can't use this martial art with your current weapon."
+    },
+    {
+      "id": 13,
+      "key": "1304",
+      "value": "Your bag just got bigger!"
+    },
+    {
+      "id": 14,
+      "key": "1305",
+      "value": "Bag expansion failed. Please try again."
+    },
+    {
+      "id": 15,
+      "key": "1412",
+      "value": "Failed to set your nickname. Please try again."
+    },
+    {
+      "id": 16,
+      "key": "1903",
+      "value": "You're a little short on SP."
+    },
+    {
+      "id": 17,
+      "key": "1904",
+      "value": "Equip a martial art first."
+    },
+    {
+      "id": 18,
+      "key": "1905",
+      "value": "Unlocks when you reach the {0} realm."
+    },
+    {
+      "id": 19,
+      "key": "1906",
+      "value": "Already equipped."
+    },
+    {
+      "id": 20,
+      "key": "1907",
+      "value": "You can't change this during cooldown."
+    },
+    {
+      "id": 21,
+      "key": "1908",
+      "value": "You can't equip this."
+    },
+    {
+      "id": 22,
+      "key": "2000",
+      "value": "You're already in this zone."
+    },
+    {
+      "id": 23,
+      "key": "2001",
+      "value": "This zone is coming soon. Stay tuned!"
+    },
+    {
+      "id": 24,
+      "key": "2100",
+      "value": "Done!"
+    },
+    {
+      "id": 25,
+      "key": "1000",
+      "value": "Coming in an update soon. Stay tuned!"
+    },
+    {
+      "id": 27,
+      "key": "1306",
+      "value": "Your bag is full. Make some room and try again."
+    },
+    {
+      "id": 28,
+      "key": "1504",
+      "value": "Choose a martial art to enhance."
+    },
+    {
+      "id": 29,
+      "key": "1204",
+      "value": "You're a little short on Spirit Stones."
+    },
+    {
+      "id": 30,
+      "key": "1205",
+      "value": "You're a little short on Jade."
+    },
+    {
+      "id": 31,
+      "key": "1206",
+      "value": "You're a little short on Martial Art Summon Tickets."
+    },
+    {
+      "id": 94,
+      "key": "2410",
+      "value": "You've used all of today's exchange limit."
+    },
+    {
+      "id": 32,
+      "key": "2500",
+      "value": "Your storage is full."
+    },
+    {
+      "id": 33,
+      "key": "2501",
+      "value": "Gourmet Pioneering is at max level."
+    },
+    {
+      "id": 34,
+      "key": "2502",
+      "value": "You're a little short on Gourmet EXP."
+    },
+    {
+      "id": 35,
+      "key": "1207",
+      "value": "You're a little short on Sparks of Inspiration."
+    },
+    {
+      "id": 36,
+      "key": "2503",
+      "value": "A level-up is already in progress."
+    },
+    {
+      "id": 37,
+      "key": "2504",
+      "value": "Start a level-up first."
+    },
+    {
+      "id": 38,
+      "key": "2505",
+      "value": "Just a little longer until level-up."
+    },
+    {
+      "id": 39,
+      "key": "2506",
+      "value": "This setting isn't unlocked yet."
+    },
+    {
+      "id": 40,
+      "key": "1300",
+      "value": "Your bag is full."
+    },
+    {
+      "id": 41,
+      "key": "2507",
+      "value": "I'll handle the cooking. Take a rest!"
+    },
+    {
+      "id": 42,
+      "key": "2508",
+      "value": "No rewards to claim."
+    },
+    {
+      "id": 43,
+      "key": "2600",
+      "value": "You can't enter the cutscene zone."
+    },
+    {
+      "id": 45,
+      "key": "1208",
+      "value": "{0} is full."
+    },
+    {
+      "id": 46,
+      "key": "1909",
+      "value": "You haven't obtained this martial art yet."
+    },
+    {
+      "id": 48,
+      "key": "2701",
+      "value": "You have used all your entry time. Please try again tomorrow."
+    },
+    {
+      "id": 49,
+      "key": "2002",
+      "value": "This region is locked."
+    },
+    {
+      "id": 53,
+      "key": "2403",
+      "value": "This item can't be sold."
+    },
+    {
+      "id": 54,
+      "key": "2404",
+      "value": "This buyback item is no longer available."
+    },
+    {
+      "id": 56,
+      "key": "2702",
+      "value": "You can't use this in the current map."
+    },
+    {
+      "id": 65,
+      "key": "2101",
+      "value": "Reset complete!"
+    },
+    {
+      "id": 66,
+      "key": "2406",
+      "value": "That's the most you can buy at once."
+    },
+    {
+      "id": 67,
+      "key": "2407",
+      "value": "You can only select up to the amount you own."
+    },
+    {
+      "id": 68,
+      "key": "2408",
+      "value": "The quantity can't go any lower."
+    },
+    {
+      "id": 69,
+      "key": "1307",
+      "value": "This item is locked."
+    },
+    {
+      "id": 70,
+      "key": "1413",
+      "value": "That name contains a word you can't use."
+    },
+    {
+      "id": 71,
+      "key": "2703",
+      "value": "Reach Lv.{0} to challenge this difficulty."
+    },
+    {
+      "id": 72,
+      "key": "3200",
+      "value": "This listing has already been sold or expired."
+    },
+    {
+      "id": 73,
+      "key": "3201",
+      "value": "This listing has already been sold or expired."
+    },
+    {
+      "id": 74,
+      "key": "3202",
+      "value": "Something went wrong. Please try again."
+    },
+    {
+      "id": 75,
+      "key": "3203",
+      "value": "You can't buy your own listing."
+    },
+    {
+      "id": 76,
+      "key": "3204",
+      "value": "Something went wrong. Please try again."
+    },
+    {
+      "id": 77,
+      "key": "3205",
+      "value": "This item can't be traded."
+    },
+    {
+      "id": 78,
+      "key": "3206",
+      "value": "This item can't be traded any more."
+    },
+    {
+      "id": 79,
+      "key": "3207",
+      "value": "Your listing slots are full."
+    },
+    {
+      "id": 80,
+      "key": "3208",
+      "value": "That price isn't allowed."
+    },
+    {
+      "id": 81,
+      "key": "3209",
+      "value": "Something went wrong. Please try again."
+    },
+    {
+      "id": 82,
+      "key": "3210",
+      "value": "Something went wrong. Please try again."
+    },
+    {
+      "id": 83,
+      "key": "3211",
+      "value": "This expired and can no longer be claimed."
+    },
+    {
+      "id": 84,
+      "key": "3212",
+      "value": "This isn't your listing."
+    },
+    {
+      "id": 85,
+      "key": "3213",
+      "value": "The auction house isn't open yet."
+    },
+    {
+      "id": 86,
+      "key": "3214",
+      "value": "This item can't be listed right now."
+    },
+    {
+      "id": 87,
+      "key": "3215",
+      "value": "This is temporarily unavailable."
+    },
+    {
+      "id": 88,
+      "key": "3216",
+      "value": "Unlock selling first."
+    },
+    {
+      "id": 89,
+      "key": "2409",
+      "value": "You already own this."
+    },
+    {
+      "id": 90,
+      "key": "1209",
+      "value": "You're a little short on Trade Coins."
+    },
+    {
+      "id": 91,
+      "key": "3217",
+      "value": "Please wait a moment."
+    },
+    {
+      "id": 92,
+      "key": "3218",
+      "value": "There is nothing to claim."
+    },
+    {
+      "id": 93,
+      "key": "3219",
+      "value": "Purchase complete!\nClaim it from the Completed tab."
+    },
+    {
+      "id": 95,
+      "key": "3300",
+      "value": "That clan no longer exists."
+    },
+    {
+      "id": 96,
+      "key": "3301",
+      "value": "You already belong to a clan."
+    },
+    {
+      "id": 97,
+      "key": "3302",
+      "value": "You aren't in a clan."
+    },
+    {
+      "id": 98,
+      "key": "3303",
+      "value": "That clan name is taken."
+    },
+    {
+      "id": 99,
+      "key": "3304",
+      "value": "That clan name can't be used."
+    },
+    {
+      "id": 100,
+      "key": "3305",
+      "value": "That name contains a blocked word."
+    },
+    {
+      "id": 101,
+      "key": "3306",
+      "value": "You need a higher level to found a clan."
+    },
+    {
+      "id": 102,
+      "key": "3307",
+      "value": "That clan is full."
+    },
+    {
+      "id": 103,
+      "key": "3308",
+      "value": "You don't meet the join requirement."
+    },
+    {
+      "id": 104,
+      "key": "3309",
+      "value": "You can join a clan in {0} hour(s)."
+    },
+    {
+      "id": 105,
+      "key": "3310",
+      "value": "You already applied to that clan."
+    },
+    {
+      "id": 106,
+      "key": "3311",
+      "value": "That application is gone."
+    },
+    {
+      "id": 107,
+      "key": "3312",
+      "value": "You can't apply to any more clans."
+    },
+    {
+      "id": 108,
+      "key": "3313",
+      "value": "You don't have permission."
+    },
+    {
+      "id": 109,
+      "key": "3314",
+      "value": "That member is no longer in the clan."
+    },
+    {
+      "id": 110,
+      "key": "3315",
+      "value": "There are no elder slots left."
+    },
+    {
+      "id": 111,
+      "key": "3316",
+      "value": "They already hold that rank."
+    },
+    {
+      "id": 112,
+      "key": "3317",
+      "value": "You can't do that to yourself."
+    },
+    {
+      "id": 113,
+      "key": "3318",
+      "value": "A leader must transfer or disband first."
+    },
+    {
+      "id": 114,
+      "key": "3319",
+      "value": "You can only disband when alone."
+    },
+    {
+      "id": 115,
+      "key": "3320",
+      "value": "Transferring leadership failed."
+    },
+    {
+      "id": 116,
+      "key": "3321",
+      "value": "That clan uses a different join method."
+    },
+    {
+      "id": 117,
+      "key": "3322",
+      "value": "That text is too long."
+    },
+    {
+      "id": 118,
+      "key": "3323",
+      "value": "You can't donate that."
+    },
+    {
+      "id": 119,
+      "key": "3324",
+      "value": "You've used all of today's donations."
+    },
+    {
+      "id": 120,
+      "key": "3325",
+      "value": "You can't pick that emblem."
+    },
+    {
+      "id": 121,
+      "key": "3326",
+      "value": "That text isn't allowed."
+    },
+    {
+      "id": 122,
+      "key": "3400",
+      "value": "No user with that name."
+    },
+    {
+      "id": 123,
+      "key": "3401",
+      "value": "{0} isn't online."
+    },
+    {
+      "id": 124,
+      "key": "3504",
+      "value": "This slot isn't unlocked yet."
+    },
+    {
+      "id": 125,
+      "key": "3505",
+      "value": "This slot already has a record."
+    },
+    {
+      "id": 126,
+      "key": "3506",
+      "value": "This slot has no saved appearance."
+    },
+    {
+      "id": 127,
+      "key": "3507",
+      "value": "You can't expand any further."
+    },
+    {
+      "id": 128,
+      "key": "2803",
+      "value": "You haven't completed the mission yet."
+    },
+    {
+      "id": 129,
+      "key": "2802",
+      "value": "You've already claimed this reward."
+    },
+    {
+      "id": 130,
+      "key": "2800",
+      "value": "This event has ended."
+    },
+    {
+      "id": 131,
+      "key": "3508",
+      "value": "You can't hold any more appearances."
+    },
+    {
+      "id": 132,
+      "key": "3327",
+      "value": "Clans aren't available yet."
+    }
+  ]
+}

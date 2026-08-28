@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 35,
+    "schema": "FBDataStringAttributeList",
+    "sourceAsset": "FBDataStringAttributeList_ko",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "key": "Attribute_STR",
+      "value": "힘"
+    },
+    {
+      "id": 2,
+      "key": "Attribute_VIT",
+      "value": "체력"
+    },
+    {
+      "id": 3,
+      "key": "Attribute_AGI",
+      "value": "민첩"
+    },
+    {
+      "id": 4,
+      "key": "Attribute_SPI",
+      "value": "내력"
+    },
+    {
+      "id": 5,
+      "key": "Attribute_STR_PER",
+      "value": "힘 증가%"
+    },
+    {
+      "id": 6,
+      "key": "Attribute_VIT_PER",
+      "value": "체력 증가%"
+    },
+    {
+      "id": 7,
+      "key": "Attribute_AGI_PER",
+      "value": "민첩 증가%"
+    },
+    {
+      "id": 8,
+      "key": "Attribute_SPI_PER",
+      "value": "내력 증가%"
+    },
+    {
+      "id": 101,
+      "key": "Attribute_ATK",
+      "value": "공격력"
+    },
+    {
+      "id": 102,
+      "key": "Attribute_DEF",
+      "value": "방어력"
+    },
+    {
+      "id": 103,
+      "key": "Attribute_CRIT_RATE",
+      "value": "치명타 확률%"
+    },
+    {
+      "id": 104,
+      "key": "Attribute_CRIT_DMG",
+      "value": "치명타 피해%"
+    },
+    {
+      "id": 105,
+      "key": "Attribute_MAX_HP",
+      "value": "최대 생명력"
+    },
+    {
+      "id": 106,
+      "key": "Attribute_PEN",
+      "value": "방어 관통"
+    },
+    {
+      "id": 107,
+      "key": "Attribute_HP_REGEN",
+      "value": "생명력 회복"
+    },
+    {
+      "id": 108,
+      "key": "Attribute_MAX_SP",
+      "value": "최대 정신력"
+    },
+    {
+      "id": 109,
+      "key": "Attribute_SP_REGEN",
+      "value": "정신력 회복"
+    },
+    {
+      "id": 110,
+      "key": "Attribute_SKILL_AMP",
+      "value": "무공 위력%"
+    },
+    {
+      "id": 111,
+      "key": "Attribute_ATK_PER",
+      "value": "공격력 증가%"
+    },
+    {
+      "id": 112,
+      "key": "Attribute_DEF_PER",
+      "value": "방어력 증가%"
+    },
+    {
+      "id": 113,
+      "key": "Attribute_MAX_HP_PER",
+      "value": "최대 생명력 증가%"
+    },
+    {
+      "id": 114,
+      "key": "Attribute_MAX_SP_PER",
+      "value": "최대 정신력 증가%"
+    },
+    {
+      "id": 115,
+      "key": "Attribute_HP_REGEN_PER",
+      "value": "생명력 회복 증가%"
+    },
+    {
+      "id": 116,
+      "key": "Attribute_SP_REGEN_PER",
+      "value": "정신력 회복 증가%"
+    },
+    {
+      "id": 201,
+      "key": "Attribute_HIT",
+      "value": "명중"
+    },
+    {
+      "id": 202,
+      "key": "Attribute_EVA",
+      "value": "회피"
+    },
+    {
+      "id": 203,
+      "key": "Attribute_ATK_SPD",
+      "value": "공격 속도 증가%"
+    },
+    {
+      "id": 204,
+      "key": "Attribute_FINAL_DMG_BONUS",
+      "value": "최종 피해 증가%"
+    },
+    {
+      "id": 205,
+      "key": "Attribute_BOSS_DMG_BONUS",
+      "value": "보스 피해 증가%"
+    },
+    {
+      "id": 206,
+      "key": "Attribute_PVP_DMG_BONUS",
+      "value": "대인 피해 증가%"
+    },
+    {
+      "id": 207,
+      "key": "Attribute_EXP_BONUS",
+      "value": "경험치 획득 증가%"
+    },
+    {
+      "id": 208,
+      "key": "Attribute_GOLD_BONUS",
+      "value": "은량 획득 증가%"
+    },
+    {
+      "id": 209,
+      "key": "Attribute_COOLDOWN_REDUCE",
+      "value": "무공 쿨타임 감소%"
+    },
+    {
+      "id": 210,
+      "key": "Attribute_POTION_BONUS",
+      "value": "물약 회복 증가%"
+    },
+    {
+      "id": 211,
+      "key": "Attribute_MOVE_SPEED",
+      "value": "이동 속도 증가%"
+    }
+  ]
+}

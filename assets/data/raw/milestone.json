@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 1,
+    "schema": "FBDataMilestone",
+    "sourceAsset": "FBDataMilestone",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "category": "Equipment",
+      "requiredCount": 20,
+      "rewardGroupKey": "reward_equipment_20"
+    }
+  ]
+}

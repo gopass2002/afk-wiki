@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 40,
+    "schema": "FBDataContentUnlock",
+    "sourceAsset": "FBDataContentUnlock",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "contentKey": "Character",
+      "triggerType": "QuestComplete",
+      "triggerValue": 3,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 2,
+      "contentKey": "Promotion",
+      "triggerType": "QuestComplete",
+      "triggerValue": 4,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 3,
+      "contentKey": "Skill",
+      "triggerType": "QuestComplete",
+      "triggerValue": 7,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 4,
+      "contentKey": "SkillGacha",
+      "triggerType": "QuestComplete",
+      "triggerValue": 8,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 5,
+      "contentKey": "SkillUpgrade",
+      "triggerType": "QuestComplete",
+      "triggerValue": 9,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 6,
+      "contentKey": "Bag",
+      "triggerType": "QuestComplete",
+      "triggerValue": 11,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 7,
+      "contentKey": "Enhance",
+      "triggerType": "QuestAccept",
+      "triggerValue": 14,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 8,
+      "contentKey": "Refine",
+      "triggerType": "QuestComplete",
+      "triggerValue": 23,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 9,
+      "contentKey": "Collection",
+      "triggerType": "QuestComplete",
+      "triggerValue": 31,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 10,
+      "contentKey": "WorldMap",
+      "triggerType": "QuestComplete",
+      "triggerValue": 43,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 11,
+      "contentKey": "Chapter1",
+      "triggerType": "QuestComplete",
+      "triggerValue": 43,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 12,
+      "contentKey": "Chapter2",
+      "triggerType": "QuestComplete",
+      "triggerValue": 84,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 13,
+      "contentKey": "Chapter3",
+      "triggerType": "QuestComplete",
+      "triggerValue": 242,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 14,
+      "contentKey": "Chapter4",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 15,
+      "contentKey": "Chapter5",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 16,
+      "contentKey": "Chapter6",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 17,
+      "contentKey": "Chapter7",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 18,
+      "contentKey": "Chapter8",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 19,
+      "contentKey": "Cultivation",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 20,
+      "contentKey": "Pet",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 21,
+      "contentKey": "PetUpgrade",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 22,
+      "contentKey": "PetGacha",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 23,
+      "contentKey": "Restaurant",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 24,
+      "contentKey": "Challenge",
+      "triggerType": "QuestComplete",
+      "triggerValue": 58,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 25,
+      "contentKey": "FoodFest",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 26,
+      "contentKey": "Tournament",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 27,
+      "contentKey": "Affinity",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 28,
+      "contentKey": "Clan",
+      "triggerType": "Level",
+      "triggerValue": 10,
+      "descKey": "ContentUnlockRequireLevel",
+      "notReady": false
+    },
+    {
+      "id": 29,
+      "contentKey": "ClanWar",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 30,
+      "contentKey": "Attendance",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 31,
+      "contentKey": "Event",
+      "triggerType": "QuestAccept",
+      "triggerValue": 1,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 32,
+      "contentKey": "Notice",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 33,
+      "contentKey": "CustomerService",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 34,
+      "contentKey": "Auction",
+      "triggerType": "Level",
+      "triggerValue": 10,
+      "descKey": "ContentUnlockRequireLevel",
+      "notReady": false
+    },
+    {
+      "id": 35,
+      "contentKey": "Trade",
+      "triggerType": "",
+      "triggerValue": 0,
+      "descKey": "",
+      "notReady": true
+    },
+    {
+      "id": 36,
+      "contentKey": "CookAuto",
+      "triggerType": "QuestAccept",
+      "triggerValue": 20,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 37,
+      "contentKey": "CookMain",
+      "triggerType": "QuestAccept",
+      "triggerValue": 20,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 38,
+      "contentKey": "WolfField",
+      "triggerType": "QuestAccept",
+      "triggerValue": 437,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 39,
+      "contentKey": "Potion",
+      "triggerType": "QuestAccept",
+      "triggerValue": 86,
+      "descKey": "ContentUnlockQuestAccept",
+      "notReady": false
+    },
+    {
+      "id": 40,
+      "contentKey": "SimmaField",
+      "triggerType": "QuestComplete",
+      "triggerValue": 432,
+      "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    }
+  ]
+}

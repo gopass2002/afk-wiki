@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 100,
+    "schema": "FBDataDailyDungeonBossReward",
+    "sourceAsset": "FBDataDailyDungeonBossReward",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "rewardGroupKey": "gold_tier_1",
+      "itemId": 1,
+      "itemAmount": 50000
+    },
+    {
+      "id": 2,
+      "rewardGroupKey": "gold_tier_2",
+      "itemId": 1,
+      "itemAmount": 55000
+    },
+    {
+      "id": 3,
+      "rewardGroupKey": "gold_tier_3",
+      "itemId": 1,
+      "itemAmount": 60000
+    },
+    {
+      "id": 4,
+      "rewardGroupKey": "gold_tier_4",
+      "itemId": 1,
+      "itemAmount": 65000
+    },
+    {
+      "id": 5,
+      "rewardGroupKey": "gold_tier_5",
+      "itemId": 1,
+      "itemAmount": 70000
+    },
+    {
+      "id": 6,
+      "rewardGroupKey": "gold_tier_6",
+      "itemId": 1,
+      "itemAmount": 75000
+    },
+    {
+      "id": 7,
+      "rewardGroupKey": "gold_tier_7",
+      "itemId": 1,
+      "itemAmount": 80000
+    },
+    {
+      "id": 8,
+      "rewardGroupKey": "gold_tier_8",
+      "itemId": 1,
+      "itemAmount": 85000
+    },
+    {
+      "id": 9,
+      "rewardGroupKey": "gold_tier_9",
+      "itemId": 1,
+      "itemAmount": 90000
+    },
+    {
+      "id": 10,
+      "rewardGroupKey": "gold_tier_10",
+      "itemId": 1,
+      "itemAmount": 95000
+    },
+    {
+      "id": 11,
+      "rewardGroupKey": "gold_tier_11",
+      "itemId": 1,
+      "itemAmount": 100000
+    },
+    {
+      "id": 12,
+      "rewardGroupKey": "gold_tier_12",
+      "itemId": 1,
+      "itemAmount": 105000
+    },
+    {
+      "id": 13,
+      "rewardGroupKey": "gold_tier_13",
+      "itemId": 1,
+      "itemAmount": 110000
+    },
+    {
+      "id": 14,
+      "rewardGroupKey": "gold_tier_14",
+      "itemId": 1,
+      "itemAmount": 115000
+    },
+    {
+      "id": 15,
+      "rewardGroupKey": "gold_tier_15",
+      "itemId": 1,
+      "itemAmount": 120000
+    },
+    {
+      "id": 16,
+      "rewardGroupKey": "gold_tier_16",
+      "itemId": 1,
+      "itemAmount": 125000
+    },
+    {
+      "id": 17,
+      "rewardGroupKey": "gold_tier_17",
+      "itemId": 1,
+      "itemAmount": 130000
+    },
+    {
+      "id": 18,
+      "rewardGroupKey": "gold_tier_18",
+      "itemId": 1,
+      "itemAmount": 135000
+    },
+    {
+      "id": 19,
+      "rewardGroupKey": "gold_tier_19",
+      "itemId": 1,
+      "itemAmount": 140000
+    },
+    {
+      "id": 20,
+      "rewardGroupKey": "gold_tier_20",
+      "itemId": 1,
+      "itemAmount": 145000
+    },
+    {
+      "id": 21,
+      "rewardGroupKey": "gold_tier_21",
+      "itemId": 1,
+      "itemAmount": 150000
+    },
+    {
+      "id": 22,
+      "rewardGroupKey": "gold_tier_22",
+      "itemId": 1,
+      "itemAmount": 155000
+    },
+    {
+      "id": 23,
+      "rewardGroupKey": "gold_tier_23",
+      "itemId": 1,
+      "itemAmount": 160000
+    },
+    {
+      "id": 24,
+      "rewardGroupKey": "gold_tier_24",
+      "itemId": 1,
+      "itemAmount": 165000
+    },
+    {
+      "id": 25,
+      "rewardGroupKey": "gold_tier_25",
+      "itemId": 1,
+      "itemAmount": 170000
+    },
+    {
+      "id": 26,
+      "rewardGroupKey": "gold_tier_26",
+      "itemId": 1,
+      "itemAmount": 175000
+    },
+    {
+      "id": 27,
+      "rewardGroupKey": "gold_tier_27",
+      "itemId": 1,
+      "itemAmount": 180000
+    },
+    {
+      "id": 28,
+      "rewardGroupKey": "gold_tier_28",
+      "itemId": 1,
+      "itemAmount": 185000
+    },
+    {
+      "id": 29,
+      "rewardGroupKey": "gold_tier_29",
+      "itemId": 1,
+      "itemAmount": 190000
+    },
+    {
+      "id": 30,
+      "rewardGroupKey": "gold_tier_30",
+      "itemId": 1,
+      "itemAmount": 195000
+    },
+    {
+      "id": 31,
+      "rewardGroupKey": "gold_tier_31",
+      "itemId": 1,
+      "itemAmount": 200000
+    },
+    {
+      "id": 32,
+      "rewardGroupKey": "gold_tier_32",
+      "itemId": 1,
+      "itemAmount": 205000
+    },
+    {
+      "id": 33,
+      "rewardGroupKey": "gold_tier_33",
+      "itemId": 1,
+      "itemAmount": 210000
+    },
+    {
+      "id": 34,
+      "rewardGroupKey": "gold_tier_34",
+      "itemId": 1,
+      "itemAmount": 215000
+    },
+    {
+      "id": 35,
+      "rewardGroupKey": "gold_tier_35",
+      "itemId": 1,
+      "itemAmount": 220000
+    },
+    {
+      "id": 36,
+      "rewardGroupKey": "gold_tier_36",
+      "itemId": 1,
+      "itemAmount": 225000
+    },
+    {
+      "id": 37,
+      "rewardGroupKey": "gold_tier_37",
+      "itemId": 1,
+      "itemAmount": 230000
+    },
+    {
+      "id": 38,
+      "rewardGroupKey": "gold_tier_38",
+      "itemId": 1,
+      "itemAmount": 235000
+    },
+    {
+      "id": 39,
+      "rewardGroupKey": "gold_tier_39",
+      "itemId": 1,
+      "itemAmount": 240000
+    },
+    {
+      "id": 40,
+      "rewardGroupKey": "gold_tier_40",
+      "itemId": 1,
+      "itemAmount": 245000
+    },
+    {
+      "id": 41,
+      "rewardGroupKey": "gold_tier_41",
+      "itemId": 1,
+      "itemAmount": 250000
+    },
+    {
+      "id": 42,
+      "rewardGroupKey": "gold_tier_42",
+      "itemId": 1,
+      "itemAmount": 255000
+    },
+    {
+      "id": 43,
+      "rewardGroupKey": "gold_tier_43",
+      "itemId": 1,
+      "itemAmount": 260000
+    },
+    {
+      "id": 44,
+      "rewardGroupKey": "gold_tier_44",
+      "itemId": 1,
+      "itemAmount": 265000
+    },
+    {
+      "id": 45,
+      "rewardGroupKey": "gold_tier_45",
+      "itemId": 1,
+      "itemAmount": 270000
+    },
+    {
+      "id": 46,
+      "rewardGroupKey": "gold_tier_46",
+      "itemId": 1,
+      "itemAmount": 275000
+    },
+    {
+      "id": 47,
+      "rewardGroupKey": "gold_tier_47",
+      "itemId": 1,
+      "itemAmount": 280000
+    },
+    {
+      "id": 48,
+      "rewardGroupKey": "gold_tier_48",
+      "itemId": 1,
+      "itemAmount": 285000
+    },
+    {
+      "id": 49,
+      "rewardGroupKey": "gold_tier_49",
+      "itemId": 1,
+      "itemAmount": 290000
+    },
+    {
+      "id": 50,
+      "rewardGroupKey": "gold_tier_50",
+      "itemId": 1,
+      "itemAmount": 295000
+    },
+    {
+      "id": 51,
+      "rewardGroupKey": "gold_tier_51",
+      "itemId": 1,
+      "itemAmount": 300000
+    },
+    {
+      "id": 52,
+      "rewardGroupKey": "gold_tier_52",
+      "itemId": 1,
+      "itemAmount": 305000
+    },
+    {
+      "id": 53,
+      "rewardGroupKey": "gold_tier_53",
+      "itemId": 1,
+      "itemAmount": 310000
+    },
+    {
+      "id": 54,
+      "rewardGroupKey": "gold_tier_54",
+      "itemId": 1,
+      "itemAmount": 315000
+    },
+    {
+      "id": 55,
+      "rewardGroupKey": "gold_tier_55",
+      "itemId": 1,
+      "itemAmount": 320000
+    },
+    {
+      "id": 56,
+      "rewardGroupKey": "gold_tier_56",
+      "itemId": 1,
+      "itemAmount": 325000
+    },
+    {
+      "id": 57,
+      "rewardGroupKey": "gold_tier_57",
+      "itemId": 1,
+      "itemAmount": 330000
+    },
+    {
+      "id": 58,
+      "rewardGroupKey": "gold_tier_58",
+      "itemId": 1,
+      "itemAmount": 335000
+    },
+    {
+      "id": 59,
+      "rewardGroupKey": "gold_tier_59",
+      "itemId": 1,
+      "itemAmount": 340000
+    },
+    {
+      "id": 60,
+      "rewardGroupKey": "gold_tier_60",
+      "itemId": 1,
+      "itemAmount": 345000
+    },
+    {
+      "id": 61,
+      "rewardGroupKey": "gold_tier_61",
+      "itemId": 1,
+      "itemAmount": 350000
+    },
+    {
+      "id": 62,
+      "rewardGroupKey": "gold_tier_62",
+      "itemId": 1,
+      "itemAmount": 355000
+    },
+    {
+      "id": 63,
+      "rewardGroupKey": "gold_tier_63",
+      "itemId": 1,
+      "itemAmount": 360000
+    },
+    {
+      "id": 64,
+      "rewardGroupKey": "gold_tier_64",
+      "itemId": 1,
+      "itemAmount": 365000
+    },
+    {
+      "id": 65,
+      "rewardGroupKey": "gold_tier_65",
+      "itemId": 1,
+      "itemAmount": 370000
+    },
+    {
+      "id": 66,
+      "rewardGroupKey": "gold_tier_66",
+      "itemId": 1,
+      "itemAmount": 375000
+    },
+    {
+      "id": 67,
+      "rewardGroupKey": "gold_tier_67",
+      "itemId": 1,
+      "itemAmount": 380000
+    },
+    {
+      "id": 68,
+      "rewardGroupKey": "gold_tier_68",
+      "itemId": 1,
+      "itemAmount": 385000
+    },
+    {
+      "id": 69,
+      "rewardGroupKey": "gold_tier_69",
+      "itemId": 1,
+      "itemAmount": 390000
+    },
+    {
+      "id": 70,
+      "rewardGroupKey": "gold_tier_70",
+      "itemId": 1,
+      "itemAmount": 395000
+    },
+    {
+      "id": 71,
+      "rewardGroupKey": "gold_tier_71",
+      "itemId": 1,
+      "itemAmount": 400000
+    },
+    {
+      "id": 72,
+      "rewardGroupKey": "gold_tier_72",
+      "itemId": 1,
+      "itemAmount": 405000
+    },
+    {
+      "id": 73,
+      "rewardGroupKey": "gold_tier_73",
+      "itemId": 1,
+      "itemAmount": 410000
+    },
+    {
+      "id": 74,
+      "rewardGroupKey": "gold_tier_74",
+      "itemId": 1,
+      "itemAmount": 415000
+    },
+    {
+      "id": 75,
+      "rewardGroupKey": "gold_tier_75",
+      "itemId": 1,
+      "itemAmount": 420000
+    },
+    {
+      "id": 76,
+      "rewardGroupKey": "gold_tier_76",
+      "itemId": 1,
+      "itemAmount": 425000
+    },
+    {
+      "id": 77,
+      "rewardGroupKey": "gold_tier_77",
+      "itemId": 1,
+      "itemAmount": 430000
+    },
+    {
+      "id": 78,
+      "rewardGroupKey": "gold_tier_78",
+      "itemId": 1,
+      "itemAmount": 435000
+    },
+    {
+      "id": 79,
+      "rewardGroupKey": "gold_tier_79",
+      "itemId": 1,
+      "itemAmount": 440000
+    },
+    {
+      "id": 80,
+      "rewardGroupKey": "gold_tier_80",
+      "itemId": 1,
+      "itemAmount": 445000
+    },
+    {
+      "id": 81,
+      "rewardGroupKey": "gold_tier_81",
+      "itemId": 1,
+      "itemAmount": 450000
+    },
+    {
+      "id": 82,
+      "rewardGroupKey": "gold_tier_82",
+      "itemId": 1,
+      "itemAmount": 455000
+    },
+    {
+      "id": 83,
+      "rewardGroupKey": "gold_tier_83",
+      "itemId": 1,
+      "itemAmount": 460000
+    },
+    {
+      "id": 84,
+      "rewardGroupKey": "gold_tier_84",
+      "itemId": 1,
+      "itemAmount": 465000
+    },
+    {
+      "id": 85,
+      "rewardGroupKey": "gold_tier_85",
+      "itemId": 1,
+      "itemAmount": 470000
+    },
+    {
+      "id": 86,
+      "rewardGroupKey": "gold_tier_86",
+      "itemId": 1,
+      "itemAmount": 475000
+    },
+    {
+      "id": 87,
+      "rewardGroupKey": "gold_tier_87",
+      "itemId": 1,
+      "itemAmount": 480000
+    },
+    {
+      "id": 88,
+      "rewardGroupKey": "gold_tier_88",
+      "itemId": 1,
+      "itemAmount": 485000
+    },
+    {
+      "id": 89,
+      "rewardGroupKey": "gold_tier_89",
+      "itemId": 1,
+      "itemAmount": 490000
+    },
+    {
+      "id": 90,
+      "rewardGroupKey": "gold_tier_90",
+      "itemId": 1,
+      "itemAmount": 495000
+    },
+    {
+      "id": 91,
+      "rewardGroupKey": "gold_tier_91",
+      "itemId": 1,
+      "itemAmount": 500000
+    },
+    {
+      "id": 92,
+      "rewardGroupKey": "gold_tier_92",
+      "itemId": 1,
+      "itemAmount": 505000
+    },
+    {
+      "id": 93,
+      "rewardGroupKey": "gold_tier_93",
+      "itemId": 1,
+      "itemAmount": 510000
+    },
+    {
+      "id": 94,
+      "rewardGroupKey": "gold_tier_94",
+      "itemId": 1,
+      "itemAmount": 515000
+    },
+    {
+      "id": 95,
+      "rewardGroupKey": "gold_tier_95",
+      "itemId": 1,
+      "itemAmount": 520000
+    },
+    {
+      "id": 96,
+      "rewardGroupKey": "gold_tier_96",
+      "itemId": 1,
+      "itemAmount": 525000
+    },
+    {
+      "id": 97,
+      "rewardGroupKey": "gold_tier_97",
+      "itemId": 1,
+      "itemAmount": 530000
+    },
+    {
+      "id": 98,
+      "rewardGroupKey": "gold_tier_98",
+      "itemId": 1,
+      "itemAmount": 535000
+    },
+    {
+      "id": 99,
+      "rewardGroupKey": "gold_tier_99",
+      "itemId": 1,
+      "itemAmount": 540000
+    },
+    {
+      "id": 100,
+      "rewardGroupKey": "gold_tier_100",
+      "itemId": 1,
+      "itemAmount": 545000
+    }
+  ]
+}

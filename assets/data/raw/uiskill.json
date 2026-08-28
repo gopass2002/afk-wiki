@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "extractedAt": "2026-08-28T14:27:46.816Z",
+    "patch": "ebffb",
+    "rowCount": 6,
+    "schema": "FBDataUISkill",
+    "sourceAsset": "FBDataUISkill",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "weaponType": "None",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "weaponType": "Sword",
+      "icon": "10.UI/99.Resource/0.Common/SkillCell_UI/UI_Skill_WeaponIcon_Sword"
+    },
+    {
+      "id": 3,
+      "weaponType": "Blade",
+      "icon": "10.UI/99.Resource/0.Common/SkillCell_UI/UI_Skill_WeaponIcon_Broadsword"
+    },
+    {
+      "id": 4,
+      "weaponType": "Spear",
+      "icon": "10.UI/99.Resource/0.Common/SkillCell_UI/UI_Skill_WeaponIcon_Spear"
+    },
+    {
+      "id": 5,
+      "weaponType": "Staff",
+      "icon": "10.UI/99.Resource/0.Common/SkillCell_UI/UI_Skill_WeaponIcon_Staff"
+    },
+    {
+      "id": 6,
+      "weaponType": "Hidden",
+      "icon": "10.UI/99.Resource/0.Common/SkillCell_UI/UI_Skill_WeaponIcon_Shuriken"
+    }
+  ]
+}
