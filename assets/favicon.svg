@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="비룡 위키">
+  <rect width="64" height="64" rx="6" fill="#132129"/>
+  <g fill="none" stroke="#e7bd67" stroke-width="2">
+    <rect x="9" y="9" width="46" height="46" rx="2"/>
+    <path d="M9 20V9h11M55 44v11H44"/>
+  </g>
+  <text x="32" y="33" fill="#f2cf83" font-family="Iropke Batang, Nanum Myeongjo, AppleMyungjo, Batang, serif"
+        font-size="30" text-anchor="middle" dominant-baseline="central">飛</text>
+</svg>
