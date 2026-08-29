@@ -32,8 +32,8 @@
 <dialog class="search-dialog" data-search-dialog aria-labelledby="search-title">
   <div class="search-dialog__header">
     <div>
-      <p class="eyebrow">DATA INDEX</p>
-      <h2 id="search-title">위키 데이터 검색</h2>
+      <p class="eyebrow">찾아보기</p>
+      <h2 id="search-title">무엇을 찾으세요?</h2>
     </div>
     <button class="icon-button" type="button" data-search-close>
       <span aria-hidden="true">×</span>
@@ -46,18 +46,33 @@
       <path d="m16 16 4 4"></path>
     </svg>
     <span class="visually-hidden">데이터 표 검색</span>
-    <input id="global-search-input" type="search" inputmode="search" autocomplete="off" placeholder="무공, 아이템, 몬스터, 확률, 원본 표…" data-global-search>
+    <input id="global-search-input" type="search" inputmode="search" autocomplete="off" placeholder="흑랑, 강화 확률, 요리 레벨…" data-global-search>
   </label>
-  <p class="search-dialog__status" data-search-status aria-live="polite">데이터 표 {{ site.data.generated_manifest.tableCount }}개와 개체 낱장</p>
+  <p class="search-dialog__status" data-search-status aria-live="polite">이름을 입력하면 낱장과 표를 함께 찾습니다</p>
   <div class="search-results" data-search-results>
+    {%- comment -%}
+      정리된 안내와 표를 먼저 놓고, 손대지 않은 원본 표를 뒤에 둡니다.
+      원본 표는 스키마 이름을 보여 주지 않지만 검색어로는 계속 찾을 수 있습니다.
+    {%- endcomment -%}
+    {% for group in site.data.nav %}
+      {% for item in group.items %}
+      <a class="search-result" href="{{ item.url | relative_url }}" data-search-entry data-search-text="{{ item.name }} {{ group.title }}">
+        <span>
+          <strong>{{ item.name }}</strong>
+          <small>{{ group.title }}</small>
+        </span>
+        <span class="search-result__meta">안내</span>
+      </a>
+      {% endfor %}
+    {% endfor %}
     {% for table in site.data.generated_manifest.tables %}
       {% assign result_title = table.title | default: table.sourceAsset %}
       <a class="search-result" href="{{ '/docs/data/tables/' | append: table.slug | append: '/' | relative_url }}" data-search-entry data-search-text="{{ result_title }} {{ table.sourceAsset }} {{ table.schema }} {{ table.categoryLabel }} {{ table.fields | join: ' ' }}">
         <span>
           <strong>{{ result_title }}</strong>
-          <small>{{ table.sourceAsset }}</small>
+          <small>{{ table.categoryLabel }}</small>
         </span>
-        <span class="search-result__meta">{{ table.categoryLabel }} · {{ table.rowCount }}행</span>
+        <span class="search-result__meta">그대로의 기록 · {{ table.rowCount }}줄</span>
       </a>
     {% endfor %}
   </div>

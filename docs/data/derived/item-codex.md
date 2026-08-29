@@ -9,8 +9,11 @@ data_schema: "FBDataItem + AttributeItem + DropItem + reward probabilities"
 data_manifest_key: "itemCodex"
 data_category: "장비·수집"
 data_fields: ["id", "image", "name", "description", "mainType", "subType", "slotType", "grade", "stack", "sellPrice", "tradable", "attributes", "dropSeedGroupCount", "computedRewardPoolCount", "iconSource"]
+data_unit: "가지"
+method: |
+  `FBDataItem`의 표시 정보에 능력치, 드롭 후보 그룹 수, 클라이언트 공식으로 계산 가능한 보상 풀 수를 연결했습니다. `dropSeedGroupCount`와 `computedRewardPoolCount`는 획득 근거의 존재를 뜻하며 그 자체가 획득 확률은 아닙니다.
+
+  아이콘이 없는 행은 원본 `iconSource`가 비어 있거나 공개 배포본에서 대응 이미지를 만들 수 없는 경우입니다. 거래·지급·드롭의 실제 허용 여부는 서버 상태와 콘텐츠 조건에 따라 달라질 수 있습니다.
 ---
 
-`FBDataItem`의 표시 정보에 능력치, 드롭 후보 그룹 수, 클라이언트 공식으로 계산 가능한 보상 풀 수를 연결했습니다. `dropSeedGroupCount`와 `computedRewardPoolCount`는 획득 근거의 존재를 뜻하며 그 자체가 획득 확률은 아닙니다.
-
-아이콘이 없는 행은 원본 `iconSource`가 비어 있거나 공개 배포본에서 대응 이미지를 만들 수 없는 경우입니다. 거래·지급·드롭의 실제 허용 여부는 서버 상태와 콘텐츠 조건에 따라 달라질 수 있습니다.
+게임에 있는 아이템 전체입니다. 등급, 부위, 붙는 능력치, 파는 값을 한 자리에서 볼 수 있습니다. 얻는 곳이 궁금하면 [아이템 드롭 가중치]({{ '/docs/data/derived/item-drop-weights/' | relative_url }})와 [획득 확률]({{ '/docs/data/derived/item-acquisition-probabilities/' | relative_url }})을 함께 보세요.

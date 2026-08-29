@@ -1,0 +1,16 @@
+{%- comment -%}Liquid에는 천 단위 구분 필터가 없어 직접 끊습니다. 최대 7자리.{%- endcomment -%}
+{%- assign digits = include.value | append: '' -%}
+{%- assign length = digits | size -%}
+{%- if length > 3 -%}
+{%- assign cut = length | minus: 3 -%}
+{%- assign head = digits | slice: 0, cut -%}
+{%- assign tail = digits | slice: cut, 3 -%}
+{%- if cut > 3 -%}
+{%- assign cut2 = cut | minus: 3 -%}
+{{ head | slice: 0, cut2 }},{{ head | slice: cut2, 3 }},{{ tail }}
+{%- else -%}
+{{ head }},{{ tail }}
+{%- endif -%}
+{%- else -%}
+{{ digits }}
+{%- endif -%}

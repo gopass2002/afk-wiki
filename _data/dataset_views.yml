@@ -1,0 +1,125 @@
+# 낱장 보기에서 각 데이터의 표제·요점을 무엇으로 삼을지 정합니다.
+# 여기 없는 데이터는 data-explorer.js가 이름 규칙으로 알아서 고릅니다.
+#   seal    : 인장에 넣을 짧은 값(레벨·단계·등급)
+#   title   : 낱장 제목
+#   icon    : 그림 열
+#   primary : 크게 보여주고 견줌 자를 그릴 수치
+#   points  : 제목 아래 함께 보여줄 요점 2~4개
+# 나머지 열은 모두 '원장 펼치기' 안으로 들어갑니다.
+
+collection-codex:
+  title: name
+  icon: image
+  primary: registrationCount
+  points: [category, rewardAttributes]
+
+collection-milestones:
+  seal: requiredCount
+  title: rewardName
+  icon: image
+  primary: rewardAmount
+  points: [category, rewardType, rewardCount]
+
+cooking-levels:
+  seal: level
+  title: rewardItemName
+  icon: image
+  primary: requiredCookingExp
+  points: [durationSeconds, maxKeepGrade, topOutcomeName, topOutcomePercent]
+
+daily-challenge-stages:
+  seal: stage
+  title: stageName
+  primary: monsterExperience
+  points: [challengeName, zoneName, rewardSummary]
+
+equipment-enhancement-probabilities:
+  seal: level
+  title: mainType
+  primary: successPercent
+  points: [failurePercent, destructionPercent, dropOnFail]
+
+item-acquisition-probabilities:
+  title: itemName
+  icon: image
+  primary: percent
+  points: [rewardType, amountMin, amountMax]
+
+item-codex:
+  seal: grade
+  title: name
+  icon: image
+  primary: sellPrice
+  points: [subType, attributes, description]
+
+item-drop-weights:
+  title: itemName
+  icon: image
+  primary: normalizedWeightSharePercent
+  points: [amountMin, amountMax, seedGroup]
+
+monster-codex:
+  seal: level
+  title: name
+  primary: experience
+  points: [zoneNames, boss, aggressive, dropItemCount]
+
+monster-drop-seeds:
+  seal: monsterLevel
+  title: monsterName
+  icon: image
+  primary: topItemSharePercent
+  points: [topItemName, zoneName, candidateItemCount]
+
+refine-attribute-values:
+  seal: grade
+  title: label
+  primary: displayMax
+  points: [displayMin, percentDisplay]
+
+refine-options:
+  seal: itemGradeLabel
+  title: itemSubTypeLabel
+  primary: silverCost
+  points: [optionCount, stoneItemName, stoneAmount]
+
+reward-probabilities:
+  title: targetName
+  primary: percent
+  points: [type, amountMin, amountMax]
+
+skill-codex:
+  seal: grade
+  title: name
+  icon: image
+  primary: maxAtkMultiplierRaw
+  points: [factionType, weaponType, cooldownSeconds, spCost]
+
+skill-enhancement-probabilities:
+  seal: level
+  primary: successPercent
+  points: [failurePercent, sameSkillMaterialCount, silverCost]
+
+zone-atlas:
+  seal: regionAct
+  title: name
+  primary: monsterCount
+  points: [regionName, monsterLevelMin, monsterLevelMax, bossCount]
+
+# 자주 열리는 원본 표 몇 개만 손으로 잡아 둡니다.
+actor-monster:
+  seal: level
+  title: name
+  primary: level
+  points: [type, boss, aggressive, bodyType]
+
+item:
+  seal: grade
+  title: name
+  primary: sellPrice
+  points: [mainType, subType, slotType]
+
+zone:
+  title: name
+  primary: maxPlayer
+  points: [type, regionName]

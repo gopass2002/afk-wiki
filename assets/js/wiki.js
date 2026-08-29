@@ -103,8 +103,8 @@
         if (matches) visible += 1;
       });
       status.textContent = tokens.length
-        ? `${visible.toLocaleString("ko-KR")}개를 찾았습니다.`
-        : `데이터 표와 낱장 ${entries.length.toLocaleString("ko-KR")}개`;
+        ? `${visible.toLocaleString("ko-KR")}개 찾았습니다.`
+        : "이름을 입력하면 낱장과 표를 함께 찾습니다";
     };
 
     // 개체 낱장은 검색을 열 때 한 번만 내려받는다. 실패해도 표 검색은 그대로 쓸 수 있다.

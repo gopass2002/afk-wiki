@@ -1,25 +1,27 @@
 ---
 layout: default
 ---
-{% assign manifest_table = site.data.generated_manifest.tables | where: "slug", page.slug | first %}
+{% comment %}page.slug은 Jekyll 페이지에 없으므로 URL 마지막 조각을 씁니다.{% endcomment %}
+{% assign url_parts = page.url | split: '/' %}
+{% assign page_slug = url_parts | last %}
+{% assign manifest_table = site.data.generated_manifest.tables | where: "slug", page_slug | first %}
 {% assign manifest_rows = manifest_table.rowCount | default: page.data_rows %}
 {% if page.data_manifest_key %}
   {% assign derived_manifest = site.data.generated_manifest.derived[page.data_manifest_key] %}
   {% assign manifest_rows = derived_manifest.rowCount | default: manifest_rows %}
 {% endif %}
+{% assign view = site.data.dataset_views[page_slug] %}
+{% assign unit = page.data_unit | default: '개' %}
+
 <header class="data-hero">
-  <div>
-    <p class="eyebrow">{{ page.data_category | default: 'GAME DATA' }}</p>
+  <div class="data-hero__body">
+    <p class="eyebrow">{{ page.data_category | default: '게임 데이터' }}</p>
     <h1>{{ page.title | default: page.data_asset }}</h1>
-    {% if page.description %}<p class="data-hero__description">{{ page.description }}</p>{% endif %}
-  </div>
-  <div class="data-hero__count" aria-label="데이터 행 수">
-    <strong>{{ manifest_rows | default: '—' }}</strong>
-    <span>ROWS</span>
+    {% comment %}본문 머리글이 있으면 그쪽이 설명을 맡습니다. description은 검색 결과용으로만 남깁니다.{% endcomment %}
+    {% if page.description and content == '' %}<p class="data-hero__description">{{ page.description }}</p>{% endif %}
+    <p class="data-hero__tally"><strong>{{ manifest_rows | default: '—' }}</strong>{{ unit }}<span>패치 {{ site.data.generated_manifest.patch }} · {{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }} 확인</span></p>
   </div>
 </header>
-
-{% include evidence-rail.html %}
 
 {% if content != '' %}
 <div class="prose-intro">
@@ -32,73 +34,83 @@ layout: default
   data-explorer
   data-source="{{ page.data_file | relative_url }}"
   data-fields='{{ page.data_fields | jsonify | escape }}'
+  data-labels='{{ site.data.field_labels.labels | jsonify | escape }}'
+  data-suffixes='{{ site.data.field_labels.suffixes | jsonify | escape }}'
+  data-values='{{ site.data.field_labels.values | jsonify | escape }}'
+  data-view='{{ view | jsonify | escape }}'
+  data-unit="{{ unit }}"
   aria-labelledby="explorer-title"
   aria-busy="true"
 >
-  <div class="data-explorer__heading">
-    <div>
-      <p class="eyebrow">INTERACTIVE TABLE</p>
-      <h2 id="explorer-title">{{ page.title | default: page.data_asset }} 탐색기</h2>
-    </div>
-    <p class="data-explorer__summary" data-summary aria-live="polite">데이터를 불러오는 중입니다.</p>
-  </div>
+  <h2 id="explorer-title" class="visually-hidden">{{ page.title | default: page.data_asset }} 찾아보기</h2>
 
   <noscript>
-    <p class="notice notice--warning">표 탐색에는 JavaScript가 필요합니다. <a href="{{ page.data_file | relative_url }}">원본 JSON 파일</a>은 직접 열 수 있습니다.</p>
+    <p class="notice notice--warning">찾아보기에는 JavaScript가 필요합니다. <a href="{{ page.data_file | relative_url }}">원본 파일</a>은 직접 열 수 있습니다.</p>
   </noscript>
 
   <div class="explorer-toolbar" data-toolbar hidden>
     <label class="filter-field filter-field--query">
-      <span>행 검색</span>
+      <span>이름으로 찾기</span>
       <div>
         <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18">
           <circle cx="11" cy="11" r="6.5"></circle>
           <path d="m16 16 4 4"></path>
         </svg>
-        <input type="search" autocomplete="off" placeholder="값을 입력하세요" data-filter-query>
+        <input type="search" autocomplete="off" placeholder="예: 흑랑" data-filter-query>
       </div>
     </label>
-    <label class="filter-field">
-      <span>검색 열</span>
+    <label class="filter-field filter-field--where">
+      <span>찾을 곳</span>
       <select data-filter-field>
-        <option value="*">모든 열</option>
+        <option value="*">모두</option>
       </select>
     </label>
+    <div class="view-switch" role="group" aria-label="보기 방식">
+      <span class="view-switch__label">보기</span>
+      <button type="button" data-view-mode="leaf" aria-pressed="true">낱장</button>
+      <button type="button" data-view-mode="ledger" aria-pressed="false">장부</button>
+    </div>
     <label class="filter-field filter-field--size">
-      <span>페이지당 행</span>
+      <span>한 번에</span>
       <select data-page-size>
-        <option value="25">25</option>
-        <option value="50">50</option>
-        <option value="100">100</option>
+        <option value="24">24</option>
+        <option value="48">48</option>
+        <option value="96">96</option>
       </select>
     </label>
-    <button class="button button--quiet explorer-reset" type="button" data-reset>초기화</button>
+    <button class="button button--quiet explorer-reset" type="button" data-reset>처음으로</button>
   </div>
+
+  <p class="data-explorer__summary" data-summary aria-live="polite">불러오는 중입니다.</p>
 
   <div class="explorer-loading" data-loading role="status">
     <span class="loading-mark" aria-hidden="true"></span>
     <span>배포 데이터를 정리하고 있습니다…</span>
   </div>
 
-  <div class="data-table-region" data-table-region tabindex="0" role="region" aria-label="{{ page.title | default: page.data_asset }} 데이터 표" hidden>
+  <div class="leaf-deck" data-deck hidden></div>
+
+  <div class="data-table-region" data-table-region tabindex="0" role="region" aria-label="{{ page.title | default: page.data_asset }} 장부" hidden>
     <table class="data-table">
-      <caption>{{ page.data_asset }} · {{ site.data.generated_manifest.patch }}</caption>
+      <caption>{{ page.title | default: page.data_asset }} · 패치 {{ site.data.generated_manifest.patch }}</caption>
       <thead data-table-head></thead>
       <tbody data-table-body></tbody>
     </table>
   </div>
 
-  <nav class="pagination" data-pagination aria-label="데이터 페이지" hidden>
-    <button class="pagination__button" type="button" data-page-first aria-label="첫 페이지">«</button>
+  <nav class="pagination" data-pagination aria-label="쪽 넘기기" hidden>
+    <button class="pagination__button" type="button" data-page-first aria-label="첫 쪽">«</button>
     <button class="pagination__button" type="button" data-page-prev>이전</button>
     <span class="pagination__status" data-page-status aria-live="polite"></span>
     <button class="pagination__button" type="button" data-page-next>다음</button>
-    <button class="pagination__button" type="button" data-page-last aria-label="마지막 페이지">»</button>
+    <button class="pagination__button" type="button" data-page-last aria-label="마지막 쪽">»</button>
   </nav>
 
   <div class="explorer-error notice notice--danger" data-error hidden role="alert">
     <strong>데이터를 불러오지 못했습니다.</strong>
     <span data-error-message></span>
-    <a href="{{ page.data_file | relative_url }}">원본 JSON 열기</a>
+    <a href="{{ page.data_file | relative_url }}">원본 파일 열기</a>
   </div>
 </section>
+
+{% include evidence-rail.html %}

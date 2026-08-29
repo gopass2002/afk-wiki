@@ -1,0 +1,426 @@
+# 데이터 열 이름을 일반 이용자가 읽는 말로 옮깁니다.
+# 낱장 페이지에서 이미 쓰는 낱말을 그대로 씁니다(먼저 덤빔, 떨구는 것, 출현 …).
+# 여기 없는 이름은 data-explorer.js가 접미사 규칙으로 자동 변환합니다.
+labels:
+  # 이름·정체
+  name: 이름
+  itemName: 아이템
+  monsterName: 몬스터
+  rewardName: 보상
+  targetName: 대상
+  stageName: 단계 이름
+  challengeName: 도전
+  zoneName: 지역
+  zoneNames: 출현 지역
+  regionName: 지방
+  regionAct: 장
+  label: 이름
+  description: 설명
+  stoneItemName: 필요한 돌
+  topItemName: 가장 잘 나오는 것
+  topOutcomeName: 가장 잘 나오는 것
+  rewardItemName: 받는 것
+  entryItemName: 입장에 쓰는 것
+  universalBookName: 만능 비급
+  monsterNames: 나오는 몬스터
+  npcNames: 만나는 사람
+  itemSubTypeLabel: 부위
+  itemGradeLabel: 등급
+
+  # 등급·분류
+  grade: 등급
+  itemGrade: 등급
+  category: 갈래
+  type: 갈래
+  mainType: 큰 갈래
+  subType: 부위
+  slotType: 착용 칸
+  bodyType: 몸집
+  weaponType: 무기
+  factionType: 문파
+  castType: 시전 방식
+  challengeType: 도전 갈래
+  rewardType: 보상 갈래
+  currencyType: 재화
+  difficulty: 난이도
+  boss: 우두머리
+  aggressive: 먼저 덤빔
+  tradable: 거래 가능
+  fixed: 고정값
+
+  # 수치
+  level: 레벨
+  maxLevel: 최고 단계
+  step: 단계
+  stage: 단계
+  experience: 경험치
+  requiredCookingExp: 필요한 요리 경험치
+  monsterLevelMin: 가장 낮은 레벨
+  monsterLevelMax: 가장 높은 레벨
+  monsterExperience: 몬스터 경험치
+  monsterExperienceMin: 가장 적은 경험치
+  monsterExperienceMax: 가장 많은 경험치
+  monsterCount: 몬스터 수
+  bossCount: 우두머리 수
+  npcCount: 사람 수
+  amount: 개수
+  amountMin: 최소 개수
+  amountMax: 최대 개수
+  rewardAmount: 받는 개수
+  rewardCount: 보상 종류
+  stack: 한 칸에 쌓기
+  sellPrice: 파는 값
+  silverCost: 드는 은량
+  cost: 비용
+  costAmount: 드는 개수
+  stoneAmount: 필요한 돌 개수
+  requiredCount: 필요한 개수
+  registrationCount: 등록에 필요한 개수
+  candidateItemCount: 후보 아이템 수
+  optionCount: 옵션 수
+  slots: 옵션 칸
+  hitCount: 타격 수
+  range: 사거리
+  spCost: 내공 소모
+  cooldownSeconds: 재사용 대기
+  durationSeconds: 걸리는 시간
+  maxPlayer: 최대 인원
+  weight: 비중
+  sortOrder: 정렬 순서
+  sameSkillMaterialCount: 필요한 같은 무공
+  maxKeepGrade: 유지되는 최고 등급
+  maxSparkStage: 최고 불꽃 단계
+  displayMin: 최소
+  displayMax: 최대
+  min: 최소
+  max: 최대
+
+  # 확률
+  percent: 확률
+  probability: 확률
+  percentDisplay: 표시 확률
+  successPercent: 성공
+  failurePercent: 실패
+  destructionPercent: 파괴
+  nonDestructiveFailurePercent: 파괴 없는 실패
+  conditionalBreakRate: 조건부 파괴
+  skillGachaPercent: 뽑기 확률
+  topOutcomePercent: 가장 잘 나올 확률
+  topItemSharePercent: 가장 잘 나올 비중
+  normalizedWeightSharePercent: 후보 안에서 비중
+  cookProbWeightSharePercent: 후보 안에서 비중
+  subRewardExpBonus: 덤 경험치
+  dropOnFail: 실패 시 단계 하락
+
+  # 묶음·목록
+  attributes: 능력치
+  rewardAttributes: 붙는 능력치
+  statRanges: 단계별 수치
+  options: 옵션
+  monsters: 몬스터
+  registrations: 등록 대상
+  rewards: 보상
+  dropItems: 떨구는 것
+  rewardSummary: 보상
+  sourceGroups: 근거 묶음
+  dropItemCount: 떨구는 것 종류
+  rewardOutcomeCount: 나올 수 있는 결과
+
+  # 그림
+  image: 그림
+  icon: 그림
+  universalBookImage: 그림
+  background: 배경
+
+  # 원장 전용(검증용 식별자)
+  id: 식별자
+  itemId: 아이템 식별자
+  monsterId: 몬스터 식별자
+  zoneId: 지역 식별자
+  targetId: 대상 식별자
+  gradeId: 등급 식별자
+  costItemId: 비용 아이템 식별자
+  universalBookItemId: 비급 식별자
+  key: 키
+  value: 값
+  attrKey: 능력치 키
+  attrValue: 능력치 값
+  attrValueArray: 능력치 값 묶음
+  statKey: 능력치 키
+  nameKey: 이름 키
+  descKey: 설명 키
+  titleKey: 제목 키
+  textKey: 문구 키
+  groupKey: 묶음 키
+  groupListKey: 묶음 목록 키
+  rewardGroupKey: 보상 묶음 키
+  tierGroupKey: 단계 묶음 키
+  rewardPoolKey: 보상 풀 키
+  materialKey: 재료 키
+  spawnKey: 출현 키
+  seedGroup: seed 묶음
+  dropGroup: 드롭 묶음
+  dropSeedGroups: seed 묶음
+  dropSeedGroupCount: seed 묶음 수
+  seedWeightTotal: 묶음 비중 합
+  seedGroupWeightTotal: 묶음 비중 합
+  optionWeightTotal: 옵션 비중 합
+  cookProbWeight: 요리 비중
+  referencedDropGroupCount: 참조 드롭 묶음 수
+  computedRewardPoolCount: 계산된 보상 풀 수
+  monsterExperienceMissingCount: 경험치 기록 없는 몬스터
+  experienceRecorded: 경험치 기록 있음
+  spawnDataFound: 출현 정보 있음
+  iconSource: 그림 출처
+  evidence: 근거
+  interpretation: 해석
+  displayDivisor: 표시 나눗값
+  prefab: 프리팹
+  tmx: 지도 파일
+  posX: 지도 X
+  posY: 지도 Y
+  attackSfx: 공격 소리
+  hitSfx: 피격 소리
+  deathSfx: 죽음 소리
+  auraVfx: 오라 효과
+  deathVfx: 죽음 효과
+  deathDelay: 죽음 지연
+  tint: 색조
+  absorbTextGroupKey: 흡수 문구 키
+  triggerType: 조건 갈래
+  triggerValue: 조건 값
+  objectiveType: 목표 갈래
+  objectiveTarget: 목표 대상
+  objectiveCount: 목표 개수
+  targetAttr: 대상 능력치
+  itemSubType: 부위 코드
+  dropResource: 드롭 자원
+  dropRateRaw: 드롭 확률 원본값
+  dropRateRawValues: 드롭 확률 원본값
+
+  # 파생 쪽 낱장에 그대로 드러나던 이름들
+  unlockLevel: 해금 레벨
+  attributeScale: 능력치 배율
+  attributeBoostPercent: 능력치 상승
+  dailyTime: 하루 시작 시각
+  timeLimit: 제한 시간
+  level1AtkMultiplier: 1단계 공격 배율
+  maxAtkMultiplier: 최고 단계 공격 배율
+  monsterLevel: 몬스터 레벨
+  seedGroup: 드롭 후보 묶음
+  dropSeedGroups: 드롭 후보 묶음
+  dropSeedGroupCount: 드롭 후보 묶음 수
+
+  # 원본 표에 자주 나오는 이름들
+  exp: 경험치
+  count: 개수
+  qty: 개수
+  price: 값
+  basePrice: 기본 값
+  costGold: 드는 금화
+  rate: 비율
+  ratio: 비율
+  multiplier: 배율
+  successRate: 성공률
+  breakRate: 파괴율
+  unlockRate: 해금률
+  requireLevel: 필요 레벨
+  requiredExp: 필요 경험치
+  cookLevel: 요리 레벨
+  enhanceLevel: 강화 단계
+  materialCount: 재료 개수
+  itemAmount: 아이템 개수
+  minValue: 최솟값
+  maxValue: 최댓값
+  cooldown: 재사용 대기
+  atkMultiplier: 공격 배율
+  recommendedPower: 권장 전투력
+  respawnMin: 다시 나오기 최소
+  respawnMax: 다시 나오기 최대
+  limitCount: 제한 횟수
+  limitType: 제한 갈래
+  selectCount: 고르는 개수
+  pullCount: 뽑는 횟수
+  applyCount: 적용 횟수
+  skillSlotCount: 무공 칸 수
+  capacity: 담을 수 있는 양
+  day: 날짜
+  order: 순서
+  index: 번호
+  tier: 등급
+  part: 부위
+  text: 문구
+  word: 낱말
+  color: 색
+  visible: 보임
+  featured: 눈에 띄게
+  highlighted: 강조
+  skipable: 건너뛸 수 있음
+  untradable: 거래 불가
+  unsellable: 판매 불가
+  undiscardable: 버릴 수 없음
+  notReady: 준비 중
+  mainCategory: 큰 갈래
+  subCategory: 작은 갈래
+  attrType: 능력치 갈래
+  targetType: 대상 갈래
+  useType: 사용 갈래
+  useValue: 사용 값
+  conditionType: 조건 갈래
+  conditionValue: 조건 값
+  stepType: 단계 갈래
+  rewardAttributeType: 보상 능력치 갈래
+  objectiveDesc: 목표 설명
+  str: 힘
+  agi: 민첩
+  vit: 체력
+  spi: 정신
+  atkSpd: 공격 속도
+  hitInterval: 타격 간격
+  dismantleUnitExp: 분해 경험치
+  battlePowerWeight: 전투력 비중
+  contribution: 기여도
+  divisor: 나눗값
+
+# camelCase 이름을 자동으로 옮길 때 쓰는 접미사 규칙
+suffixes:
+  Percent: " 확률"
+  Count: " 수"
+  Min: " 최소"
+  Max: " 최대"
+  Name: " 이름"
+  Names: " 목록"
+  Key: " 키"
+  Keys: " 키"
+  Id: " 식별자"
+  Raw: " 원본값"
+  Seconds: " (초)"
+  Total: " 합계"
+
+# 코드로 적힌 값을 게임 안 낱말로 옮깁니다.
+values:
+  # 몸집
+  Beast: 짐승
+  Human: 사람
+  Object: 사물
+  # 무공
+  Active: 쓰는 무공
+  Passive: 몸에 익히는 무공
+  FactionHeavenlyDemon: 천마
+  FactionMountHua: 화산파
+  FactionPeng: 팽가
+  FactionShaolin: 소림
+  FactionTang: 당가
+  FactionYang: 양가
+  # 등급
+  Normal: 평범
+  Rare: 희귀
+  Epic: 영웅
+  Unique: 유일
+  Legendary: 전설
+  None: 없음
+  # 큰 갈래
+  Weapon: 무기
+  Armor: 방어구
+  Accessory: 장신구
+  Consumable: 소모품
+  Cooking: 요리
+  Currency: 재화
+  Appearance: 겉모습
+  Special: 특별
+  Exp: 경험치
+  ETC: 기타
+  Item: 아이템
+  Skill: 무공
+  # 부위·칸
+  Hat: 투구
+  Clothes: 상의
+  Pants: 하의
+  Shoe: 신발
+  Glove: 장갑
+  Belt: 허리띠
+  Shoulder: 어깨
+  Wrist: 손목
+  Greave: 각반
+  Earring: 귀걸이
+  Ring: 반지
+  Necklace: 목걸이
+  Orb: 구슬
+  Jade: 옥
+  Gem: 보석
+  Avatar: 겉모습
+  Face: 얼굴
+  Hair: 머리
+  # 무기 종류
+  Sword: 검
+  Blade: 도
+  Spear: 창
+  Staff: 봉
+  HIDDEN: 감춰짐
+  Hidden: 감춰짐
+  # 능력치
+  STR: 힘
+  AGI: 민첩
+  VIT: 체력
+  SPI: 정신
+  # 소모품·재료
+  Potion: 물약
+  Box: 상자
+  Ingredient: 재료
+  EnhanceScroll: 강화 주문서
+  RefineStone: 제련석
+  SkillBook: 비급
+  SkillTicket: 무공 뽑기권
+  FaceTicket: 얼굴 변경권
+  HairTicket: 머리 변경권
+  GoldPassTicket: 통행권
+  InspirationSpark: 깨달음
+  Gold: 금화
+  TradeCoin: 거래 화폐
+  PlayerExp: 인물 경험치
+  CookingExp: 요리 경험치
+  CookStr: 요리 · 힘
+  CookAgi: 요리 · 민첩
+  CookVit: 요리 · 체력
+  CookSpi: 요리 · 정신
+  Cook: 요리
+  Equipment: 장비
+  # 지역·도전
+  Field: 사냥터
+  InstanceField: 개인 사냥터
+  TimeField: 시간 도전
+  DungeonBoss: 우두머리 토벌
+  PromotionExam: 승급 시험
+  # 능력치 약칭 (배포본이 label을 주지 않는 경우에 씁니다)
+  MAX_HP: 최대 생명력
+  "MAX_HP%": 최대 생명력%
+  MAX_HP_PER: 최대 생명력%
+  MAX_SP: 최대 정신력
+  HP_REGEN: 생명력 회복
+  "HP_REGEN%": 생명력 회복%
+  SP_REGEN: 정신력 회복
+  "SP_REGEN%": 정신력 회복%
+  ATK: 공격력
+  "ATK%": 공격력%
+  ATK_SPD: 공격 속도
+  "ATK_SPD%": 공격 속도%
+  DEF: 방어력
+  "DEF%": 방어력%
+  HIT: 명중
+  EVA: 회피
+  PEN: 방어 관통
+  CRIT_RATE: 치명타 확률
+  "CRIT_RATE%": 치명타 확률%
+  CRIT_DMG: 치명타 피해
+  "CRIT_DMG%": 치명타 피해%
+  MOVE_SPEED: 이동 속도
+  SKILL_AMP: 무공 위력
+  "SKILL_AMP%": 무공 위력%
+  COOLDOWN_REDUCE: 재사용 대기 감소
+  "COOLDOWN_REDUCE%": 재사용 대기 감소%
+  BOSS_DMG_BONUS: 우두머리 피해 증가
+  "BOSSDMGBONUS%": 우두머리 피해 증가%
+  "PVPDMGBONUS%": 대인전 피해 증가%
+  "FINALDMGBONUS%": 최종 피해 증가%
+  POTION_BONUS: 물약 효과 증가
+  EXP_BONUS: 경험치 증가

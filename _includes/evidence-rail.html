@@ -1,24 +1,42 @@
-<aside class="evidence-rail" aria-label="데이터 검증 정보">
-  <div class="evidence-rail__mark" aria-hidden="true"></div>
-  <dl>
-    <div>
-      <dt>패치</dt>
-      <dd><code>{{ site.data.generated_manifest.patch }}</code></dd>
+<aside class="evidence-rail" aria-label="데이터 출처">
+  <details class="evidence-rail__details">
+    <summary>
+      <span class="status-badge status-badge--verified"><span aria-hidden="true">✓</span> 배포본에서 추출한 값</span>
+      <span class="evidence-rail__hint">출처 보기</span>
+    </summary>
+    <div class="evidence-rail__body">
+      <p>이 쪽의 숫자는 게임이 내려받는 배포본 데이터를 그대로 옮긴 것입니다. 실제 판정은 서버가 하므로, 숨은 보정까지 확정하지는 않습니다.</p>
+      <dl>
+        <div>
+          <dt>패치</dt>
+          <dd><code>{{ site.data.generated_manifest.patch }}</code></dd>
+        </div>
+        <div>
+          <dt>확인일</dt>
+          <dd><time datetime="{{ site.data.generated_manifest.extractedAt }}">{{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }}</time></dd>
+        </div>
+        <div>
+          <dt>배포본</dt>
+          <dd><code>{{ site.data.generated_manifest.appVersion }}</code></dd>
+        </div>
+        {% if page.data_schema %}
+        <div>
+          <dt>원본 스키마</dt>
+          <dd><code>{{ page.data_schema }}</code></dd>
+        </div>
+        {% endif %}
+      </dl>
+      {% if page.method %}
+      <div class="evidence-rail__method">
+        <h3>이 값을 어떻게 구했나</h3>
+        {{ page.method | markdownify }}
+      </div>
+      {% endif %}
+
+      <p class="evidence-rail__links">
+        <a href="{{ site.data.generated_manifest.sourceConfig }}" target="_blank" rel="noreferrer">추출 매니페스트 <span aria-hidden="true">↗</span></a>
+        {% if page.data_file %}<a href="{{ page.data_file | relative_url }}">원본 파일 내려받기</a>{% endif %}
+      </p>
     </div>
-    <div>
-      <dt>확인일</dt>
-      <dd><time datetime="{{ site.data.generated_manifest.extractedAt }}">{{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }}</time></dd>
-    </div>
-    {% if page.data_schema %}
-    <div>
-      <dt>스키마</dt>
-      <dd><code>{{ page.data_schema }}</code></dd>
-    </div>
-    {% endif %}
-    <div>
-      <dt>상태</dt>
-      <dd><span class="status-badge status-badge--verified"><span aria-hidden="true">✓</span> 추출 확인</span></dd>
-    </div>
-  </dl>
-  <a class="evidence-rail__source" href="{{ site.data.generated_manifest.sourceConfig }}" target="_blank" rel="noreferrer">원본 매니페스트 <span aria-hidden="true">↗</span></a>
+  </details>
 </aside>

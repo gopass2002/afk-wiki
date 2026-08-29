@@ -9,8 +9,11 @@ data_schema: "pickPercent = optionWeight / Σ optionWeight"
 data_manifest_key: "refineOptions"
 data_category: "장비·확률"
 data_fields: ["itemSubTypeLabel", "itemGradeLabel", "itemSubType", "itemGrade", "optionCount", "options", "silverCost", "stoneItemName", "stoneAmount", "slots", "optionWeightTotal", "id"]
+data_unit: "줄"
+method: |
+  `FBDataRefine` 90행(장비 종류 18 × 등급 5)의 `attrKey`·`attrValue`를 옵션 풀과 가중치로 읽고, 등급별 은량 비용(`FBDataRefineAttempt`), 연마석(`FBDataRefineConfig`), 슬롯 해금률(`FBDataRefineSlot`), 옵션 등급 가중치(`FBDataRefineGradePool`)를 같은 행에 결합했습니다.
+
+  `options[].pickPercent`는 풀 안에서 그 옵션이 뽑힐 상대 확률, `slots[].gradeOdds[].percent`는 D~S 등급 가중치의 정규화 확률입니다. 옵션 등급별 실제 수치 범위는 [제련 옵션 수치 범위]({{ '/docs/data/derived/refine-attribute-values/' | relative_url }})에 있습니다. 계산기와 해석은 [제련 확률과 옵션]({{ '/docs/refine/' | relative_url }})을 참고하세요.
 ---
 
-`FBDataRefine` 90행(장비 종류 18 × 등급 5)의 `attrKey`·`attrValue`를 옵션 풀과 가중치로 읽고, 등급별 은량 비용(`FBDataRefineAttempt`), 연마석(`FBDataRefineConfig`), 슬롯 해금률(`FBDataRefineSlot`), 옵션 등급 가중치(`FBDataRefineGradePool`)를 같은 행에 결합했습니다.
-
-`options[].pickPercent`는 풀 안에서 그 옵션이 뽑힐 상대 확률, `slots[].gradeOdds[].percent`는 D~S 등급 가중치의 정규화 확률입니다. 옵션 등급별 실제 수치 범위는 [제련 옵션 수치 범위]({{ '/docs/data/derived/refine-attribute-values/' | relative_url }})에 있습니다. 계산기와 해석은 [제련 확률과 옵션]({{ '/docs/refine/' | relative_url }})을 참고하세요.
+장비 종류 18가지 × 등급 5단계마다 **어떤 옵션이 뽑힐 수 있는지**, 한 번 시도에 은량과 연마석이 얼마나 드는지 정리했습니다. 목표 옵션 조합의 확률과 평균 시도 횟수는 [제련 계산기]({{ '/docs/refine/' | relative_url }})에서 계산할 수 있습니다.

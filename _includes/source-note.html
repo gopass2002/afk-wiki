@@ -1,0 +1,11 @@
+{%- comment -%}
+  원본 표와 해석 경계를 담는 서랍입니다.
+  근거를 지우지 않으면서, 먼저 읽을 것과 필요할 때 읽을 것을 나눕니다.
+  쓰기: {% capture note %}…마크다운…{% endcapture %}{% include source-note.html body=note %}
+{%- endcomment -%}
+<details class="source-note">
+  <summary>{{ include.title | default: '원본 표와 해석 경계' }}</summary>
+  <div class="source-note__body">
+    {{ include.body | markdownify }}
+  </div>
+</details>

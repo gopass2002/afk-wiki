@@ -1,4 +1,4 @@
-- title: 낱장
+- title: 한 장씩 보기
   items:
     - { name: 무공, url: /docs/무공/, status: open }
     - { name: 아이템, url: /docs/아이템/, status: open }
@@ -6,42 +6,42 @@
     - { name: 지역, url: /docs/지역/, status: open }
 - title: 장비
   items:
-    - { name: 장비 도감, url: /docs/equipment/, status: open }
-    - { name: 아이템 전체 도감, url: /docs/data/derived/item-codex/, status: open }
-    - { name: 강화 · 제련, url: /docs/enhance/, status: open }
+    - { name: 장비 고르기, url: /docs/equipment/, status: open }
+    - { name: 아이템 견주기, url: /docs/data/derived/item-codex/, status: open }
+    - { name: 강화와 제련, url: /docs/enhance/, status: open }
     - { name: 장비 강화 확률, url: /docs/data/derived/equipment-enhancement-probabilities/, status: open }
-    - { name: 제련 확률과 계산기, url: /docs/refine/, status: open }
+    - { name: 제련 계산기, url: /docs/refine/, status: open }
     - { name: 제련 옵션 풀, url: /docs/data/derived/refine-options/, status: open }
-    - { name: 제련 옵션 수치 범위, url: /docs/data/derived/refine-attribute-values/, status: open }
-- title: 수집
+    - { name: 제련 옵션 수치, url: /docs/data/derived/refine-attribute-values/, status: open }
+- title: 모으기
   items:
-    - { name: 도감, url: /docs/bestiary/, status: open }
-    - { name: 수집 도감, url: /docs/data/derived/collection-codex/, status: open }
+    - { name: 도감 안내, url: /docs/bestiary/, status: open }
+    - { name: 등록할 것 전체, url: /docs/data/derived/collection-codex/, status: open }
     - { name: 도감 단계 보상, url: /docs/data/derived/collection-milestones/, status: open }
-    - { name: 음식, url: /docs/food/, status: open }
-    - { name: 요리 레벨, url: /docs/data/derived/cooking-levels/, status: open }
-- title: 세계
+    - { name: 음식과 요리, url: /docs/food/, status: open }
+    - { name: 요리 레벨 30단계, url: /docs/data/derived/cooking-levels/, status: open }
+- title: 사냥
   items:
     - { name: 지도, url: /docs/map/, status: open }
+    - { name: 지역 견주기, url: /docs/data/derived/zone-atlas/, status: open }
+    - { name: 몬스터 견주기, url: /docs/data/derived/monster-codex/, status: open }
     - { name: 일일 도전 단계, url: /docs/data/derived/daily-challenge-stages/, status: open }
-    - { name: 지역·스테이지 도감, url: /docs/data/derived/zone-atlas/, status: open }
-    - { name: 몬스터 도감, url: /docs/data/derived/monster-codex/, status: open }
-    - { name: 몬스터·스폰·드롭, url: /docs/world-data/, status: open }
+    - { name: 몬스터와 드롭, url: /docs/world-data/, status: open }
 - title: 확률
   items:
     - { name: 확률 안내, url: /docs/probabilities/, status: open }
     - { name: 아이템 획득 확률, url: /docs/data/derived/item-acquisition-probabilities/, status: open }
-    - { name: 아이템 드롭 가중치, url: /docs/data/derived/item-drop-weights/, status: open }
-    - { name: 몬스터 드롭 seed 그룹, url: /docs/data/derived/monster-drop-seeds/, status: open }
-    - { name: 보상·획득 계산표, url: /docs/data/derived/reward-probabilities/, status: open }
-- title: 시스템
+    - { name: 상자와 뽑기 확률, url: /docs/data/derived/reward-probabilities/, status: open }
+    - { name: 아이템 드롭 비중, url: /docs/data/derived/item-drop-weights/, status: open }
+    - { name: 몬스터별 드롭 후보, url: /docs/data/derived/monster-drop-seeds/, status: open }
+- title: 무공
   items:
-    - { name: 무공·스킬 데이터, url: /docs/skills/, status: open }
-    - { name: 무공 도감, url: /docs/data/derived/skill-codex/, status: open }
-    - { name: 무공 강화 확률, url: /docs/data/derived/skill-enhancement-probabilities/, status: open }
-    - { name: 시스템·경제 데이터, url: /docs/systems/, status: open }
-- title: 데이터
+    - { name: 무공 안내, url: /docs/skills/, status: open }
+    - { name: 무공 견주기, url: /docs/data/derived/skill-codex/, status: open }
+    - { name: 수련 성공률, url: /docs/data/derived/skill-enhancement-probabilities/, status: open }
+- title: 출처
   items:
-    - { name: 전체 데이터 카탈로그, url: /docs/data-catalog/, status: open }
-    - { name: 추출·버전·저장 규격, url: /docs/data-extraction/, status: open }
-    - { name: 전체 원본 테이블, url: /docs/data/tables/, status: open }
+    - { name: 무엇까지 확인했나, url: /docs/data-catalog/, status: open }
+    - { name: 어떻게 추출했나, url: /docs/data-extraction/, status: open }
+    - { name: 그대로의 기록, url: /docs/data/tables/, status: open }
+    - { name: 시스템·경제 원본, url: /docs/systems/, status: open }

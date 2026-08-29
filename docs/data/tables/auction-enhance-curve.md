@@ -1,7 +1,7 @@
 ---
 title: "AuctionEnhanceCurve"
 layout: data
-description: "FBDataAuctionEnhanceCurve 원본 21행을 탐색합니다."
+description: "AuctionEnhanceCurve 원본 기록 21줄입니다."
 permalink: /docs/data/tables/auction-enhance-curve/
 data_file: "/assets/data/raw/auction-enhance-curve.json"
 data_asset: "FBDataAuctionEnhanceCurve"
@@ -9,6 +9,9 @@ data_schema: "FBDataAuctionEnhanceCurve"
 data_rows: 21
 data_category: "장비·성장"
 data_fields: ["id","level","multiplier"]
+data_unit: "줄"
+method: |
+  이 쪽은 게임 배포본의 `FBDataAuctionEnhanceCurve` FlatBuffer를 손대지 않고 그대로 옮긴 것입니다. 열 이름과 값은 원본에 적힌 그대로이며, 계산하거나 단위를 바꾸지 않았습니다.
 ---
 
-이 페이지는 게임 배포본의 `FBDataAuctionEnhanceCurve` FlatBuffer를 자동 변환한 결과입니다.
+배포본에 적힌 그대로의 기록입니다. 정리하고 이어 붙인 것을 보려면 [갈래별 데이터]({{ '/docs/data-catalog/' | relative_url }})에서 찾아보세요.
