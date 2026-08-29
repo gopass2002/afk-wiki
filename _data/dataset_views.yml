@@ -30,8 +30,8 @@ cooking-levels:
 daily-challenge-stages:
   seal: stage
   title: stageName
-  primary: monsterExperience
-  points: [challengeName, zoneName, rewardSummary]
+  primary: monsterExperienceMax
+  points: [challengeName, zoneName, monsterExperience, rewardSummary]
 
 equipment-enhancement-probabilities:
   seal: level

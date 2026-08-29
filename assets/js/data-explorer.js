@@ -113,6 +113,14 @@
           /* 배포본이 label을 주지 않는 묶음은 key를 사전으로 옮겨 씁니다. */
           const name = entry.name ?? entry.label ?? entry.itemName ?? entry.monsterName ?? entry.zoneName
             ?? (entry.key === undefined ? undefined : readValue(String(entry.key)));
+          if (field === "monsterExperience" && name !== undefined) {
+            const level = numericLike(entry.level) ? `${formatNumber(entry.level)}레벨` : "";
+            const experience = numericLike(entry.experience)
+              ? `경험치 ${formatNumber(entry.experience)}`
+              : "경험치 기록 없음";
+            const details = [level, experience].filter(Boolean).join(" · ");
+            return details ? `${readValue(String(name))} (${details})` : readValue(String(name));
+          }
           const amount = entry.value ?? entry.amount ?? entry.percent ?? entry.count;
           if (name !== undefined && amount !== undefined) return `${name} ${formatScalar(amount, field)}`;
           if (name !== undefined) return readValue(String(name));
@@ -403,8 +411,9 @@
 
         const amount = document.createElement("strong");
         amount.className = "row-leaf__metric-value";
-        const hasValue = value !== null && value !== undefined && value !== "";
-        amount.textContent = hasValue ? formatScalar(value, view.primary) : "기록 없음";
+        const primaryText = summarizeValue(value, view.primary, 3);
+        const hasValue = Boolean(primaryText);
+        amount.textContent = hasValue ? primaryText : "기록 없음";
         if (!hasValue) amount.classList.add("is-missing");
 
         metric.append(label, amount);
