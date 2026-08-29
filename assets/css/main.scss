@@ -2590,7 +2590,7 @@ pre {
 }
 
 .rc-chip {
-  min-height: 40px;
+  min-height: 44px;
   padding: 6px 14px;
   border: 1px solid var(--hanji-250);
   border-radius: var(--radius-xs);
@@ -2652,7 +2652,7 @@ pre {
 
 .rc-target__select {
   flex: 1 1 11rem;
-  min-height: 40px;
+  min-height: 44px;
   padding: 6px 10px;
   border: 1px solid var(--hanji-250);
   border-radius: var(--radius-xs);
@@ -2680,8 +2680,8 @@ pre {
 }
 
 .rc-gchip {
-  width: 38px;
-  min-height: 38px;
+  width: 44px;
+  min-height: 44px;
   border: 1px solid var(--hanji-250);
   border-radius: var(--radius-xs);
   background: var(--hanji-050);
@@ -2703,8 +2703,8 @@ pre {
 }
 
 .rc-target__clear {
-  min-width: 38px;
-  min-height: 38px;
+  min-width: 44px;
+  min-height: 44px;
   border: 0;
   background: none;
   color: var(--ink-700);
@@ -2919,7 +2919,7 @@ pre {
 
 .rc-find {
   width: 100%;
-  min-height: 40px;
+  min-height: 44px;
   margin: 12px 0;
   padding: 8px 12px;
   border: 1px solid var(--hanji-250);
@@ -2931,6 +2931,14 @@ pre {
 
 .rc-pool tbody tr {
   cursor: pointer;
+}
+
+.refine-calculator[data-target-mode="grade"] .rc-pool tbody tr {
+  cursor: default;
+}
+
+.refine-calculator[data-target-mode="grade"] .rc-pool tbody tr:hover {
+  background: transparent;
 }
 
 .rc-pool tbody tr:hover {

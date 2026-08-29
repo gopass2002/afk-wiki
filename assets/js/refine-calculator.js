@@ -69,10 +69,21 @@
     return Math.ceil(Math.log(1 - target) / Math.log(1 - P));
   };
 
-  const FORMULA = {
-    1: "1줄 지정 → p₁(3 − 3p₁ + p₁²)  ·  3줄 열림 기준",
-    2: "2줄 지정 → 3 · p₁p₂(2 − p₁ − p₂)  ·  3줄 열림 기준",
-    3: "3줄 지정 → 3! · p₁p₂p₃",
+  const optionFormula = (count, slots) => {
+    if (count > slots) return "지정한 줄 수가 현재 열린 슬롯보다 많아 조합 불가";
+    if (count === 1) {
+      return slots === 1
+        ? "1줄 지정 → p₁"
+        : slots === 2
+          ? "1줄 지정 → p₁(2 − p₁)"
+          : "1줄 지정 → p₁(3 − 3p₁ + p₁²)";
+    }
+    if (count === 2) {
+      return slots === 2
+        ? "2줄 지정 → 2 · p₁p₂"
+        : "2줄 지정 → 3 · p₁p₂(2 − p₁ − p₂)";
+    }
+    return "3줄 지정 → 3! · p₁p₂p₃";
   };
 
   /* ── 상태 ─────────────────────────────────────────────── */
@@ -81,15 +92,21 @@
     valuesByAttr: new Map(),
     poolGroup: null,
     grade: null,
-    mode: "roll",
+    targetMode: "grade",
+    slots: 3,
     active: 0,
     find: "",
-    targets: [{ k: null, g: "S" }, { k: null, g: "S" }, { k: null, g: "B" }],
+    targets: [
+      { k: null, g: "S", enabled: true },
+      { k: null, g: "S", enabled: true },
+      { k: null, g: "B", enabled: false },
+    ],
   };
 
   const currentPool = () => state.pools.find((pool) => pool.group === state.poolGroup);
   const currentRow = () => currentPool()?.rows.find((row) => row.itemGrade === state.grade);
-  const activeTargets = () => state.targets.filter((target) => target.k);
+  const targetIsActive = (target) => state.targetMode === "grade" ? target.enabled : Boolean(target.k);
+  const activeTargets = () => state.targets.filter(targetIsActive);
 
   // 등급 X 이상이 뜰 확률 — D~S 가중치의 꼬리 합
   const gradeAtLeast = (row, grade) => {
@@ -99,28 +116,48 @@
     return odds.slice(index).reduce((sum, entry) => sum + (entry.percent ?? 0), 0) / 100;
   };
 
-  // 열린 줄 수 분포 — 1번 슬롯은 항상 열리고 2·3번은 각자 해금률로 독립 판정한다
-  const slotDistribution = (row) => {
-    const rates = (row?.slots ?? []).map((slot) => (slot.unlockPercent ?? 0) / 100);
-    const [, second = 0, third = 0] = rates;
-    return [
-      { n: 1, q: (1 - second) * (1 - third) },
-      { n: 2, q: second * (1 - third) + third * (1 - second) },
-      { n: 3, q: second * third },
-    ];
-  };
-
   const lineP = (row, key, grade) => {
     const option = row?.options.find((entry) => entry.attrKey === key);
     return option ? (option.weight / row.optionWeightTotal) * gradeAtLeast(row, grade) : 0;
   };
 
+  // 옵션 종류를 지정하지 않은 등급 조합 확률. 열린 줄이 최대 3개라 D~S 결과를
+  // 순서 포함 전수 열거해, 서로 다른 최저 등급 목표도 같은 방식으로 처리한다.
+  const gradePatternP = (row, targets, slots) => {
+    if (targets.length === 0) return 1;
+    if (targets.length > slots) return 0;
+    const odds = row?.slots?.[0]?.gradeOdds ?? [];
+    const requirements = targets
+      .map((target) => GRADES.indexOf(target.g))
+      .sort((left, right) => right - left);
+    let total = 0;
+
+    const visit = (depth, probability, outcomes) => {
+      if (depth === slots) {
+        const ranked = [...outcomes].sort((left, right) => right - left);
+        if (requirements.every((minimum, index) => ranked[index] >= minimum)) total += probability;
+        return;
+      }
+      for (const entry of odds) {
+        const rank = GRADES.indexOf(entry.grade);
+        if (rank < 0 || !(entry.percent > 0)) continue;
+        visit(depth + 1, probability * entry.percent / 100, [...outcomes, rank]);
+      }
+    };
+
+    visit(0, 1, []);
+    return total;
+  };
+
   const perAttempt = () => {
     const row = currentRow();
-    const ps = activeTargets().map((target) => lineP(row, target.k, target.g));
-    if (state.mode === "persist") return { P: allPresent(ps, 3), ps };
-    const P = slotDistribution(row).reduce((sum, slot) => sum + slot.q * allPresent(ps, slot.n), 0);
-    return { P, ps };
+    const targets = activeTargets();
+    if (state.targetMode === "grade") {
+      const ps = targets.map((target) => gradeAtLeast(row, target.g));
+      return { P: gradePatternP(row, targets, state.slots), ps };
+    }
+    const ps = targets.map((target) => lineP(row, target.k, target.g));
+    return { P: allPresent(ps, state.slots), ps };
   };
 
   const valueText = (attrKey, grade) => {
@@ -147,7 +184,7 @@
         for (const target of state.targets) {
           if (target.k && !pool.rows[0].options.some((option) => option.attrKey === target.k)) target.k = null;
         }
-        if (activeTargets().length === 0) state.targets[0].k = pool.rows[0].options[0].attrKey;
+        if (!state.targets.some((target) => target.k)) state.targets[0].k = pool.rows[0].options[0].attrKey;
         render();
       });
       wrap.appendChild(button);
@@ -198,8 +235,12 @@
       select.setAttribute("aria-label", `${index + 1}줄 목표 옵션`);
       select.addEventListener("change", (event) => {
         const value = event.target.value;
-        state.targets[index].k = value || null;
-        if (value) {
+        if (state.targetMode === "grade") {
+          state.targets[index].enabled = value === "__ANY__";
+        } else {
+          state.targets[index].k = value || null;
+        }
+        if (state.targetMode === "option" && value) {
           state.targets.forEach((other, otherIndex) => {
             if (otherIndex !== index && other.k === value) other.k = null;
           });
@@ -241,7 +282,8 @@
         clear.setAttribute("aria-label", `${index + 1}줄 목표 지우기`);
         clear.addEventListener("click", (event) => {
           event.stopPropagation();
-          state.targets[index].k = null;
+          if (state.targetMode === "grade") state.targets[index].enabled = false;
+          else state.targets[index].k = null;
           render();
         });
         row.appendChild(clear);
@@ -254,26 +296,35 @@
     const nodes = $("targets").children;
     state.targets.forEach((target, index) => {
       const node = nodes[index];
+      const active = targetIsActive(target);
       node.dataset.active = String(state.active === index);
-      node.dataset.empty = String(!target.k);
+      node.dataset.empty = String(!active);
 
       const select = node.querySelector("select");
-      const markup = ['<option value="">지정 안 함</option>']
-        .concat(
-          [...row.options]
-            .sort((left, right) => left.label.localeCompare(right.label, "ko"))
-            .map((option) => `<option value="${option.attrKey}">${option.label}</option>`),
-        )
-        .join("");
+      const markup = state.targetMode === "grade"
+        ? '<option value="">지정 안 함</option><option value="__ANY__">아무 옵션</option>'
+        : ['<option value="">지정 안 함</option>']
+          .concat(
+            [...row.options]
+              .sort((left, right) => left.label.localeCompare(right.label, "ko"))
+              .map((option) => `<option value="${option.attrKey}">${option.label}</option>`),
+          )
+          .join("");
       if (select.innerHTML !== markup) select.innerHTML = markup;
-      select.value = target.k || "";
+      select.value = state.targetMode === "grade" ? (target.enabled ? "__ANY__" : "") : (target.k || "");
+      select.setAttribute("aria-label", state.targetMode === "grade"
+        ? `${index + 1}줄 등급 목표 사용 여부`
+        : `${index + 1}줄 목표 옵션`);
 
       for (const button of node.querySelectorAll(".rc-gchip")) {
-        button.setAttribute("aria-pressed", String(target.k != null && button.dataset.g === target.g));
-        button.disabled = !target.k;
+        button.setAttribute("aria-pressed", String(active && button.dataset.g === target.g));
+        button.disabled = !active;
       }
+      node.querySelector(".rc-target__hint").textContent = state.targetMode === "grade"
+        ? "목표에 포함할 줄을 고르세요"
+        : "옵션을 고르면 등급을 정합니다";
       const clear = node.querySelector(".rc-target__clear");
-      if (clear) clear.style.visibility = target.k ? "visible" : "hidden";
+      if (clear) clear.style.visibility = active ? "visible" : "hidden";
     });
   }
 
@@ -291,23 +342,41 @@
     for (const button of $("grades").children) {
       button.setAttribute("aria-pressed", String(Number(button.dataset.grade) === state.grade));
     }
-    for (const button of $("modes").querySelectorAll("button")) {
-      button.setAttribute("aria-pressed", String(button.dataset.mode === state.mode));
+    for (const button of $("targetModes").querySelectorAll("button")) {
+      button.setAttribute("aria-pressed", String(button.dataset.targetMode === state.targetMode));
     }
+    for (const button of $("slots").querySelectorAll("button")) {
+      button.setAttribute("aria-pressed", String(Number(button.dataset.slots) === state.slots));
+    }
+    root.dataset.targetMode = state.targetMode;
     $("poolNote").textContent =
       `${pool.labels.join(" · ")} — 옵션 ${row.options.length}종 · 총 가중치 ${row.optionWeightTotal.toLocaleString(locale)}`;
     syncTargets(row);
 
-    const active = state.targets[state.active].k ? state.targets[state.active] : targets[0] ?? { g: "S" };
+    const selectedTarget = state.targets[state.active];
+    const active = targetIsActive(selectedTarget) ? selectedTarget : targets[0] ?? { g: "S" };
     root.dataset.grade = active.g;
 
     const { P, ps } = perAttempt();
-    const label = targets.map((target) => `<b>${row.options.find((o) => o.attrKey === target.k).label}</b> ${target.g}↑`).join(" + ");
     const subject = pool.labels[pool.labels.length - 1];
-    $("question").innerHTML = count
-      ? `<b>${pool.labels.join(" · ")}</b>${eul(subject)} 한 번 연마해서 ${label} ${count > 1 ? "가 모두" : "가"} 붙을 확률`
-        + (state.mode === "persist" ? " <em>· 3줄 열린 상태 기준</em>" : "")
-      : "목표 옵션을 한 줄 이상 고르세요.";
+    if (count && state.targetMode === "grade") {
+      const grades = targets
+        .map((target) => target.g)
+        .sort((left, right) => GRADES.indexOf(right) - GRADES.indexOf(left));
+      const pattern = [...grades, ...Array(Math.max(0, state.slots - count)).fill("*")].join("/");
+      $("question").innerHTML = `<b>${pool.labels.join(" · ")}</b>${eul(subject)} 재연마해서 등급 조합 <b>${pattern}</b> 이상을 만족할 확률`
+        + ` <em>· 열린 ${state.slots}줄의 옵션을 전부 다시 추첨</em>`;
+    } else if (count) {
+      const label = targets
+        .map((target) => `<b>${row.options.find((option) => option.attrKey === target.k).label}</b> ${target.g}↑`)
+        .join(" + ");
+      $("question").innerHTML = `<b>${pool.labels.join(" · ")}</b>${eul(subject)} 재연마해서 ${label}${count > 1 ? "이 모두" : "이"} 붙을 확률`
+        + ` <em>· 열린 ${state.slots}줄의 옵션을 전부 다시 추첨</em>`;
+    } else {
+      $("question").textContent = state.targetMode === "grade"
+        ? "목표 등급을 한 줄 이상 고르세요."
+        : "목표 옵션을 한 줄 이상 고르세요.";
+    }
     $("big").textContent = count ? fmtPct(P * 100) : "—";
     $("sub").innerHTML = count
       ? (P > 0 ? `약 <b>${kNum(1 / P)}</b>번에 한 번` : "이 조합은 나올 수 없습니다")
@@ -344,42 +413,32 @@
     $("dockCursor").style.left = `calc(${position}% - 1.5px)`;
 
     const breakdown = $("breakRows");
-    if (state.mode === "persist") {
-      $("breakTitle").textContent = "계산 분해 — 3줄 열린 상태 기준";
-      const match = allPresent(ps, 3);
-      breakdown.innerHTML =
-        `<tr><td data-l="열린 줄">3줄</td><td class="rc-n" data-l="그 상태가 될 확률">100%</td>`
-        + `<td class="rc-n" data-l="조합 일치">${fmtPct(match * 100)}%</td><td class="rc-n" data-l="기여">${fmtPct(match * 100)}%</td></tr>`;
-    } else {
-      $("breakTitle").textContent = "계산 분해 — 매 시도 슬롯 추첨";
-      breakdown.innerHTML = slotDistribution(row)
-        .map((slot) => {
-          const match = allPresent(ps, slot.n);
-          const contribution = slot.q * match;
-          const dead = match === 0 ? " is-dead" : "";
-          return `<tr><td class="${dead.trim()}" data-l="열린 줄">${slot.n}줄</td>`
-            + `<td class="rc-n${dead}" data-l="그 상태가 될 확률">${(slot.q * 100).toFixed(2)}%</td>`
-            + `<td class="rc-n${dead}" data-l="조합 일치">${match === 0 ? "불가" : `${fmtPct(match * 100)}%`}</td>`
-            + `<td class="rc-n${dead}" data-l="기여">${contribution === 0 ? "0" : `${fmtPct(contribution * 100)}%`}</td></tr>`;
-        })
-        .join("")
-        + `<tr><td data-l="열린 줄">합계</td><td class="rc-n" data-l="그 상태가 될 확률">100.00%</td>`
-        + `<td class="rc-n" data-l="조합 일치">—</td><td class="rc-n" data-l="기여">${fmtPct(P * 100)}%</td></tr>`;
-    }
+    $("breakTitle").textContent = `계산 분해 — 열린 ${state.slots}줄 유지`;
+    breakdown.innerHTML =
+      `<tr><td data-l="열린 줄">${state.slots}줄</td><td class="rc-n" data-l="슬롯 유지">100%</td>`
+      + `<td class="rc-n" data-l="조합 일치">${fmtPct(P * 100)}%</td><td class="rc-n" data-l="최종 확률">${fmtPct(P * 100)}%</td></tr>`;
 
-    $("breakEquation").innerHTML = count
-      ? targets
+    if (!count) {
+      $("breakEquation").textContent = "";
+    } else if (state.targetMode === "grade") {
+      $("breakEquation").innerHTML = targets
+        .map((target, index) => `<span class="rc-mono">g${sub(index + 1)} = ${target.g} 이상 ${fmtPct(ps[index] * 100)}%</span>`)
+        .join("<br>")
+        + `<br><span>열린 ${state.slots}줄의 D~S 결과 ${GRADES.length ** state.slots}가지를 가중치대로 합산합니다. 옵션 종류 가중치는 곱하지 않습니다.</span>`;
+    } else {
+      $("breakEquation").innerHTML = targets
         .map((target, index) => {
           const option = row.options.find((entry) => entry.attrKey === target.k);
           return `<span class="rc-mono">p${sub(index + 1)} = ${option.weight} ÷ ${row.optionWeightTotal.toLocaleString(locale)}`
             + ` × ${(gradeAtLeast(row, target.g) * 100).toFixed(0)}% = ${fmtPct(ps[index] * 100)}%</span>`;
         })
-        .join("<br>") + `<br><span class="rc-mono">${FORMULA[count]}</span>`
-      : "";
+        .join("<br>") + `<br><span class="rc-mono">${optionFormula(count, state.slots)}</span>`;
+    }
 
     $("poolTitle").textContent = `${pool.labels.join(" · ")} 옵션 풀`;
     $("poolMeta").textContent = (pool.labels.length > 1 ? `${pool.labels.length}개 종류 공용` : "이 종류 전용")
-      + ` · 등급 ${row.itemGradeLabel} · ${active.g} 이상 기준`;
+      + ` · 등급 ${row.itemGradeLabel} · ${active.g} 이상 기준`
+      + (state.targetMode === "grade" ? " · 등급만 계산에는 옵션 가중치 미적용" : "");
     $("valueHead").textContent = `${active.g} 수치`;
 
     const query = state.find.trim();
@@ -394,7 +453,7 @@
       body.innerHTML = options
         .map((option) => {
           const linePercent = (option.weight / row.optionWeightTotal) * gradeAtLeast(row, active.g) * 100;
-          const selected = targets.some((target) => target.k === option.attrKey);
+          const selected = state.targetMode === "option" && targets.some((target) => target.k === option.attrKey);
           return `<tr data-attr="${option.attrKey}" aria-selected="${selected}">`
             + `<td>${option.label}</td>`
             + `<td class="rc-key">${option.attrKey}</td>`
@@ -463,14 +522,23 @@
       state.find = event.target.value;
       render();
     });
-    $("modes").addEventListener("click", (event) => {
+    $("targetModes").addEventListener("click", (event) => {
       const button = event.target.closest("button");
       if (button) {
-        state.mode = button.dataset.mode;
+        state.targetMode = button.dataset.targetMode;
+        state.active = 0;
+        render();
+      }
+    });
+    $("slots").addEventListener("click", (event) => {
+      const button = event.target.closest("button");
+      if (button) {
+        state.slots = Number(button.dataset.slots);
         render();
       }
     });
     $("poolRows").addEventListener("click", (event) => {
+      if (state.targetMode !== "option") return;
       const row = event.target.closest("tr[data-attr]");
       if (!row) return;
       const key = row.dataset.attr;
