@@ -23,6 +23,7 @@
 - title: 세계
   items:
     - { name: 지도, url: /docs/map/, status: open }
+    - { name: 일일 도전 단계, url: /docs/data/derived/daily-challenge-stages/, status: open }
     - { name: 지역·스테이지 도감, url: /docs/data/derived/zone-atlas/, status: open }
     - { name: 몬스터 도감, url: /docs/data/derived/monster-codex/, status: open }
     - { name: 몬스터·스폰·드롭, url: /docs/world-data/, status: open }

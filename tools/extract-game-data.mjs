@@ -23,6 +23,7 @@ const CODEX_DERIVED_FILES = [
   "monster-codex.json",
   "monster-drop-seeds.json",
   "zone-atlas.json",
+  "daily-challenge-stages.json",
   "collection-codex.json",
   "collection-milestones.json",
   "cooking-levels.json",

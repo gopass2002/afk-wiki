@@ -2161,19 +2161,23 @@
       "rowCount": 217,
       "warning": "normalizedWeightSharePercent is not an absolute monster-drop probability"
     },
-    "monsterCodex": {
-      "rowCount": 117,
-      "warning": "dropItems lists seedGroup candidates, not per-kill drop odds"
+  "monsterCodex": {
+    "rowCount": 117,
+    "warning": "experience is the unconverted FBDataDropCurrency.exp value; 19 monsters have no matching experience row. dropItems lists seedGroup candidates, not per-kill drop odds"
     },
     "monsterDropSeeds": {
       "rowCount": 868,
       "formula": "topItemSharePercent = top candidate weight / Σ seedGroup candidate weights",
       "warning": "dropRateRaw is a client value of unconfirmed unit; it is not multiplied into a per-kill probability"
     },
-    "zoneAtlas": {
-      "rowCount": 129,
-      "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
-    },
+  "zoneAtlas": {
+    "rowCount": 129,
+    "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
+  },
+  "dailyChallengeStages": {
+    "rowCount": 107,
+    "warning": "dailyTimeRaw, timeLimitRaw, and attributeScaleRaw are unconverted client values. FBDataDailyDungeonReward rows are not attached because the deployed data has no explicit key from a time-field tier to a reward group"
+  },
     "collectionCodex": {
       "rowCount": 561
     },

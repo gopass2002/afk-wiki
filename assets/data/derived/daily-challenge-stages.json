@@ -1,0 +1,3512 @@
+{
+  "meta": {
+    "appVersion": "1.260827.0",
+    "derivedAt": "2026-08-29T01:52:38.314Z",
+    "kind": "dailyChallengeStages",
+    "patch": "ebffb",
+    "rowCount": 107,
+    "sources": [
+      "FBDataDailyDungeonBoss",
+      "FBDataDailyDungeonBossTier",
+      "FBDataDailyDungeonBossReward",
+      "FBDataDailyDungeonTimeField",
+      "FBDataDailyDungeonTimeFieldTier",
+      "FBDataStringUI",
+      "zone-atlas.json",
+      "FBDataItem"
+    ],
+    "warning": "dailyTimeRaw, timeLimitRaw, and attributeScaleRaw are unconverted client values. FBDataDailyDungeonReward rows are not attached because the deployed data has no explicit key from a time-field tier to a reward group"
+  },
+  "rows": [
+    {
+      "challengeType": "시간형",
+      "challengeName": "흑랑의 소굴",
+      "stage": 1,
+      "stageName": "1단계 · 쉬움",
+      "difficulty": "쉬움",
+      "unlockLevelRaw": 0,
+      "zoneName": "흑랑의 소굴",
+      "regionName": "",
+      "monsterLevelMin": 31,
+      "monsterLevelMax": 33,
+      "monsterCount": 2,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsterExperience": [
+        {
+          "name": "흑랑",
+          "level": 31,
+          "experience": 4375
+        },
+        {
+          "name": "흑랑 우두머리",
+          "level": 33,
+          "experience": 5250
+        }
+      ],
+      "monsterExperienceMin": 4375,
+      "monsterExperienceMax": 5250,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 14400000,
+      "timeLimitRaw": null,
+      "zoneId": 5000001
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "흑랑의 소굴",
+      "stage": 2,
+      "stageName": "2단계 · 보통",
+      "difficulty": "보통",
+      "unlockLevelRaw": 40,
+      "zoneName": "흑랑의 소굴",
+      "regionName": "",
+      "monsterLevelMin": 53,
+      "monsterLevelMax": 55,
+      "monsterCount": 2,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsterExperience": [
+        {
+          "name": "흑랑",
+          "level": 53,
+          "experience": 11000
+        },
+        {
+          "name": "흑랑 우두머리",
+          "level": 55,
+          "experience": 13200
+        }
+      ],
+      "monsterExperienceMin": 11000,
+      "monsterExperienceMax": 13200,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 14400000,
+      "timeLimitRaw": null,
+      "zoneId": 5000002
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "흑랑의 소굴",
+      "stage": 3,
+      "stageName": "3단계 · 어려움",
+      "difficulty": "어려움",
+      "unlockLevelRaw": 50,
+      "zoneName": "흑랑의 소굴",
+      "regionName": "",
+      "monsterLevelMin": 73,
+      "monsterLevelMax": 75,
+      "monsterCount": 2,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsterExperience": [
+        {
+          "name": "흑랑",
+          "level": 73,
+          "experience": 27500
+        },
+        {
+          "name": "흑랑 우두머리",
+          "level": 75,
+          "experience": 33000
+        }
+      ],
+      "monsterExperienceMin": 27500,
+      "monsterExperienceMax": 33000,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 14400000,
+      "timeLimitRaw": null,
+      "zoneId": 5000003
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "심마의 세계",
+      "stage": 1,
+      "stageName": "1단계 · 서장 보스",
+      "difficulty": "서장 보스",
+      "unlockLevelRaw": 0,
+      "zoneName": "심마의 세계",
+      "regionName": "",
+      "monsterLevelMin": 60,
+      "monsterLevelMax": 60,
+      "monsterCount": 3,
+      "monsterNames": [
+        "내면의 허상",
+        "내면의 심마",
+        "내면의 욕망"
+      ],
+      "monsterExperience": [
+        {
+          "name": "내면의 허상",
+          "level": 60,
+          "experience": 11000
+        },
+        {
+          "name": "내면의 심마",
+          "level": 60,
+          "experience": 11000
+        },
+        {
+          "name": "내면의 욕망",
+          "level": 60,
+          "experience": 11000
+        }
+      ],
+      "monsterExperienceMin": 11000,
+      "monsterExperienceMax": 11000,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 3600000,
+      "timeLimitRaw": null,
+      "zoneId": 5000004
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "심마의 세계",
+      "stage": 2,
+      "stageName": "2단계 · 1장 보스",
+      "difficulty": "1장 보스",
+      "unlockLevelRaw": 60,
+      "zoneName": "심마의 세계",
+      "regionName": "",
+      "monsterLevelMin": 73,
+      "monsterLevelMax": 73,
+      "monsterCount": 3,
+      "monsterNames": [
+        "내면의 분노",
+        "내면의 절망",
+        "내면의 광기"
+      ],
+      "monsterExperience": [
+        {
+          "name": "내면의 분노",
+          "level": 73,
+          "experience": 27500
+        },
+        {
+          "name": "내면의 절망",
+          "level": 73,
+          "experience": 27500
+        },
+        {
+          "name": "내면의 광기",
+          "level": 73,
+          "experience": 27500
+        }
+      ],
+      "monsterExperienceMin": 27500,
+      "monsterExperienceMax": 27500,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 3600000,
+      "timeLimitRaw": null,
+      "zoneId": 5000005
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "심마의 세계",
+      "stage": 3,
+      "stageName": "3단계 · 2장 보스",
+      "difficulty": "2장 보스",
+      "unlockLevelRaw": 70,
+      "zoneName": "심마의 세계",
+      "regionName": "",
+      "monsterLevelMin": 86,
+      "monsterLevelMax": 86,
+      "monsterCount": 3,
+      "monsterNames": [
+        "내면의 오만",
+        "내면의 집착",
+        "내면의 의심"
+      ],
+      "monsterExperience": [
+        {
+          "name": "내면의 오만",
+          "level": 86,
+          "experience": 55000
+        },
+        {
+          "name": "내면의 집착",
+          "level": 86,
+          "experience": 55000
+        },
+        {
+          "name": "내면의 의심",
+          "level": 86,
+          "experience": 55000
+        }
+      ],
+      "monsterExperienceMin": 55000,
+      "monsterExperienceMax": 55000,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 3600000,
+      "timeLimitRaw": null,
+      "zoneId": 5000006
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "심마의 세계",
+      "stage": 4,
+      "stageName": "4단계 · 3장 보스",
+      "difficulty": "3장 보스",
+      "unlockLevelRaw": 80,
+      "zoneName": "심마의 세계",
+      "regionName": "",
+      "monsterLevelMin": 100,
+      "monsterLevelMax": 100,
+      "monsterCount": 3,
+      "monsterNames": [
+        "내면의 공포",
+        "내면의 탐욕",
+        "내면의 미련"
+      ],
+      "monsterExperience": [
+        {
+          "name": "내면의 공포",
+          "level": 100,
+          "experience": 110000
+        },
+        {
+          "name": "내면의 탐욕",
+          "level": 100,
+          "experience": 110000
+        },
+        {
+          "name": "내면의 미련",
+          "level": 100,
+          "experience": 110000
+        }
+      ],
+      "monsterExperienceMin": 110000,
+      "monsterExperienceMax": 110000,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 3600000,
+      "timeLimitRaw": null,
+      "zoneId": 5000007
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 1,
+      "stageName": "1단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 100,
+      "rewardSummary": "은량 50000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 2,
+      "stageName": "2단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 104,
+      "rewardSummary": "은량 55000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 3,
+      "stageName": "3단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 108,
+      "rewardSummary": "은량 60000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 4,
+      "stageName": "4단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 112,
+      "rewardSummary": "은량 65000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 5,
+      "stageName": "5단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 117,
+      "rewardSummary": "은량 70000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 6,
+      "stageName": "6단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 122,
+      "rewardSummary": "은량 75000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 7,
+      "stageName": "7단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 127,
+      "rewardSummary": "은량 80000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 8,
+      "stageName": "8단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 132,
+      "rewardSummary": "은량 85000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 9,
+      "stageName": "9단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 137,
+      "rewardSummary": "은량 90000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 10,
+      "stageName": "10단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 142,
+      "rewardSummary": "은량 95000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 11,
+      "stageName": "11단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 148,
+      "rewardSummary": "은량 100000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 12,
+      "stageName": "12단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 154,
+      "rewardSummary": "은량 105000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 13,
+      "stageName": "13단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 160,
+      "rewardSummary": "은량 110000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 14,
+      "stageName": "14단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 167,
+      "rewardSummary": "은량 115000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 15,
+      "stageName": "15단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 173,
+      "rewardSummary": "은량 120000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 16,
+      "stageName": "16단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 180,
+      "rewardSummary": "은량 125000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 17,
+      "stageName": "17단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 187,
+      "rewardSummary": "은량 130000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 18,
+      "stageName": "18단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 195,
+      "rewardSummary": "은량 135000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 19,
+      "stageName": "19단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 203,
+      "rewardSummary": "은량 140000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 20,
+      "stageName": "20단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 211,
+      "rewardSummary": "은량 145000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 21,
+      "stageName": "21단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 219,
+      "rewardSummary": "은량 150000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 22,
+      "stageName": "22단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 228,
+      "rewardSummary": "은량 155000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 23,
+      "stageName": "23단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 237,
+      "rewardSummary": "은량 160000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 24,
+      "stageName": "24단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 246,
+      "rewardSummary": "은량 165000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 25,
+      "stageName": "25단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 256,
+      "rewardSummary": "은량 170000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 26,
+      "stageName": "26단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 267,
+      "rewardSummary": "은량 175000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 27,
+      "stageName": "27단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 277,
+      "rewardSummary": "은량 180000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 28,
+      "stageName": "28단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 288,
+      "rewardSummary": "은량 185000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 29,
+      "stageName": "29단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 300,
+      "rewardSummary": "은량 190000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 30,
+      "stageName": "30단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 312,
+      "rewardSummary": "은량 195000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 31,
+      "stageName": "31단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 324,
+      "rewardSummary": "은량 200000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 32,
+      "stageName": "32단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 337,
+      "rewardSummary": "은량 205000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 33,
+      "stageName": "33단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 351,
+      "rewardSummary": "은량 210000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 34,
+      "stageName": "34단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 365,
+      "rewardSummary": "은량 215000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 35,
+      "stageName": "35단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 379,
+      "rewardSummary": "은량 220000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 36,
+      "stageName": "36단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 395,
+      "rewardSummary": "은량 225000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 37,
+      "stageName": "37단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 410,
+      "rewardSummary": "은량 230000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 38,
+      "stageName": "38단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 427,
+      "rewardSummary": "은량 235000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 39,
+      "stageName": "39단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 444,
+      "rewardSummary": "은량 240000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 40,
+      "stageName": "40단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 462,
+      "rewardSummary": "은량 245000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 41,
+      "stageName": "41단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 480,
+      "rewardSummary": "은량 250000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 42,
+      "stageName": "42단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 499,
+      "rewardSummary": "은량 255000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 43,
+      "stageName": "43단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 519,
+      "rewardSummary": "은량 260000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 44,
+      "stageName": "44단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 540,
+      "rewardSummary": "은량 265000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 45,
+      "stageName": "45단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 562,
+      "rewardSummary": "은량 270000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 46,
+      "stageName": "46단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 584,
+      "rewardSummary": "은량 275000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 47,
+      "stageName": "47단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 607,
+      "rewardSummary": "은량 280000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 48,
+      "stageName": "48단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 632,
+      "rewardSummary": "은량 285000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 49,
+      "stageName": "49단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 657,
+      "rewardSummary": "은량 290000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 50,
+      "stageName": "50단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 683,
+      "rewardSummary": "은량 295000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 51,
+      "stageName": "51단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 745,
+      "rewardSummary": "은량 300000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 52,
+      "stageName": "52단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 812,
+      "rewardSummary": "은량 305000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 53,
+      "stageName": "53단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 885,
+      "rewardSummary": "은량 310000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 54,
+      "stageName": "54단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 965,
+      "rewardSummary": "은량 315000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 55,
+      "stageName": "55단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1051,
+      "rewardSummary": "은량 320000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 56,
+      "stageName": "56단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1146,
+      "rewardSummary": "은량 325000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 57,
+      "stageName": "57단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1249,
+      "rewardSummary": "은량 330000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 58,
+      "stageName": "58단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1362,
+      "rewardSummary": "은량 335000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 59,
+      "stageName": "59단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1484,
+      "rewardSummary": "은량 340000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 60,
+      "stageName": "60단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1618,
+      "rewardSummary": "은량 345000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 61,
+      "stageName": "61단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1763,
+      "rewardSummary": "은량 350000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 62,
+      "stageName": "62단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 1922,
+      "rewardSummary": "은량 355000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 63,
+      "stageName": "63단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 2095,
+      "rewardSummary": "은량 360000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 64,
+      "stageName": "64단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 2284,
+      "rewardSummary": "은량 365000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 65,
+      "stageName": "65단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 2489,
+      "rewardSummary": "은량 370000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 66,
+      "stageName": "66단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 2713,
+      "rewardSummary": "은량 375000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 67,
+      "stageName": "67단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 2957,
+      "rewardSummary": "은량 380000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 68,
+      "stageName": "68단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 3223,
+      "rewardSummary": "은량 385000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 69,
+      "stageName": "69단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 3513,
+      "rewardSummary": "은량 390000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 70,
+      "stageName": "70단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 3830,
+      "rewardSummary": "은량 395000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 71,
+      "stageName": "71단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 4174,
+      "rewardSummary": "은량 400000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 72,
+      "stageName": "72단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 4550,
+      "rewardSummary": "은량 405000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 73,
+      "stageName": "73단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 4960,
+      "rewardSummary": "은량 410000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 74,
+      "stageName": "74단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 5406,
+      "rewardSummary": "은량 415000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 75,
+      "stageName": "75단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 5892,
+      "rewardSummary": "은량 420000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 76,
+      "stageName": "76단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 6423,
+      "rewardSummary": "은량 425000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 77,
+      "stageName": "77단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 7001,
+      "rewardSummary": "은량 430000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 78,
+      "stageName": "78단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 7631,
+      "rewardSummary": "은량 435000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 79,
+      "stageName": "79단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 8318,
+      "rewardSummary": "은량 440000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 80,
+      "stageName": "80단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 9066,
+      "rewardSummary": "은량 445000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 81,
+      "stageName": "81단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 9882,
+      "rewardSummary": "은량 450000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 82,
+      "stageName": "82단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 10772,
+      "rewardSummary": "은량 455000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 83,
+      "stageName": "83단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 11741,
+      "rewardSummary": "은량 460000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 84,
+      "stageName": "84단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 12798,
+      "rewardSummary": "은량 465000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 85,
+      "stageName": "85단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 13950,
+      "rewardSummary": "은량 470000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 86,
+      "stageName": "86단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 15205,
+      "rewardSummary": "은량 475000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 87,
+      "stageName": "87단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 16573,
+      "rewardSummary": "은량 480000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 88,
+      "stageName": "88단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 18065,
+      "rewardSummary": "은량 485000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 89,
+      "stageName": "89단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 19691,
+      "rewardSummary": "은량 490000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 90,
+      "stageName": "90단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 21463,
+      "rewardSummary": "은량 495000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 91,
+      "stageName": "91단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 23395,
+      "rewardSummary": "은량 500000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 92,
+      "stageName": "92단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 25500,
+      "rewardSummary": "은량 505000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 93,
+      "stageName": "93단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 27795,
+      "rewardSummary": "은량 510000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 94,
+      "stageName": "94단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 30297,
+      "rewardSummary": "은량 515000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 95,
+      "stageName": "95단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 33024,
+      "rewardSummary": "은량 520000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 96,
+      "stageName": "96단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 35996,
+      "rewardSummary": "은량 525000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 97,
+      "stageName": "97단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 39235,
+      "rewardSummary": "은량 530000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 98,
+      "stageName": "98단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 42767,
+      "rewardSummary": "은량 535000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 99,
+      "stageName": "99단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 46616,
+      "rewardSummary": "은량 540000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    },
+    {
+      "challengeType": "보스형",
+      "challengeName": "숟가락 할배 습격",
+      "stage": 100,
+      "stageName": "100단계",
+      "difficulty": "",
+      "unlockLevelRaw": null,
+      "zoneName": "숟가락 할배",
+      "regionName": "",
+      "monsterLevelMin": 18,
+      "monsterLevelMax": 18,
+      "monsterCount": 1,
+      "monsterNames": [
+        "숟가락 할배"
+      ],
+      "monsterExperience": [
+        {
+          "name": "숟가락 할배",
+          "level": 18,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": 50811,
+      "rewardSummary": "은량 545000",
+      "entryItemName": "은량 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000001
+    }
+  ]
+}

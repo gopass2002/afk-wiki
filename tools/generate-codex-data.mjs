@@ -105,11 +105,18 @@ async function main() {
     dropGroups,
     monsters,
     monsterAttributes,
+    dropCurrencies,
     monsterStrings,
     zones,
     zoneRegions,
     zoneSpawns,
     npcs,
+    dailyDungeonBosses,
+    dailyDungeonBossTiers,
+    dailyDungeonBossRewards,
+    dailyDungeonTimeFields,
+    dailyDungeonTimeFieldTiers,
+    uiStrings,
     collections,
     collectionRegistry,
     collectionStrings,
@@ -143,11 +150,18 @@ async function main() {
     rawRows(options.root, "drop-group"),
     rawRows(options.root, "actor-monster"),
     rawRows(options.root, "attribute-monster"),
+    rawRows(options.root, "drop-currency"),
     rawRows(options.root, "string-monster-ko"),
     rawRows(options.root, "zone"),
     rawRows(options.root, "zone-region"),
     rawRows(options.root, "zone-spawn"),
     rawRows(options.root, "actor-npc"),
+    rawRows(options.root, "daily-dungeon-boss"),
+    rawRows(options.root, "daily-dungeon-boss-tier"),
+    rawRows(options.root, "daily-dungeon-boss-reward"),
+    rawRows(options.root, "daily-dungeon-time-field"),
+    rawRows(options.root, "daily-dungeon-time-field-tier"),
+    rawRows(options.root, "string-ui-ko"),
     rawRows(options.root, "collection"),
     rawRows(options.root, "collection-registry"),
     rawRows(options.root, "string-collection-ko"),
@@ -333,6 +347,7 @@ async function main() {
 
   const monsterStringByKey = new Map(monsterStrings.map((entry) => [entry.key, entry.value]));
   const monsterAttributeByKey = new Map(monsterAttributes.map((entry) => [entry.key, entry]));
+  const dropCurrencyByMonster = new Map(dropCurrencies.map((entry) => [entry.id, entry]));
   const monsterById = new Map(monsters.map((entry) => [entry.id, entry]));
   const npcById = new Map(npcs.map((entry) => [entry.id, entry]));
   const regionById = new Map(zoneRegions.map((entry) => [entry.id, entry]));
@@ -381,6 +396,8 @@ async function main() {
         name: monsterStringByKey.get(monster.name) ?? monster.name,
         nameKey: monster.name,
         level: monster.level,
+        experience: dropCurrencyByMonster.get(monster.id)?.exp ?? null,
+        experienceRecorded: dropCurrencyByMonster.has(monster.id),
         boss: monster.boss,
         aggressive: monster.aggressive,
         bodyType: monster.bodyType,
@@ -447,6 +464,7 @@ async function main() {
             id: monster.id,
             name: monsterStringByKey.get(monster.name) ?? monster.name,
             level: monster.level,
+            experience: dropCurrencyByMonster.get(monster.id)?.exp ?? null,
             boss: monster.boss,
             count: spawn.count,
             spawnType: spawn.type,
@@ -490,6 +508,90 @@ async function main() {
       };
     })
     .sort((left, right) => left.id - right.id);
+
+  const zoneAtlasById = new Map(zoneAtlasRows.map((entry) => [entry.id, entry]));
+  const uiStringByKey = new Map(uiStrings.map((entry) => [entry.key, entry.value]));
+  const dailyBossTiersByGroup = groupBy(dailyDungeonBossTiers, (entry) => entry.tierGroupKey);
+  const dailyBossRewardsByGroup = groupBy(dailyDungeonBossRewards, (entry) => entry.rewardGroupKey);
+  const dailyTimeFieldByGroup = new Map(
+    dailyDungeonTimeFields.map((entry) => [entry.tierGroupKey, entry]),
+  );
+  const monsterExperienceSummary = (zone) => {
+    const entries = (zone?.monsters ?? []).map((monster) => ({
+      name: monster.name,
+      level: monster.level,
+      experience: monster.experience,
+    }));
+    const recorded = entries
+      .map((entry) => entry.experience)
+      .filter((value) => value !== null && value !== undefined);
+    return {
+      monsterExperience: entries,
+      monsterExperienceMin: recorded.length > 0 ? Math.min(...recorded) : null,
+      monsterExperienceMax: recorded.length > 0 ? Math.max(...recorded) : null,
+      monsterExperienceMissingCount: entries.length - recorded.length,
+    };
+  };
+
+  const dailyTimeFieldStageRows = dailyDungeonTimeFieldTiers.map((tier) => {
+    const challenge = dailyTimeFieldByGroup.get(tier.tierGroupKey);
+    const zone = zoneAtlasById.get(tier.zoneId);
+    const difficulty = uiStringByKey.get(tier.nameKey) ?? tier.nameKey;
+    return {
+      challengeType: "시간형",
+      challengeName: challenge?.nameKey ?? "",
+      stage: tier.tier,
+      stageName: `${tier.tier}단계 · ${difficulty}`,
+      difficulty,
+      unlockLevelRaw: tier.unlockLevel,
+      zoneName: zone?.name ?? "",
+      regionName: zone?.regionName ?? "",
+      monsterLevelMin: zone?.monsterLevelMin ?? null,
+      monsterLevelMax: zone?.monsterLevelMax ?? null,
+      monsterCount: zone?.monsterCount ?? 0,
+      monsterNames: zone?.monsterNames ?? [],
+      ...monsterExperienceSummary(zone),
+      attributeScaleRaw: null,
+      rewardSummary: "",
+      entryItemName: "",
+      dailyTimeRaw: challenge?.dailyTime ?? null,
+      timeLimitRaw: null,
+      zoneId: tier.zoneId,
+    };
+  });
+
+  const dailyBossStageRows = dailyDungeonBosses.flatMap((challenge) => {
+    const zone = zoneAtlasById.get(challenge.zoneId);
+    const entryItem = itemById.get(challenge.useTicketId);
+    return (dailyBossTiersByGroup.get(challenge.tierGroupKey) ?? []).map((tier) => {
+      const rewards = dailyBossRewardsByGroup.get(tier.rewardGroupKey) ?? [];
+      return {
+        challengeType: "보스형",
+        challengeName: challenge.nameKey,
+        stage: tier.tier,
+        stageName: `${tier.tier}단계`,
+        difficulty: "",
+        unlockLevelRaw: null,
+        zoneName: zone?.name ?? "",
+        regionName: zone?.regionName ?? "",
+        monsterLevelMin: zone?.monsterLevelMin ?? null,
+        monsterLevelMax: zone?.monsterLevelMax ?? null,
+        monsterCount: zone?.monsterCount ?? 0,
+        monsterNames: zone?.monsterNames ?? [],
+        ...monsterExperienceSummary(zone),
+        attributeScaleRaw: tier.attrScale,
+        rewardSummary: rewards
+          .map((reward) => `${itemById.get(reward.itemId)?.name ?? reward.itemId} ${reward.itemAmount}`)
+          .join(" · "),
+        entryItemName: entryItem?.name ?? "",
+        dailyTimeRaw: null,
+        timeLimitRaw: challenge.timeLimit,
+        zoneId: challenge.zoneId,
+      };
+    });
+  });
+
+  const dailyChallengeStageRows = [...dailyTimeFieldStageRows, ...dailyBossStageRows];
 
   const collectionStringByKey = new Map(collectionStrings.map((entry) => [entry.key, entry.value]));
   const registryByCollection = groupBy(collectionRegistry, (entry) => entry.collectionId);
@@ -775,6 +877,7 @@ async function main() {
         meta: meta(manifest, "monsterCodex", monsterCodexRows, [
           "FBDataActorMonster",
           "FBDataAttributeMonster",
+          "FBDataDropCurrency",
           "FBDataStringMonster_ko",
           "FBDataZone",
           "FBDataZoneSpawn",
@@ -783,7 +886,7 @@ async function main() {
           "FBDataDropItem",
           "FBDataItem",
         ], {
-          warning: "dropItems lists seedGroup candidates, not per-kill drop odds",
+          warning: "experience is the unconverted FBDataDropCurrency.exp value; 19 monsters have no matching experience row. dropItems lists seedGroup candidates, not per-kill drop odds",
         }),
         rows: monsterCodexRows,
       },
@@ -812,12 +915,31 @@ async function main() {
           "FBDataZoneRegion",
           "FBDataZoneSpawn",
           "FBDataActorMonster",
+          "FBDataDropCurrency",
           "FBDataActorNPC",
           "FBDataStringMonster_ko",
         ], {
           warning: "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey",
         }),
         rows: zoneAtlasRows,
+      },
+    ],
+    [
+      "daily-challenge-stages.json",
+      {
+        meta: meta(manifest, "dailyChallengeStages", dailyChallengeStageRows, [
+          "FBDataDailyDungeonBoss",
+          "FBDataDailyDungeonBossTier",
+          "FBDataDailyDungeonBossReward",
+          "FBDataDailyDungeonTimeField",
+          "FBDataDailyDungeonTimeFieldTier",
+          "FBDataStringUI",
+          "zone-atlas.json",
+          "FBDataItem",
+        ], {
+          warning: "dailyTimeRaw, timeLimitRaw, and attributeScaleRaw are unconverted client values. FBDataDailyDungeonReward rows are not attached because the deployed data has no explicit key from a time-field tier to a reward group",
+        }),
+        rows: dailyChallengeStageRows,
       },
     ],
     [

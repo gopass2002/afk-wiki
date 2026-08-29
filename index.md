@@ -45,12 +45,12 @@ permalink: /
   <div class="topic-grid">
     <a class="topic-card" href="{{ '/docs/무공/' | relative_url }}"><span>낱장</span><strong>무공 한 장씩</strong><small>문파별 무공과 공격 배율, 익히는 법</small></a>
     <a class="topic-card" href="{{ '/docs/아이템/' | relative_url }}"><span>낱장</span><strong>아이템 한 장씩</strong><small>능력치와 얻는 곳을 개체마다</small></a>
-    <a class="topic-card" href="{{ '/docs/몬스터/' | relative_url }}"><span>낱장</span><strong>몬스터 한 장씩</strong><small>출현 지역과 떨구는 것</small></a>
+    <a class="topic-card" href="{{ '/docs/몬스터/' | relative_url }}"><span>낱장</span><strong>몬스터 한 장씩</strong><small>경험치 기록, 출현 지역과 떨구는 것</small></a>
     <a class="topic-card" href="{{ '/docs/지역/' | relative_url }}"><span>낱장</span><strong>지역 한 곳씩</strong><small>레벨대와 등장 몬스터, 아이템 후보</small></a>
     <a class="topic-card" href="{{ '/docs/equipment/' | relative_url }}"><span>장비</span><strong>아이템 · 속성 · 강화 재료</strong><small>{{ item_table.rowCount }}개 아이템과 성장 테이블</small></a>
     <a class="topic-card" href="{{ '/docs/bestiary/' | relative_url }}"><span>도감</span><strong>등록 규칙 · 단계 · 보상</strong><small>{{ collection_table.rowCount }}개 도감 항목과 {{ site.data.generated_manifest.derived.collectionMilestones.rowCount }}개 단계 보상</small></a>
     <a class="topic-card" href="{{ '/docs/food/' | relative_url }}"><span>음식</span><strong>조리 레벨 · 효율 · 결과</strong><small>{{ cook_level_table.rowCount }}개 조리 단계의 보상 확률</small></a>
-    <a class="topic-card" href="{{ '/docs/map/' | relative_url }}"><span>세계</span><strong>지역 · 스폰 · 몬스터</strong><small>{{ zone_table.rowCount }}개 지역과 몬스터 {{ site.data.generated_manifest.derived.monsterCodex.rowCount }}종의 능력치·출현지·드롭</small></a>
+    <a class="topic-card" href="{{ '/docs/map/' | relative_url }}"><span>세계</span><strong>지역 · 도전 · 몬스터</strong><small>{{ site.data.generated_manifest.derived.dailyChallengeStages.rowCount }}개 도전 단계와 몬스터 {{ site.data.generated_manifest.derived.monsterCodex.rowCount }}종의 경험치·출현지·드롭</small></a>
     <a class="topic-card" href="{{ '/docs/enhance/' | relative_url }}"><span>성장</span><strong>강화 · 제련</strong><small>성공/실패/파괴 표시식과 옵션 풀</small></a>
     <a class="topic-card" href="{{ '/docs/refine/' | relative_url }}"><span>계산기</span><strong>제련 조합 확률</strong><small>목표 옵션 조합의 확률·평균 시도·은량을 계산합니다</small></a>
     <a class="topic-card" href="{{ '/docs/skills/' | relative_url }}"><span>무공</span><strong>스킬 · 레벨 · 강화</strong><small>{{ skill_table.rowCount }}개 무공과 {{ skill_level_table.rowCount }}개 레벨 행</small></a>

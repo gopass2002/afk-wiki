@@ -25,6 +25,7 @@ permalink: /docs/data-extraction/
 | 무공 / 장비 강화 행 | {{ site.data.generated_manifest.derived.skillEnhancementProbabilities.rowCount }}행 / {{ site.data.generated_manifest.derived.equipmentEnhancementProbabilities.rowCount }}행 |
 | 아이템 계산 가능 획득 / 드롭 가중치 행 | {{ site.data.generated_manifest.derived.itemAcquisitionProbabilities.rowCount }}행 / {{ site.data.generated_manifest.derived.itemDropWeights.rowCount }}행 |
 | 몬스터 도감 / 몬스터 드롭 seed 행 | {{ site.data.generated_manifest.derived.monsterCodex.rowCount }}행 / {{ site.data.generated_manifest.derived.monsterDropSeeds.rowCount }}행 |
+| 일일 도전 단계 행 | {{ site.data.generated_manifest.derived.dailyChallengeStages.rowCount }}행 |
 | 지역 도감 행 | {{ site.data.generated_manifest.derived.zoneAtlas.rowCount }}행 |
 | 수집 도감 / 도감 단계 행 | {{ site.data.generated_manifest.derived.collectionCodex.rowCount }}행 / {{ site.data.generated_manifest.derived.collectionMilestones.rowCount }}행 |
 | 요리 레벨 행 | {{ site.data.generated_manifest.derived.cookingLevels.rowCount }}행 |
@@ -47,6 +48,7 @@ assets/data/
     ├── monster-codex.json           몬스터 도감
     ├── monster-drop-seeds.json      몬스터 × seed 그룹
     ├── zone-atlas.json              지역·스테이지 도감
+    ├── daily-challenge-stages.json  일일 도전 단계
     ├── collection-codex.json        수집 도감
     ├── collection-milestones.json   도감 단계 보상
     ├── cooking-levels.json          요리 레벨
@@ -282,7 +284,7 @@ P(e,t \mid L) =
 
 ### 도감·강화·아이템 파생 파일
 
-`generate-codex-data.mjs`는 원본 테이블과 `reward-probabilities.json`을 탐색용 행으로 결합합니다. 현재 열네 개 파일을 만듭니다. 모든 파일은 공통으로 `meta.appVersion`, `derivedAt`, `kind`, `patch`, `rowCount`, `sources`와 `rows[]`를 가지며, 계산식이나 해석 경계가 있으면 `meta.formula`, `runtimeEvidence`, `warning`에 기록합니다.
+`generate-codex-data.mjs`는 원본 테이블과 `reward-probabilities.json`을 탐색용 행으로 결합합니다. 현재 열다섯 개 파일을 만듭니다. 모든 파일은 공통으로 `meta.appVersion`, `derivedAt`, `kind`, `patch`, `rowCount`, `sources`와 `rows[]`를 가지며, 계산식이나 해석 경계가 있으면 `meta.formula`, `runtimeEvidence`, `warning`에 기록합니다.
 
 | 파일 | 목적과 결합 기준 | 주요 행 필드 |
 | --- | --- | --- |
@@ -292,9 +294,10 @@ P(e,t \mid L) =
 | `item-codex.json` | `FBDataItem`을 기준으로 `attrKey = FBDataAttributeItem.key`, `itemId = FBDataDropItem.itemId`, 계산 가능한 보상 `targetId`를 결합 | 표시·분류·거래 정보, 능력치, 드롭 seed 그룹 수, 계산 가능 보상 풀 수, 이미지 경로 |
 | `item-acquisition-probabilities.json` | 2단계 공식으로 계산한 비무공 결과 중 `targetId`가 `FBDataItem.id`에 존재하는 행을 아이템 표시 정보와 결합 | 보상 풀, 아이템, 수량 범위, `probability`, `percent`, 원본 그룹과 런타임 근거 |
 | `item-drop-weights.json` | `FBDataDropItem`을 seed 그룹별로 정규화하고 같은 `seedGroup`을 참조하는 `FBDataDropGroup` 및 `FBDataItem`을 결합 | 아이템 가중치, 그룹 가중치 합, 그룹 내부 점유율, 참조 드롭 그룹 수, 원본 `dropRate` 값 |
-| `monster-codex.json` | `FBDataActorMonster`에 `statKey = FBDataAttributeMonster.key`, `name = FBDataStringMonster_ko.key`, 스폰(`FBDataZoneSpawn` → `FBDataZone` → `FBDataZoneRegion`), 드롭 그룹을 결합 | 레벨, 보스 여부, 능력치, 출현 지역, 드롭 그룹과 후보 아이템 |
+| `monster-codex.json` | `FBDataActorMonster`에 `id = FBDataDropCurrency.id`, `statKey = FBDataAttributeMonster.key`, `name = FBDataStringMonster_ko.key`, 스폰(`FBDataZoneSpawn` → `FBDataZone` → `FBDataZoneRegion`), 드롭 그룹을 결합 | 경험치 원본값, 레벨, 보스 여부, 능력치, 출현 지역, 드롭 그룹과 후보 아이템 |
 | `monster-drop-seeds.json` | 몬스터 × seed 그룹을 한 행으로 펼치고 그룹 안 최상위 후보를 계산 | 드롭 그룹, seed 그룹, 원본 `dropRate`, 후보 수, 가중치 합, 최상위 후보 점유율 |
 | `zone-atlas.json` | `FBDataZone`에 권역과 스폰을 결합하고 `actorDataId`를 몬스터·NPC로 해석 | 권역, 몬스터 수와 레벨 범위, 보스 수, NPC, 스폰 데이터 존재 여부 |
+| `daily-challenge-stages.json` | 시간형 도전과 단계·지역을 연결하고, 보스형 도전은 단계별 능력치 배율과 같은 `rewardGroupKey`의 보상을 연결 | 도전 이름·단계, 해금 레벨 원본값, 지역 몬스터와 경험치 기록, 보스형 보상 |
 | `collection-codex.json` | `FBDataCollection`에 `FBDataCollectionRegistry`, 표시 문자열, 대상 아이템을 결합 | 도감 이름, 분류, 보상 능력치, 등록 대상 아이템과 필요 강화 단계 |
 | `collection-milestones.json` | `FBDataCollectionMilestone.rewardGroupKey`를 `FBDataCollectionMilestoneReward`로 해결하고 보상 대상을 아이템에 연결 | 분야, 누적 등록 수, 보상 타입·대상·수량 |
 | `cooking-levels.json` | `FBDataCookLevel`에 `FBDataCookProb` 가중치와 같은 레벨의 `Cook_Gacha_Lv*` 계산 결과를 결합 | 필요 경험치, 조리 시간, 보관 등급, 불꽃 단계, 결과 수와 최상위 결과 |
@@ -304,6 +307,8 @@ P(e,t \mid L) =
 `skill-codex.json`의 이름과 설명은 `FBDataStringSkill_ko`의 키로 연결합니다. 레벨 행은 레벨 오름차순으로 정렬해 첫 단계와 마지막 단계의 공격 배율 원시 값을 선택합니다. `skillGachaPercent`는 `SkillGacha_Normal` 풀의 `type = Skill`, `targetId = skill.id`인 계산 결과가 있을 때만 채웁니다. 값이 `null`인 무공은 확률이 0이라는 뜻이 아니라 이 결합에서 계산 가능한 결과가 없다는 뜻입니다.
 
 `item-codex.json`의 `dropSeedGroupCount`는 아이템을 포함하는 서로 다른 seed 그룹 수, `computedRewardPoolCount`는 계산된 보상에서 아이템 ID를 참조하는 서로 다른 풀 수입니다. 두 값은 획득 경로의 존재를 요약할 뿐 확률을 나타내지 않습니다.
+
+`monster-codex.json`의 `experience`는 `FBDataDropCurrency.exp`를 환산하지 않은 정수입니다. 117종 중 98종만 같은 몬스터 ID의 경험치 행이 있으며, 나머지 19종은 `null`로 남깁니다. `daily-challenge-stages.json`의 시간형 보상은 단계에서 보상 그룹으로 이어지는 명시적 키가 없으므로 연결하지 않습니다.
 
 ### 무공·장비 강화 공식
 

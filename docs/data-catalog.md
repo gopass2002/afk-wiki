@@ -31,7 +31,7 @@ permalink: /docs/data-catalog/
 - 장비·아이템: [아이템 도감]({{ '/docs/data/derived/item-codex/' | relative_url }}) · [획득 확률]({{ '/docs/data/derived/item-acquisition-probabilities/' | relative_url }}) · [드롭 가중치]({{ '/docs/data/derived/item-drop-weights/' | relative_url }}) · [강화 확률]({{ '/docs/data/derived/equipment-enhancement-probabilities/' | relative_url }})
 - 제련: [옵션 풀]({{ '/docs/data/derived/refine-options/' | relative_url }}) · [옵션 수치 범위]({{ '/docs/data/derived/refine-attribute-values/' | relative_url }})
 - 무공: [무공 도감]({{ '/docs/data/derived/skill-codex/' | relative_url }}) · [무공 강화 확률]({{ '/docs/data/derived/skill-enhancement-probabilities/' | relative_url }})
-- 세계: [몬스터 도감]({{ '/docs/data/derived/monster-codex/' | relative_url }}) · [몬스터 드롭 seed 그룹]({{ '/docs/data/derived/monster-drop-seeds/' | relative_url }}) · [지역·스테이지 도감]({{ '/docs/data/derived/zone-atlas/' | relative_url }})
+- 세계: [일일 도전 단계]({{ '/docs/data/derived/daily-challenge-stages/' | relative_url }}) · [몬스터 도감]({{ '/docs/data/derived/monster-codex/' | relative_url }}) · [몬스터 드롭 seed 그룹]({{ '/docs/data/derived/monster-drop-seeds/' | relative_url }}) · [지역·스테이지 도감]({{ '/docs/data/derived/zone-atlas/' | relative_url }})
 - 수집·요리: [수집 도감]({{ '/docs/data/derived/collection-codex/' | relative_url }}) · [도감 단계 보상]({{ '/docs/data/derived/collection-milestones/' | relative_url }}) · [요리 레벨]({{ '/docs/data/derived/cooking-levels/' | relative_url }}) · [보상 확률 계산표]({{ '/docs/data/derived/reward-probabilities/' | relative_url }})
 
 ## 해석 경계

@@ -645,6 +645,9 @@ async function main() {
         detail: [
           `${number(monster.level)}레벨`,
           monster.boss ? "우두머리" : null,
+          monster.experience === null || monster.experience === undefined
+            ? "경험치 기록 없음"
+            : `경험치 기록 ${number(monster.experience)}`,
           `동시에 ${number(monster.count)}마리`,
           respawnLabel(monster.respawnMin, monster.respawnMax),
         ].filter(Boolean).join(" · "),
@@ -839,6 +842,12 @@ async function main() {
         description: "",
         badges: [`${monster.level}레벨`, monster.aggressive ? "먼저 덤빔" : "먼저 덤비지 않음"],
       }),
+      section("경험치", monster.experienceRecorded
+        ? factList([{ label: "원본값", value: number(monster.experience) }])
+        : emptyState("이 배포본에는 이 몬스터의 경험치가 기록돼 있지 않습니다."),
+      monster.experienceRecorded
+        ? "배포본의 경험치 기록을 환산하지 않고 그대로 표시합니다. 실제 지급 시점과 보정은 이 값만으로 확정하지 않습니다."
+        : "레벨이나 다른 몬스터의 값으로 추정하지 않습니다."),
       section("능력치", attributes, `막대는 ${escapeHtml(bandLabel(monster.level))} 몬스터끼리 견준 것이고, 수치는 배포본에 적힌 값 그대로입니다.`),
       section("출현", zones),
       section("떨구는 것", drops.length > 0 ? linkCards(drops) : emptyState("이 배포본에는 이 몬스터의 드롭 후보가 기록돼 있지 않습니다."),
@@ -852,7 +861,7 @@ async function main() {
       slug,
       title: monster.name,
       description: `${monster.level}레벨 ${eyebrow.join(" · ")}. 능력치, 출현 지역과 떨구는 것.`,
-      body,
+      body: body.replace(/[ \t]+$/gm, ""),
     }));
   }
 
@@ -995,14 +1004,19 @@ async function writeIndexes({ root, registry, gradeLabel, gradeKey, mainTypeLabe
           sealCharacter: String(entry.monster.level),
           gradeKey: entry.monster.boss ? "unique" : "normal",
           name: entry.monster.name,
-          meta: [`${entry.monster.level}레벨`, entry.monster.boss ? "우두머리" : null, entry.monster.zones[0]?.zoneName]
+          meta: [
+            `${entry.monster.level}레벨`,
+            entry.monster.experienceRecorded ? `경험치 ${number(entry.monster.experience)}` : "경험치 기록 없음",
+            entry.monster.boss ? "우두머리" : null,
+            entry.monster.zones[0]?.zoneName,
+          ]
             .filter(Boolean).join(" · "),
         })),
     }));
   await writeFile(path.join(docs, "몬스터", "index.md"), indexPage({
     title: "몬스터",
     permalink: "/docs/몬스터/",
-    lede: "장별로 만나는 몬스터입니다. 한 장을 열면 능력치, 출현 지역과 떨구는 것을 볼 수 있습니다.",
+    lede: "장별로 만나는 몬스터입니다. 한 장을 열면 경험치 기록, 능력치, 출현 지역과 떨구는 것을 볼 수 있습니다.",
     groups: actGroups,
     count: registry.monster.length,
     unit: "종",
@@ -1085,7 +1099,12 @@ async function writeSearchIndex({ root, registry, gradeLabel, subTypeLabel, fact
       name: monster.name,
       url: `/docs/몬스터/${slug}/`,
       kind: "몬스터",
-      meta: [`${monster.level}레벨`, monster.boss ? "우두머리" : null, monster.zones[0]?.zoneName].filter(Boolean).join(" · "),
+      meta: [
+        `${monster.level}레벨`,
+        monster.experienceRecorded ? `경험치 ${number(monster.experience)}` : "경험치 기록 없음",
+        monster.boss ? "우두머리" : null,
+        monster.zones[0]?.zoneName,
+      ].filter(Boolean).join(" · "),
     })),
     ...registry.zone.map(({ slug, zone }) => ({
       name: zone.name,
