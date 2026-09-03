@@ -1,12 +1,12 @@
 ---
 title: "RewardBox"
 layout: data
-description: "RewardBox 원본 기록 520줄입니다."
+description: "RewardBox 원본 기록 553줄입니다."
 permalink: /docs/data/tables/reward-box/
 data_file: "/assets/data/raw/reward-box.json"
 data_asset: "FBDataRewardBox"
 data_schema: "FBDataRewardBox"
-data_rows: 520
+data_rows: 553
 data_category: "경제·보상"
 data_fields: ["id","groupKey","targetId","type","amountMin","amountMax","weight"]
 data_unit: "줄"

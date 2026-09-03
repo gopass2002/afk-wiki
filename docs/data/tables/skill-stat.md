@@ -1,12 +1,12 @@
 ---
 title: "SkillStat"
 layout: data
-description: "SkillStat 원본 기록 69줄입니다."
+description: "SkillStat 원본 기록 79줄입니다."
 permalink: /docs/data/tables/skill-stat/
 data_file: "/assets/data/raw/skill-stat.json"
 data_asset: "FBDataSkillStat"
 data_schema: "FBDataSkillStat"
-data_rows: 69
+data_rows: 79
 data_category: "무공"
 data_fields: ["id","skillId","statKey","minValue","maxValue"]
 data_unit: "줄"

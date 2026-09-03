@@ -1,10 +1,10 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:36:25.383Z",
     "kind": "skillCodex",
-    "patch": "ebffb",
-    "rowCount": 72,
+    "patch": "fc96b",
+    "rowCount": 82,
     "sources": [
       "FBDataSkill",
       "FBDataSkillLevel",
@@ -617,7 +617,7 @@
           "max": 2000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40001"
     },
     {
@@ -643,7 +643,7 @@
           "max": 6000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40002"
     },
     {
@@ -669,7 +669,7 @@
           "max": 2000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40003"
     },
     {
@@ -695,7 +695,7 @@
           "max": 2000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40004"
     },
     {
@@ -726,7 +726,7 @@
           "max": 6000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40005"
     },
     {
@@ -757,7 +757,7 @@
           "max": 10000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P40006"
     },
     {
@@ -783,7 +783,7 @@
           "max": 5000
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50001"
     },
     {
@@ -809,7 +809,7 @@
           "max": 5000
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50002"
     },
     {
@@ -850,7 +850,7 @@
           "max": 25
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_All_P50003"
     },
     {
@@ -1214,7 +1214,7 @@
           "max": 3000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P40001"
     },
     {
@@ -1234,7 +1234,7 @@
       "level1AtkMultiplierRaw": 0,
       "maxAtkMultiplierRaw": 0,
       "statRanges": [],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P40002"
     },
     {
@@ -1260,7 +1260,7 @@
           "max": 2200
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P50001"
     },
     {
@@ -1364,7 +1364,7 @@
           "max": 6000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P40001"
     },
     {
@@ -1384,7 +1384,7 @@
       "level1AtkMultiplierRaw": 0,
       "maxAtkMultiplierRaw": 0,
       "statRanges": [],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P40002"
     },
     {
@@ -1410,7 +1410,7 @@
           "max": 15000
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P50001"
     },
     {
@@ -1514,7 +1514,7 @@
           "max": 8000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P40001"
     },
     {
@@ -1534,7 +1534,7 @@
       "level1AtkMultiplierRaw": 0,
       "maxAtkMultiplierRaw": 0,
       "statRanges": [],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P40002"
     },
     {
@@ -1560,7 +1560,7 @@
           "max": 10000
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P50001"
     },
     {
@@ -1664,7 +1664,7 @@
           "max": 6000
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P40001"
     },
     {
@@ -1684,7 +1684,7 @@
       "level1AtkMultiplierRaw": 0,
       "maxAtkMultiplierRaw": 0,
       "statRanges": [],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P40002"
     },
     {
@@ -1710,7 +1710,7 @@
           "max": 7500
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P50001"
     },
     {
@@ -1814,7 +1814,7 @@
           "max": 1400
         }
       ],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P40001"
     },
     {
@@ -1834,7 +1834,7 @@
       "level1AtkMultiplierRaw": 0,
       "maxAtkMultiplierRaw": 0,
       "statRanges": [],
-      "skillGachaPercent": 0.05625,
+      "skillGachaPercent": 0.042857,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P40002"
     },
     {
@@ -1860,8 +1860,268 @@
           "max": 9000
         }
       ],
-      "skillGachaPercent": 0.0125,
+      "skillGachaPercent": 0.007692,
       "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P50001"
+    },
+    {
+      "id": 20240301,
+      "image": "/assets/images/game/skills/20240301.png",
+      "name": "매화점개",
+      "description": "매화 검로의 수련이 무르익어 꽃망울이 반쯤 벌어지니, 검 장착 시 힘이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "STR%",
+          "min": 125,
+          "max": 800
+        }
+      ],
+      "skillGachaPercent": 0.042857,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P40003"
+    },
+    {
+      "id": 20250201,
+      "image": "/assets/images/game/skills/20250201.png",
+      "name": "매화만개",
+      "description": "매화가 만개하는 순간 검은 가장 조용히, 가장 깊이 베니, 검 장착 시 보스 피해가 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionMountHua",
+      "weaponType": "Sword",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "BOSS_DMG%",
+          "min": 2150,
+          "max": 8650
+        }
+      ],
+      "skillGachaPercent": 0.007692,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Sword_P50002"
+    },
+    {
+      "id": 30240301,
+      "image": "/assets/images/game/skills/30240301.png",
+      "name": "호골웅신",
+      "description": "호랑이 뼈처럼 우직한 몸에서 힘이 솟으니, 도 장착 시 힘이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "STR%",
+          "min": 125,
+          "max": 800
+        }
+      ],
+      "skillGachaPercent": 0.042857,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P40003"
+    },
+    {
+      "id": 30250201,
+      "image": "/assets/images/game/skills/30250201.png",
+      "name": "도황파산",
+      "description": "도황의 패도가 극에 이르러 넘치는 힘이 칼끝까지 차오르니, 도 장착 시 공격력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionPeng",
+      "weaponType": "Blade",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "ATK%",
+          "min": 450,
+          "max": 1700
+        }
+      ],
+      "skillGachaPercent": 0.007692,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Blade_P50002"
+    },
+    {
+      "id": 40240301,
+      "image": "/assets/images/game/skills/40240301.png",
+      "name": "백보천양",
+      "description": "백 보 밖 버들잎도 꿰뚫는 정밀함으로, 창 장착 시 명중이 {0}만큼 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "HIT",
+          "min": 15,
+          "max": 70
+        }
+      ],
+      "skillGachaPercent": 0.042857,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P40003"
+    },
+    {
+      "id": 40250201,
+      "image": "/assets/images/game/skills/40250201.png",
+      "name": "창제무쌍",
+      "description": "창제의 창 앞에는 맞설 자가 없으니, 창 장착 시 최종 피해가 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionYang",
+      "weaponType": "Spear",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "FINAL_DMG%",
+          "min": 300,
+          "max": 1200
+        }
+      ],
+      "skillGachaPercent": 0.007692,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Spear_P50002"
+    },
+    {
+      "id": 50240301,
+      "image": "/assets/images/game/skills/50240301.png",
+      "name": "항마신행",
+      "description": "마귀를 누르는 걸음이 바람처럼 가벼워, 봉 장착 시 민첩이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "AGI%",
+          "min": 125,
+          "max": 800
+        }
+      ],
+      "skillGachaPercent": 0.042857,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P40003"
+    },
+    {
+      "id": 50250201,
+      "image": "/assets/images/game/skills/50250201.png",
+      "name": "사자후",
+      "description": "사자후 한 번에 사방의 적이 무너지니, 봉 장착 시 무공 위력이 {0} 증가한다.",
+      "grade": "Legendary",
+      "factionType": "FactionShaolin",
+      "weaponType": "Staff",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "SKILL_AMP%",
+          "min": 550,
+          "max": 2300
+        }
+      ],
+      "skillGachaPercent": 0.007692,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_Staff_P50002"
+    },
+    {
+      "id": 60240301,
+      "image": "/assets/images/game/skills/60240301.png",
+      "name": "촌철살인",
+      "description": "한 치의 쇠끝이 어김없이 급소를 가르니, 암기 장착 시 치명타 확률이 {0} 증가한다.",
+      "grade": "Unique",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "CRIT_RATE%",
+          "min": 600,
+          "max": 2400
+        }
+      ],
+      "skillGachaPercent": 0.042857,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P40003"
+    },
+    {
+      "id": 60250201,
+      "image": "/assets/images/game/skills/60250201.png",
+      "name": "만천화우",
+      "description": "하늘 가득 꽃비처럼 암기가 쏟아지니, 암기 장착 시 민첩이 {0}만큼 증가한다. 손이 빠를수록 꽃비는 짙어진다.",
+      "grade": "Legendary",
+      "factionType": "FactionTang",
+      "weaponType": "HIDDEN",
+      "castType": "Passive",
+      "cooldownSeconds": 0,
+      "spCost": 0,
+      "range": 0,
+      "hitCount": 0,
+      "maxLevel": 10,
+      "level1AtkMultiplierRaw": 0,
+      "maxAtkMultiplierRaw": 0,
+      "statRanges": [
+        {
+          "key": "AGI",
+          "min": 6,
+          "max": 25
+        }
+      ],
+      "skillGachaPercent": 0.007692,
+      "iconSource": "10.UI/99.Resource/SkillIcon/SI_HIDDEN_P50002"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 69,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 79,
     "schema": "FBDataSkillStat",
     "sourceAsset": "FBDataSkillStat",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -491,6 +491,76 @@
       "statKey": "ATK%",
       "minValue": 7500,
       "maxValue": 13500
+    },
+    {
+      "id": 70,
+      "skillId": 20240301,
+      "statKey": "STR%",
+      "minValue": 125,
+      "maxValue": 800
+    },
+    {
+      "id": 71,
+      "skillId": 20250201,
+      "statKey": "BOSS_DMG%",
+      "minValue": 2150,
+      "maxValue": 8650
+    },
+    {
+      "id": 72,
+      "skillId": 30240301,
+      "statKey": "STR%",
+      "minValue": 125,
+      "maxValue": 800
+    },
+    {
+      "id": 73,
+      "skillId": 30250201,
+      "statKey": "ATK%",
+      "minValue": 450,
+      "maxValue": 1700
+    },
+    {
+      "id": 74,
+      "skillId": 40240301,
+      "statKey": "HIT",
+      "minValue": 15,
+      "maxValue": 70
+    },
+    {
+      "id": 75,
+      "skillId": 40250201,
+      "statKey": "FINAL_DMG%",
+      "minValue": 300,
+      "maxValue": 1200
+    },
+    {
+      "id": 76,
+      "skillId": 50240301,
+      "statKey": "AGI%",
+      "minValue": 125,
+      "maxValue": 800
+    },
+    {
+      "id": 77,
+      "skillId": 50250201,
+      "statKey": "SKILL_AMP%",
+      "minValue": 550,
+      "maxValue": 2300
+    },
+    {
+      "id": 78,
+      "skillId": 60240301,
+      "statKey": "CRIT_RATE%",
+      "minValue": 600,
+      "maxValue": 2400
+    },
+    {
+      "id": 79,
+      "skillId": 60250201,
+      "statKey": "AGI",
+      "minValue": 6,
+      "maxValue": 25
     }
   ]
 }

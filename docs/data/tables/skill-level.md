@@ -1,12 +1,12 @@
 ---
 title: "SkillLevel"
 layout: data
-description: "SkillLevel 원본 기록 711줄입니다."
+description: "SkillLevel 원본 기록 811줄입니다."
 permalink: /docs/data/tables/skill-level/
 data_file: "/assets/data/raw/skill-level.json"
 data_asset: "FBDataSkillLevel"
 data_schema: "FBDataSkillLevel"
-data_rows: 711
+data_rows: 811
 data_category: "무공"
 data_fields: ["id","groupKey","level","atkMultiplier","attrKey","derivationKey"]
 data_unit: "줄"

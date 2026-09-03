@@ -2,12 +2,12 @@
 title: "지역"
 layout: default
 permalink: /docs/지역/
-description: "몬스터가 기록된 60곳은 레벨 구간별로, NPC만 기록된 1곳과 연출용 2곳은 별도로 묶었습니다. 몬스터와 NPC가 모두 기록되지 않은 66곳은 목록에서 제외했습니다."
+description: "몬스터가 기록된 62곳은 레벨 구간별로, NPC만 기록된 1곳과 연출용 2곳은 별도로 묶었습니다. 몬스터와 NPC가 모두 기록되지 않은 67곳은 목록에서 제외했습니다."
 ---
 <header class="leaf-index__head">
-  <p class="leaf-eyebrow">63곳</p>
+  <p class="leaf-eyebrow">65곳</p>
   <h1>지역</h1>
-  <p class="leaf-index__lede">몬스터가 기록된 60곳은 레벨 구간별로, NPC만 기록된 1곳과 연출용 2곳은 별도로 묶었습니다. 몬스터와 NPC가 모두 기록되지 않은 66곳은 목록에서 제외했습니다.</p>
+  <p class="leaf-index__lede">몬스터가 기록된 62곳은 레벨 구간별로, NPC만 기록된 1곳과 연출용 2곳은 별도로 묶었습니다. 몬스터와 NPC가 모두 기록되지 않은 67곳은 목록에서 제외했습니다.</p>
 </header>
 
 <section class="leaf-index__group">
@@ -281,11 +281,15 @@ description: "몬스터가 기록된 60곳은 레벨 구간별로, NPC만 기록
 </section>
 
 <section class="leaf-index__group">
-  <h2>91~100레벨 사냥터<small>6곳</small></h2>
+  <h2>91~100레벨 사냥터<small>8곳</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/지역/심상-세계-현경-완숙/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">92</span>
     <span class="leaf-card__body"><strong>심상 세계 · 현경 완숙</strong><small>92레벨 · 몬스터 1종 · 우두머리 1종 · 권역 미기록</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="none" href="{{ '/docs/지역/흑랑의-소굴-93-95레벨/' | relative_url }}">
+    <span class="leaf-card__seal" data-grade="none" aria-hidden="true">93</span>
+    <span class="leaf-card__body"><strong>흑랑의 소굴</strong><small>93~95레벨 · 몬스터 2종 · 우두머리 0종 · 권역 미기록</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/지역/심상-세계-현경-극의/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">95</span>
@@ -306,6 +310,10 @@ description: "몬스터가 기록된 60곳은 레벨 구간별로, NPC만 기록
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/지역/심상-세계-천하제일/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">100</span>
     <span class="leaf-card__body"><strong>심상 세계 · 천하제일</strong><small>100레벨 · 몬스터 1종 · 우두머리 1종 · 권역 미기록</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/지역/호랑이-굴/' | relative_url }}">
+    <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">100</span>
+    <span class="leaf-card__body"><strong>호랑이 굴</strong><small>100레벨 · 몬스터 1종 · 우두머리 1종 · 권역 미기록</small></span>
   </a></li>
   </ul>
 </section>

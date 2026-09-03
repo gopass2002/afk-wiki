@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 679,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 681,
     "schema": "FBDataItem",
     "sourceAsset": "FBDataItem",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -137,6 +137,25 @@
       "hideHair": false,
       "attrKey": "",
       "description": "숟가락 할배의 습격에 도전할 수 있는 입장패.\n외길 인생 1인자는 아무나 만나 주지 않는다.",
+      "sellPrice": 0,
+      "undiscardable": true,
+      "unsellable": true,
+      "untradable": true
+    },
+    {
+      "id": 21,
+      "mainType": "Currency",
+      "name": "호랑이 도장 입장패",
+      "subType": "DpsPassTicket",
+      "slotType": "",
+      "prefab": "",
+      "dropResource": "",
+      "icon": "10.UI/99.Resource/ItemIcon/item_currency_0006",
+      "stack": 1,
+      "grade": "None",
+      "hideHair": false,
+      "attrKey": "",
+      "description": "호랑이 도장에 들어갈 수 있는 입장패.\n매일 1개 충전된다.",
       "sellPrice": 0,
       "undiscardable": true,
       "unsellable": true,
@@ -12907,6 +12926,25 @@
       "description": "열면 선급 무공 하나를 익힌다.\n낮은 확률로 신급 무공 개봉함이 나온다.",
       "sellPrice": 0,
       "undiscardable": true,
+      "unsellable": true,
+      "untradable": true
+    },
+    {
+      "id": 96000056,
+      "mainType": "Consumable",
+      "name": "산군의 상자",
+      "subType": "Box",
+      "slotType": "",
+      "prefab": "",
+      "dropResource": "",
+      "icon": "10.UI/99.Resource/ItemIcon/item_box_0003",
+      "stack": 9999,
+      "grade": "Epic",
+      "hideHair": false,
+      "attrKey": "",
+      "description": "산군에게 도전한 자에게 주어지는 상자.\n은량, 강화 주문서, 영석,\n무공 소환패, 협전 중 하나가 나온다.",
+      "sellPrice": 0,
+      "undiscardable": false,
       "unsellable": true,
       "untradable": true
     }

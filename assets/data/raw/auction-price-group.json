@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
     "rowCount": 94,
     "schema": "FBDataAuctionPriceGroup",
     "sourceAsset": "FBDataAuctionPriceGroup",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -14,658 +14,658 @@
       "mainType": "Weapon",
       "subType": "Blade",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 2,
       "mainType": "Weapon",
       "subType": "Blade",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 3,
       "mainType": "Weapon",
       "subType": "Blade",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 4,
       "mainType": "Weapon",
       "subType": "Blade",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 5,
       "mainType": "Weapon",
       "subType": "Blade",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 6,
       "mainType": "Weapon",
       "subType": "Hidden",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 7,
       "mainType": "Weapon",
       "subType": "Hidden",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 8,
       "mainType": "Weapon",
       "subType": "Hidden",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 9,
       "mainType": "Weapon",
       "subType": "Hidden",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 10,
       "mainType": "Weapon",
       "subType": "Hidden",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 11,
       "mainType": "Weapon",
       "subType": "Spear",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 12,
       "mainType": "Weapon",
       "subType": "Spear",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 13,
       "mainType": "Weapon",
       "subType": "Spear",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 14,
       "mainType": "Weapon",
       "subType": "Spear",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 15,
       "mainType": "Weapon",
       "subType": "Spear",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 16,
       "mainType": "Weapon",
       "subType": "Staff",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 17,
       "mainType": "Weapon",
       "subType": "Staff",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 18,
       "mainType": "Weapon",
       "subType": "Staff",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 19,
       "mainType": "Weapon",
       "subType": "Staff",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 20,
       "mainType": "Weapon",
       "subType": "Staff",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 21,
       "mainType": "Weapon",
       "subType": "Sword",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 22,
       "mainType": "Weapon",
       "subType": "Sword",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 23,
       "mainType": "Weapon",
       "subType": "Sword",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 24,
       "mainType": "Weapon",
       "subType": "Sword",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 25,
       "mainType": "Weapon",
       "subType": "Sword",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 26,
       "mainType": "Armor",
       "subType": "Belt",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 27,
       "mainType": "Armor",
       "subType": "Belt",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 28,
       "mainType": "Armor",
       "subType": "Belt",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 29,
       "mainType": "Armor",
       "subType": "Belt",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 30,
       "mainType": "Armor",
       "subType": "Belt",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 31,
       "mainType": "Armor",
       "subType": "Clothes",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 32,
       "mainType": "Armor",
       "subType": "Clothes",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 33,
       "mainType": "Armor",
       "subType": "Clothes",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 34,
       "mainType": "Armor",
       "subType": "Clothes",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 35,
       "mainType": "Armor",
       "subType": "Clothes",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 36,
       "mainType": "Armor",
       "subType": "Glove",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 37,
       "mainType": "Armor",
       "subType": "Glove",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 38,
       "mainType": "Armor",
       "subType": "Glove",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 39,
       "mainType": "Armor",
       "subType": "Glove",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 40,
       "mainType": "Armor",
       "subType": "Glove",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 41,
       "mainType": "Armor",
       "subType": "Greave",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 42,
       "mainType": "Armor",
       "subType": "Greave",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 43,
       "mainType": "Armor",
       "subType": "Greave",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 44,
       "mainType": "Armor",
       "subType": "Greave",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 45,
       "mainType": "Armor",
       "subType": "Greave",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 46,
       "mainType": "Armor",
       "subType": "Hat",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 47,
       "mainType": "Armor",
       "subType": "Hat",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 48,
       "mainType": "Armor",
       "subType": "Hat",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 49,
       "mainType": "Armor",
       "subType": "Hat",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 50,
       "mainType": "Armor",
       "subType": "Hat",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 51,
       "mainType": "Armor",
       "subType": "Pants",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 52,
       "mainType": "Armor",
       "subType": "Pants",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 53,
       "mainType": "Armor",
       "subType": "Pants",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 54,
       "mainType": "Armor",
       "subType": "Pants",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 55,
       "mainType": "Armor",
       "subType": "Pants",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 56,
       "mainType": "Armor",
       "subType": "Shoe",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 57,
       "mainType": "Armor",
       "subType": "Shoe",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 58,
       "mainType": "Armor",
       "subType": "Shoe",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 59,
       "mainType": "Armor",
       "subType": "Shoe",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 60,
       "mainType": "Armor",
       "subType": "Shoe",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 61,
       "mainType": "Armor",
       "subType": "Shoulder",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 62,
       "mainType": "Armor",
       "subType": "Shoulder",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 63,
       "mainType": "Armor",
       "subType": "Shoulder",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 64,
       "mainType": "Armor",
       "subType": "Shoulder",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 65,
       "mainType": "Armor",
       "subType": "Shoulder",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 66,
       "mainType": "Armor",
       "subType": "Wrist",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 67,
       "mainType": "Armor",
       "subType": "Wrist",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 68,
       "mainType": "Armor",
       "subType": "Wrist",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 69,
       "mainType": "Armor",
       "subType": "Wrist",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 70,
       "mainType": "Armor",
       "subType": "Wrist",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 71,
       "mainType": "Accessory",
       "subType": "Earring",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 72,
       "mainType": "Accessory",
       "subType": "Earring",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 73,
       "mainType": "Accessory",
       "subType": "Earring",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 74,
       "mainType": "Accessory",
       "subType": "Earring",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 75,
       "mainType": "Accessory",
       "subType": "Earring",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 76,
       "mainType": "Accessory",
       "subType": "Necklace",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 77,
       "mainType": "Accessory",
       "subType": "Necklace",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 78,
       "mainType": "Accessory",
       "subType": "Necklace",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 79,
       "mainType": "Accessory",
       "subType": "Necklace",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 80,
       "mainType": "Accessory",
       "subType": "Necklace",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 81,
       "mainType": "Accessory",
       "subType": "Ring",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 82,
       "mainType": "Accessory",
       "subType": "Ring",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 83,
       "mainType": "Accessory",
       "subType": "Ring",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 84,
       "mainType": "Accessory",
       "subType": "Ring",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 85,
       "mainType": "Accessory",
       "subType": "Ring",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 86,
       "mainType": "Special",
       "subType": "Orb",
       "grade": "Normal",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 87,
       "mainType": "Special",
       "subType": "Orb",
       "grade": "Rare",
-      "basePrice": 20
+      "basePrice": 2
     },
     {
       "id": 88,
       "mainType": "Special",
       "subType": "Orb",
       "grade": "Epic",
-      "basePrice": 50
+      "basePrice": 3
     },
     {
       "id": 89,
       "mainType": "Special",
       "subType": "Orb",
       "grade": "Unique",
-      "basePrice": 150
+      "basePrice": 10
     },
     {
       "id": 90,
       "mainType": "Special",
       "subType": "Orb",
       "grade": "Legendary",
-      "basePrice": 5000
+      "basePrice": 500
     },
     {
       "id": 91,
       "mainType": "ETC",
       "subType": "Ingredient",
       "grade": "Rare",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 92,
       "mainType": "ETC",
       "subType": "Ingredient",
       "grade": "Epic",
-      "basePrice": 10
+      "basePrice": 1
     },
     {
       "id": 93,
       "mainType": "ETC",
       "subType": "Ingredient",
       "grade": "Unique",
-      "basePrice": 30
+      "basePrice": 2
     },
     {
       "id": 94,
       "mainType": "ETC",
       "subType": "Ingredient",
       "grade": "Legendary",
-      "basePrice": 50
+      "basePrice": 3
     }
   ]
 }

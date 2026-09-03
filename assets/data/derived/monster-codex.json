@@ -1,10 +1,10 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:36:25.384Z",
     "kind": "monsterCodex",
-    "patch": "ebffb",
-    "rowCount": 117,
+    "patch": "fc96b",
+    "rowCount": 120,
     "sources": [
       "FBDataActorMonster",
       "FBDataAttributeMonster",
@@ -12969,7 +12969,7 @@
       "name": "흑랑",
       "nameKey": "Monster_Name_2001004901",
       "level": 31,
-      "experience": 4375,
+      "experience": 13125,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -13046,7 +13046,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 2500,
+          "dropRateRaw": 7500,
           "candidateItemCount": 3
         },
         {
@@ -13056,22 +13056,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 6000000,
+          "dropRateRaw": 18000000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1200000,
+          "dropRateRaw": 3600000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 120000,
+          "dropRateRaw": 360000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 20000000,
+          "dropRateRaw": 60000000,
           "candidateItemCount": 1
         }
       ],
@@ -13101,7 +13101,7 @@
       "name": "흑랑 우두머리",
       "nameKey": "Monster_Name_2001004902",
       "level": 33,
-      "experience": 5250,
+      "experience": 15750,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -13178,7 +13178,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 2500,
+          "dropRateRaw": 7500,
           "candidateItemCount": 3
         },
         {
@@ -13188,22 +13188,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 6000000,
+          "dropRateRaw": 18000000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1200000,
+          "dropRateRaw": 3600000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 120000,
+          "dropRateRaw": 360000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 40000000,
+          "dropRateRaw": 120000000,
           "candidateItemCount": 1
         }
       ],
@@ -17933,7 +17933,7 @@
       "name": "흑랑",
       "nameKey": "Monster_Name_2001004901",
       "level": 53,
-      "experience": 11000,
+      "experience": 33000,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -18010,7 +18010,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 5000,
+          "dropRateRaw": 15000,
           "candidateItemCount": 3
         },
         {
@@ -18020,22 +18020,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 6500000,
+          "dropRateRaw": 19500000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1300000,
+          "dropRateRaw": 3900000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 130000,
+          "dropRateRaw": 390000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 20000000,
+          "dropRateRaw": 60000000,
           "candidateItemCount": 1
         }
       ],
@@ -18821,7 +18821,7 @@
       "name": "흑랑 우두머리",
       "nameKey": "Monster_Name_2001004902",
       "level": 55,
-      "experience": 13200,
+      "experience": 39600,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -18898,7 +18898,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 5000,
+          "dropRateRaw": 15000,
           "candidateItemCount": 3
         },
         {
@@ -18908,22 +18908,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 6500000,
+          "dropRateRaw": 19500000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1300000,
+          "dropRateRaw": 3900000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 130000,
+          "dropRateRaw": 390000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 40000000,
+          "dropRateRaw": 120000000,
           "candidateItemCount": 1
         }
       ],
@@ -19483,7 +19483,7 @@
       "name": "흑랑",
       "nameKey": "Monster_Name_2001004901",
       "level": 73,
-      "experience": 27500,
+      "experience": 82500,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -19560,7 +19560,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 10000,
+          "dropRateRaw": 30000,
           "candidateItemCount": 3
         },
         {
@@ -19570,22 +19570,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 7000000,
+          "dropRateRaw": 21000000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1400000,
+          "dropRateRaw": 4200000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 140000,
+          "dropRateRaw": 420000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 20000000,
+          "dropRateRaw": 60000000,
           "candidateItemCount": 1
         }
       ],
@@ -19981,7 +19981,7 @@
       "name": "흑랑 우두머리",
       "nameKey": "Monster_Name_2001004902",
       "level": 75,
-      "experience": 33000,
+      "experience": 99000,
       "experienceRecorded": true,
       "boss": false,
       "aggressive": true,
@@ -20058,7 +20058,7 @@
       "dropSeedGroups": [
         {
           "seedGroup": "Seed_Acc_Legend",
-          "dropRateRaw": 10000,
+          "dropRateRaw": 30000,
           "candidateItemCount": 3
         },
         {
@@ -20068,22 +20068,22 @@
         },
         {
           "seedGroup": "Seed_Acc_T2",
-          "dropRateRaw": 7000000,
+          "dropRateRaw": 21000000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T3",
-          "dropRateRaw": 1400000,
+          "dropRateRaw": 4200000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Acc_T4",
-          "dropRateRaw": 140000,
+          "dropRateRaw": 420000,
           "candidateItemCount": 3
         },
         {
           "seedGroup": "Seed_Mat_Scroll_Acc",
-          "dropRateRaw": 40000000,
+          "dropRateRaw": 120000000,
           "candidateItemCount": 1
         }
       ],
@@ -20803,6 +20803,270 @@
       "dropItems": []
     },
     {
+      "id": 2001004907,
+      "name": "흑랑",
+      "nameKey": "Monster_Name_2001004901",
+      "level": 93,
+      "experience": 247500,
+      "experienceRecorded": true,
+      "boss": false,
+      "aggressive": true,
+      "bodyType": "Beast",
+      "statKey": "dungeon_wolf_normal_4",
+      "attributes": [
+        {
+          "key": "MAX_HP",
+          "value": 1500000,
+          "label": "최대 생명력"
+        },
+        {
+          "key": "ATK",
+          "value": 16000,
+          "label": "공격력"
+        },
+        {
+          "key": "DEF",
+          "value": 600,
+          "label": "방어력"
+        },
+        {
+          "key": "HIT",
+          "value": 800,
+          "label": "명중"
+        },
+        {
+          "key": "EVA",
+          "value": 860,
+          "label": "회피"
+        },
+        {
+          "key": "PEN",
+          "value": 5,
+          "label": "방어 관통"
+        },
+        {
+          "key": "CRIT_RATE",
+          "value": 3,
+          "label": "치명타 확률%"
+        },
+        {
+          "key": "CRIT_DMG",
+          "value": 130,
+          "label": "치명타 피해%"
+        },
+        {
+          "key": "MOVE_SPEED",
+          "value": 3000,
+          "label": "이동 속도 증가%"
+        }
+      ],
+      "zoneCount": 1,
+      "zoneNames": [
+        "흑랑의 소굴"
+      ],
+      "zones": [
+        {
+          "zoneId": 5000008,
+          "zoneName": "흑랑의 소굴",
+          "zoneType": "TimeField",
+          "regionName": "",
+          "regionAct": "",
+          "spawnKey": "daily_spawn_1_3",
+          "spawnType": "Timer",
+          "count": 10,
+          "respawnMin": 1000,
+          "respawnMax": 1500
+        }
+      ],
+      "dropGroups": [
+        "Mob_2001004907"
+      ],
+      "dropSeedGroups": [
+        {
+          "seedGroup": "Seed_Acc_Legend",
+          "dropRateRaw": 60000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T1",
+          "dropRateRaw": 15000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T2",
+          "dropRateRaw": 27000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T3",
+          "dropRateRaw": 6000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T4",
+          "dropRateRaw": 700000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Mat_Scroll_Acc",
+          "dropRateRaw": 80000000,
+          "candidateItemCount": 1
+        }
+      ],
+      "dropSeedGroupCount": 6,
+      "dropItemCount": 16,
+      "dropItems": [
+        "무쇠 귀걸이",
+        "비취 귀걸이",
+        "현철 귀걸이",
+        "선신의 귀걸이",
+        "혈마의 귀걸이",
+        "무쇠 반지",
+        "비취 반지",
+        "현철 반지",
+        "선신의 반지",
+        "혈마의 반지",
+        "무쇠 목걸이",
+        "비취 목걸이",
+        "현철 목걸이",
+        "선신의 목걸이",
+        "혈마의 목걸이",
+        "장신구 강화 주문서"
+      ]
+    },
+    {
+      "id": 2001004908,
+      "name": "흑랑 우두머리",
+      "nameKey": "Monster_Name_2001004902",
+      "level": 95,
+      "experience": 297000,
+      "experienceRecorded": true,
+      "boss": false,
+      "aggressive": true,
+      "bodyType": "Beast",
+      "statKey": "dungeon_wolf_alpha_4",
+      "attributes": [
+        {
+          "key": "MAX_HP",
+          "value": 2000000,
+          "label": "최대 생명력"
+        },
+        {
+          "key": "ATK",
+          "value": 18000,
+          "label": "공격력"
+        },
+        {
+          "key": "DEF",
+          "value": 624,
+          "label": "방어력"
+        },
+        {
+          "key": "HIT",
+          "value": 900,
+          "label": "명중"
+        },
+        {
+          "key": "EVA",
+          "value": 960,
+          "label": "회피"
+        },
+        {
+          "key": "PEN",
+          "value": 6,
+          "label": "방어 관통"
+        },
+        {
+          "key": "CRIT_RATE",
+          "value": 3,
+          "label": "치명타 확률%"
+        },
+        {
+          "key": "CRIT_DMG",
+          "value": 130,
+          "label": "치명타 피해%"
+        },
+        {
+          "key": "MOVE_SPEED",
+          "value": 3000,
+          "label": "이동 속도 증가%"
+        }
+      ],
+      "zoneCount": 1,
+      "zoneNames": [
+        "흑랑의 소굴"
+      ],
+      "zones": [
+        {
+          "zoneId": 5000008,
+          "zoneName": "흑랑의 소굴",
+          "zoneType": "TimeField",
+          "regionName": "",
+          "regionAct": "",
+          "spawnKey": "daily_spawn_1_3",
+          "spawnType": "Timer",
+          "count": 5,
+          "respawnMin": 1000,
+          "respawnMax": 1500
+        }
+      ],
+      "dropGroups": [
+        "Mob_2001004908"
+      ],
+      "dropSeedGroups": [
+        {
+          "seedGroup": "Seed_Acc_Legend",
+          "dropRateRaw": 60000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T1",
+          "dropRateRaw": 15000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T2",
+          "dropRateRaw": 27000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T3",
+          "dropRateRaw": 6000000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Acc_T4",
+          "dropRateRaw": 700000,
+          "candidateItemCount": 3
+        },
+        {
+          "seedGroup": "Seed_Mat_Scroll_Acc",
+          "dropRateRaw": 160000000,
+          "candidateItemCount": 1
+        }
+      ],
+      "dropSeedGroupCount": 6,
+      "dropItemCount": 16,
+      "dropItems": [
+        "무쇠 귀걸이",
+        "비취 귀걸이",
+        "현철 귀걸이",
+        "선신의 귀걸이",
+        "혈마의 귀걸이",
+        "무쇠 반지",
+        "비취 반지",
+        "현철 반지",
+        "선신의 반지",
+        "혈마의 반지",
+        "무쇠 목걸이",
+        "비취 목걸이",
+        "현철 목걸이",
+        "선신의 목걸이",
+        "혈마의 목걸이",
+        "장신구 강화 주문서"
+      ]
+    },
+    {
       "id": 2002015901,
       "name": "내면의 무명",
       "nameKey": "Monster_Name_90024",
@@ -21036,6 +21300,98 @@
           "regionName": "",
           "regionAct": "",
           "spawnKey": "promotion_17",
+          "spawnType": "Once",
+          "count": 1,
+          "respawnMin": 0,
+          "respawnMax": 0
+        }
+      ],
+      "dropGroups": [],
+      "dropSeedGroups": [],
+      "dropSeedGroupCount": 0,
+      "dropItemCount": 0,
+      "dropItems": []
+    },
+    {
+      "id": 2001001902,
+      "name": "산군",
+      "nameKey": "산군",
+      "level": 100,
+      "experience": null,
+      "experienceRecorded": false,
+      "boss": true,
+      "aggressive": true,
+      "bodyType": "",
+      "statKey": "tiger_dojo_1",
+      "attributes": [
+        {
+          "key": "MAX_HP",
+          "value": 2000000000,
+          "label": "최대 생명력"
+        },
+        {
+          "key": "ATK",
+          "value": 400,
+          "label": "공격력"
+        },
+        {
+          "key": "DEF",
+          "value": 6000,
+          "label": "방어력"
+        },
+        {
+          "key": "HIT",
+          "value": 200,
+          "label": "명중"
+        },
+        {
+          "key": "EVA",
+          "value": 0,
+          "label": "회피"
+        },
+        {
+          "key": "PEN",
+          "value": 2,
+          "label": "방어 관통"
+        },
+        {
+          "key": "CRIT_RATE",
+          "value": 3,
+          "label": "치명타 확률%"
+        },
+        {
+          "key": "CRIT_DMG",
+          "value": 130,
+          "label": "치명타 피해%"
+        },
+        {
+          "key": "MOVE_SPEED",
+          "value": 3000,
+          "label": "이동 속도 증가%"
+        },
+        {
+          "key": "CRIT_RATE_RES",
+          "value": 2000,
+          "label": ""
+        },
+        {
+          "key": "CRIT_DMG_RES",
+          "value": 30000,
+          "label": ""
+        }
+      ],
+      "zoneCount": 1,
+      "zoneNames": [
+        "호랑이 굴"
+      ],
+      "zones": [
+        {
+          "zoneId": 4000002,
+          "zoneName": "호랑이 굴",
+          "zoneType": "DpsBoss",
+          "regionName": "",
+          "regionAct": "",
+          "spawnKey": "daily_spawn_2_0",
           "spawnType": "Once",
           "count": 1,
           "respawnMin": 0,

@@ -1,12 +1,12 @@
 ---
 title: "ItemBox"
 layout: data
-description: "ItemBox 원본 기록 42줄입니다."
+description: "ItemBox 원본 기록 43줄입니다."
 permalink: /docs/data/tables/item-box/
 data_file: "/assets/data/raw/item-box.json"
 data_asset: "FBDataItemBox"
 data_schema: "FBDataItemBox"
-data_rows: 42
+data_rows: 43
 data_category: "아이템"
 data_fields: ["id","useType","rewardGroup","selectCount"]
 data_unit: "줄"

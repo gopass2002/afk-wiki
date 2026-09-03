@@ -1,12 +1,12 @@
 ---
 title: "ShopProduct"
 layout: data
-description: "ShopProduct 원본 기록 72줄입니다."
+description: "ShopProduct 원본 기록 73줄입니다."
 permalink: /docs/data/tables/shop-product/
 data_file: "/assets/data/raw/shop-product.json"
 data_asset: "FBDataShopProduct"
 data_schema: "FBDataShopProduct"
-data_rows: 72
+data_rows: 73
 data_category: "경제·보상"
 data_fields: ["id","productGroupKey","mainCategory","subCategory","itemId","amount","costItemId","costAmount","nameKey","descriptionKey","icon","rewardGroupKey","sortOrder","limitType","limitCount","active","badgeKey"]
 data_unit: "줄"

@@ -1,12 +1,12 @@
 ---
 title: "드롭 그룹"
 layout: data
-description: "드롭 그룹 원본 기록 868줄입니다."
+description: "드롭 그룹 원본 기록 880줄입니다."
 permalink: /docs/data/tables/drop-group/
 data_file: "/assets/data/raw/drop-group.json"
 data_asset: "FBDataDropGroup"
 data_schema: "FBDataDropGroup"
-data_rows: 868
+data_rows: 880
 data_category: "세계·전투"
 data_fields: ["id","dropGroup","seedGroup","dropRate"]
 data_unit: "줄"

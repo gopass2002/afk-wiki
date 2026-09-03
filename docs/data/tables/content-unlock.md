@@ -1,12 +1,12 @@
 ---
 title: "ContentUnlock"
 layout: data
-description: "ContentUnlock 원본 기록 40줄입니다."
+description: "ContentUnlock 원본 기록 41줄입니다."
 permalink: /docs/data/tables/content-unlock/
 data_file: "/assets/data/raw/content-unlock.json"
 data_asset: "FBDataContentUnlock"
 data_schema: "FBDataContentUnlock"
-data_rows: 40
+data_rows: 41
 data_category: "시스템"
 data_fields: ["id","contentKey","triggerType","triggerValue","descKey","notReady"]
 data_unit: "줄"

@@ -1,16 +1,19 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-29T01:52:38.314Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:36:25.384Z",
     "kind": "dailyChallengeStages",
-    "patch": "ebffb",
-    "rowCount": 107,
+    "patch": "fc96b",
+    "rowCount": 109,
     "sources": [
       "FBDataDailyDungeonBoss",
       "FBDataDailyDungeonBossTier",
       "FBDataDailyDungeonBossReward",
       "FBDataDailyDungeonTimeField",
       "FBDataDailyDungeonTimeFieldTier",
+      "FBDataDailyDungeonDpsBoss",
+      "FBDataDailyDungeonDpsRankReward",
+      "FBDataContentUnlock",
       "FBDataStringUI",
       "zone-atlas.json",
       "FBDataItem"
@@ -38,21 +41,21 @@
         {
           "name": "흑랑",
           "level": 31,
-          "experience": 4375
+          "experience": 13125
         },
         {
           "name": "흑랑 우두머리",
           "level": 33,
-          "experience": 5250
+          "experience": 15750
         }
       ],
-      "monsterExperienceMin": 4375,
-      "monsterExperienceMax": 5250,
+      "monsterExperienceMin": 13125,
+      "monsterExperienceMax": 15750,
       "monsterExperienceMissingCount": 0,
       "attributeScaleRaw": null,
       "rewardSummary": "",
       "entryItemName": "",
-      "dailyTimeRaw": 14400000,
+      "dailyTimeRaw": 3600000,
       "timeLimitRaw": null,
       "zoneId": 5000001
     },
@@ -76,21 +79,21 @@
         {
           "name": "흑랑",
           "level": 53,
-          "experience": 11000
+          "experience": 33000
         },
         {
           "name": "흑랑 우두머리",
           "level": 55,
-          "experience": 13200
+          "experience": 39600
         }
       ],
-      "monsterExperienceMin": 11000,
-      "monsterExperienceMax": 13200,
+      "monsterExperienceMin": 33000,
+      "monsterExperienceMax": 39600,
       "monsterExperienceMissingCount": 0,
       "attributeScaleRaw": null,
       "rewardSummary": "",
       "entryItemName": "",
-      "dailyTimeRaw": 14400000,
+      "dailyTimeRaw": 3600000,
       "timeLimitRaw": null,
       "zoneId": 5000002
     },
@@ -114,21 +117,21 @@
         {
           "name": "흑랑",
           "level": 73,
-          "experience": 27500
+          "experience": 82500
         },
         {
           "name": "흑랑 우두머리",
           "level": 75,
-          "experience": 33000
+          "experience": 99000
         }
       ],
-      "monsterExperienceMin": 27500,
-      "monsterExperienceMax": 33000,
+      "monsterExperienceMin": 82500,
+      "monsterExperienceMax": 99000,
       "monsterExperienceMissingCount": 0,
       "attributeScaleRaw": null,
       "rewardSummary": "",
       "entryItemName": "",
-      "dailyTimeRaw": 14400000,
+      "dailyTimeRaw": 3600000,
       "timeLimitRaw": null,
       "zoneId": 5000003
     },
@@ -307,6 +310,44 @@
       "dailyTimeRaw": 3600000,
       "timeLimitRaw": null,
       "zoneId": 5000007
+    },
+    {
+      "challengeType": "시간형",
+      "challengeName": "흑랑의 소굴",
+      "stage": 4,
+      "stageName": "4단계 · 매우 어려움",
+      "difficulty": "매우 어려움",
+      "unlockLevelRaw": 80,
+      "zoneName": "흑랑의 소굴",
+      "regionName": "",
+      "monsterLevelMin": 93,
+      "monsterLevelMax": 95,
+      "monsterCount": 2,
+      "monsterNames": [
+        "흑랑",
+        "흑랑 우두머리"
+      ],
+      "monsterExperience": [
+        {
+          "name": "흑랑",
+          "level": 93,
+          "experience": 247500
+        },
+        {
+          "name": "흑랑 우두머리",
+          "level": 95,
+          "experience": 297000
+        }
+      ],
+      "monsterExperienceMin": 247500,
+      "monsterExperienceMax": 297000,
+      "monsterExperienceMissingCount": 0,
+      "attributeScaleRaw": null,
+      "rewardSummary": "",
+      "entryItemName": "",
+      "dailyTimeRaw": 3600000,
+      "timeLimitRaw": null,
+      "zoneId": 5000008
     },
     {
       "challengeType": "보스형",
@@ -3507,6 +3548,38 @@
       "dailyTimeRaw": null,
       "timeLimitRaw": 60000,
       "zoneId": 4000001
+    },
+    {
+      "challengeType": "기록형",
+      "challengeName": "호랑이 도장",
+      "stage": 1,
+      "stageName": "단일 단계",
+      "difficulty": "",
+      "unlockLevelRaw": 30,
+      "zoneName": "호랑이 굴",
+      "regionName": "",
+      "monsterLevelMin": 100,
+      "monsterLevelMax": 100,
+      "monsterCount": 1,
+      "monsterNames": [
+        "산군"
+      ],
+      "monsterExperience": [
+        {
+          "name": "산군",
+          "level": 100,
+          "experience": null
+        }
+      ],
+      "monsterExperienceMin": null,
+      "monsterExperienceMax": null,
+      "monsterExperienceMissingCount": 1,
+      "attributeScaleRaw": null,
+      "rewardSummary": "완주 산군의 상자 1 · 1위 협전 5 · 2위 협전 4 · 3위 협전 3 · 4~10위 협전 2 · 11~100위 협전 1",
+      "entryItemName": "호랑이 도장 입장패",
+      "dailyTimeRaw": null,
+      "timeLimitRaw": 60000,
+      "zoneId": 4000002
     }
   ]
 }

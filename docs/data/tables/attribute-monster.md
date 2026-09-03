@@ -1,12 +1,12 @@
 ---
 title: "AttributeMonster"
 layout: data
-description: "AttributeMonster 원본 기록 109줄입니다."
+description: "AttributeMonster 원본 기록 112줄입니다."
 permalink: /docs/data/tables/attribute-monster/
 data_file: "/assets/data/raw/attribute-monster.json"
 data_asset: "FBDataAttributeMonster"
 data_schema: "FBDataAttribute"
-data_rows: 109
+data_rows: 112
 data_category: "시스템"
 data_fields: ["id","key","attrKey","attrValue","attrValueArray"]
 data_unit: "줄"

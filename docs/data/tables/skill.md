@@ -1,12 +1,12 @@
 ---
 title: "무공"
 layout: data
-description: "무공 원본 기록 72줄입니다."
+description: "무공 원본 기록 82줄입니다."
 permalink: /docs/data/tables/skill/
 data_file: "/assets/data/raw/skill.json"
 data_asset: "FBDataSkill"
 data_schema: "FBDataSkill"
-data_rows: 72
+data_rows: 82
 data_category: "무공"
 data_fields: ["id","levelKey","nameKey","descKey","weaponType","castType","grade","factionType","cooldown","spCost","hitDelayMs","animType","range","applyOrigin","applyCount","applyRange","hitCount","hitInterval","iconPath","vfx","hitVfx","sfx"]
 data_unit: "줄"

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 868,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 880,
     "schema": "FBDataDropGroup",
     "sourceAsset": "FBDataDropGroup",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -3847,25 +3847,25 @@
       "id": 601601,
       "dropGroup": "Mob_2001004901",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 6000000
+      "dropRate": 18000000
     },
     {
       "id": 601602,
       "dropGroup": "Mob_2001004901",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1200000
+      "dropRate": 3600000
     },
     {
       "id": 601603,
       "dropGroup": "Mob_2001004901",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 120000
+      "dropRate": 360000
     },
     {
       "id": 601604,
       "dropGroup": "Mob_2001004901",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 20000000
+      "dropRate": 60000000
     },
     {
       "id": 601607,
@@ -3877,37 +3877,37 @@
       "id": 601608,
       "dropGroup": "Mob_2001004902",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 6000000
+      "dropRate": 18000000
     },
     {
       "id": 601609,
       "dropGroup": "Mob_2001004902",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1200000
+      "dropRate": 3600000
     },
     {
       "id": 601610,
       "dropGroup": "Mob_2001004902",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 120000
+      "dropRate": 360000
     },
     {
       "id": 601611,
       "dropGroup": "Mob_2001004902",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 40000000
+      "dropRate": 120000000
     },
     {
       "id": 601612,
       "dropGroup": "Mob_2001004901",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 2500
+      "dropRate": 7500
     },
     {
       "id": 601613,
       "dropGroup": "Mob_2001004902",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 2500
+      "dropRate": 7500
     },
     {
       "id": 601614,
@@ -3919,31 +3919,31 @@
       "id": 601615,
       "dropGroup": "Mob_2001004903",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 6500000
+      "dropRate": 19500000
     },
     {
       "id": 601616,
       "dropGroup": "Mob_2001004903",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1300000
+      "dropRate": 3900000
     },
     {
       "id": 601617,
       "dropGroup": "Mob_2001004903",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 130000
+      "dropRate": 390000
     },
     {
       "id": 601618,
       "dropGroup": "Mob_2001004903",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 5000
+      "dropRate": 15000
     },
     {
       "id": 601619,
       "dropGroup": "Mob_2001004903",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 20000000
+      "dropRate": 60000000
     },
     {
       "id": 601620,
@@ -3955,31 +3955,31 @@
       "id": 601621,
       "dropGroup": "Mob_2001004904",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 6500000
+      "dropRate": 19500000
     },
     {
       "id": 601622,
       "dropGroup": "Mob_2001004904",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1300000
+      "dropRate": 3900000
     },
     {
       "id": 601623,
       "dropGroup": "Mob_2001004904",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 130000
+      "dropRate": 390000
     },
     {
       "id": 601624,
       "dropGroup": "Mob_2001004904",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 5000
+      "dropRate": 15000
     },
     {
       "id": 601625,
       "dropGroup": "Mob_2001004904",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 40000000
+      "dropRate": 120000000
     },
     {
       "id": 601626,
@@ -3991,31 +3991,31 @@
       "id": 601627,
       "dropGroup": "Mob_2001004905",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 7000000
+      "dropRate": 21000000
     },
     {
       "id": 601628,
       "dropGroup": "Mob_2001004905",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1400000
+      "dropRate": 4200000
     },
     {
       "id": 601629,
       "dropGroup": "Mob_2001004905",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 140000
+      "dropRate": 420000
     },
     {
       "id": 601630,
       "dropGroup": "Mob_2001004905",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 10000
+      "dropRate": 30000
     },
     {
       "id": 601631,
       "dropGroup": "Mob_2001004905",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 20000000
+      "dropRate": 60000000
     },
     {
       "id": 601632,
@@ -4027,31 +4027,31 @@
       "id": 601633,
       "dropGroup": "Mob_2001004906",
       "seedGroup": "Seed_Acc_T2",
-      "dropRate": 7000000
+      "dropRate": 21000000
     },
     {
       "id": 601634,
       "dropGroup": "Mob_2001004906",
       "seedGroup": "Seed_Acc_T3",
-      "dropRate": 1400000
+      "dropRate": 4200000
     },
     {
       "id": 601635,
       "dropGroup": "Mob_2001004906",
       "seedGroup": "Seed_Acc_T4",
-      "dropRate": 140000
+      "dropRate": 420000
     },
     {
       "id": 601636,
       "dropGroup": "Mob_2001004906",
       "seedGroup": "Seed_Acc_Legend",
-      "dropRate": 10000
+      "dropRate": 30000
     },
     {
       "id": 601637,
       "dropGroup": "Mob_2001004906",
       "seedGroup": "Seed_Mat_Scroll_Acc",
-      "dropRate": 40000000
+      "dropRate": 120000000
     },
     {
       "id": 601638,
@@ -5216,6 +5216,78 @@
       "dropGroup": "Mob_1003009901",
       "seedGroup": "Seed_HyeopJeon",
       "dropRate": 21777
+    },
+    {
+      "id": 601832,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 15000000
+    },
+    {
+      "id": 601833,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 27000000
+    },
+    {
+      "id": 601834,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 6000000
+    },
+    {
+      "id": 601835,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 700000
+    },
+    {
+      "id": 601836,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 60000
+    },
+    {
+      "id": 601837,
+      "dropGroup": "Mob_2001004907",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 80000000
+    },
+    {
+      "id": 601838,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Acc_T1",
+      "dropRate": 15000000
+    },
+    {
+      "id": 601839,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Acc_T2",
+      "dropRate": 27000000
+    },
+    {
+      "id": 601840,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Acc_T3",
+      "dropRate": 6000000
+    },
+    {
+      "id": 601841,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Acc_T4",
+      "dropRate": 700000
+    },
+    {
+      "id": 601842,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Acc_Legend",
+      "dropRate": 60000
+    },
+    {
+      "id": 601843,
+      "dropGroup": "Mob_2001004908",
+      "seedGroup": "Seed_Mat_Scroll_Acc",
+      "dropRate": 160000000
     }
   ]
 }

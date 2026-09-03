@@ -1,12 +1,12 @@
 ---
 title: "AttributeSkill"
 layout: data
-description: "AttributeSkill 원본 기록 520줄입니다."
+description: "AttributeSkill 원본 기록 620줄입니다."
 permalink: /docs/data/tables/attribute-skill/
 data_file: "/assets/data/raw/attribute-skill.json"
 data_asset: "FBDataAttributeSkill"
 data_schema: "FBDataAttributeSkill"
-data_rows: 520
+data_rows: 620
 data_category: "무공"
 data_fields: ["id","key","attrKey","attrValue"]
 data_unit: "줄"

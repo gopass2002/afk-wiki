@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 40,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 41,
     "schema": "FBDataContentUnlock",
     "sourceAsset": "FBDataContentUnlock",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -101,7 +101,7 @@
       "id": 12,
       "contentKey": "Chapter2",
       "triggerType": "QuestComplete",
-      "triggerValue": 84,
+      "triggerValue": 411,
       "descKey": "ContentUnlockQuestComplete",
       "notReady": false
     },
@@ -327,6 +327,14 @@
       "triggerType": "QuestComplete",
       "triggerValue": 432,
       "descKey": "ContentUnlockQuestComplete",
+      "notReady": false
+    },
+    {
+      "id": 41,
+      "contentKey": "TigerDpsBoss",
+      "triggerType": "Level",
+      "triggerValue": 30,
+      "descKey": "ContentUnlockRequireLevel",
       "notReady": false
     }
   ]

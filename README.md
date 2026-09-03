@@ -11,6 +11,7 @@
 ```
 index.md                         위키 홈
 docs/                            장비·도감·음식·지도·확률 안내
+docs/updates/                    배포본 사이의 데이터 변경 기록
 docs/data/tables/                자동 생성 원본 테이블 탐색 페이지
 docs/무공/ docs/아이템/ docs/몬스터/ docs/지역/   자동 생성 개체 낱장 페이지
 assets/data/raw/                 FlatBuffer를 변환한 원본 JSON

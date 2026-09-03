@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 98,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 100,
     "schema": "FBDataDropCurrency",
     "sourceAsset": "FBDataDropCurrency",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -572,42 +572,42 @@
     {
       "id": 2001004901,
       "dropGroup": "Mob_2001004901",
-      "exp": 4375,
+      "exp": 13125,
       "goldMin": 0,
       "goldMax": 0
     },
     {
       "id": 2001004902,
       "dropGroup": "Mob_2001004902",
-      "exp": 5250,
+      "exp": 15750,
       "goldMin": 0,
       "goldMax": 0
     },
     {
       "id": 2001004903,
       "dropGroup": "Mob_2001004903",
-      "exp": 11000,
+      "exp": 33000,
       "goldMin": 0,
       "goldMax": 0
     },
     {
       "id": 2001004904,
       "dropGroup": "Mob_2001004904",
-      "exp": 13200,
+      "exp": 39600,
       "goldMin": 0,
       "goldMax": 0
     },
     {
       "id": 2001004905,
       "dropGroup": "Mob_2001004905",
-      "exp": 27500,
+      "exp": 82500,
       "goldMin": 0,
       "goldMax": 0
     },
     {
       "id": 2001004906,
       "dropGroup": "Mob_2001004906",
-      "exp": 33000,
+      "exp": 99000,
       "goldMin": 0,
       "goldMax": 0
     },
@@ -692,6 +692,20 @@
       "id": 2001005912,
       "dropGroup": "Mob_2001005912",
       "exp": 110000,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004907,
+      "dropGroup": "Mob_2001004907",
+      "exp": 247500,
+      "goldMin": 0,
+      "goldMax": 0
+    },
+    {
+      "id": 2001004908,
+      "dropGroup": "Mob_2001004908",
+      "exp": 297000,
       "goldMin": 0,
       "goldMax": 0
     }

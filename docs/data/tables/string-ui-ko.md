@@ -1,12 +1,12 @@
 ---
 title: "StringUI_ko"
 layout: data
-description: "StringUI_ko 원본 기록 268줄입니다."
+description: "StringUI_ko 원본 기록 276줄입니다."
 permalink: /docs/data/tables/string-ui-ko/
 data_file: "/assets/data/raw/string-ui-ko.json"
 data_asset: "FBDataStringUI_ko"
 data_schema: "FBDataStringUI"
-data_rows: 268
+data_rows: 276
 data_category: "문자열"
 data_fields: ["id","key","value"]
 data_unit: "줄"

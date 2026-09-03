@@ -1,12 +1,12 @@
 ---
 title: "몬스터"
 layout: data
-description: "몬스터 원본 기록 117줄입니다."
+description: "몬스터 원본 기록 120줄입니다."
 permalink: /docs/data/tables/actor-monster/
 data_file: "/assets/data/raw/actor-monster.json"
 data_asset: "FBDataActorMonster"
 data_schema: "FBDataActorMonster"
-data_rows: 117
+data_rows: 120
 data_category: "세계·전투"
 data_fields: ["id","type","prefab","name","level","boss","aggressive","attackSfx","hitSfx","deathSfx","auraVfx","deathVfx","deathDelay","tint","statKey","bodyType","absorbTextGroupKey"]
 data_unit: "줄"

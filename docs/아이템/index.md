@@ -5,7 +5,7 @@ permalink: /docs/아이템/
 description: "장비와 재료, 소모품까지 배포본에 들어 있는 물건입니다. 한 장을 열면 능력치와 얻는 곳을 볼 수 있습니다."
 ---
 <header class="leaf-index__head">
-  <p class="leaf-eyebrow">549종</p>
+  <p class="leaf-eyebrow">551종</p>
   <h1>아이템</h1>
   <p class="leaf-index__lede">장비와 재료, 소모품까지 배포본에 들어 있는 물건입니다. 한 장을 열면 능력치와 얻는 곳을 볼 수 있습니다.</p>
 </header>
@@ -621,7 +621,7 @@ description: "장비와 재료, 소모품까지 배포본에 들어 있는 물�
 </section>
 
 <section class="leaf-index__group">
-  <h2>소모품<small>46종</small></h2>
+  <h2>소모품<small>47종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="none" href="{{ '/docs/아이템/검법-비전함/' | relative_url }}">
     <img src="{{ '/assets/images/game/items/96000041.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -706,6 +706,10 @@ description: "장비와 재료, 소모품까지 배포본에 들어 있는 물�
     <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/아이템/무사의-패물함/' | relative_url }}">
     <img src="{{ '/assets/images/game/items/96000026.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>무사의 패물함</strong><small>현 · 상자</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/아이템/산군의-상자/' | relative_url }}">
+    <img src="{{ '/assets/images/game/items/96000056.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>산군의 상자</strong><small>현 · 상자</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/아이템/소소의-노잣돈-보따리/' | relative_url }}">
     <img src="{{ '/assets/images/game/items/96000014.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -1161,8 +1165,12 @@ description: "장비와 재료, 소모품까지 배포본에 들어 있는 물�
 </section>
 
 <section class="leaf-index__group">
-  <h2>재화<small>9종</small></h2>
+  <h2>재화<small>10종</small></h2>
   <ul class="leaf-grid">
+    <li><a class="leaf-card" data-grade="none" href="{{ '/docs/아이템/호랑이-도장-입장패/' | relative_url }}">
+    <img src="{{ '/assets/images/game/items/21.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>호랑이 도장 입장패</strong><small></small></span>
+  </a></li>
     <li><a class="leaf-card" data-grade="none" href="{{ '/docs/아이템/얼굴-역용부-1기/' | relative_url }}">
     <img src="{{ '/assets/images/game/items/12.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>얼굴 역용부 1기</strong><small>역용부 · 얼굴</small></span>

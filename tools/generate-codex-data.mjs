@@ -116,6 +116,9 @@ async function main() {
     dailyDungeonBossRewards,
     dailyDungeonTimeFields,
     dailyDungeonTimeFieldTiers,
+    dailyDungeonDpsBosses,
+    dailyDungeonDpsRankRewards,
+    contentUnlocks,
     uiStrings,
     collections,
     collectionRegistry,
@@ -161,6 +164,9 @@ async function main() {
     rawRows(options.root, "daily-dungeon-boss-reward"),
     rawRows(options.root, "daily-dungeon-time-field"),
     rawRows(options.root, "daily-dungeon-time-field-tier"),
+    rawRows(options.root, "daily-dungeon-dps-boss"),
+    rawRows(options.root, "daily-dungeon-dps-rank-reward"),
+    rawRows(options.root, "content-unlock"),
     rawRows(options.root, "string-ui-ko"),
     rawRows(options.root, "collection"),
     rawRows(options.root, "collection-registry"),
@@ -516,6 +522,12 @@ async function main() {
   const dailyTimeFieldByGroup = new Map(
     dailyDungeonTimeFields.map((entry) => [entry.tierGroupKey, entry]),
   );
+  const dailyDpsRankRewardsByGroup = groupBy(dailyDungeonDpsRankRewards, (entry) => entry.groupKey);
+  const contentUnlockLevelByKey = new Map(
+    contentUnlocks
+      .filter((entry) => entry.triggerType === "Level")
+      .map((entry) => [entry.contentKey, entry.triggerValue]),
+  );
   const monsterExperienceSummary = (zone) => {
     const entries = (zone?.monsters ?? []).map((monster) => ({
       name: monster.name,
@@ -591,7 +603,45 @@ async function main() {
     });
   });
 
-  const dailyChallengeStageRows = [...dailyTimeFieldStageRows, ...dailyBossStageRows];
+  const formatRankRange = (reward) =>
+    reward.rankFrom === reward.rankTo ? `${reward.rankFrom}위` : `${reward.rankFrom}~${reward.rankTo}위`;
+
+  const dailyDpsStageRows = dailyDungeonDpsBosses.map((challenge) => {
+    const zone = zoneAtlasById.get(challenge.zoneId);
+    const entryItem = itemById.get(challenge.useTicketId);
+    const clearItem = itemById.get(challenge.clearRewardItemId);
+    const rankRewards = [...(dailyDpsRankRewardsByGroup.get(challenge.rankRewardGroupKey) ?? [])]
+      .sort((left, right) => left.rankFrom - right.rankFrom);
+    const clearSummary = clearItem
+      ? `완주 ${clearItem.name} ${challenge.clearRewardAmount}`
+      : "";
+    const rankSummary = rankRewards
+      .map((reward) => `${formatRankRange(reward)} ${itemById.get(reward.itemId)?.name ?? reward.itemId} ${reward.itemAmount}`)
+      .join(" · ");
+    return {
+      challengeType: "기록형",
+      challengeName: challenge.nameKey,
+      stage: 1,
+      stageName: "단일 단계",
+      difficulty: "",
+      unlockLevelRaw: contentUnlockLevelByKey.get(challenge.contentKey) ?? null,
+      zoneName: zone?.name ?? "",
+      regionName: zone?.regionName ?? "",
+      monsterLevelMin: zone?.monsterLevelMin ?? null,
+      monsterLevelMax: zone?.monsterLevelMax ?? null,
+      monsterCount: zone?.monsterCount ?? 0,
+      monsterNames: zone?.monsterNames ?? [],
+      ...monsterExperienceSummary(zone),
+      attributeScaleRaw: null,
+      rewardSummary: [clearSummary, rankSummary].filter(Boolean).join(" · "),
+      entryItemName: entryItem?.name ?? "",
+      dailyTimeRaw: null,
+      timeLimitRaw: challenge.timeLimit,
+      zoneId: challenge.zoneId,
+    };
+  });
+
+  const dailyChallengeStageRows = [...dailyTimeFieldStageRows, ...dailyBossStageRows, ...dailyDpsStageRows];
 
   const collectionStringByKey = new Map(collectionStrings.map((entry) => [entry.key, entry.value]));
   const registryByCollection = groupBy(collectionRegistry, (entry) => entry.collectionId);
@@ -933,6 +983,9 @@ async function main() {
           "FBDataDailyDungeonBossReward",
           "FBDataDailyDungeonTimeField",
           "FBDataDailyDungeonTimeFieldTier",
+          "FBDataDailyDungeonDpsBoss",
+          "FBDataDailyDungeonDpsRankReward",
+          "FBDataContentUnlock",
           "FBDataStringUI",
           "zone-atlas.json",
           "FBDataItem",

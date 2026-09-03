@@ -1,12 +1,12 @@
 ---
 title: "DropCurrency"
 layout: data
-description: "DropCurrency 원본 기록 98줄입니다."
+description: "DropCurrency 원본 기록 100줄입니다."
 permalink: /docs/data/tables/drop-currency/
 data_file: "/assets/data/raw/drop-currency.json"
 data_asset: "FBDataDropCurrency"
 data_schema: "FBDataDropCurrency"
-data_rows: 98
+data_rows: 100
 data_category: "세계·전투"
 data_fields: ["id","dropGroup","exp","goldMin","goldMax"]
 data_unit: "줄"

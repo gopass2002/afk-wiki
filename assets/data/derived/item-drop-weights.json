@@ -1,9 +1,9 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:36:25.384Z",
     "kind": "itemDropWeights",
-    "patch": "ebffb",
+    "patch": "fc96b",
     "rowCount": 217,
     "sources": [
       "FBDataDropItem",
@@ -23,11 +23,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        2500,
-        5000,
-        10000
+        7500,
+        15000,
+        30000,
+        60000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -41,11 +42,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        2500,
-        5000,
-        10000
+        7500,
+        15000,
+        30000,
+        60000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -59,11 +61,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        2500,
-        5000,
-        10000
+        7500,
+        15000,
+        30000,
+        60000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -77,8 +80,9 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
+        15000000,
         18770000,
         19385000,
         19997500
@@ -95,8 +99,9 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
+        15000000,
         18770000,
         19385000,
         19997500
@@ -113,8 +118,9 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
+        15000000,
         18770000,
         19385000,
         19997500
@@ -131,11 +137,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        6000000,
-        6500000,
-        7000000
+        18000000,
+        19500000,
+        21000000,
+        27000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -149,11 +156,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        6000000,
-        6500000,
-        7000000
+        18000000,
+        19500000,
+        21000000,
+        27000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -167,11 +175,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        6000000,
-        6500000,
-        7000000
+        18000000,
+        19500000,
+        21000000,
+        27000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -185,11 +194,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        1200000,
-        1300000,
-        1400000
+        3600000,
+        3900000,
+        4200000,
+        6000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -203,11 +213,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        1200000,
-        1300000,
-        1400000
+        3600000,
+        3900000,
+        4200000,
+        6000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -221,11 +232,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        1200000,
-        1300000,
-        1400000
+        3600000,
+        3900000,
+        4200000,
+        6000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -239,11 +251,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        120000,
-        130000,
-        140000
+        360000,
+        390000,
+        420000,
+        700000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -257,11 +270,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        120000,
-        130000,
-        140000
+        360000,
+        390000,
+        420000,
+        700000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -275,11 +289,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 3,
       "normalizedWeightSharePercent": 33.333333,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        120000,
-        130000,
-        140000
+        360000,
+        390000,
+        420000,
+        700000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },
@@ -5602,10 +5617,12 @@
       "weight": 1,
       "seedGroupWeightTotal": 1,
       "normalizedWeightSharePercent": 100,
-      "referencedDropGroupCount": 6,
+      "referencedDropGroupCount": 8,
       "dropRateRawValues": [
-        20000000,
-        40000000
+        60000000,
+        80000000,
+        120000000,
+        160000000
       ],
       "interpretation": "seedGroup 내부 가중치 점유율이며 실제 처치당 드롭 확률이 아님"
     },

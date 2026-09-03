@@ -3,7 +3,7 @@
 ## Source of truth
 
 - Status: Active
-- Last refreshed: 2026-08-28
+- Last refreshed: 2026-09-03
 - Primary product surfaces: GitHub Pages public wiki, generated data-table pages, long-form system guides
 - Evidence reviewed: `_config.yml`, `_data/nav.yml`, `_data/generated_manifest.json`, generated `docs/data/tables/*.md`, extracted `assets/data/raw/*.json`, parent repository `docs/art-bible.md`, `scripts/ui/main_screen.gd`
 

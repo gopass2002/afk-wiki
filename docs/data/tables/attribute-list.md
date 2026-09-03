@@ -1,12 +1,12 @@
 ---
 title: "AttributeList"
 layout: data
-description: "AttributeList 원본 기록 35줄입니다."
+description: "AttributeList 원본 기록 37줄입니다."
 permalink: /docs/data/tables/attribute-list/
 data_file: "/assets/data/raw/attribute-list.json"
 data_asset: "FBDataAttributeList"
 data_schema: "FBDataAttributeList"
-data_rows: 35
+data_rows: 37
 data_category: "시스템"
 data_fields: ["id","key","type","visible","sortOrder","divisor","battlePowerWeight","icon"]
 data_unit: "줄"

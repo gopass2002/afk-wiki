@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 117,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 120,
     "schema": "FBDataActorMonster",
     "sourceAsset": "FBDataActorMonster",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -1891,6 +1891,25 @@
       "absorbTextGroupKey": ""
     },
     {
+      "id": 2001001902,
+      "type": "Monster",
+      "prefab": "02.Monsters/monster_2001006901/monster_2001006901",
+      "name": "산군",
+      "level": 100,
+      "boss": true,
+      "aggressive": true,
+      "attackSfx": "12.Sound/SFX_MON_TIGER_ATTACK",
+      "hitSfx": "12.Sound/SFX_MON_COMMON_HIT",
+      "deathSfx": "12.Sound/SFX_MON_TIGER_DEATH",
+      "auraVfx": "",
+      "deathVfx": "",
+      "deathDelay": 0,
+      "tint": false,
+      "statKey": "tiger_dojo_1",
+      "bodyType": "",
+      "absorbTextGroupKey": ""
+    },
+    {
       "id": 2001004901,
       "type": "Monster",
       "prefab": "02.Monsters/monster_2001004901/monster_2001004901",
@@ -2230,6 +2249,44 @@
       "tint": false,
       "statKey": "dungeon_simma_ch3",
       "bodyType": "Human",
+      "absorbTextGroupKey": ""
+    },
+    {
+      "id": 2001004907,
+      "type": "Monster",
+      "prefab": "02.Monsters/monster_2001004901/monster_2001004901",
+      "name": "Monster_Name_2001004901",
+      "level": 93,
+      "boss": false,
+      "aggressive": true,
+      "attackSfx": "12.Sound/SFX_MON_BLACKWOLF_ATTACK",
+      "hitSfx": "12.Sound/SFX_MON_COMMON_HIT",
+      "deathSfx": "12.Sound/SFX_MON_BLACKWOLF_DEATH",
+      "auraVfx": "",
+      "deathVfx": "",
+      "deathDelay": 0,
+      "tint": false,
+      "statKey": "dungeon_wolf_normal_4",
+      "bodyType": "Beast",
+      "absorbTextGroupKey": ""
+    },
+    {
+      "id": 2001004908,
+      "type": "Monster",
+      "prefab": "02.Monsters/monster_2001004902/monster_2001004902",
+      "name": "Monster_Name_2001004902",
+      "level": 95,
+      "boss": false,
+      "aggressive": true,
+      "attackSfx": "12.Sound/SFX_MON_BLACKWOLF_LEADER_ATTACK",
+      "hitSfx": "12.Sound/SFX_MON_COMMON_HIT",
+      "deathSfx": "12.Sound/SFX_MON_BLACKWOLF_LEADER_DEATH",
+      "auraVfx": "",
+      "deathVfx": "",
+      "deathDelay": 0,
+      "tint": false,
+      "statKey": "dungeon_wolf_alpha_4",
+      "bodyType": "Beast",
       "absorbTextGroupKey": ""
     }
   ]

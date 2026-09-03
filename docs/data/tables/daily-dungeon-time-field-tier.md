@@ -1,12 +1,12 @@
 ---
 title: "DailyDungeonTimeFieldTier"
 layout: data
-description: "DailyDungeonTimeFieldTier 원본 기록 7줄입니다."
+description: "DailyDungeonTimeFieldTier 원본 기록 8줄입니다."
 permalink: /docs/data/tables/daily-dungeon-time-field-tier/
 data_file: "/assets/data/raw/daily-dungeon-time-field-tier.json"
 data_asset: "FBDataDailyDungeonTimeFieldTier"
 data_schema: "FBDataDailyDungeonTimeFieldTier"
-data_rows: 7
+data_rows: 8
 data_category: "세계·전투"
 data_fields: ["id","tierGroupKey","tier","zoneId","unlockLevel","nameKey"]
 data_unit: "줄"

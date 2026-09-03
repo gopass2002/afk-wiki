@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
     "rowCount": 2,
     "schema": "FBDataDailyDungeonTimeField",
     "sourceAsset": "FBDataDailyDungeonTimeField",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -19,7 +19,7 @@
       "bossPortrait": "10.UI/99.Resource/DailyContent/UI_DailyBoss_002",
       "background": "10.UI/99.Resource/DailyContent/UI_DailyBg_002",
       "tierGroupKey": "WolfField",
-      "dailyTime": 14400000
+      "dailyTime": 3600000
     },
     {
       "id": 100001,

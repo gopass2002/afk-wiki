@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 520,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 553,
     "schema": "FBDataRewardBox",
     "sourceAsset": "FBDataRewardBox",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -4688,6 +4688,303 @@
       "amountMin": 10000000,
       "amountMax": 10000000,
       "weight": 1
+    },
+    {
+      "id": 663,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 20250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 664,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 30250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 665,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 40250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 666,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 50250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 667,
+      "groupKey": "Box_Skill_Sin_Select",
+      "targetId": 60250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 668,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 20250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 669,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 30250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 670,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 40250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 671,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 50250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 672,
+      "groupKey": "SkillPool_Gacha_Legendary",
+      "targetId": 60250201,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 673,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 20240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 674,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 30240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 675,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 40240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 676,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 50240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 677,
+      "groupKey": "SkillPool_Gacha_Unique",
+      "targetId": 60240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 1
+    },
+    {
+      "id": 678,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 20240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 679,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 30240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 680,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 40240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 681,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 50240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 682,
+      "groupKey": "Box_Open_Skill",
+      "targetId": 60240301,
+      "type": "Skill",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5900
+    },
+    {
+      "id": 683,
+      "groupKey": "Box_Sanggun",
+      "targetId": 1,
+      "type": "Currency",
+      "amountMin": 1000,
+      "amountMax": 1000,
+      "weight": 50000
+    },
+    {
+      "id": 684,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 8000
+    },
+    {
+      "id": 685,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000002,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 8000
+    },
+    {
+      "id": 686,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000003,
+      "type": "Item",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 8000
+    },
+    {
+      "id": 687,
+      "groupKey": "Box_Sanggun",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 10,
+      "amountMax": 10,
+      "weight": 6500
+    },
+    {
+      "id": 688,
+      "groupKey": "Box_Sanggun",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 5000
+    },
+    {
+      "id": 689,
+      "groupKey": "Box_Sanggun",
+      "targetId": 5,
+      "type": "Currency",
+      "amountMin": 1,
+      "amountMax": 1,
+      "weight": 4000
+    },
+    {
+      "id": 690,
+      "groupKey": "Box_Sanggun",
+      "targetId": 2,
+      "type": "Currency",
+      "amountMin": 100,
+      "amountMax": 100,
+      "weight": 2500
+    },
+    {
+      "id": 691,
+      "groupKey": "Box_Sanggun",
+      "targetId": 10,
+      "type": "Currency",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 2000
+    },
+    {
+      "id": 692,
+      "groupKey": "Box_Sanggun",
+      "targetId": 5,
+      "type": "Currency",
+      "amountMin": 5,
+      "amountMax": 5,
+      "weight": 1500
+    },
+    {
+      "id": 693,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000000,
+      "type": "Item",
+      "amountMin": 50,
+      "amountMax": 50,
+      "weight": 1500
+    },
+    {
+      "id": 694,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000002,
+      "type": "Item",
+      "amountMin": 50,
+      "amountMax": 50,
+      "weight": 1500
+    },
+    {
+      "id": 695,
+      "groupKey": "Box_Sanggun",
+      "targetId": 91000003,
+      "type": "Item",
+      "amountMin": 50,
+      "amountMax": 50,
+      "weight": 1500
     }
   ]
 }

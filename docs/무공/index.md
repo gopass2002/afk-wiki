@@ -5,7 +5,7 @@ permalink: /docs/무공/
 description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 공격 배율, 재사용 대기시간, 익히는 법을 볼 수 있습니다."
 ---
 <header class="leaf-index__head">
-  <p class="leaf-eyebrow">72종</p>
+  <p class="leaf-eyebrow">82종</p>
   <h1>무공</h1>
   <p class="leaf-index__lede">문파별로 익힐 수 있는 무공입니다. 한 장을 열면 공격 배율, 재사용 대기시간, 익히는 법을 볼 수 있습니다.</p>
 </header>
@@ -141,15 +141,23 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
 </section>
 
 <section class="leaf-index__group">
-  <h2>화산파<small>8종</small></h2>
+  <h2>화산파<small>10종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/검신무극/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/20250101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>검신무극</strong><small>신 · 상시형</small></span>
   </a></li>
+    <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/매화만개/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/20250201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>매화만개</strong><small>신 · 상시형</small></span>
+  </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/검신가호/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/20240101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>검신가호</strong><small>선 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/매화점개/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/20240301.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>매화점개</strong><small>선 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/역근검결/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/20240201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -179,11 +187,15 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
 </section>
 
 <section class="leaf-index__group">
-  <h2>팽가<small>8종</small></h2>
+  <h2>팽가<small>10종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/도황무극/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/30250101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>도황무극</strong><small>신 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/도황파산/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/30250201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>도황파산</strong><small>신 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/웅혼도체/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/30240201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -192,6 +204,10 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/패도지경/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/30240101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>패도지경</strong><small>선 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/호골웅신/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/30240301.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>호골웅신</strong><small>선 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/무공/오호도법/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/31130101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -217,15 +233,23 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
 </section>
 
 <section class="leaf-index__group">
-  <h2>양가창<small>8종</small></h2>
+  <h2>양가창<small>10종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/창제무극/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/40250101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>창제무극</strong><small>신 · 상시형</small></span>
   </a></li>
+    <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/창제무쌍/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/40250201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>창제무쌍</strong><small>신 · 상시형</small></span>
+  </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/관기창결/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/40240201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>관기창결</strong><small>선 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/백보천양/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/40240301.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>백보천양</strong><small>선 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/양가법도/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/40240101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -255,11 +279,15 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
 </section>
 
 <section class="leaf-index__group">
-  <h2>소림사<small>8종</small></h2>
+  <h2>소림사<small>10종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/곤제무극/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/50250101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>곤제무극</strong><small>신 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/사자후/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/50250201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>사자후</strong><small>신 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/곤신가호/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/50240101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -268,6 +296,10 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/내가곤기/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/50240201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>내가곤기</strong><small>선 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/항마신행/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/50240301.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>항마신행</strong><small>선 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/무공/강곤지력/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/50230101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -293,11 +325,15 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
 </section>
 
 <section class="leaf-index__group">
-  <h2>사천당가<small>8종</small></h2>
+  <h2>사천당가<small>10종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/만독무극/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/60250101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>만독무극</strong><small>신 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="legendary" href="{{ '/docs/무공/만천화우/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/60250201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>만천화우</strong><small>신 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/경신비수/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/60240201.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
@@ -306,6 +342,10 @@ description: "문파별로 익힐 수 있는 무공입니다. 한 장을 열면 
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/비도지질/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/60240101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
     <span class="leaf-card__body"><strong>비도지질</strong><small>선 · 상시형</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/무공/촌철살인/' | relative_url }}">
+    <img src="{{ '/assets/images/game/skills/60240301.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">
+    <span class="leaf-card__body"><strong>촌철살인</strong><small>선 · 상시형</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="epic" href="{{ '/docs/무공/연환비도/' | relative_url }}">
     <img src="{{ '/assets/images/game/skills/61130101.png' | relative_url }}" alt="" width="48" height="48" loading="lazy" decoding="async">

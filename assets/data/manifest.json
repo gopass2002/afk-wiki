@@ -1,13 +1,13 @@
 {
-  "appVersion": "1.260827.0",
-  "extractedAt": "2026-08-28T14:27:46.816Z",
+  "appVersion": "1.260903.1",
+  "extractedAt": "2026-09-03T09:33:30.501Z",
   "failedTableCount": 0,
   "origin": "https://afk.icecatgames.net/",
-  "patch": "ebffb",
-  "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json",
-  "successfulTableCount": 118,
-  "tableCount": 118,
-  "totalRows": 21917,
+  "patch": "fc96b",
+  "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json",
+  "successfulTableCount": 120,
+  "tableCount": 120,
+  "totalRows": 22238,
   "tables": [
     {
       "category": "system",
@@ -64,7 +64,7 @@
         "absorbTextGroupKey"
       ],
       "file": "actor-monster.json",
-      "rowCount": 117,
+      "rowCount": 120,
       "schema": "FBDataActorMonster",
       "slug": "actor-monster",
       "sourceAsset": "FBDataActorMonster",
@@ -246,7 +246,7 @@
         "icon"
       ],
       "file": "attribute-list.json",
-      "rowCount": 35,
+      "rowCount": 37,
       "schema": "FBDataAttributeList",
       "slug": "attribute-list",
       "sourceAsset": "FBDataAttributeList",
@@ -264,7 +264,7 @@
         "attrValueArray"
       ],
       "file": "attribute-monster.json",
-      "rowCount": 109,
+      "rowCount": 112,
       "schema": "FBDataAttribute",
       "slug": "attribute-monster",
       "sourceAsset": "FBDataAttributeMonster",
@@ -299,7 +299,7 @@
         "attrValue"
       ],
       "file": "attribute-skill.json",
-      "rowCount": 520,
+      "rowCount": 620,
       "schema": "FBDataAttributeSkill",
       "slug": "attribute-skill",
       "sourceAsset": "FBDataAttributeSkill",
@@ -553,7 +553,7 @@
         "notReady"
       ],
       "file": "content-unlock.json",
-      "rowCount": 40,
+      "rowCount": 41,
       "schema": "FBDataContentUnlock",
       "slug": "content-unlock",
       "sourceAsset": "FBDataContentUnlock",
@@ -694,6 +694,52 @@
       "categoryLabel": "세계·전투",
       "fields": [
         "id",
+        "nameKey",
+        "titleKey",
+        "descKey",
+        "zoneId",
+        "useTicketId",
+        "bossPortrait",
+        "background",
+        "timeLimit",
+        "hudType",
+        "contentKey",
+        "rankRewardGroupKey",
+        "clearRewardItemId",
+        "clearRewardAmount"
+      ],
+      "file": "daily-dungeon-dps-boss.json",
+      "rowCount": 1,
+      "schema": "FBDataDailyDungeonDpsBoss",
+      "slug": "daily-dungeon-dps-boss",
+      "sourceAsset": "FBDataDailyDungeonDpsBoss",
+      "status": "ok",
+      "title": "DailyDungeonDpsBoss"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
+        "groupKey",
+        "rankFrom",
+        "rankTo",
+        "itemId",
+        "itemAmount"
+      ],
+      "file": "daily-dungeon-dps-rank-reward.json",
+      "rowCount": 5,
+      "schema": "FBDataDailyDungeonDpsRankReward",
+      "slug": "daily-dungeon-dps-rank-reward",
+      "sourceAsset": "FBDataDailyDungeonDpsRankReward",
+      "status": "ok",
+      "title": "DailyDungeonDpsRankReward"
+    },
+    {
+      "category": "world",
+      "categoryLabel": "세계·전투",
+      "fields": [
+        "id",
         "rewardGroupKey",
         "itemId",
         "amountMin",
@@ -743,7 +789,7 @@
         "nameKey"
       ],
       "file": "daily-dungeon-time-field-tier.json",
-      "rowCount": 7,
+      "rowCount": 8,
       "schema": "FBDataDailyDungeonTimeFieldTier",
       "slug": "daily-dungeon-time-field-tier",
       "sourceAsset": "FBDataDailyDungeonTimeFieldTier",
@@ -819,7 +865,7 @@
         "goldMax"
       ],
       "file": "drop-currency.json",
-      "rowCount": 98,
+      "rowCount": 100,
       "schema": "FBDataDropCurrency",
       "slug": "drop-currency",
       "sourceAsset": "FBDataDropCurrency",
@@ -836,7 +882,7 @@
         "dropRate"
       ],
       "file": "drop-group.json",
-      "rowCount": 868,
+      "rowCount": 880,
       "schema": "FBDataDropGroup",
       "slug": "drop-group",
       "sourceAsset": "FBDataDropGroup",
@@ -1095,7 +1141,7 @@
         "untradable"
       ],
       "file": "item.json",
-      "rowCount": 679,
+      "rowCount": 681,
       "schema": "FBDataItem",
       "slug": "item",
       "sourceAsset": "FBDataItem",
@@ -1112,7 +1158,7 @@
         "selectCount"
       ],
       "file": "item-box.json",
-      "rowCount": 42,
+      "rowCount": 43,
       "schema": "FBDataItemBox",
       "slug": "item-box",
       "sourceAsset": "FBDataItemBox",
@@ -1471,7 +1517,7 @@
         "weight"
       ],
       "file": "reward-box.json",
-      "rowCount": 520,
+      "rowCount": 553,
       "schema": "FBDataRewardBox",
       "slug": "reward-box",
       "sourceAsset": "FBDataRewardBox",
@@ -1584,7 +1630,7 @@
         "badgeKey"
       ],
       "file": "shop-product.json",
-      "rowCount": 72,
+      "rowCount": 73,
       "schema": "FBDataShopProduct",
       "slug": "shop-product",
       "sourceAsset": "FBDataShopProduct",
@@ -1638,7 +1684,7 @@
         "sfx"
       ],
       "file": "skill.json",
-      "rowCount": 72,
+      "rowCount": 82,
       "schema": "FBDataSkill",
       "slug": "skill",
       "sourceAsset": "FBDataSkill",
@@ -1691,7 +1737,7 @@
         "derivationKey"
       ],
       "file": "skill-level.json",
-      "rowCount": 711,
+      "rowCount": 811,
       "schema": "FBDataSkillLevel",
       "slug": "skill-level",
       "sourceAsset": "FBDataSkillLevel",
@@ -1709,7 +1755,7 @@
         "maxValue"
       ],
       "file": "skill-stat.json",
-      "rowCount": 69,
+      "rowCount": 79,
       "schema": "FBDataSkillStat",
       "slug": "skill-stat",
       "sourceAsset": "FBDataSkillStat",
@@ -1905,7 +1951,7 @@
         "value"
       ],
       "file": "string-skill-ko.json",
-      "rowCount": 155,
+      "rowCount": 175,
       "schema": "FBDataStringSkill",
       "slug": "string-skill-ko",
       "sourceAsset": "FBDataStringSkill_ko",
@@ -1969,7 +2015,7 @@
         "value"
       ],
       "file": "string-ui-ko.json",
-      "rowCount": 268,
+      "rowCount": 276,
       "schema": "FBDataStringUI",
       "slug": "string-ui-ko",
       "sourceAsset": "FBDataStringUI_ko",
@@ -2082,7 +2128,7 @@
         "posY"
       ],
       "file": "zone.json",
-      "rowCount": 129,
+      "rowCount": 132,
       "schema": "FBDataZone",
       "slug": "zone",
       "sourceAsset": "FBDataZone",
@@ -2123,7 +2169,7 @@
         "dropGroup"
       ],
       "file": "zone-spawn.json",
-      "rowCount": 162,
+      "rowCount": 165,
       "schema": "FBDataZoneSpawn",
       "slug": "zone-spawn",
       "sourceAsset": "FBDataZoneSpawn",
@@ -2135,11 +2181,11 @@
     "rewardProbabilities": {
       "formula": "(group ratio / group-list ratio sum) × (term weight / reward-group weight sum); duplicate type+target outcomes are summed",
       "groupCount": 33,
-      "rowCount": 748,
+      "rowCount": 758,
       "runtimeEvidence": "GachaProbability.computeGachaOdds"
     },
     "skillCodex": {
-      "rowCount": 72
+      "rowCount": 82
     },
     "skillEnhancementProbabilities": {
       "rowCount": 9,
@@ -2150,7 +2196,7 @@
       "formula": "failure = 100 - successRate; destruction = dropOnFail ? round(failure × breakRate / 100) : 0"
     },
     "itemCodex": {
-      "rowCount": 679
+      "rowCount": 681
     },
     "itemAcquisitionProbabilities": {
       "rowCount": 677,
@@ -2161,23 +2207,23 @@
       "rowCount": 217,
       "warning": "normalizedWeightSharePercent is not an absolute monster-drop probability"
     },
-  "monsterCodex": {
-    "rowCount": 117,
-    "warning": "experience is the unconverted FBDataDropCurrency.exp value; 19 monsters have no matching experience row. dropItems lists seedGroup candidates, not per-kill drop odds"
+    "monsterCodex": {
+      "rowCount": 120,
+      "warning": "experience is the unconverted FBDataDropCurrency.exp value; 19 monsters have no matching experience row. dropItems lists seedGroup candidates, not per-kill drop odds"
     },
     "monsterDropSeeds": {
-      "rowCount": 868,
+      "rowCount": 880,
       "formula": "topItemSharePercent = top candidate weight / Σ seedGroup candidate weights",
       "warning": "dropRateRaw is a client value of unconfirmed unit; it is not multiplied into a per-kill probability"
     },
-  "zoneAtlas": {
-    "rowCount": 129,
-    "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
-  },
-  "dailyChallengeStages": {
-    "rowCount": 107,
-    "warning": "dailyTimeRaw, timeLimitRaw, and attributeScaleRaw are unconverted client values. FBDataDailyDungeonReward rows are not attached because the deployed data has no explicit key from a time-field tier to a reward group"
-  },
+    "zoneAtlas": {
+      "rowCount": 132,
+      "warning": "spawnDataFound=false means the deployed build ships no spawn rows for this zone spawnKey"
+    },
+    "dailyChallengeStages": {
+      "rowCount": 109,
+      "warning": "dailyTimeRaw, timeLimitRaw, and attributeScaleRaw are unconverted client values. FBDataDailyDungeonReward rows are not attached because the deployed data has no explicit key from a time-field tier to a reward group"
+    },
     "collectionCodex": {
       "rowCount": 561
     },

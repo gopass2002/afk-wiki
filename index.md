@@ -35,7 +35,7 @@ permalink: /
     <article class="metric-card"><strong>{{ site.data.generated_manifest.derived.zoneAtlas.rowCount }}</strong><span>지역</span></article>
     <article class="metric-card"><strong>{{ site.data.generated_manifest.derived.rewardProbabilities.groupCount }}</strong><span>확률을 계산한 보상</span></article>
   </div>
-  <p class="snapshot-note">패치 <code>{{ site.data.generated_manifest.patch }}</code> · {{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }} 확인. 원본 표 {{ site.data.generated_manifest.tableCount }}개와 전체 {% include number.html value=site.data.generated_manifest.totalRows %}줄은 <a href="{{ '/docs/data/tables/' | relative_url }}">그대로의 기록</a>에 있습니다.</p>
+  <p class="snapshot-note">패치 <code>{{ site.data.generated_manifest.patch }}</code> · {{ site.data.generated_manifest.extractedAt | date: '%Y-%m-%d' }} 확인. 원본 표 {{ site.data.generated_manifest.tableCount }}개와 전체 {% include number.html value=site.data.generated_manifest.totalRows %}줄은 <a href="{{ '/docs/data/tables/' | relative_url }}">그대로의 기록</a>에 있습니다. 지난 배포본에서 무엇이 달라졌는지는 <a href="{{ '/docs/updates/' | relative_url }}">달라진 것</a>에 적었습니다.</p>
 </section>
 
 <section aria-labelledby="topics-title">

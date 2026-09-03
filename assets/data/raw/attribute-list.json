@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 35,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 37,
     "schema": "FBDataAttributeList",
     "sourceAsset": "FBDataAttributeList",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -358,6 +358,26 @@
       "divisor": 100,
       "battlePowerWeight": 150,
       "icon": "10.UI/99.Resource/0.Common/StatIcon/UI_StatIcon_MOVE_SPEED"
+    },
+    {
+      "id": 212,
+      "key": "CRIT_RATE_RES",
+      "type": 3,
+      "visible": false,
+      "sortOrder": 124,
+      "divisor": 100,
+      "battlePowerWeight": 0,
+      "icon": ""
+    },
+    {
+      "id": 213,
+      "key": "CRIT_DMG_RES",
+      "type": 3,
+      "visible": false,
+      "sortOrder": 125,
+      "divisor": 100,
+      "battlePowerWeight": 0,
+      "icon": ""
     }
   ]
 }

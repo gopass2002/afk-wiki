@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 520,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 620,
     "schema": "FBDataAttributeSkill",
     "sourceAsset": "FBDataAttributeSkill",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -3126,6 +3126,606 @@
     {
       "id": 60250110,
       "key": "skill_60250110",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240301,
+      "key": "skill_20240301",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240302,
+      "key": "skill_20240302",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240303,
+      "key": "skill_20240303",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240304,
+      "key": "skill_20240304",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240305,
+      "key": "skill_20240305",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240306,
+      "key": "skill_20240306",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240307,
+      "key": "skill_20240307",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240308,
+      "key": "skill_20240308",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240309,
+      "key": "skill_20240309",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20240310,
+      "key": "skill_20240310",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250201,
+      "key": "skill_20250201",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250202,
+      "key": "skill_20250202",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250203,
+      "key": "skill_20250203",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250204,
+      "key": "skill_20250204",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250205,
+      "key": "skill_20250205",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250206,
+      "key": "skill_20250206",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250207,
+      "key": "skill_20250207",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250208,
+      "key": "skill_20250208",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250209,
+      "key": "skill_20250209",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 20250210,
+      "key": "skill_20250210",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240301,
+      "key": "skill_30240301",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240302,
+      "key": "skill_30240302",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240303,
+      "key": "skill_30240303",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240304,
+      "key": "skill_30240304",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240305,
+      "key": "skill_30240305",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240306,
+      "key": "skill_30240306",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240307,
+      "key": "skill_30240307",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240308,
+      "key": "skill_30240308",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240309,
+      "key": "skill_30240309",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30240310,
+      "key": "skill_30240310",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250201,
+      "key": "skill_30250201",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250202,
+      "key": "skill_30250202",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250203,
+      "key": "skill_30250203",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250204,
+      "key": "skill_30250204",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250205,
+      "key": "skill_30250205",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250206,
+      "key": "skill_30250206",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250207,
+      "key": "skill_30250207",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250208,
+      "key": "skill_30250208",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250209,
+      "key": "skill_30250209",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 30250210,
+      "key": "skill_30250210",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240301,
+      "key": "skill_40240301",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240302,
+      "key": "skill_40240302",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240303,
+      "key": "skill_40240303",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240304,
+      "key": "skill_40240304",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240305,
+      "key": "skill_40240305",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240306,
+      "key": "skill_40240306",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240307,
+      "key": "skill_40240307",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240308,
+      "key": "skill_40240308",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240309,
+      "key": "skill_40240309",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40240310,
+      "key": "skill_40240310",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250201,
+      "key": "skill_40250201",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250202,
+      "key": "skill_40250202",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250203,
+      "key": "skill_40250203",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250204,
+      "key": "skill_40250204",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250205,
+      "key": "skill_40250205",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250206,
+      "key": "skill_40250206",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250207,
+      "key": "skill_40250207",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250208,
+      "key": "skill_40250208",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250209,
+      "key": "skill_40250209",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 40250210,
+      "key": "skill_40250210",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240301,
+      "key": "skill_50240301",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240302,
+      "key": "skill_50240302",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240303,
+      "key": "skill_50240303",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240304,
+      "key": "skill_50240304",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240305,
+      "key": "skill_50240305",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240306,
+      "key": "skill_50240306",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240307,
+      "key": "skill_50240307",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240308,
+      "key": "skill_50240308",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240309,
+      "key": "skill_50240309",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50240310,
+      "key": "skill_50240310",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250201,
+      "key": "skill_50250201",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250202,
+      "key": "skill_50250202",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250203,
+      "key": "skill_50250203",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250204,
+      "key": "skill_50250204",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250205,
+      "key": "skill_50250205",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250206,
+      "key": "skill_50250206",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250207,
+      "key": "skill_50250207",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250208,
+      "key": "skill_50250208",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250209,
+      "key": "skill_50250209",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 50250210,
+      "key": "skill_50250210",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240301,
+      "key": "skill_60240301",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240302,
+      "key": "skill_60240302",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240303,
+      "key": "skill_60240303",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240304,
+      "key": "skill_60240304",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240305,
+      "key": "skill_60240305",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240306,
+      "key": "skill_60240306",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240307,
+      "key": "skill_60240307",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240308,
+      "key": "skill_60240308",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240309,
+      "key": "skill_60240309",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60240310,
+      "key": "skill_60240310",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250201,
+      "key": "skill_60250201",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250202,
+      "key": "skill_60250202",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250203,
+      "key": "skill_60250203",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250204,
+      "key": "skill_60250204",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250205,
+      "key": "skill_60250205",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250206,
+      "key": "skill_60250206",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250207,
+      "key": "skill_60250207",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250208,
+      "key": "skill_60250208",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250209,
+      "key": "skill_60250209",
+      "attrKey": "\u0004",
+      "attrValue": 4
+    },
+    {
+      "id": 60250210,
+      "key": "skill_60250210",
       "attrKey": "\u0004",
       "attrValue": 4
     }

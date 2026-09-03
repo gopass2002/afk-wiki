@@ -41,6 +41,7 @@
     - { name: 수련 성공률, url: /docs/data/derived/skill-enhancement-probabilities/, status: open }
 - title: 출처
   items:
+    - { name: 달라진 것, url: /docs/updates/, status: open }
     - { name: 무엇까지 확인했나, url: /docs/data-catalog/, status: open }
     - { name: 어떻게 추출했나, url: /docs/data-extraction/, status: open }
     - { name: 그대로의 기록, url: /docs/data/tables/, status: open }

@@ -1,14 +1,26 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 129,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 132,
     "schema": "FBDataZone",
     "sourceAsset": "FBDataZone",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
+    {
+      "id": 999999999,
+      "type": "PvpField",
+      "name": "",
+      "tmx": "Map_PVP",
+      "bgm": "12.Sound/bgm_chunma_bonsan",
+      "maxPlayer": 50,
+      "spawnKey": "",
+      "regionId": 0,
+      "posX": 0,
+      "posY": 0
+    },
     {
       "id": 1,
       "type": "Field",
@@ -1342,6 +1354,18 @@
       "posY": 0
     },
     {
+      "id": 4000002,
+      "type": "DpsBoss",
+      "name": "호랑이 굴",
+      "tmx": "Map_Dungeon_Scroll",
+      "bgm": "12.Sound/daily_tiger",
+      "maxPlayer": 1,
+      "spawnKey": "daily_spawn_2_0",
+      "regionId": 0,
+      "posX": 0,
+      "posY": 0
+    },
+    {
       "id": 5000001,
       "type": "TimeField",
       "name": "흑랑의 소굴",
@@ -1553,6 +1577,18 @@
       "bgm": "12.Sound/promotion",
       "maxPlayer": 7,
       "spawnKey": "daily_simma_ch3",
+      "regionId": 0,
+      "posX": 0,
+      "posY": 0
+    },
+    {
+      "id": 5000008,
+      "type": "TimeField",
+      "name": "흑랑의 소굴",
+      "tmx": "Map_Dungeon_Raid_01",
+      "bgm": "12.Sound/daily_wolf",
+      "maxPlayer": 7,
+      "spawnKey": "daily_spawn_1_3",
       "regionId": 0,
       "posX": 0,
       "posY": 0

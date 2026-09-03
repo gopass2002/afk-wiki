@@ -1,12 +1,12 @@
 ---
 title: "지역·스테이지"
 layout: data
-description: "지역·스테이지 원본 기록 129줄입니다."
+description: "지역·스테이지 원본 기록 132줄입니다."
 permalink: /docs/data/tables/zone/
 data_file: "/assets/data/raw/zone.json"
 data_asset: "FBDataZone"
 data_schema: "FBDataZone"
-data_rows: 129
+data_rows: 132
 data_category: "세계·전투"
 data_fields: ["id","type","name","tmx","bgm","maxPlayer","spawnKey","regionId","posX","posY"]
 data_unit: "줄"

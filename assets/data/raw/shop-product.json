@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 72,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 73,
     "schema": "FBDataShopProduct",
     "sourceAsset": "FBDataShopProduct",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -1119,7 +1119,7 @@
       "itemId": 22204000,
       "amount": 1,
       "costItemId": 2,
-      "costAmount": 18000,
+      "costAmount": 1800,
       "nameKey": "매화 도복",
       "descriptionKey": "",
       "icon": "",
@@ -1376,6 +1376,25 @@
       "limitCount": 3,
       "active": true,
       "badgeKey": "ShopBadge_Recommend"
+    },
+    {
+      "id": 73,
+      "productGroupKey": "SystemShop",
+      "mainCategory": "Package",
+      "subCategory": "Supply",
+      "itemId": 21,
+      "amount": 1,
+      "costItemId": 1,
+      "costAmount": 100000,
+      "nameKey": "호랑이 도장 입장패",
+      "descriptionKey": "",
+      "icon": "10.UI/99.Resource/ItemIcon/item_currency_0006",
+      "rewardGroupKey": "",
+      "sortOrder": 1000,
+      "limitType": "Day",
+      "limitCount": 10,
+      "active": true,
+      "badgeKey": ""
     }
   ]
 }

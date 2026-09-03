@@ -1,12 +1,12 @@
 ---
 title: "전체 아이템"
 layout: data
-description: "전체 아이템 원본 기록 679줄입니다."
+description: "전체 아이템 원본 기록 681줄입니다."
 permalink: /docs/data/tables/item/
 data_file: "/assets/data/raw/item.json"
 data_asset: "FBDataItem"
 data_schema: "FBDataItem"
-data_rows: 679
+data_rows: 681
 data_category: "아이템"
 data_fields: ["id","mainType","name","subType","slotType","prefab","dropResource","icon","stack","grade","hideHair","attrKey","description","sellPrice","undiscardable","unsellable","untradable"]
 data_unit: "줄"

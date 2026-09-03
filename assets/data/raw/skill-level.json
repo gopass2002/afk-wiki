@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 711,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 811,
     "schema": "FBDataSkillLevel",
     "sourceAsset": "FBDataSkillLevel",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -5695,6 +5695,806 @@
       "level": 10,
       "atkMultiplier": 37500,
       "attrKey": "",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240301,
+      "groupKey": "MaehwaJeomgae",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240302,
+      "groupKey": "MaehwaJeomgae",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240303,
+      "groupKey": "MaehwaJeomgae",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240304,
+      "groupKey": "MaehwaJeomgae",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240305,
+      "groupKey": "MaehwaJeomgae",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240306,
+      "groupKey": "MaehwaJeomgae",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240307,
+      "groupKey": "MaehwaJeomgae",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240308,
+      "groupKey": "MaehwaJeomgae",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240309,
+      "groupKey": "MaehwaJeomgae",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 20240310,
+      "groupKey": "MaehwaJeomgae",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250201,
+      "groupKey": "MaehwaMangae",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250202,
+      "groupKey": "MaehwaMangae",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250203,
+      "groupKey": "MaehwaMangae",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250204,
+      "groupKey": "MaehwaMangae",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250205,
+      "groupKey": "MaehwaMangae",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250206,
+      "groupKey": "MaehwaMangae",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250207,
+      "groupKey": "MaehwaMangae",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250208,
+      "groupKey": "MaehwaMangae",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250209,
+      "groupKey": "MaehwaMangae",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 20250210,
+      "groupKey": "MaehwaMangae",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_20250210",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240301,
+      "groupKey": "HogolUngsin",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240302,
+      "groupKey": "HogolUngsin",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240303,
+      "groupKey": "HogolUngsin",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240304,
+      "groupKey": "HogolUngsin",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240305,
+      "groupKey": "HogolUngsin",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240306,
+      "groupKey": "HogolUngsin",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240307,
+      "groupKey": "HogolUngsin",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240308,
+      "groupKey": "HogolUngsin",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240309,
+      "groupKey": "HogolUngsin",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 30240310,
+      "groupKey": "HogolUngsin",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250201,
+      "groupKey": "DohwangPasan",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250202,
+      "groupKey": "DohwangPasan",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250203,
+      "groupKey": "DohwangPasan",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250204,
+      "groupKey": "DohwangPasan",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250205,
+      "groupKey": "DohwangPasan",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250206,
+      "groupKey": "DohwangPasan",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250207,
+      "groupKey": "DohwangPasan",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250208,
+      "groupKey": "DohwangPasan",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250209,
+      "groupKey": "DohwangPasan",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 30250210,
+      "groupKey": "DohwangPasan",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_30250210",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240301,
+      "groupKey": "BaekboCheonyang",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240302,
+      "groupKey": "BaekboCheonyang",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240303,
+      "groupKey": "BaekboCheonyang",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240304,
+      "groupKey": "BaekboCheonyang",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240305,
+      "groupKey": "BaekboCheonyang",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240306,
+      "groupKey": "BaekboCheonyang",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240307,
+      "groupKey": "BaekboCheonyang",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240308,
+      "groupKey": "BaekboCheonyang",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240309,
+      "groupKey": "BaekboCheonyang",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 40240310,
+      "groupKey": "BaekboCheonyang",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250201,
+      "groupKey": "ChangjeMussang",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250202,
+      "groupKey": "ChangjeMussang",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250203,
+      "groupKey": "ChangjeMussang",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250204,
+      "groupKey": "ChangjeMussang",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250205,
+      "groupKey": "ChangjeMussang",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250206,
+      "groupKey": "ChangjeMussang",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250207,
+      "groupKey": "ChangjeMussang",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250208,
+      "groupKey": "ChangjeMussang",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250209,
+      "groupKey": "ChangjeMussang",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 40250210,
+      "groupKey": "ChangjeMussang",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_40250210",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240301,
+      "groupKey": "HangmaSinhaeng",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240302,
+      "groupKey": "HangmaSinhaeng",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240303,
+      "groupKey": "HangmaSinhaeng",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240304,
+      "groupKey": "HangmaSinhaeng",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240305,
+      "groupKey": "HangmaSinhaeng",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240306,
+      "groupKey": "HangmaSinhaeng",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240307,
+      "groupKey": "HangmaSinhaeng",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240308,
+      "groupKey": "HangmaSinhaeng",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240309,
+      "groupKey": "HangmaSinhaeng",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 50240310,
+      "groupKey": "HangmaSinhaeng",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250201,
+      "groupKey": "Sajahu",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250202,
+      "groupKey": "Sajahu",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250203,
+      "groupKey": "Sajahu",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250204,
+      "groupKey": "Sajahu",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250205,
+      "groupKey": "Sajahu",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250206,
+      "groupKey": "Sajahu",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250207,
+      "groupKey": "Sajahu",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250208,
+      "groupKey": "Sajahu",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250209,
+      "groupKey": "Sajahu",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 50250210,
+      "groupKey": "Sajahu",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_50250210",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240301,
+      "groupKey": "ChoncheolSalin",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240301",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240302,
+      "groupKey": "ChoncheolSalin",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240302",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240303,
+      "groupKey": "ChoncheolSalin",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240303",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240304,
+      "groupKey": "ChoncheolSalin",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240304",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240305,
+      "groupKey": "ChoncheolSalin",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240305",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240306,
+      "groupKey": "ChoncheolSalin",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240306",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240307,
+      "groupKey": "ChoncheolSalin",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240307",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240308,
+      "groupKey": "ChoncheolSalin",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240308",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240309,
+      "groupKey": "ChoncheolSalin",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240309",
+      "derivationKey": ""
+    },
+    {
+      "id": 60240310,
+      "groupKey": "ChoncheolSalin",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60240310",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250201,
+      "groupKey": "ManceonHwau",
+      "level": 1,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250201",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250202,
+      "groupKey": "ManceonHwau",
+      "level": 2,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250202",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250203,
+      "groupKey": "ManceonHwau",
+      "level": 3,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250203",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250204,
+      "groupKey": "ManceonHwau",
+      "level": 4,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250204",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250205,
+      "groupKey": "ManceonHwau",
+      "level": 5,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250205",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250206,
+      "groupKey": "ManceonHwau",
+      "level": 6,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250206",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250207,
+      "groupKey": "ManceonHwau",
+      "level": 7,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250207",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250208,
+      "groupKey": "ManceonHwau",
+      "level": 8,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250208",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250209,
+      "groupKey": "ManceonHwau",
+      "level": 9,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250209",
+      "derivationKey": ""
+    },
+    {
+      "id": 60250210,
+      "groupKey": "ManceonHwau",
+      "level": 10,
+      "atkMultiplier": 0,
+      "attrKey": "skill_60250210",
       "derivationKey": ""
     }
   ]

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 1,
+    "schema": "FBDataDailyDungeonDpsBoss",
+    "sourceAsset": "FBDataDailyDungeonDpsBoss",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
+  },
+  "rows": [
+    {
+      "id": 200000,
+      "nameKey": "호랑이 도장",
+      "titleKey": "호랑이 도장",
+      "descKey": "산군의 가죽은 칼이 들지 않는다.\n60초 동안 넣은 피해가 곧 그대의 무공이다.",
+      "zoneId": 4000002,
+      "useTicketId": 21,
+      "bossPortrait": "10.UI/99.Resource/DailyContent/UI_DailyBoss_004",
+      "background": "10.UI/99.Resource/DailyContent/UI_DailyBg_004",
+      "timeLimit": 60000,
+      "hudType": 3,
+      "contentKey": "TigerDpsBoss",
+      "rankRewardGroupKey": "TigerDpsRank",
+      "clearRewardItemId": 96000056,
+      "clearRewardAmount": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 5,
+    "schema": "FBDataDailyDungeonDpsRankReward",
+    "sourceAsset": "FBDataDailyDungeonDpsRankReward",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
+  },
+  "rows": [
+    {
+      "id": 1,
+      "groupKey": "TigerDpsRank",
+      "rankFrom": 1,
+      "rankTo": 1,
+      "itemId": 5,
+      "itemAmount": 5
+    },
+    {
+      "id": 2,
+      "groupKey": "TigerDpsRank",
+      "rankFrom": 2,
+      "rankTo": 2,
+      "itemId": 5,
+      "itemAmount": 4
+    },
+    {
+      "id": 3,
+      "groupKey": "TigerDpsRank",
+      "rankFrom": 3,
+      "rankTo": 3,
+      "itemId": 5,
+      "itemAmount": 3
+    },
+    {
+      "id": 4,
+      "groupKey": "TigerDpsRank",
+      "rankFrom": 4,
+      "rankTo": 10,
+      "itemId": 5,
+      "itemAmount": 2
+    },
+    {
+      "id": 5,
+      "groupKey": "TigerDpsRank",
+      "rankFrom": 11,
+      "rankTo": 100,
+      "itemId": 5,
+      "itemAmount": 1
+    }
+  ]
+}

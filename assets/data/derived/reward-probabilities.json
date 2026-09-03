@@ -1,11 +1,11 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-28T14:27:49.530Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:33:34.093Z",
     "formula": "(group ratio / group-list ratio sum) × (term weight / reward-group weight sum); duplicate type+target outcomes are summed",
     "groupCount": 33,
-    "patch": "ebffb",
-    "rowCount": 748,
+    "patch": "fc96b",
+    "rowCount": 758,
     "runtimeEvidence": "GachaProbability.computeGachaOdds",
     "sources": [
       "FBDataRewardGroupListBox",
@@ -9430,313 +9430,443 @@
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240101,
       "targetName": "천마강기",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240201,
       "targetName": "천마회심",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240301,
       "targetName": "천마속행",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240401,
       "targetName": "천마속결",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240501,
       "targetName": "천마발경",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 11240601,
       "targetName": "천마호신강기",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 20240101,
       "targetName": "검신가호",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 30240101,
       "targetName": "패도지경",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 40240101,
       "targetName": "양가법도",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 50240101,
       "targetName": "곤신가호",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 60240101,
       "targetName": "비도지질",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 20240201,
       "targetName": "역근검결",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 30240201,
       "targetName": "웅혼도체",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 40240201,
       "targetName": "관기창결",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 50240201,
       "targetName": "내가곤기",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.0005625,
+      "probability": 0.0004285714,
       "sourceGroups": [
         "SkillPool_Gacha_Unique"
       ],
       "targetId": 60240201,
       "targetName": "경신비수",
       "type": "Skill",
-      "percent": 0.05625
+      "percent": 0.042857
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0004285714,
+      "sourceGroups": [
+        "SkillPool_Gacha_Unique"
+      ],
+      "targetId": 20240301,
+      "targetName": "매화점개",
+      "type": "Skill",
+      "percent": 0.042857
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0004285714,
+      "sourceGroups": [
+        "SkillPool_Gacha_Unique"
+      ],
+      "targetId": 30240301,
+      "targetName": "호골웅신",
+      "type": "Skill",
+      "percent": 0.042857
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0004285714,
+      "sourceGroups": [
+        "SkillPool_Gacha_Unique"
+      ],
+      "targetId": 40240301,
+      "targetName": "백보천양",
+      "type": "Skill",
+      "percent": 0.042857
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0004285714,
+      "sourceGroups": [
+        "SkillPool_Gacha_Unique"
+      ],
+      "targetId": 50240301,
+      "targetName": "항마신행",
+      "type": "Skill",
+      "percent": 0.042857
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0004285714,
+      "sourceGroups": [
+        "SkillPool_Gacha_Unique"
+      ],
+      "targetId": 60240301,
+      "targetName": "촌철살인",
+      "type": "Skill",
+      "percent": 0.042857
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 11250101,
       "targetName": "천마무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 11250201,
       "targetName": "천마살수",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 11250301,
       "targetName": "천마수렴",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 20250101,
       "targetName": "검신무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 30250101,
       "targetName": "도황무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 40250101,
       "targetName": "창제무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 50250101,
       "targetName": "곤제무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
     },
     {
       "amountMax": 1,
       "amountMin": 1,
       "groupListKey": "SkillGacha_Normal",
-      "probability": 0.000125,
+      "probability": 0.0000769231,
       "sourceGroups": [
         "SkillPool_Gacha_Legendary"
       ],
       "targetId": 60250101,
       "targetName": "만독무극",
       "type": "Skill",
-      "percent": 0.0125
+      "percent": 0.007692
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
+      "sourceGroups": [
+        "SkillPool_Gacha_Legendary"
+      ],
+      "targetId": 20250201,
+      "targetName": "매화만개",
+      "type": "Skill",
+      "percent": 0.007692
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
+      "sourceGroups": [
+        "SkillPool_Gacha_Legendary"
+      ],
+      "targetId": 30250201,
+      "targetName": "도황파산",
+      "type": "Skill",
+      "percent": 0.007692
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
+      "sourceGroups": [
+        "SkillPool_Gacha_Legendary"
+      ],
+      "targetId": 40250201,
+      "targetName": "창제무쌍",
+      "type": "Skill",
+      "percent": 0.007692
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
+      "sourceGroups": [
+        "SkillPool_Gacha_Legendary"
+      ],
+      "targetId": 50250201,
+      "targetName": "사자후",
+      "type": "Skill",
+      "percent": 0.007692
+    },
+    {
+      "amountMax": 1,
+      "amountMin": 1,
+      "groupListKey": "SkillGacha_Normal",
+      "probability": 0.0000769231,
+      "sourceGroups": [
+        "SkillPool_Gacha_Legendary"
+      ],
+      "targetId": 60250201,
+      "targetName": "만천화우",
+      "type": "Skill",
+      "percent": 0.007692
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 268,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 276,
     "schema": "FBDataStringUI",
     "sourceAsset": "FBDataStringUI_ko",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -1348,6 +1348,46 @@
       "id": 268,
       "key": "ShopBadge_Membership",
       "value": "멤버십"
+    },
+    {
+      "id": 269,
+      "key": "AutoRefine_Running_Goal",
+      "value": "[{0}] {1} 이상"
+    },
+    {
+      "id": 270,
+      "key": "AutoRefine_Goal_Empty",
+      "value": "연마 목표를 하나 이상 선택해 주세요."
+    },
+    {
+      "id": 273,
+      "key": "AutoRefine_GoalReached",
+      "value": "연마 목표를 달성했습니다"
+    },
+    {
+      "id": 274,
+      "key": "Refine_Slot_FirstHint",
+      "value": "연마를 통해 추가 옵션을 설정해 주세요"
+    },
+    {
+      "id": 275,
+      "key": "Refine_Slot_UnlockChance",
+      "value": "연마시 {0}% 확률로 해금"
+    },
+    {
+      "id": 276,
+      "key": "DailyContent_FleeNotice_Default",
+      "value": "포기 시 입장 패가 차감되지 않으며,\n던전 보상을 획득할 수 없습니다."
+    },
+    {
+      "id": 277,
+      "key": "DailyContent_FleeNotice_Dps",
+      "value": "포기해도 지금까지의 점수는 기록됩니다."
+    },
+    {
+      "id": 278,
+      "key": "DIFF_VERYHARD",
+      "value": "매우 어려움"
     }
   ]
 }

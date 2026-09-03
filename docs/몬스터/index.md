@@ -5,7 +5,7 @@ permalink: /docs/몬스터/
 description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험치 기록, 능력치, 출현 지역과 떨구는 것을 볼 수 있습니다."
 ---
 <header class="leaf-index__head">
-  <p class="leaf-eyebrow">117종</p>
+  <p class="leaf-eyebrow">120종</p>
   <h1>몬스터</h1>
   <p class="leaf-index__lede">장별로 만나는 몬스터입니다. 한 장을 열면 경험치 기록, 능력치, 출현 지역과 떨구는 것을 볼 수 있습니다.</p>
 </header>
@@ -85,7 +85,7 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
 </section>
 
 <section class="leaf-index__group">
-  <h2>출현 지역 미기록<small>37종</small></h2>
+  <h2>출현 지역 미기록<small>40종</small></h2>
   <ul class="leaf-grid">
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-허상-2레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">2</span>
@@ -117,11 +117,11 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-31레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">31</span>
-    <span class="leaf-card__body"><strong>흑랑</strong><small>31레벨 · 경험치 4,375 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑</strong><small>31레벨 · 경험치 13,125 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-우두머리-33레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">33</span>
-    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>33레벨 · 경험치 5,250 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>33레벨 · 경험치 15,750 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-오만-35레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">35</span>
@@ -133,11 +133,11 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-53레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">53</span>
-    <span class="leaf-card__body"><strong>흑랑</strong><small>53레벨 · 경험치 11,000 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑</strong><small>53레벨 · 경험치 33,000 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-우두머리-55레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">55</span>
-    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>55레벨 · 경험치 13,200 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>55레벨 · 경험치 39,600 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/내면의-심마-60레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">60</span>
@@ -173,7 +173,7 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-73레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">73</span>
-    <span class="leaf-card__body"><strong>흑랑</strong><small>73레벨 · 경험치 27,500 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑</strong><small>73레벨 · 경험치 82,500 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-탐욕-75레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">75</span>
@@ -181,7 +181,7 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
   </a></li>
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-우두머리-75레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">75</span>
-    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>75레벨 · 경험치 33,000 · 흑랑의 소굴</small></span>
+    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>75레벨 · 경험치 99,000 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-미련-82레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">82</span>
@@ -207,9 +207,17 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">92</span>
     <span class="leaf-card__body"><strong>내면의 아집</strong><small>92레벨 · 경험치 기록 없음 · 우두머리 · 심상 세계 · 현경 완숙</small></span>
   </a></li>
+    <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-93레벨/' | relative_url }}">
+    <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">93</span>
+    <span class="leaf-card__body"><strong>흑랑</strong><small>93레벨 · 경험치 247,500 · 흑랑의 소굴</small></span>
+  </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-무명/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">95</span>
     <span class="leaf-card__body"><strong>내면의 무명</strong><small>95레벨 · 경험치 기록 없음 · 우두머리 · 심상 세계 · 현경 극의</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/흑랑-우두머리-95레벨/' | relative_url }}">
+    <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">95</span>
+    <span class="leaf-card__body"><strong>흑랑 우두머리</strong><small>95레벨 · 경험치 297,000 · 흑랑의 소굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/내면의-심연/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">97</span>
@@ -230,6 +238,10 @@ description: "장별로 만나는 몬스터입니다. 한 장을 열면 경험�
     <li><a class="leaf-card" data-grade="normal" href="{{ '/docs/몬스터/내면의-탐욕-100레벨/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="normal" aria-hidden="true">100</span>
     <span class="leaf-card__body"><strong>내면의 탐욕</strong><small>100레벨 · 경험치 110,000 · 심마의 세계</small></span>
+  </a></li>
+    <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/산군/' | relative_url }}">
+    <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">100</span>
+    <span class="leaf-card__body"><strong>산군</strong><small>100레벨 · 경험치 기록 없음 · 우두머리 · 호랑이 굴</small></span>
   </a></li>
     <li><a class="leaf-card" data-grade="unique" href="{{ '/docs/몬스터/진정한-나/' | relative_url }}">
     <span class="leaf-card__seal" data-grade="unique" aria-hidden="true">100</span>

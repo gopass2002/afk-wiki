@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 155,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 175,
     "schema": "FBDataStringSkill",
     "sourceAsset": "FBDataStringSkill_ko",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -783,6 +783,106 @@
       "id": 20071,
       "key": "DescKeyCheonmaNoejeon",
       "value": "<outline color=black width=1>손끝에 뇌전을 모아 꿰뚫어, 정면 <color=#FFA500>{0}</color>M 적 최대 <color=#FFA500>{1}</color>명에게 매 타격 공격력의 <color=#FFA500>{2}</color>%만큼 <color=#FFA500>{3}</color>타 연속 피해를 입힌다.</outline>"
+    },
+    {
+      "id": 10072,
+      "key": "NameKeyMaehwaJeomgae",
+      "value": "매화점개"
+    },
+    {
+      "id": 20072,
+      "key": "DescKeyMaehwaJeomgae",
+      "value": "<outline color=black width=1>매화 검로의 수련이 무르익어 꽃망울이 반쯤 벌어지니, 검 장착 시 힘이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10073,
+      "key": "NameKeyMaehwaMangae",
+      "value": "매화만개"
+    },
+    {
+      "id": 20073,
+      "key": "DescKeyMaehwaMangae",
+      "value": "<outline color=black width=1>매화가 만개하는 순간 검은 가장 조용히, 가장 깊이 베니, 검 장착 시 보스 피해가<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10074,
+      "key": "NameKeyHogolUngsin",
+      "value": "호골웅신"
+    },
+    {
+      "id": 20074,
+      "key": "DescKeyHogolUngsin",
+      "value": "<outline color=black width=1>호랑이 뼈처럼 우직한 몸에서 힘이 솟으니, 도 장착 시 힘이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10075,
+      "key": "NameKeyDohwangPasan",
+      "value": "도황파산"
+    },
+    {
+      "id": 20075,
+      "key": "DescKeyDohwangPasan",
+      "value": "<outline color=black width=1>도황의 패도가 극에 이르러 넘치는 힘이 칼끝까지 차오르니, 도 장착 시 공격력이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10076,
+      "key": "NameKeyBaekboCheonyang",
+      "value": "백보천양"
+    },
+    {
+      "id": 20076,
+      "key": "DescKeyBaekboCheonyang",
+      "value": "<outline color=black width=1>백 보 밖 버들잎도 꿰뚫는 정밀함으로, 창 장착 시 명중이<color=#FFA500> {0}</color>만큼 증가한다.</outline>"
+    },
+    {
+      "id": 10077,
+      "key": "NameKeyChangjeMussang",
+      "value": "창제무쌍"
+    },
+    {
+      "id": 20077,
+      "key": "DescKeyChangjeMussang",
+      "value": "<outline color=black width=1>창제의 창 앞에는 맞설 자가 없으니, 창 장착 시 최종 피해가<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10078,
+      "key": "NameKeyHangmaSinhaeng",
+      "value": "항마신행"
+    },
+    {
+      "id": 20078,
+      "key": "DescKeyHangmaSinhaeng",
+      "value": "<outline color=black width=1>마귀를 누르는 걸음이 바람처럼 가벼워, 봉 장착 시 민첩이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10079,
+      "key": "NameKeySajahu",
+      "value": "사자후"
+    },
+    {
+      "id": 20079,
+      "key": "DescKeySajahu",
+      "value": "<outline color=black width=1>사자후 한 번에 사방의 적이 무너지니, 봉 장착 시 무공 위력이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10080,
+      "key": "NameKeyChoncheolSalin",
+      "value": "촌철살인"
+    },
+    {
+      "id": 20080,
+      "key": "DescKeyChoncheolSalin",
+      "value": "<outline color=black width=1>한 치의 쇠끝이 어김없이 급소를 가르니, 암기 장착 시 치명타 확률이<color=#FFA500> {0}</color> 증가한다.</outline>"
+    },
+    {
+      "id": 10081,
+      "key": "NameKeyManceonHwau",
+      "value": "만천화우"
+    },
+    {
+      "id": 20081,
+      "key": "DescKeyManceonHwau",
+      "value": "<outline color=black width=1>하늘 가득 꽃비처럼 암기가 쏟아지니, 암기 장착 시 민첩이<color=#FFA500> {0}</color>만큼 증가한다. 손이 빠를수록 꽃비는 짙어진다.</outline>"
     }
   ]
 }

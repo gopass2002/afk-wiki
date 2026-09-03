@@ -1,12 +1,12 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "extractedAt": "2026-08-28T14:27:46.816Z",
-    "patch": "ebffb",
-    "rowCount": 109,
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 112,
     "schema": "FBDataAttribute",
     "sourceAsset": "FBDataAttributeMonster",
-    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.ebffb.json"
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
   },
   "rows": [
     {
@@ -1450,6 +1450,49 @@
         3,
         130,
         3000
+      ]
+    },
+    {
+      "id": 1002001902,
+      "key": "tiger_dojo_1",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED",
+        "CRIT_RATE_RES",
+        "CRIT_DMG_RES"
+      ],
+      "attrValue": [
+        2000000000,
+        400,
+        6000,
+        200,
+        0,
+        2,
+        3,
+        130,
+        3000,
+        2000,
+        30000
+      ],
+      "attrValueArray": [
+        2000000000,
+        400,
+        6000,
+        200,
+        0,
+        2,
+        3,
+        130,
+        3000,
+        2000,
+        30000
       ]
     },
     {
@@ -4025,6 +4068,80 @@
         1320,
         1720,
         5,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002001903,
+      "key": "dungeon_wolf_normal_4",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        1500000,
+        16000,
+        600,
+        800,
+        860,
+        5,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        1500000,
+        16000,
+        600,
+        800,
+        860,
+        5,
+        3,
+        130,
+        3000
+      ]
+    },
+    {
+      "id": 1002001904,
+      "key": "dungeon_wolf_alpha_4",
+      "attrKey": [
+        "MAX_HP",
+        "ATK",
+        "DEF",
+        "HIT",
+        "EVA",
+        "PEN",
+        "CRIT_RATE",
+        "CRIT_DMG",
+        "MOVE_SPEED"
+      ],
+      "attrValue": [
+        2000000,
+        18000,
+        624,
+        900,
+        960,
+        6,
+        3,
+        130,
+        3000
+      ],
+      "attrValueArray": [
+        2000000,
+        18000,
+        624,
+        900,
+        960,
+        6,
         3,
         130,
         3000

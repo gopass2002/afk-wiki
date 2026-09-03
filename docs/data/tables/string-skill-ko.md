@@ -1,12 +1,12 @@
 ---
 title: "StringSkill_ko"
 layout: data
-description: "StringSkill_ko 원본 기록 155줄입니다."
+description: "StringSkill_ko 원본 기록 175줄입니다."
 permalink: /docs/data/tables/string-skill-ko/
 data_file: "/assets/data/raw/string-skill-ko.json"
 data_asset: "FBDataStringSkill_ko"
 data_schema: "FBDataStringSkill"
-data_rows: 155
+data_rows: 175
 data_category: "문자열"
 data_fields: ["id","key","value"]
 data_unit: "줄"

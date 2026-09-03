@@ -1,9 +1,9 @@
 {
   "meta": {
-    "appVersion": "1.260827.0",
-    "derivedAt": "2026-08-28T15:02:19.961Z",
+    "appVersion": "1.260903.1",
+    "derivedAt": "2026-09-03T09:36:25.384Z",
     "kind": "equipmentEnhancementProbabilities",
-    "patch": "ebffb",
+    "patch": "fc96b",
     "rowCount": 80,
     "sources": [
       "FBDataEnhance"
